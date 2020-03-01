@@ -8,39 +8,34 @@
              x:Class="LI4.MainPage">
 
     <StackLayout>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
-        <Label></Label>
         <Grid>
             <Image BackgroundColor="Transparent"
-                       Source="entrar" 
+                  Source="entrar"
                    WidthRequest="20"
-                   HeightRequest="20"
-                   />
+                   HeightRequest="20"  
+                   Grid.Row="5"/>
             <Button BackgroundColor="Transparent"
-                    Clicked="Entrar"             
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="Center"   
+                    Clicked="Registar"
+                    Scale="2"
+                    Grid.Row="5"
                      />
-         </Grid>
-
-        <Label></Label>
-        <Label></Label>
+        </Grid>
+        
         <Grid>
             <Image BackgroundColor="Transparent"
                   Source="registar"
                    WidthRequest="20"
-                   HeightRequest="20"      
+                   HeightRequest="20"  
+                   Grid.Row="2"
                    />
             <Button BackgroundColor="Transparent"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="Center"   
                     Clicked="Registar"
+                    Scale="2"
+                    Grid.Row="2"
                      />
         </Grid>
     </StackLayout>
