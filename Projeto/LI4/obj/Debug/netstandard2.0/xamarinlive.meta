@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Portatil\Desktop\LI4\Projeto\LI4\App.xaml</FilePath>
+      <Hash>D7-61-DD-45-48-19-29-82-12-2B-CD-54-37-FA-DA-1F</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Portatil\Desktop\LI4\Projeto\LI4\MainPage.xaml</FilePath>
+      <Hash>73-43-E6-C3-E6-DC-A4-2E-86-3F-38-80-D2-07-67-42</Hash>
+      <Properties>
+        <string>BackgroundImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>
