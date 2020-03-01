@@ -1966,11 +1966,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4.Android\\LI4.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4.Android\\LI4.Android.csproj",
       "projectName": "LI4.Android",
-      "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4.Android\\LI4.Android.csproj",
+      "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4.Android\\LI4.Android.csproj",
       "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4.Android\\obj\\",
+      "outputPath": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1991,8 +1991,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Portatil\\Desktop\\LI4\\LI4\\LI4.csproj": {
-              "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4\\LI4.csproj"
+            "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4\\LI4.csproj": {
+              "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4\\LI4.csproj"
             }
           }
         }

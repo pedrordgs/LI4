@@ -17,13 +17,13 @@ namespace LI4
         }
 
         int count = 0;
-        void Handle_Clicked(object sender, System.EventArgs e)
+        void Entrar(object sender, System.EventArgs e)
         {
             count++;
             ((Button)sender).Text = $"Entraste {count} vezes.";
         }
 
-        private void Button_Clicked(object sender, EventArgs e)
+        private void Registar(object sender, EventArgs e)
         {
             count++;
             ((Button)sender).Text = $"Registaste {count} vezes.";

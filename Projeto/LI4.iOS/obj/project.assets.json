@@ -1071,11 +1071,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4.iOS\\LI4.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4.iOS\\LI4.iOS.csproj",
       "projectName": "LI4.iOS",
-      "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4.iOS\\LI4.iOS.csproj",
+      "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4.iOS\\LI4.iOS.csproj",
       "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1096,8 +1096,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Portatil\\Desktop\\LI4\\LI4\\LI4.csproj": {
-              "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4\\LI4.csproj"
+            "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4\\LI4.csproj": {
+              "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4\\LI4.csproj"
             }
           }
         }

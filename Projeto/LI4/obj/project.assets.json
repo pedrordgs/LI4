@@ -601,11 +601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4\\LI4.csproj",
+      "projectUniqueName": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4\\LI4.csproj",
       "projectName": "LI4",
-      "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4\\LI4.csproj",
+      "projectPath": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4\\LI4.csproj",
       "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Portatil\\Desktop\\LI4\\LI4\\obj\\",
+      "outputPath": "C:\\Users\\Portatil\\Desktop\\LI4\\Projeto\\LI4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

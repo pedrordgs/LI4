@@ -4,16 +4,44 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
+             BackgroundImageSource="background"
              x:Class="LI4.MainPage">
 
     <StackLayout>
-        <AbsoluteLayout>
-            <Grid>
-                <Image
-                    Grid.Row="0"
-                    Aspect="Fill"
-                    Source="background" />
-            </Grid>
-        </AbsoluteLayout>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Label></Label>
+        <Grid>
+            <Image BackgroundColor="Transparent"
+                       Source="entrar" 
+                   WidthRequest="20"
+                   HeightRequest="20"
+                   />
+            <Button BackgroundColor="Transparent"
+                    Clicked="Entrar"             
+                     />
+         </Grid>
+
+        <Label></Label>
+        <Label></Label>
+        <Grid>
+            <Image BackgroundColor="Transparent"
+                  Source="registar"
+                   WidthRequest="20"
+                   HeightRequest="20"      
+                   />
+            <Button BackgroundColor="Transparent"
+                    Clicked="Registar"
+                     />
+        </Grid>
     </StackLayout>
 </ContentPage>
