@@ -24,3 +24,4 @@ C:\Users\Portatil\Desktop\LI4\Projeto\LI4\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Portatil\Desktop\LI4\Projeto\LI4\obj\Debug\netstandard2.0\LI4.dll
 C:\Users\Portatil\Desktop\LI4\Projeto\LI4\obj\Debug\netstandard2.0\ref\LI4.dll
 C:\Users\Portatil\Desktop\LI4\Projeto\LI4\obj\Debug\netstandard2.0\LI4.pdb
+C:\Users\Portatil\Desktop\LI4\Projeto\LI4\obj\Debug\netstandard2.0\View\RegistarView.xaml.g.cs

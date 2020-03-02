@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LI4.View;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -14,19 +15,18 @@ namespace LI4
         public MainPage()
         {
             InitializeComponent();
+            NavigationPage.SetHasBackButton(this, false);
+            NavigationPage.SetHasNavigationBar(this, false);
         }
 
-        int count = 0;
         void Entrar(object sender, System.EventArgs e)
         {
-            count++;
-            ((Button)sender).Text = $"Entraste {count} vezes.";
+
         }
 
         private void Registar(object sender, EventArgs e)
         {
-            count++;
-            ((Button)sender).Text = $"Registaste {count} vezes.";
+            Navigation.PushAsync(new RegistarView ());
         }
     }
 }

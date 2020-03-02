@@ -8,9 +8,16 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>C:\Users\Portatil\Desktop\LI4\Projeto\LI4\MainPage.xaml</FilePath>
-      <Hash>73-43-E6-C3-E6-DC-A4-2E-86-3F-38-80-D2-07-67-42</Hash>
+      <Hash>88-1E-74-36-D0-7F-AF-DC-24-6E-DF-29-59-00-B5-DF</Hash>
       <Properties>
         <string>BackgroundImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Portatil\Desktop\LI4\Projeto\LI4\View\RegistarView.xaml</FilePath>
+      <Hash>A1-B0-DA-CF-E4-E6-17-4C-B7-5B-2F-FF-9F-61-17-9D</Hash>
+      <Properties>
+        <string>BackgroundColor</string>
       </Properties>
     </XamlFileMeta>
   </Files>
