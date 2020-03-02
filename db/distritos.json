@@ -1,0 +1,37 @@
+{
+	"Nome": "Braga",
+	"Historia": "",
+	"Cidades": [
+		{
+			"Nome": "Barcelos",
+			"Historia": "",
+			"Atracoes": [
+				{
+					"Nome": "Castelo",
+					"Historia": "",
+					"Preco": "",
+					"Horario": "",
+					"Localidade": ""
+				}
+			],
+			"Restaurantes": [
+				{
+					"Nome": "Bagoeira",
+					"Preco": "",
+					"Horario": "",
+					"Morada": "",
+					"Classificação": "",
+					"Especialidade": ""
+				}
+			],
+			"Hoteis": [
+				{
+					"Nome": "Bagoeira",
+					"Preco": "",
+					"Morada": "",
+					"Classificação": ""
+				}
+			]
+		}
+	]
+}
