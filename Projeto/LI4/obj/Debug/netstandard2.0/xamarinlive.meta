@@ -15,9 +15,10 @@
     </XamlFileMeta>
     <XamlFileMeta>
       <FilePath>C:\Users\Portatil\Desktop\LI4\Projeto\LI4\View\RegistarView.xaml</FilePath>
-      <Hash>A1-B0-DA-CF-E4-E6-17-4C-B7-5B-2F-FF-9F-61-17-9D</Hash>
+      <Hash>6D-18-53-18-32-BA-D9-B3-FB-B6-2E-A6-93-F3-2F-8E</Hash>
       <Properties>
         <string>BackgroundColor</string>
+        <string>Title</string>
       </Properties>
     </XamlFileMeta>
   </Files>

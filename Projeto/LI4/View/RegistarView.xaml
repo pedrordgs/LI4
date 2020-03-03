@@ -5,17 +5,17 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              BackgroundColor="#FFFFFF"
+             Title="Registar"
              x:Class="LI4.View.RegistarView">
     <ContentPage.Content>
         <Grid VerticalOptions="FillAndExpand">
             <Grid.RowDefinitions>
-                <RowDefinition Height="15*"/>
-                <RowDefinition Height="60*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="65*"/>
                 <RowDefinition Height="25*"/>
             </Grid.RowDefinitions>
 
-            <Label Text="Registar" FontAttributes="Bold" TextColor="#C65F4A" Scale="1.5"  VerticalOptions="Center" HorizontalOptions="Center"/>
-            <StackLayout Grid.Row="1" VerticalOptions="Center" WidthRequest="300" HorizontalOptions="CenterAndExpand" Spacing="20">
+            <StackLayout Grid.Row="1" VerticalOptions="Start" WidthRequest="300" HorizontalOptions="CenterAndExpand" Spacing="20">
                 <Entry Text="{Binding Nome}" Placeholder="Nome" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
                 <Entry Text="{Binding Cidade}" Placeholder="Cidade" BackgroundColor="#E7E7E7"/>
                 <Entry Text="{Binding Distrito}" Placeholder="Distrito" BackgroundColor="#E7E7E7"/>
