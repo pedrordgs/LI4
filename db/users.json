@@ -1,24 +1,16 @@
 [
 	{
-		"Primeiro Nome": "Carolina",
-		"Último Nome": "Loureiro",
+		"Primeiro Nome": "Carolina Loureiro",
 		"E-mail": "carlour@gmail.com",
 		"PassWord": "123123123",
 		"Morada": {
-			"Rua": "Rua da Taipa nº279",
-			"Código Postal": "4805-111",
+			"Distrito": "Braga",
 			"Cidade": "Guimarães"
 		},
 		"Locais Visitados": [
 			{
-				"Nome": "Braga",
-				"Dia": "22-02-2020",
-				"Roteiro": ""
-			},
-			{
-				"Nome": "Lisboa",
-				"Dia": "18-02-2020",
-				"Roteiro": ""
+				"Atracao": "Castelo",
+				"Dia": "22-02-2020"
 			}
 
 		]
