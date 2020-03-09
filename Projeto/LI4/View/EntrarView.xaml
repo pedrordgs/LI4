@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="#FFFFFF"
+             Title="Entrar"
+             x:Class="LI4.View.EntrarView">
+
+    <ContentPage.Content>
+        <Grid VerticalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="65*"/>
+                <RowDefinition Height="25*"/>
+            </Grid.RowDefinitions>
+
+            <StackLayout Grid.Row="1" VerticalOptions="Start" WidthRequest="300" HorizontalOptions="CenterAndExpand" Spacing="20">
+                <Entry Text="{Binding }" Placeholder="Email" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
+                <Entry Text="{Binding }" Placeholder="Password" BackgroundColor="#E7E7E7" IsPassword="True"/>
+            </StackLayout>
+            <StackLayout Grid.Row="2" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Spacing="0">
+                <Button Text="Entrar" Command="{Binding ComandoEntrar}"  TextColor="White" CornerRadius="25" BackgroundColor="#C65F4A" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="250"/>
+                <Button Text="Esqueceu-se da password? Clique aqui." TextColor="#C65F4A" VerticalOptions="Start" Scale="0.6" BackgroundColor="Transparent"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

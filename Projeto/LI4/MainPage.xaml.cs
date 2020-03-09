@@ -21,6 +21,7 @@ namespace LI4
 
         void Entrar(object sender, System.EventArgs e)
         {
+            Navigation.PushAsync(new EntrarView());
 
         }
 
