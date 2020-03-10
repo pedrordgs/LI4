@@ -30,54 +30,11 @@ namespace Portourgal.Model
             this.password = p;
         }
 
-        public String getNome()
-        {
-            return this.nome;
-        }
+        public string Nome { get { return nome; } set { nome = value; } }
+        public string Cidade { get { return cidade; } set { cidade = value; } }
+        public string Distrito { get { return distrito; } set { distrito = value; } }
+        public string Email { get { return email; } set { email = value; } }
+        public string Password { get { return password; } set { password = value; } }
 
-        public void setNome(String n)
-        {
-            this.nome = n;
-        }
-
-        public String getCidade()
-        {
-            return this.cidade;
-        }
-
-        public void setCidade(String c)
-        {
-            this.cidade = c;
-        }
-
-        public String getDistrito()
-        {
-            return this.distrito;
-        }
-
-        public void setDistrito(String d)
-        {
-            this.distrito = d;
-        }
-
-        public String getEmail()
-        {
-            return this.email;
-        }
-
-        public void setEmail(String u)
-        {
-            this.email = u;
-        }
-
-        public String getPassword()
-        {
-            return this.password;
-        }
-
-        public void setPassword(String u)
-        {
-            this.password = u;
-        }
     }
 }

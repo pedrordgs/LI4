@@ -18,8 +18,8 @@ namespace Portourgal.ViewModel
             ComandoEntrar = new Command(EntrarUtilizador);
         }
 
-        public string Email { get; set; }
-        public string Password { get; set; }
+        public string Email { get { return email; } set { email = value; } }
+        public string Password { get { return password; } set { password = value; } }
 
         public Command ComandoEntrar { get; }
 
