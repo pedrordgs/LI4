@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundImageSource="bg"
+             x:Class="Portourgal.MainPage">
+
+    <Grid VerticalOptions="FillAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="40*"/>
+        </Grid.RowDefinitions>
+
+        <StackLayout>
+            <Image Aspect="AspectFit" Source="logo.png" Margin="50,10" VerticalOptions="Start" HorizontalOptions="Center"/>
+            <Image Aspect="AspectFit" Source="desc.png" VerticalOptions="Start" HorizontalOptions="Center" Margin="50,0"/>
+        </StackLayout>
+
+        <Button Grid.Row="1" Clicked="Entrar" Text="Entrar" TextColor="White" CornerRadius="25" BackgroundColor="#90C65F4A" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="150"/>
+        <Button Grid.Row="2" Clicked="Registar" Text="Registar" TextColor="White" CornerRadius="25" BackgroundColor="#90C65F4A" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="150"/>
+        <!--
+        <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+            <Image Source="logo.png" VerticalOptions="Start"/>
+            <Image Source="desc.png" VerticalOptions="Start"/>
+        </StackLayout>
+        
+
+        <StackLayout Grid.Row="2" Spacing="80" Orientation="Vertical" Margin="0,100" HorizontalOptions="Center" VerticalOptions="Center">
+            <Button Text="Entrar" TextColor="White" CornerRadius="25" BackgroundColor="#90C65F4A" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="150" />
+            <Button Text="Registar" TextColor="White" CornerRadius="25" BackgroundColor="#90C65F4A" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="150" />
+        </StackLayout>
+        -->
+    </Grid>
+</ContentPage>

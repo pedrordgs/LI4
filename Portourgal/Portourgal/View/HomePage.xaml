@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:views="clr-namespace:Portourgal.View"
+             mc:Ignorable="d"
+             NavigationPage.HasNavigationBar="False"
+             Shell.NavBarIsVisible="false"
+             x:Class="Portourgal.View.HomePage">
+
+    <FlyoutItem Title="TabView"
+                Shell.TabBarIsVisible="True"
+                FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent Title="Home" Icon="icon1.png" IsTabStop="True" ContentTemplate="{DataTemplate views:Perfil}"/>
+        <ShellContent Title="Profile" Icon="icon1.png" IsTabStop="True" ContentTemplate="{DataTemplate views:ScoreBoard}"/>
+        <Tab Title="TTTTT" Icon="icon1.png" IsTabStop="False">
+            <ShellContent ContentTemplate="{DataTemplate views:Perfil}"/>
+        </Tab>
+    </FlyoutItem>
+    <Tab Title="VVV" Icon="icon1.png" IsTabStop="False">
+        <ShellContent ContentTemplate="{DataTemplate views:Perfil}"/>
+    </Tab>
+</Shell>

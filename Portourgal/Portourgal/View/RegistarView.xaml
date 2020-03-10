@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="#FFFFFF"
+             Title="Registar"
+             x:Class="Portourgal.View.RegistarView">
+    <ContentPage.Content>
+        <Grid VerticalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="65*"/>
+                <RowDefinition Height="25*"/>
+            </Grid.RowDefinitions>
+
+            <StackLayout Grid.Row="1" VerticalOptions="Start" WidthRequest="300" HorizontalOptions="CenterAndExpand" Spacing="20">
+                <Entry Text="{Binding Nome}" Placeholder="Nome" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
+                <Entry Text="{Binding Cidade}" Placeholder="Cidade" BackgroundColor="#E7E7E7"/>
+                <Entry Text="{Binding Distrito}" Placeholder="Distrito" BackgroundColor="#E7E7E7"/>
+                <Entry Text="{Binding Email}" Placeholder="Endereço de Email" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
+                <Entry Text="{Binding Password}" Placeholder="Password" IsPassword="true" BackgroundColor="#E7E7E7"/>
+            </StackLayout>
+            <StackLayout Grid.Row="2" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Spacing="0">
+                <Button Text="Registar" Command="{Binding ComandoRegistar}"  TextColor="White" CornerRadius="25" BackgroundColor="#C65F4A" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="250"/>
+                <Button Text="Já tem conta? Clique aqui" TextColor="#C65F4A" VerticalOptions="Start" Scale="0.6" BackgroundColor="Transparent"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
