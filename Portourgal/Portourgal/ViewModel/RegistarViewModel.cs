@@ -1,4 +1,5 @@
 ﻿using Portourgal.Model;
+using Portourgal.View;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -27,7 +28,8 @@ namespace Portourgal.ViewModel
         void RegistarUtilizador()
         {
             Utilizador u = new Utilizador(Nome, Cidade, Distrito, Email, Password);
-            u.AddToDatabase();
+            _ = u.AddUtilizadorDB();
+            App.Current.MainPage = new HomePage();
         }
 
         public Command ComandoRegistar { get; }
