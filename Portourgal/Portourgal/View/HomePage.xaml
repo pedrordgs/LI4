@@ -9,16 +9,11 @@
              Shell.NavBarIsVisible="false"
              x:Class="Portourgal.View.HomePage">
 
+
     <FlyoutItem Title="TabView"
                 Shell.TabBarIsVisible="True"
                 FlyoutDisplayOptions="AsMultipleItems">
         <ShellContent Title="Home" Icon="icon1.png" IsTabStop="True" ContentTemplate="{DataTemplate views:Perfil}"/>
-        <ShellContent Title="Profile" Icon="icon1.png" IsTabStop="True" ContentTemplate="{DataTemplate views:ScoreBoard}"/>
-        <Tab Title="TTTTT" Icon="icon1.png" IsTabStop="False">
-            <ShellContent ContentTemplate="{DataTemplate views:Perfil}"/>
-        </Tab>
+        <ShellContent Title="Profile" Icon="icon1.png" IsTabStop="True" ContentTemplate="{DataTemplate views:MainContentPage}"/>
     </FlyoutItem>
-    <Tab Title="VVV" Icon="icon1.png" IsTabStop="False">
-        <ShellContent ContentTemplate="{DataTemplate views:Perfil}"/>
-    </Tab>
 </Shell>

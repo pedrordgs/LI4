@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Portourgal.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,7 @@ namespace Portourgal.View
         public Perfil()
         {
             InitializeComponent();
+            BindingContext = new PerfilViewModel();
         }
     }
 }
