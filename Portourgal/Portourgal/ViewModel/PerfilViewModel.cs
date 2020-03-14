@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Portourgal.InteractionsAPI;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -22,6 +23,7 @@ namespace Portourgal.ViewModel
             };
         }
 
+        public string NomeUtilizador { get; } = UserInteraction.user.Nome;
         public List<Palavra> Frases { get; set; }
     }
 }

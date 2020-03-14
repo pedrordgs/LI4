@@ -22,7 +22,10 @@ namespace PortourgalAPI.Services
         public List<User> Get() =>
             _users.Find(user => true).ToList();
 
-        public User Get(string email) =>
+        public User Get(string id) =>
+           _users.Find<User>(user => user.Id == id).FirstOrDefault();
+
+        public User GetByEmail(string email) =>
             _users.Find<User>(user => user.Email == email).FirstOrDefault();
 
         public User Create(User user)
@@ -31,13 +34,13 @@ namespace PortourgalAPI.Services
             return user;
         }
 
-        public void Update(string email, User userIn) =>
-            _users.ReplaceOne(user => user.Email == email, userIn);
+        public void Update(string id, User userIn) =>
+            _users.ReplaceOne(user => user.Id == id, userIn);
 
         public void Remove(User userIn) =>
             _users.DeleteOne(user => user.Id == userIn.Id);
 
-        public void Remove(string email) =>
-            _users.DeleteOne(user => user.Email == email);
+        public void Remove(string id) =>
+            _users.DeleteOne(user => user.Id == id);
     }
 }

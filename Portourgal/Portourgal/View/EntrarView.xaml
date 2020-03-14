@@ -17,8 +17,8 @@
             </Grid.RowDefinitions>
 
             <StackLayout Grid.Row="1" VerticalOptions="Start" WidthRequest="300" HorizontalOptions="CenterAndExpand" Spacing="20">
-                <Entry Text="{Binding }" Placeholder="Email" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
-                <Entry Text="{Binding }" Placeholder="Password" BackgroundColor="#E7E7E7" IsPassword="True"/>
+                <Entry Text="{Binding Email}" Placeholder="Email" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
+                <Entry Text="{Binding Password}" Placeholder="Password" BackgroundColor="#E7E7E7" IsPassword="True"/>
             </StackLayout>
             <StackLayout Grid.Row="2" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Spacing="0">
                 <Button Text="Entrar" Command="{Binding ComandoEntrar}"  TextColor="White" CornerRadius="25" BackgroundColor="#C65F4A" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="250"/>
