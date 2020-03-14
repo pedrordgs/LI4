@@ -28,10 +28,10 @@ namespace PortourgalAPI.Controllers
         }
 
         // GET: api/Users/5
-        [HttpGet("{id}", Name = "GetUser")]
-        public ActionResult<User> Get(string id)
+        [HttpGet("{email}", Name = "GetUser")]
+        public ActionResult<User> GetByEmail(string email)
         {
-            var user = _userService.Get(id);
+            var user = _userService.GetByEmail(email);
 
             if (user == null)
             {
@@ -41,12 +41,13 @@ namespace PortourgalAPI.Controllers
             return user;
         }
 
+
         // POST: api/Users
         [HttpPost]
         public ActionResult<User> Post(User user)
         {
             _userService.Create(user);
-            return CreatedAtRoute("GetUser", new { id = user.Id.ToString() }, user);
+            return CreatedAtRoute("GetUser", user.Email, user);
         }
 
         // PUT: api/Users/5
@@ -65,7 +66,7 @@ namespace PortourgalAPI.Controllers
             return NoContent();
         }
 
-        // DELETE: api/ApiWithActions/5
+        // DELETE: api/Users/5
         [HttpDelete("{id}")]
         public IActionResult Delete(string id)
         {

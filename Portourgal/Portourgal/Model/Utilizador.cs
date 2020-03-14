@@ -1,16 +1,8 @@
-﻿using MongoDB.Bson;
-using MongoDB.Driver;
-using System;
-using System.Collections.Generic;
-using System.Net.Http;
-using System.Text;
-using Xamarin.Essentials;
-using Newtonsoft.Json;
-using System.Threading.Tasks;
+﻿using System;
 
 namespace Portourgal.Model
 {
-    class Utilizador
+    public class Utilizador
     {
         public Utilizador()
         {
@@ -36,14 +28,6 @@ namespace Portourgal.Model
         public string Email { get; set; }
         public string Password { get; set; }
 
-        public async Task AddUtilizadorDB()
-        {
-            if (Connectivity.NetworkAccess != NetworkAccess.None)
-            {
-                HttpClient client = new HttpClient();
-                StringContent content = new StringContent(JsonConvert.SerializeObject(this), Encoding.UTF8, "application/json");
-                HttpResponseMessage response = await client.PostAsync("https://portourgalapi.azurewebsites.net/api/users/", content);
-            }
-        }
+
     }
 }

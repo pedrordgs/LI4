@@ -1,4 +1,5 @@
-﻿using Portourgal.Model;
+﻿using Portourgal.InteractionsAPI;
+using Portourgal.Model;
 using Portourgal.View;
 using System;
 using System.Collections.Generic;
@@ -25,10 +26,10 @@ namespace Portourgal.ViewModel
         public string Email { get; set; }
         public string Password { get; set; }
 
-        void RegistarUtilizador()
+        void RegistarUtilizador()   
         {
             Utilizador u = new Utilizador(Nome, Cidade, Distrito, Email, Password);
-            _ = u.AddUtilizadorDB();
+            _ = UserInteraction.AddUtilizadorDB(u);
             App.Current.MainPage = new HomePage();
         }
 
