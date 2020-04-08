@@ -8,6 +8,7 @@ namespace PortourgalAPI.Models
     public class PortourgalDatabaseSettings : IPortourgalDatabaseSettings
     {
         public string UsersCollectionName { get; set; }
+        public string DistritosCollectionName { get; set; }
         public string ConnectionString { get; set; }
         public string DatabaseName { get; set; }
     }
@@ -15,6 +16,7 @@ namespace PortourgalAPI.Models
     public interface IPortourgalDatabaseSettings
     {
         string UsersCollectionName { get; set; }
+        string DistritosCollectionName { get; set; }
         string ConnectionString { get; set; }
         string DatabaseName { get; set; }
     }

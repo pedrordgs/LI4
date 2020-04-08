@@ -1,5 +1,4 @@
-﻿using MongoDB.Bson;
-using Portourgal.Model;
+﻿using Portourgal.Model;
 using System;
 using System.Net.Http;
 using System.Text;
@@ -20,6 +19,7 @@ namespace Portourgal.InteractionsAPI
                 HttpClient client = new HttpClient();
                 StringContent content = new StringContent(JsonConvert.SerializeObject(u), Encoding.UTF8, "application/json");
                 HttpResponseMessage response = await client.PostAsync("https://portourgalapi.azurewebsites.net/api/users/", content);
+                user = u;
                 if (response.IsSuccessStatusCode) return u;
             }
             return null;
@@ -36,7 +36,7 @@ namespace Portourgal.InteractionsAPI
                     String json = await response.Content.ReadAsStringAsync();
                     Utilizador u = JsonConvert.DeserializeObject<Utilizador>(json);
                     user = u;
-                    if (u != null && u.Password == password && email == u.Email) return true;
+                    if (u != null && u.Password == password && email == u.Email) { user = u; return true; }
                     else return false;
                 }
             }
