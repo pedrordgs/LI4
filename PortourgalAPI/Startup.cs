@@ -35,6 +35,7 @@ namespace PortourgalAPI
             services.AddSingleton<IPortourgalDatabaseSettings>(sp =>
                 sp.GetRequiredService<IOptions<PortourgalDatabaseSettings>>().Value);
 
+            services.AddSingleton<DistritoService>();
             services.AddSingleton<UserService>();
 
             services.AddControllers()

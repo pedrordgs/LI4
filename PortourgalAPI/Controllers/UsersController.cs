@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using PortourgalAPI.Models;
 using PortourgalAPI.Services;
@@ -47,7 +43,7 @@ namespace PortourgalAPI.Controllers
         public ActionResult<User> Post(User user)
         {
             _userService.Create(user);
-            return CreatedAtRoute("GetUser", user.Email, user);
+            return CreatedAtRoute("GetUser", new { email = user.Email }, user);
         }
 
         // PUT: api/Users/5
