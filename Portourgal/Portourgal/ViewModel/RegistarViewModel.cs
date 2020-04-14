@@ -17,7 +17,7 @@ namespace Portourgal.ViewModel
             this.Distrito = "";
             this.Email = "";
             this.Password = "";
-            ComandoRegistar = new Command(RegistarUtilizador);
+            ComandoRegistar = new Command(RegistarUtilizadorAsync);
         }
 
         public string Nome { get; set; }
@@ -26,10 +26,10 @@ namespace Portourgal.ViewModel
         public string Email { get; set; }
         public string Password { get; set; }
 
-        void RegistarUtilizador()   
+        async void RegistarUtilizadorAsync()   
         {
             Utilizador u = new Utilizador(Nome, Cidade, Distrito, Email, Password);
-            _ = UserInteraction.AddUtilizadorDB(u);
+            u = await UserInteraction.AddUtilizadorDB(u);
             App.Current.MainPage = new HomePage();
         }
 
