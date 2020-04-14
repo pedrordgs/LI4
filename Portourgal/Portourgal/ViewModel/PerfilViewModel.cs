@@ -22,7 +22,7 @@ namespace Portourgal.ViewModel
                 new Palavra{ Nome = "https://st.depositphotos.com/1752371/1250/i/450/depositphotos_12507644-stock-photo-a-sword-with-a-red.jpg", Texto = "olaollll"}
             };
         }
-
+         
         public string NomeUtilizador { get; } = UserInteraction.user.Nome;
         public List<Palavra> Frases { get; set; }
     }

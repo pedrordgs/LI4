@@ -16,8 +16,13 @@ namespace Portourgal.ViewModel
 
         async void GetListaDistritos()
         {
-            Distritos = await DistritoInteraction.GetDistritos();
-            //Pd = Distritos[0].Nome;
+            //Distritos = await DistritoInteraction.GetDistritos();
+            Distritos = new List<Distrito>();
+            Distritos.Add(new Distrito("Aveiro", "", new List<Cidade>()));
+            Distritos.Add(new Distrito("Braga", "", new List<Cidade>()));
+            Distritos.Add(new Distrito("Beja", "", new List<Cidade>()));
+            Distritos.Add(new Distrito("Evora", "", new List<Cidade>()));
+            Pd = Distritos[0].Nome;
         }
 
         public List<Distrito> Distritos  { get; set; }

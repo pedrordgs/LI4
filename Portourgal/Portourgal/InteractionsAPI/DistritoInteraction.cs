@@ -19,7 +19,7 @@ namespace Portourgal.InteractionsAPI
                 if (response.IsSuccessStatusCode)
                 {
                     string json = await response.Content.ReadAsStringAsync();
-                    List<Distrito> distritos = JsonConvert.DeserializeObject<List<Distrito>>(json);
+                    List<Distrito> distritos = JsonConvert.DeserializeObject<List<Distrito>>(json);                
                     return distritos;
                 }
                 else return null;
