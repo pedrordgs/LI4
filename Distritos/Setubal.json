@@ -1,0 +1,19 @@
+{
+	"Nome": "Setubal",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Alcácer do Sal" },
+		{ "Nome": "Alcochete" },
+		{ "Nome": "Almada" },
+		{ "Nome": "Barreiro" },
+		{ "Nome": "Grândola" },
+		{ "Nome": "Moita" },
+		{ "Nome": "Montijo" },
+		{ "Nome": "Palmela" },
+		{ "Nome": "Santiago do Cacém" },
+		{ "Nome": "Seixal" },
+		{ "Nome": "Sesimbra" },
+		{ "Nome": "Setúbal" },
+		{ "Nome": "Sines" }
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"Nome": "VianaCastelo",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Viana do Castelo" },
+		{ "Nome": "Valença" },
+		{ "Nome": "Vila Praia de Âncora" },
+		{ "Nome": "Arcozelo" },
+		{ "Nome": "Monção" },
+		{ "Nome": "Ponte de Lima" },
+		{ "Nome": "Caminha" },
+		{ "Nome": "Ponte da Barca" },
+		{ "Nome": "Arcos de Valdevez" },
+		{ "Nome": "Paredes de Coura" },
+		{ "Nome": "Vila Nova de Cerveira" },
+		{ "Nome": "Melgaço" },
+		{ "Nome": "Castro Laboreiro" }
+	]
+}

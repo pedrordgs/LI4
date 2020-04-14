@@ -1,0 +1,25 @@
+{
+    "Nome": "Aveiro",
+    "Historia": "",
+    "Cidades": [
+            { "Nome": "Águeda"},
+            { "Nome": "Albergaria-a-Velha"},
+            { "Nome": "Anadia"},
+            { "Nome": "Arouca"},
+            { "Nome": "Aveiro" },
+            { "Nome": "Castelo de Paiva" },
+            { "Nome": "Espinho" },
+            { "Nome": "Estarreja" },
+            { "Nome": "Ílhavo" },
+            { "Nome": "Mealhada" },
+            { "Nome": "Murtosa" },
+            { "Nome": "Oliveira de Azeméis" },
+            { "Nome": "Oliveira do Bairro" },
+            { "Nome": "Ovar" },
+            { "Nome": "Santa Maria da Feira" },
+            { "Nome": "São João da Madeira" },
+            { "Nome": "Server do Vouga" },
+            { "Nome": "Vagos" },
+            { "Nome": "Vale de Cambra" }
+        ]
+}

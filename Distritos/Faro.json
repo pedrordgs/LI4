@@ -1,0 +1,22 @@
+{
+	"Nome": "Faro",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Albufeira" },
+		{ "Nome": "Alcoutim" },
+		{ "Nome": "Aljezur" },
+		{ "Nome": "Castro Marim" },
+		{ "Nome": "Faro" },
+		{ "Nome": "Lagoa" },
+		{ "Nome": "Lagos" },
+		{ "Nome": "Loulé" },
+		{ "Nome": "Monchique" },
+		{ "Nome": "Olhão" },
+		{ "Nome": "Portimão" },
+		{ "Nome": "São Brás de Alportel" },
+		{ "Nome": "Silves" },
+		{ "Nome": "Tavira" },
+		{ "Nome": "Vila do Bispo" },
+		{ "Nome": "Vila Real de Santo António" }
+	]
+}

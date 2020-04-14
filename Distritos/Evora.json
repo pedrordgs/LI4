@@ -1,0 +1,20 @@
+{
+	"Nome": "Evora",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Alandroal" },
+		{ "Nome": "Arraiolos" },
+		{ "Nome": "Borba" },
+		{ "Nome": "Estremoz" },
+		{ "Nome": "Évora" },
+		{ "Nome": "Montemor-o-Novo" },
+		{ "Nome": "Mora" },
+		{ "Nome": "Mourão" },
+		{ "Nome": "Portel" },
+		{ "Nome": "Redondo" },
+		{ "Nome": "Reguengos de Monsaraz" },
+		{ "Nome": "Vendas Novas" },
+		{ "Nome": "Viana do Alentejo" },
+		{ "Nome": "Vila Viçosa" }
+	]
+}

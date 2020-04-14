@@ -7,20 +7,21 @@
              x:Class="Portourgal.View.MainContentPage">
     <ScrollView>
         <StackLayout Margin="20">
-            <Label Text="PORTOURGAL" FontSize="30" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <!--<Label Text="{Binding Pd}" FontSize="30" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center"/>-->
             <BoxView HeightRequest="1" Margin="40,0" BackgroundColor="DimGray"/>
             <Grid Margin="0,10,30,0">
                 <SearchBar Visual="Material" BackgroundColor="Transparent" Placeholder="Para onde quer ir?" HorizontalTextAlignment="Start" />
             </Grid>
             <Label Text="Distritos" TextColor="Black" FontSize="20" FontAttributes="Bold" Margin="10,20"/>
-            <CarouselView x:Name="MainCarouselView" HeightRequest="300" PeekAreaInsets="100" HorizontalOptions="CenterAndExpand">
+            <CarouselView x:Name="MainCarouselView" HeightRequest="300" PeekAreaInsets="100" HorizontalOptions="CenterAndExpand" ItemsSource="{Binding Distritos}">
                 <CarouselView.ItemsLayout>
                     <LinearItemsLayout Orientation="Horizontal"  ItemSpacing="20" />
                 </CarouselView.ItemsLayout>
                 <CarouselView.ItemTemplate>
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
-                            <Image Source="{Binding .}" Aspect="AspectFill"/>
+                            <!-- <Image Source="{Binding Nome}" Aspect="AspectFill"/> -->
+                            <Label Text="{Binding Nome}" />
                         </Frame>
                     </DataTemplate>
                 </CarouselView.ItemTemplate>
@@ -30,7 +31,7 @@
             <CarouselView x:Name="MainCarouselViewA" HeightRequest="300">
                 <CarouselView.ItemTemplate>
                     <DataTemplate>
-                        <Image Source="{Binding .}" HorizontalOptions="Center"/>
+                        <Image Source="{Binding Nome}" HorizontalOptions="Center"/>
                     </DataTemplate>
                 </CarouselView.ItemTemplate>
             </CarouselView>

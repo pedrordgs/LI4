@@ -15,10 +15,10 @@ namespace Portourgal.InteractionsAPI
             if (Connectivity.NetworkAccess != NetworkAccess.None)
             {
                 HttpClient client = new HttpClient();
-                HttpResponseMessage response = await client.GetAsync("https://portourgalapi.azurewebsites.net/api/distritos/");
+                HttpResponseMessage response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/");
                 if (response.IsSuccessStatusCode)
                 {
-                    String json = await response.Content.ReadAsStringAsync();
+                    string json = await response.Content.ReadAsStringAsync();
                     List<Distrito> distritos = JsonConvert.DeserializeObject<List<Distrito>>(json);
                     return distritos;
                 }
@@ -32,10 +32,10 @@ namespace Portourgal.InteractionsAPI
             if (Connectivity.NetworkAccess != NetworkAccess.None)
             {
                 HttpClient client = new HttpClient();
-                HttpResponseMessage response = await client.GetAsync("https://portourgalapi.azurewebsites.net/api/distritos/"+nome);
+                HttpResponseMessage response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/"+nome);
                 if (response.IsSuccessStatusCode)
                 {
-                    String json = await response.Content.ReadAsStringAsync();
+                    string json = await response.Content.ReadAsStringAsync();
                     Distrito distrito = JsonConvert.DeserializeObject<Distrito>(json);
                     return distrito;
                 }

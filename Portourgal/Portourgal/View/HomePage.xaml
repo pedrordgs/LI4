@@ -13,7 +13,7 @@
     <FlyoutItem Title="TabView"
                 Shell.TabBarIsVisible="True"
                 FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Home" Icon="icon1.png" IsTabStop="True" ContentTemplate="{DataTemplate views:Perfil}"/>
-        <ShellContent Title="Profile" Icon="icon1.png" IsTabStop="True" ContentTemplate="{DataTemplate views:MainContentPage}"/>
+        <ShellContent Title="Profile" Icon="icon1.png" IsTabStop="True" ContentTemplate="{DataTemplate views:Perfil}"/>
+        <ShellContent Title="Home" Icon="icon1.png" IsTabStop="True" ContentTemplate="{DataTemplate views:MainContentPage}"/>
     </FlyoutItem>
 </Shell>

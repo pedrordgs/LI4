@@ -1,0 +1,24 @@
+{
+	"Nome": "Porto",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Amarante" },
+		{ "Nome": "Baião" },
+		{ "Nome": "Felgueiras" },
+		{ "Nome": "Gondomar" },
+		{ "Nome": "Lousada" },
+		{ "Nome": "Maia" },
+		{ "Nome": "Marco de Canaveses" },
+		{ "Nome": "Matosinhos" },
+		{ "Nome": "Paços de Ferreira" },
+		{ "Nome": "Paredes" },
+		{ "Nome": "Penafiel" },
+		{ "Nome": "Porto" },
+		{ "Nome": "Póvoa de Varzim" },
+		{ "Nome": "Santo Tirso" },
+		{ "Nome": "Trofa" },
+		{ "Nome": "Valongo" },
+		{ "Nome": "Vila do Conde" },
+		{ "Nome": "Vila Nova de Gaia" }
+	]
+}

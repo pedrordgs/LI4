@@ -1,0 +1,20 @@
+{
+	"Nome": "Guarda",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Aguiar da Beira" },
+		{ "Nome": "Almeida" },
+		{ "Nome": "Celorico da Beira" },
+		{ "Nome": "Figueira de Castelo Rodrigo" },
+		{ "Nome": "Fornos de Algodres" },
+		{ "Nome": "Gouveia" },
+		{ "Nome": "Guarda" },
+		{ "Nome": "Manteigas" },
+		{ "Nome": "Mêda" },
+		{ "Nome": "Pinhel" },
+		{ "Nome": "Sabugal" },
+		{ "Nome": "Seia" },
+		{ "Nome": "Trancoso" },
+		{ "Nome": "Vila Nova de Foz Côa" }
+	]
+}

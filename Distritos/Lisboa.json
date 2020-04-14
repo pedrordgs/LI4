@@ -1,0 +1,22 @@
+{
+	"Nome": "Lisboa",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Alenquer" },
+		{ "Nome": "Amadora" },
+		{ "Nome": "Arruda dos Vinhos" },
+		{ "Nome": "Azambuja" },
+		{ "Nome": "Cadaval" },
+		{ "Nome": "Cascais" },
+		{ "Nome": "Lisboa" },
+		{ "Nome": "Loures" },
+		{ "Nome": "Lourinhã" },
+		{ "Nome": "Mafra" },
+		{ "Nome": "Odivelas" },
+		{ "Nome": "Oeiras" },
+		{ "Nome": "Sintra" },
+		{ "Nome": "Sobral de Monte Agraço" },
+		{ "Nome": "Torres Vedras" },
+		{ "Nome": "Vila Franca de Xira" }
+	]
+}

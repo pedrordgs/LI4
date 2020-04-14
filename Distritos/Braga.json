@@ -1,0 +1,20 @@
+{
+	"Nome": "Braga",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Amares" },
+		{ "Nome": "Barcelos" },
+		{ "Nome": "Braga" },
+		{ "Nome": "Cabeceiras" },
+		{ "Nome": "Celorico" },
+		{ "Nome": "Esposende" },
+		{ "Nome": "Fafe" },
+		{ "Nome": "Guimarães" },
+		{ "Nome": "Póvoa" },
+		{ "Nome": "Terras" },
+		{ "Nome": "Vieira" },
+		{ "Nome": "Vila" },
+		{ "Nome": "Vila" },
+		{ "Nome": "Vizela" }
+	]
+}

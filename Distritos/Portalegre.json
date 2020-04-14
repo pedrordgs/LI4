@@ -1,0 +1,21 @@
+{
+	"Nome": "Portalegre",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Alter do Chão" },
+		{ "Nome": "Arronches" },
+		{ "Nome": "Avis" },
+		{ "Nome": "Campo Maior" },
+		{ "Nome": "Castelo de Vide" },
+		{ "Nome": "Crato" },
+		{ "Nome": "Elvas" },
+		{ "Nome": "Fronteira" },
+		{ "Nome": "Gavião" },
+		{ "Nome": "Marvão" },
+		{ "Nome": "Monforte" },
+		{ "Nome": "Nisa" },
+		{ "Nome": "Ponte de Sor" },
+		{ "Nome": "Portalegre" },
+		{ "Nome": "Sousel" }
+	]
+}

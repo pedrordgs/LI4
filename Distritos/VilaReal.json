@@ -1,0 +1,20 @@
+{
+	"Nome": "VilaReal",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Alijó" },
+		{ "Nome": "Boticas" },
+		{ "Nome": "Chaves" },
+		{ "Nome": "Mesão Frio" },
+		{ "Nome": "Mondim de Basto" },
+		{ "Nome": "Montalegre" },
+		{ "Nome": "Murça" },
+		{ "Nome": "Peso da Régua" },
+		{ "Nome": "Ribeira de Pena" },
+		{ "Nome": "Sabrosa" },
+		{ "Nome": "Santa Marta de Penaguião" },
+		{ "Nome": "Valpaços" },
+		{ "Nome": "Vila Pouca de Aguiar" },
+		{ "Nome": "Vila Real" }
+	]
+}

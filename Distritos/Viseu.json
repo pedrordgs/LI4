@@ -1,0 +1,30 @@
+{
+	"Nome": "Viseu",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Armamar" },
+		{ "Nome": "Carregal do Sal" },
+		{ "Nome": "Castro Daire" },
+		{ "Nome": "Cinfães" },
+		{ "Nome": "Lamego" },
+		{ "Nome": "Mangualde" },
+		{ "Nome": "Moimenta da Beira" },
+		{ "Nome": "Mortágua" },
+		{ "Nome": "Nelas" },
+		{ "Nome": "Oliveira de Frades" },
+		{ "Nome": "Penalva do Castelo" },
+		{ "Nome": "Penedono" },
+		{ "Nome": "Resende" },
+		{ "Nome": "Santa Comba Dão" },
+		{ "Nome": "São João da Pesqueira" },
+		{ "Nome": "São Pedro do Sul" },
+		{ "Nome": "Sátão" },
+		{ "Nome": "Sernancelhe" },
+		{ "Nome": "Tabuaço" },
+		{ "Nome": "Tarouca" },
+		{ "Nome": "Tondela" },
+		{ "Nome": "Vila Nova de Paiva" },
+		{ "Nome": "Viseu" },
+		{ "Nome": "Vouzela" }
+	]
+}

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Portourgal.Model
 {
-    class Cidade
+    public class Cidade
     {
         public Cidade()
         {

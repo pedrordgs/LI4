@@ -1,0 +1,17 @@
+{
+	"Nome": "CasteloBranco",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Belmonte" },
+		{ "Nome": "Castelo Branco" },
+		{ "Nome": "Covilhã" },
+		{ "Nome": "Fundão" },
+		{ "Nome": "Idanha-a-Nova" },
+		{ "Nome": "Oleiros" },
+		{ "Nome": "Penamacor" },
+		{ "Nome": "Proença-a-Nova" },
+		{ "Nome": "Sertã" },
+		{ "Nome": "Vila de Rei" },
+		{ "Nome": "Vila Velha de Ródão" }
+	]
+}

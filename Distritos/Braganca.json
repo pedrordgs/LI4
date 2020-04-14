@@ -1,0 +1,18 @@
+{
+	"Nome": "Bragança",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Alfândega da Fé" },
+		{ "Nome": "Bragança" },
+		{ "Nome": "Carrazeda de Ansiães" },
+		{ "Nome": "Freixo de Espada à Cinta" },
+		{ "Nome": "Macedo de Cavaleiros" },
+		{ "Nome": "Miranda do Douro" },
+		{ "Nome": "Mirandela" },
+		{ "Nome": "Mogadouro" },
+		{ "Nome": "Torre de Moncorvo" },
+		{ "Nome": "Vila Flor" },
+		{ "Nome": "Vimioso" },
+		{ "Nome": "Vinhais" }
+	]
+}

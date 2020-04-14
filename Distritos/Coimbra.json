@@ -1,0 +1,23 @@
+{
+	"Nome": "Coimbra",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Arganil" },
+		{ "Nome": "Cantanhede" },
+		{ "Nome": "Coimbra" },
+		{ "Nome": "Condeixa-a-Nova" },
+		{ "Nome": "Figueira da Foz" },
+		{ "Nome": "Góis" },
+		{ "Nome": "Lousã" },
+		{ "Nome": "Mira" },
+		{ "Nome": "Miranda do Corvo" },
+		{ "Nome": "Montemor-o-Velho" },
+		{ "Nome": "Oliveira do Hospital" },
+		{ "Nome": "Pampilhosa da Serra" },
+		{ "Nome": "Penacova" },
+		{ "Nome": "Penela" },
+		{ "Nome": "Soure" },
+		{ "Nome": "Tábua" },
+		{ "Nome": "Vila Nova de Poiares" }
+	]
+}

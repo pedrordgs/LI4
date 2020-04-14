@@ -1,0 +1,20 @@
+{
+	"Nome": "Beja",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Aljustrel" },
+		{ "Nome": "Almodôvar" },
+		{ "Nome": "Alvito" },
+		{ "Nome": "Barrancos" },
+		{ "Nome": "Beja" },
+		{ "Nome": "Castro Verde" },
+		{ "Nome": "Cuba" },
+		{ "Nome": "Ferreira do Alentejo" },
+		{ "Nome": "Mértola" },
+		{ "Nome": "Moura" },
+		{ "Nome": "Odemira" },
+		{ "Nome": "Ourique" },
+		{ "Nome": "Serpa" },
+		{ "Nome": "Vidigueira" }
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"Nome": "Santarem",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Abrantes" },
+		{ "Nome": "Alcanena" },
+		{ "Nome": "Almeirim" },
+		{ "Nome": "Alpiarça" },
+		{ "Nome": "Benavente" },
+		{ "Nome": "Cartaxo" },
+		{ "Nome": "Chamusca" },
+		{ "Nome": "Constância" },
+		{ "Nome": "Coruche" },
+		{ "Nome": "Entroncamento" },
+		{ "Nome": "Ferreira do Zêzere" },
+		{ "Nome": "Golegã" },
+		{ "Nome": "Mação" },
+		{ "Nome": "Ourém" },
+		{ "Nome": "Rio Maior" },
+		{ "Nome": "Salvaterra de Magos" },
+		{ "Nome": "Santarém" },
+		{ "Nome": "Sardoal" },
+		{ "Nome": "Tomar" },
+		{ "Nome": "Torres Novas" },
+		{ "Nome": "Vila Nova da Barquinha" }
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"Nome": "Leiria",
+	"Historia": "",
+	"Cidades": [
+		{ "Nome": "Alcobaça" },
+		{ "Nome": "Alvaiázere" },
+		{ "Nome": "Ansião" },
+		{ "Nome": "Batalha" },
+		{ "Nome": "Bombarral" },
+		{ "Nome": "Caldas da Rainha" },
+		{ "Nome": "Castanheira de Pera" },
+		{ "Nome": "Figueiró dos Vinhos" },
+		{ "Nome": "Leiria" },
+		{ "Nome": "Marinha Grande" },
+		{ "Nome": "Nazaré" },
+		{ "Nome": "Óbidos" },
+		{ "Nome": "Pedrógão Grande" },
+		{ "Nome": "Peniche" },
+		{ "Nome": "Pombal" },
+		{ "Nome": "Porto de Mós" }
+	]
+}
