@@ -12,6 +12,7 @@
             <Grid Margin="0,10,30,0">
                 <SearchBar Visual="Material" BackgroundColor="Transparent" Placeholder="Para onde quer ir?" HorizontalTextAlignment="Start" />
             </Grid>
+            <Label Text="Uma pequena descrição" FontSize="20" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center"/>
             <Label Text="Atrações" TextColor="Black" FontSize="20" FontAttributes="Bold" Margin="10,20"/>
             <CarouselView x:Name="MainCarouselView" HeightRequest="300" PeekAreaInsets="100" HorizontalOptions="CenterAndExpand" ItemsSource="{Binding Distritos}">
                 <CarouselView.ItemsLayout>
