@@ -12,5 +12,6 @@ namespace PortourgalAPI.Models
         public string Nome { get; set; }
         public string Historia { get; set; }
         public List<Cidade> Cidades { get; set; }
+        public string Imagem { get; set; }
     }
 }
