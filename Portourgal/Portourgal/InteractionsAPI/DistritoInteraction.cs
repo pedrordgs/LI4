@@ -10,16 +10,17 @@ namespace Portourgal.InteractionsAPI
 {
     public static class DistritoInteraction
     {
+     
         public static async Task<List<Distrito>> GetDistritos()
         {
             if (Connectivity.NetworkAccess != NetworkAccess.None)
             {
                 HttpClient client = new HttpClient();
-                HttpResponseMessage response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/");
+                HttpResponseMessage response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/").ConfigureAwait(false); ;
                 if (response.IsSuccessStatusCode)
                 {
                     string json = await response.Content.ReadAsStringAsync();
-                    List<Distrito> distritos = JsonConvert.DeserializeObject<List<Distrito>>(json);                
+                    List<Distrito> distritos = JsonConvert.DeserializeObject<List<Distrito>>(json);
                     return distritos;
                 }
                 else return null;

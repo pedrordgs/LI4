@@ -3,8 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:Portourgal.View"
              mc:Ignorable="d"
              x:Class="Portourgal.View.MainContentPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:ByteArrayToImageSourceConverter x:Key="ByteArrayToImage" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ScrollView>
         <StackLayout Margin="20">
             <Label Text="Homepage" FontSize="30" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center"/>
@@ -20,8 +26,10 @@
                 <CarouselView.ItemTemplate>
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
-                            <!-- <Image Source="{Binding Nome}" Aspect="AspectFill"/> -->
-                            <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="Center"/>
+                            <Grid>
+                                <Image Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"/>
+                                <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="#E9E9E9"/>
+                            </Grid>
                         </Frame>
                     </DataTemplate>
                 </CarouselView.ItemTemplate>
