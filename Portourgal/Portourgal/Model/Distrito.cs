@@ -11,7 +11,7 @@ namespace Portourgal.Model
             Nome = "";
             Historia = "";
             Cidades = new List<Cidade> ();
-            Imagem = "";
+            Imagem = null;
         }
 
         public Distrito(string n, string h, List<Cidade> c,string i)
@@ -19,12 +19,12 @@ namespace Portourgal.Model
             Nome = n;
             Historia = h;
             Cidades = new List<Cidade>(c);
-            Imagem = i;
+            Imagem = Convert.FromBase64String(i);
         }
 
         public string Nome { get; set; }
         public string Historia { get; set; }
         public List<Cidade> Cidades { get; set; }
-        public string Imagem { get; set; }
+        public byte[] Imagem { get; set; }
     }
 }
