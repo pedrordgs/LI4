@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Text;
 
-namespace PortourgalAPI.Models
+namespace Portourgal.Model
 {
-    public class Restaurante
+    public class Atracao
     {
         public string Nome { get; set; }
         public string Imagem { get; set; }
