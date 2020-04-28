@@ -13,7 +13,7 @@ namespace Portourgal.View
             ImageSource retSource = null;
             if (value != null)
             {
-                byte[] imageAsBytes = (byte[])value;
+                byte[] imageAsBytes = System.Convert.FromBase64String((string)value);
                 var stream = new MemoryStream(imageAsBytes);
                 retSource = ImageSource.FromStream(() => stream);
             }

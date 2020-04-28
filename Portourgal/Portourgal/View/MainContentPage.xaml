@@ -27,7 +27,7 @@
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
                             <Grid>
-                                <Image Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"/>
+                                <ImageButton ClassId="{Binding Nome}" Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill" Clicked="ImageClicked"/>
                                 <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="#E9E9E9"/>
                             </Grid>
                         </Frame>

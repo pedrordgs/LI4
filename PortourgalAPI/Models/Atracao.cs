@@ -7,5 +7,7 @@ namespace PortourgalAPI.Models
 {
     public class Atracao
     {
+        public string Nome { get; set; }
+        public string Imagem { get; set; }
     }
 }
