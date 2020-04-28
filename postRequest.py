@@ -10,5 +10,5 @@ for f in files:
     print("POST: " + f)
     contents = open(path+f, 'rb').read()
     # print(contents)
-    r = requests.post("https://portourgalapi2020.azurewebsites.net/api/distritos", data=contents, headers=headers)
+    r = requests.put("https://portourgalapi2020.azurewebsites.net/api/distritos", data=contents, headers=headers)
     print(r.status_code);
