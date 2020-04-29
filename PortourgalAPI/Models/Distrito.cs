@@ -8,7 +8,7 @@ namespace PortourgalAPI.Models
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public string Id { get; set; }  
+        public string Id { get; set; }
         public string Nome { get; set; }
         public string Historia { get; set; }
         public List<Cidade> Cidades { get; set; }
