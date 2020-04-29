@@ -12,7 +12,7 @@ namespace Portourgal
             InitializeComponent();
 
             MainPage = new NavigationPage(new MainPage());
-            //MainPage = new MainContentPage();
+            //MainPage = new DistritosInfView("Braga");
         }
 
         protected override void OnStart()

@@ -24,7 +24,7 @@ namespace Portourgal.View
         {
             string distrito = ((ImageButton)sender).ClassId;
             DisplayAlert("Demo", distrito, "OK");
-            App.Current.MainPage = new DistritosInfView(distrito);
+            //App.Current.MainPage = new DistritosInfView(distrito);
         }
     }
 }
