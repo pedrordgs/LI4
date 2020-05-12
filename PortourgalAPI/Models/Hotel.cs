@@ -8,6 +8,11 @@ namespace PortourgalAPI.Models
     public class Hotel
     {
         public string Nome { get; set; }
+
+        public string Morada { get; set; }
+
+        public double Classificacao { get; set; }
+
         public string Imagem { get; set; }
     }
 }
