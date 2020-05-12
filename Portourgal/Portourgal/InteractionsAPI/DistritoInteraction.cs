@@ -33,7 +33,7 @@ namespace Portourgal.InteractionsAPI
             if (Connectivity.NetworkAccess != NetworkAccess.None)
             {
                 HttpClient client = new HttpClient();
-                HttpResponseMessage response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/"+nome);
+                HttpResponseMessage response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/"+nome).ConfigureAwait(false);
                 if (response.IsSuccessStatusCode)
                 {
                     string json = await response.Content.ReadAsStringAsync();

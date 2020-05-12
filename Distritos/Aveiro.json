@@ -2,23 +2,30 @@
     "Nome": "Aveiro",
     "Historia": "É uma cidade na costa oeste portuguesa fundada junto a uma laguna conhecida como Ria de Aveiro. Distingue-se pelos seus canais navegados por barcos coloridos (barcos moliceiros), tradicionalmente utilizados para a colheita de algas.",
     "Cidades": [
-      { "Nome": "Águeda"
+      { "Nome": "Águeda", 
         "Atracoes": [
-          { "Nome": "",
+          {
+            "Nome": "",
             "Localidade": "",
             "Historia": "",
+            "Imagem": ""
           }
-        ]
-        "Restaurantes" [
-          { "Nome": "",
-            "Morada": "",
-            "Classificacao":  "",
-          }
-        ]
-        "Hoteis": [
-          { "Nome": "",
+        ],
+        "Restaurantes":[
+          {
+            "Nome": "",
             "Morada": "",
             "Classificacao": "",
+            "Imagem": ""
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "",
+            "Morada": "",
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -28,21 +35,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -52,21 +63,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
 
@@ -77,21 +92,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -101,21 +120,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -125,21 +148,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -149,21 +176,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -173,21 +204,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -197,21 +232,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -221,21 +260,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -245,21 +288,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -269,21 +316,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -293,21 +344,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -317,21 +372,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -341,21 +400,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -365,21 +428,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -389,21 +456,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -413,21 +484,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       },
@@ -437,21 +512,25 @@
           {
             "Nome": "",
             "Localidade": "",
-            "Historia": ""
+            "Historia": "",
+            "Imagem": ""
           }
         ],
-        "Restaurantes" [
+        "Restaurantes": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Imagem": ""
           }
         ],
         "Hoteis": [
           {
             "Nome": "",
             "Morada": "",
-            "Classificacao": ""
+            "Classificacao": "",
+            "Preco": "",
+            "Imagem": ""
           }
         ]
       }
