@@ -25,7 +25,8 @@ namespace Portourgal.ViewModel
         async void EntrarUtilizador()
         {
             bool b = await UserInteraction.AutenticaUtilizador(Email, Password);
-            if (b) App.Current.MainPage = new HomePage();
+            if (b) App.Current.MainPage = new NavigationPage(new HomePage());
+            //if (b) App.Current.MainPage = new DistritosInfView("Braga");
             else await App.Current.MainPage.DisplayAlert("Login","As credenciais fornecidas não estão corretas", "OK");
         }
     }   
