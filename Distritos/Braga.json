@@ -22,19 +22,19 @@
 				{
 					"Nome": "Recanto da Minhota",
 					"Morada": "R. Cavaleiros 9, 4720-116, Amares",
-					"Classificacao": "4,4",
+					"Classificacao": 4.4,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Pizzaria Café Nanette",
 					"Morada": "Tv. 20 de Janeiro 9, Amares",
-					"Classificacao": "4,3",
+					"Classificacao": 4.3,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Milho Rei",
 					"Morada": "Praça do Comércio 67, 4720-337 Ferreiros",
-					"Classificacao": "4,2",
+					"Classificacao": 4.2,
 					"Imagem": ""
 				}
 			],
@@ -42,14 +42,14 @@
 				{
 					"Nome": "Troia Hotel",
 					"Morada": "R. 25 de Abril 27, 4720-393 Ferreiros",
-					"Classificacao": "2*",
+					"Classificacao": 2,
 					"Preco": "",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Pousada Mosteiro Amares",
 					"Morada": "Largo do Terreiro - Santa Maria do Bouro, 4720-633 Amares",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "",
 					"Imagem": ""
 				}
@@ -75,19 +75,19 @@
 				{
 					"Nome": "Casa dos Arcos",
 					"Morada": "R. Duques de Bragança 185, 4750-272 Barcelos",
-					"Classificacao": "4,4",
+					"Classificacao": 4.4,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Restaurante Vera Cruz",
 					"Morada": "Avenida Doutor Sidónio Pais 379, 4750-333 Barcelos",
-					"Classificacao": "4,1",
+					"Classificacao": 4.1,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Turismo Restaurante Lounge",
 					"Morada": "R. Duques de Bragança 171, 4750-272 Barcelos",
-					"Classificacao": "4,8",
+					"Classificacao": 4.8,
 					"Imagem": ""
 				}
 			],
@@ -95,14 +95,14 @@
 				{
 					"Nome": "Art'Otel Barcelos",
 					"Morada": "R. da Madalena nº29, 4750-315 Barcelos",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "75€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Hotel Bagoeira",
 					"Morada": "Av. Dr. Sidónio Pais 495, 4750-333 Barcelos",
-					"Classificacao": "3*",
+					"Classificacao": 3,
 					"Preco": "55€",
 					"Imagem": ""
 				}
@@ -134,19 +134,19 @@
 				{
 					"Nome": "Taberna Belga",
 					"Morada": "R. Cónego Luciano Afonso dos Santos 14, 4700-048 Braga",
-					"Classificacao": "4,6",
+					"Classificacao": 4.6,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Restaurante Gosto Superior",
 					"Morada": "Praça Mouzinho de Albuquerque 29, 4710-301 Braga",
-					"Classificacao": "4,7",
+					"Classificacao": 4.7,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Marisqueira Docamar",
 					"Morada": "R. de Baixo 32, 4715-043 Braga",
-					"Classificacao": "4,4",
+					"Classificacao": 4.4,
 					"Imagem": ""
 				}
 			],
@@ -154,14 +154,14 @@
 				{
 					"Nome": "Meliá Braga Hotel & Spa",
 					"Morada": "Av. Gen. Carrilho da Silva Pinto 8, 4715-380 Tenões, Braga",
-					"Classificacao": "5*",
+					"Classificacao": 5,
 					"Preco": "91€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Hotel do Parque",
 					"Morada": "Bom Jesus do Monte, 4715-056 Braga",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "85€",
 					"Imagem": ""
 				}
@@ -187,19 +187,19 @@
 				{
 					"Nome": "Cozinha Real de Basto",
 					"Morada": "R. de São Sebastião, 4860-503 Cabeceiras de Basto",
-					"Classificacao": "4,3",
+					"Classificacao": 4.3,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Restaurante Luís do Outeirinho",
 					"Morada": "Cabeceiras de Basto",
-					"Classificacao": "4,4",
+					"Classificacao": 4.4,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Batataz",
 					"Morada": "R. Antunes Basto 359-B, 4860-363 Cabeceiras de Basto",
-					"Classificacao": "4,6",
+					"Classificacao": 4.6,
 					"Imagem": ""
 				}
 			],
@@ -207,14 +207,14 @@
 				{
 					"Nome": "Basto Vila Hotel",
 					"Morada": "Cabeceiras de Basto",
-					"Classificacao": "1*",
+					"Classificacao": 1,
 					"Preco": "58€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Casa de Lamas",
 					"Morada": "Rua Tenente Gonçalo Meireles 56, 4860-333",
-					"Classificacao": "3*",
+					"Classificacao": 3,
 					"Preco": "43€",
 					"Imagem": ""
 				}
@@ -234,19 +234,19 @@
 				{
 					"Nome": "Restaurante Santiago",
 					"Morada": "Rua Senador Magalhães Bastos Edif, Santiago, Ent. Sul 1º, 4890-220 Celorico de Basto",
-					"Classificacao": "4,7",
+					"Classificacao": 4.7,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Pizzaria Hudi",
 					"Morada": "Capitão de Abril, R. Rodrigo Sousa e Castro, 4890-293 Gémeos",
-					"Classificacao": "4,1",
+					"Classificacao": 4.1,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Restaurante da Alzira",
 					"Morada": "Restaurante da Alzira Av. João Pinto Ribeiro (antigo 900, 4890-221 Celorico de Basto)",
-					"Classificacao": "4,2",
+					"Classificacao": 4.2,
 					"Imagem": ""
 				}
 			],
@@ -254,14 +254,14 @@
 				{
 					"Nome": "Flag Hotel Celorico Palace",
 					"Morada": "R. dos Combatentes do Ultramar 100 293, 4890-293 Celorico de Basto",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "67€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Água Hotels Mondim de Basto",
 					"Morada": "Monte da Paradela, 4880-162 Mondim de Basto",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "50€",
 					"Imagem": ""
 				}
@@ -287,25 +287,25 @@
 				{
 					"Nome": "Restaurante O Buraco",
 					"Morada": "Av. Eng. Eduardo Arantes e Oliveira 50, 4740-204 Esposende",
-					"Classificacao": "4,3",
+					"Classificacao": 4.3,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Siamo In Due Restaurante & Pizzeria",
 					"Morada": "R. Pinhal da Foz 20, 4740-255 Esposende",
-					"Classificacao": "4,3",
+					"Classificacao": 4.3,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Attytude by Sky Valley",
 					"Morada": "R. 1º de Dezembro, 4740-226 Esposende",
-					"Classificacao": "4,4",
+					"Classificacao": 4.4,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Sky Valley Restaurant & Sushibar",
 					"Morada": "Av. Eng. Eduardo Arantes e Oliveira, 4740-204 Esposende",
-					"Classificacao": "4,5",
+					"Classificacao": 4.5,
 					"Imagem": ""
 				}
 			],
@@ -313,14 +313,14 @@
 				{
 					"Nome": "Hotel Suave Mar",
 					"Morada": "Av. Eng. Eduardo Arantes e Oliveira, 4740-204 Esposende",
-					"Classificacao": "3*",
+					"Classificacao": 3,
 					"Preco": "50€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Esposende GuestHouse",
 					"Morada": "R. Conde Agrolongo 29, 4740-239 Esposende",
-					"Classificacao": "2*",
+					"Classificacao": 2,
 					"Preco": "24€",
 					"Imagem": ""
 				}
@@ -346,19 +346,19 @@
 				{
 					"Nome": "Porto Seguro",
 					"Morada": "R. de Moçambique 300, 4820-216 Fafe",
-					"Classificacao": "4,4",
+					"Classificacao": 4.4,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Quinta do Rio",
 					"Morada": "Fafe",
-					"Classificacao": "4,6",
+					"Classificacao": 4.6,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Taberna do Sushi",
 					"Morada": "R. Parque da Cidade 134, 4820-202 Fafe",
-					"Classificacao": "4,7",
+					"Classificacao": 4.7,
 					"Imagem": ""
 				}
 			],
@@ -366,14 +366,14 @@
 				{
 					"Nome": "Hotel Fafense",
 					"Morada": "Largo Ferreira de Melo 133 a 143, 4820-137 Fafe",
-					"Classificacao": "3*",
+					"Classificacao": 3,
 					"Preco": "40€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Flag Hotel Guimarães Fafe",
 					"Morada": "Av. do Brasil, 4820-121 Fafe",
-					"Classificacao": "2*",
+					"Classificacao": 2,
 					"Preco": "27€",
 					"Imagem": ""
 				}
@@ -405,19 +405,19 @@
 				{
 					"Nome": "Taberna Trovador",
 					"Morada": "Largo do Trovador 10, 4810-451 Guimarães",
-					"Classificacao": "4,6",
+					"Classificacao": 4.6,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Pizzaria Luzzo",
 					"Morada": "Largo do Toural 82, 4810-225 Guimarães",
-					"Classificacao": "4,4",
+					"Classificacao": 4.4,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Le Babachris",
 					"Morada": "R. Dom João I 39, 4810-422 Guimarães",
-					"Classificacao": "4,7",
+					"Classificacao": 4.7,
 					"Imagem": ""
 				}
 			],
@@ -425,14 +425,14 @@
 				{
 					"Nome": "Hotel de Guimarães",
 					"Morada": "R. Eduardo Manuel de Almeida 202, 4810-440 Guimarães",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "62€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Santa Luzia ArtHotel",
 					"Morada": "R. Francisco Agra 100, 4800-157 Guimarães",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "70€",
 					"Imagem": ""
 				}
@@ -458,19 +458,19 @@
 				{
 					"Nome": "Café Gonçalves",
 					"Morada": "Av. dos Bombeiros Voluntários 112, 4830-514 Póvoa de Lanhoso",
-					"Classificacao": "4,6",
+					"Classificacao": 4.6,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Birá à Portuguesa",
 					"Morada": "Rua Drº, R. Dr. Avelino Pereira de Carvalho nº67, 4830-552 Póvoa de Lanhoso",
-					"Classificacao": "4,2",
+					"Classificacao": 4.2,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Restaurante O Nosso Encontro",
 					"Morada": "R. da Feira, 4830-538 Póvoa de Lanhoso",
-					"Classificacao": "4,1",
+					"Classificacao": 4.1,
 					"Imagem": ""
 				}
 			],
@@ -478,14 +478,14 @@
 				{
 					"Nome": "Hotel Rural Vila Joaquina",
 					"Morada": "Caminho do Barreiro 78, 4830-191 Póvoa de Lanhoso",
-					"Classificacao": "3*",
+					"Classificacao": 3,
 					"Preco": "60€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Hotel Rural Maria da Fonte",
 					"Morada": "Quinta do Fundão, 4830-065 Póvoa de Lanhoso",
-					"Classificacao": "3*",
+					"Classificacao": 3,
 					"Preco": "77€",
 					"Imagem": ""
 				}
@@ -511,19 +511,19 @@
 				{
 					"Nome": "Restaurante Lua de Mel",
 					"Morada": "N205-3 30, 4840-060 Terras de Bouro",
-					"Classificacao": "4,2",
+					"Classificacao": 4.2,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Toca do Caçador",
 					"Morada": "4840-100 Terras de Bouro",
-					"Classificacao": "4,2",
+					"Classificacao": 4.2,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Tasca do Lopes",
 					"Morada": "Lago da República 16, 4840-100 Terras de Bouro",
-					"Classificacao": "4,6",
+					"Classificacao": 4.6,
 					"Imagem": ""
 				}
 			],
@@ -538,7 +538,7 @@
 				{
 					"Nome": "Tempus Hotel & Spa",
 					"Morada": "Lugar de Quintao, Oleiros, 4980-521 Pte. da Barca",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "65€",
 					"Imagem": ""
 				}
@@ -558,19 +558,19 @@
 				{
 					"Nome": "Restaurante Pizzaria Ritrovo",
 					"Morada": "Rua da Lameira nº87, 4850-542 Vieira do Minho",
-					"Classificacao": "4,7",
+					"Classificacao": 4.7,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Ronca",
 					"Morada": "Vieira do Minho",
-					"Classificacao": "4,6",
+					"Classificacao": 4.6,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Vieira do Minho",
 					"Morada": "R. Padre Casimiro José Vieira 186, 4850-504 Vieira do Minho",
-					"Classificacao": "4,1",
+					"Classificacao": 4.1,
 					"Imagem": ""
 				}
 			],
@@ -585,7 +585,7 @@
 				{
 					"Nome": "Pousadela Village - Aldeamento Turístico",
 					"Morada": "Rua do Riso 835, 4850-214",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "77€",
 					"Imagem": ""
 				}
@@ -605,19 +605,19 @@
 				{
 					"Nome": "Palácio Restaurante",
 					"Morada": "R. 25 de Abril 43, 4730-352 Vila Verde",
-					"Classificacao": "4,5",
+					"Classificacao": 4.5,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Casa do Campo",
 					"Morada": "EM1189 51, 4730-596 Vila Verde",
-					"Classificacao": "4,4",
+					"Classificacao": 4.4,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Churrasqueira Barros",
 					"Morada": "R. Frei Albano Emílio Alves 90A, 4730-072 Vila Verde",
-					"Classificacao": "4,6",
+					"Classificacao": 4.6,
 					"Imagem": ""
 				}
 			],
@@ -625,14 +625,14 @@
 				{
 					"Nome": "Hotel Bom Sucesso",
 					"Morada": "Largo Antunes Lima 5, 4730-450 Vila de Prado",
-					"Classificacao": "2*",
+					"Classificacao": 2,
 					"Preco": "40€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Alojamento Costa & Dias",
-					"Morada": "5*",
-					"Classificacao": "R. Dom Paio Guterres da Silva nº6, 4730-062",
+					"Morada": "R. Dom Paio Guterres da Silva nº6, 4730-062",
+					"Classificacao": 5,
 					"Preco": "45€",
 					"Imagem": ""
 				}
@@ -652,19 +652,19 @@
 				{
 					"Nome": "Pregaria da Bica",
 					"Morada": "Rua Jardim Manuel Faria nº43, 4815-514 Vizela",
-					"Classificacao": "4,6",
+					"Classificacao": 4.6,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Museu do Presunto e do Vinho",
 					"Morada": "R. António Pereira da Silva 36, 4815-476 Caldas de Vizela",
-					"Classificacao": "4,7",
+					"Classificacao": 4.7,
 					"Imagem": ""
 				},
 				{
 					"Nome": "Restaurante Porta2",
 					"Morada": "Av. Bombeiros Voluntários 139, 4815-394 Vizela",
-					"Classificacao": "4,2",
+					"Classificacao": 4.2,
 					"Imagem": ""
 				}
 			],
@@ -672,14 +672,14 @@
 				{
 					"Nome": "Hotel Termas Vizela",
 					"Morada": "R. Dr. Abílio Torres nº1236, 4815-552 Caldas de Vizela",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "63€",
 					"Imagem": ""
 				},
 				{
 					"Nome": "Hotel Bienestar Termas De Vizela",
 					"Morada": "R. Dr. Abílio Torres 855, 4815-552 Caldas de Vizela",
-					"Classificacao": "4*",
+					"Classificacao": 4,
 					"Preco": "62€",
 					"Imagem": ""
 				}
