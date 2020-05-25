@@ -6,25 +6,50 @@
 			"Nome": "Amares",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
+					"Nome": "Réplica do pelourinho de Amares",
+					"Localidade": "Ferreiros",
+					"Historia": "O Pelourinho de Amares está situado em frente à Igreja no lado Norte do Largo D. Gualdim Pais, em frente ao antigo Edifício dos Paços do Concelho. Relegando para muito mais tarde o reconhecimento que a região teve ao longo da Idade Média, o primeiro foral conhecido em Amares remonta ao tempo de D. Manuel em 1514. O atual pelourinho corresponde a uma réplica, devido à perda das peças originais. Destas resta apenas a base hexagonal que se integra no murete de suporte das escadas do edifício da Câmara Municipal. Sobre dois degraus circulares, tem como base um plinto hexagonal. A coluna de fuste circular é lisa e rematada por um coruchéu piramidal, possuindo um capitel circular e moldurado. Para finalizar segue-se uma bandeirola em catavento em ferro. Ponto do Porto",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Mosteiro de Santo Angré de Rendufe",
+					"Localidade": "4720-627 Rendufe",
+					"Historia": "Embora se desconheça a data precisa de edificação deste antigo mosteiro da Ordem de São Bento, sabe-se que a sua primitiva igreja já existia em 1151. Considerado uma das principais casas dos monges beneditinos no país, foi seu fundador Egas Gome Pais de Penegate, membro da nobreza e tenente das terras de Regalados, Penela, Bouro e Rendufe de 1071 até 1112 entre os rios Neiva e Cávado.",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Recanto da Minhota",
+					"Morada": "R. Cavaleiros 9, 4720-116, Amares",
+					"Classificacao": "4,4",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Pizzaria Café Nanette",
+					"Morada": "Tv. 20 de Janeiro 9, Amares",
+					"Classificacao": "4,3",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Milho Rei",
+					"Morada": "Praça do Comércio 67, 4720-337 Ferreiros",
+					"Classificacao": "4,2",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Troia Hotel",
+					"Morada": "R. 25 de Abril 27, 4720-393 Ferreiros",
+					"Classificacao": "2*",
+					"Preco": "",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Pousada Mosteiro Amares",
+					"Morada": "Largo do Terreiro - Santa Maria do Bouro, 4720-633 Amares",
+					"Classificacao": "4*",
 					"Preco": "",
 					"Imagem": ""
 				}
@@ -34,26 +59,51 @@
 			"Nome": "Barcelos",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
+					"Nome": "Museu de Olaria",
+					"Localidade": "Vila Boa e Vila Frescainha, Barcelos",
+					"Historia": "O Museu foi criado, com o nome de Museu Regional de Cerâmica Popular, em 1963 após a doação de uma colecção recolhida pelo etnógrafo Joaquim Sellès Paes de Villas Boas. O alargamento das colecções à olaria nacional, fez com que se alterasse a designação para Museu de Olaria Paço dos Condes de Barcelos",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Igreja do Bom Jesus da Cruz",
+					"Localidade": "Barcelos",
+					"Historia": "A sua origem está ligada ao chamado Milagre da Cruz, prodígio religioso ocorrido em 20 de dezembro de 1504, ligado ao surgimento de uma cruz negra no carvalhal do Campo da Feira. Com o intuito de proteger essa cruz, foi erguido um pequeno templo de planta quadrada, coberto por uma abóbada e aberto por quatro arcos. Em data incerta, os arcos foram fechados e ao seu redor erguida uma arcaria coberta com telhado.",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Casa dos Arcos",
+					"Morada": "R. Duques de Bragança 185, 4750-272 Barcelos",
+					"Classificacao": "4,4",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Restaurante Vera Cruz",
+					"Morada": "Avenida Doutor Sidónio Pais 379, 4750-333 Barcelos",
+					"Classificacao": "4,1",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Turismo Restaurante Lounge",
+					"Morada": "R. Duques de Bragança 171, 4750-272 Barcelos",
+					"Classificacao": "4,8",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Art'Otel Barcelos",
+					"Morada": "R. da Madalena nº29, 4750-315 Barcelos",
+					"Classificacao": "4*",
+					"Preco": "75€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Hotel Bagoeira",
+					"Morada": "Av. Dr. Sidónio Pais 495, 4750-333 Barcelos",
+					"Classificacao": "3*",
+					"Preco": "55€",
 					"Imagem": ""
 				}
 			]
@@ -62,26 +112,57 @@
 			"Nome": "Braga",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
+					"Nome": "Sé de Braga",
+					"Localidade": "Braga",
+					"Historia": "Assenta sobre as fundações de um antigo mercado ou templo romano dedicado a Ísis, conforme testemunha uma pedra votiva na parede leste, e os muros de uma posterior basílica paleocristã. A sua história melhor documentada remonta à obra do primeiro bispo, D. Pedro de Braga, e corresponde à restauração da Sé episcopal em 1070, de que se conservam poucos vestígios. Em 1128 foi iniciado um edifício de cinco capelas na cabeceira, por iniciativa do arcebispo D. Paio Mendes, parcialmente destruído pelo terramoto de 1135. Respeitando os cânones arquitectónicos dos Beneditinos clunicenses, os trabalhos foram dirigidos por Nuno Paio. Em 1268 as obras ainda não estavam concluídas. O edifício continuou a ser modificado com algumas intervenções artísticas, sendo particularmente significativa a galilé, mandada construir, na fachada, por D. Jorge da Costa nos primeiros anos do século XVI e que viria a ser concluída por D. Diogo de Sousa. Este último mandou fazer as grades que agora a fecham, tendo ainda altera \t\t\t\to o pórtico principal, (destruindo duas das suas arquivoltas) e mandado executar a abside e a capela-mor, obra de João de Castilho datada do início do século XVI.",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Arco da Porta Nova",
+					"Localidade": "Braga (Maximinos, Sé e Cividade)",
+					"Historia": " Foi uma das portas nas muralhas da cidade, rasgada em 1512, à época do Arcebispo de Braga, D. Diogo de Sousa. A sua atual feição data de 1772, por iniciativa do arcebispo D. Gaspar de Bragança, com projeto do arquiteto bracarense André Soares, num momento histórico em que a cidade rompia as antigas muralhas, expandindo-se.Encontra-se classificada como Monumento Nacional desde 1910. Junto encontra-se uma torre medieval, pertencente à muralha fernandina, e praticamente encoberta pelo casario. A entrada faz-se pelo Museu da Imagem.",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Bom Jesus do Monte",
+					"Localidade": "Braga",
+					"Historia": "Acredita-se que a primitiva ocupação deste sítio remonte ao início do século XIV, quando alguém terá erguido uma cruz no alto do monte Espinho. No ano de 1373 já é mencionada uma ermida no local, sob a invocação da Santa Cruz. Esta ermida terá estado anexa à paróquia de Tenões.Local de devoção e peregrinação das gentes da região de Braga, em 1494 foi erguida uma segunda ermida, por iniciativa do então Arcebispo de Braga, D. Jorge da Costa, conforme atestam as armas desse prelado, encontradas durante as obras empreendidas em 1839. Uma terceira ermida foi erguida em 1522 por iniciativa do deão da Sé de Braga, D. João da Guarda, período em que se registou um aumento da devoção no local. Em 1629 um grupo de devotos constituiu a Confraria do Bom Jesus do Monte, sendo edificada uma capela onde foi colocada uma imagem de Cristo Crucificado, além de casas para abrigo dos romeiros, e as primeiras capelas dos Passos da Paixão, sob a forma de pequenos nichos, dedicados aos episódios da Deposição da Cruz, da deposição no túmulo, da Ressurreição e da Ascensão. Foi nomeado o primeiro ermitão, Pedro do Rosário.A partir de 1722, o então Arcebispo de Braga, D. Rodrigo de Moura Teles, concebeu e iniciou um grande projeto que desembocaria no atual Santuário.",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Taberna Belga",
+					"Morada": "R. Cónego Luciano Afonso dos Santos 14, 4700-048 Braga",
+					"Classificacao": "4,6",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Restaurante Gosto Superior",
+					"Morada": "Praça Mouzinho de Albuquerque 29, 4710-301 Braga",
+					"Classificacao": "4,7",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Marisqueira Docamar",
+					"Morada": "R. de Baixo 32, 4715-043 Braga",
+					"Classificacao": "4,4",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Meliá Braga Hotel & Spa",
+					"Morada": "Av. Gen. Carrilho da Silva Pinto 8, 4715-380 Tenões, Braga",
+					"Classificacao": "5*",
+					"Preco": "91€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Hotel do Parque",
+					"Morada": "Bom Jesus do Monte, 4715-056 Braga",
+					"Classificacao": "4*",
+					"Preco": "85€",
 					"Imagem": ""
 				}
 			]
@@ -90,26 +171,51 @@
 			"Nome": "Cabeceiras",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
+					"Nome": "Casa do Tempo",
+					"Localidade": "Av. Francisco Sá Carneiro 8, 4860-355 Cabeceiras de Basto",
+					"Historia": "A Casa do Tempo é, por isso, um projeto integrado que tem em conta a riqueza patrimonial, a identidade e a matriz rural que caracteriza o concelho, que contribuirá seguramente para salvaguardar o património material e imaterial local e para dar a conhecer o dinamismo desta terra e das suas gentes.",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Mosteiro de S. Miguel de Refojos",
+					"Localidade": "Praça da República 19, 4860-355 Cabeceiras de Basto",
+					"Historia": "O primeiro documento relativo ao Mosteiro data de 1122. Pouco mais tarde, em 1131, D. Afonso Henriques concedeu carta de couto ao mosteiro. As obras do atual edifício tiveram início em 1755, sendo acordadas entre o arquiteto bracarense André Soares e o então abade, Frei Francisco de São José. Na fase final das obras registou-se a chegada ao mosteiro de Frei José de Santo António Vilaça, que ali trabalhou de 1764 a 1770. É classificado como A Jóia do Barroco Português em Terras de Basto",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Cozinha Real de Basto",
+					"Morada": "R. de São Sebastião, 4860-503 Cabeceiras de Basto",
+					"Classificacao": "4,3",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Restaurante Luís do Outeirinho",
+					"Morada": "Cabeceiras de Basto",
+					"Classificacao": "4,4",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Batataz",
+					"Morada": "R. Antunes Basto 359-B, 4860-363 Cabeceiras de Basto",
+					"Classificacao": "4,6",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Basto Vila Hotel",
+					"Morada": "Cabeceiras de Basto",
+					"Classificacao": "1*",
+					"Preco": "58€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Casa de Lamas",
+					"Morada": "Rua Tenente Gonçalo Meireles 56, 4860-333",
+					"Classificacao": "3*",
+					"Preco": "43€",
 					"Imagem": ""
 				}
 			]
@@ -118,26 +224,45 @@
 			"Nome": "Celorico",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
+					"Nome": "Castelo da Arnoia",
+					"Localidade": "Arnoia",
+					"Historia": "A época da construção deverá remontar ao final do século X ou início do XI, acredita-se que ligada à defesa do vizinho Mosteiro de São Bento de Arnoia, também fundado neste período. Contribui para esse raciocínio a data de 1034, assinalada na lápide da sepultura do alcaide do castelo (e provável fundador do mosteiro, segundo alguns autores), Múnio Muniz, no claustro daquele mosteiro. No século XIII, as Inquirições do reino de 1258 referem alguns casais nas freguesias de Arnoia, Caçarilhe e Carvalho, obrigadas à alimentação dos cães de guarda do castelo e da preparação da cal necessária para a sua conservação.Com a morte do rei Afonso III de Portugal (1210-1279), tendo rendido preito de homenagem a D. Beatriz (rainha viúva e testamenteira do falecido), o alcaide deste castelo, Martim Vasques da Cunha, após o afastamento da senhora para o reino de Castela por desentendimentos havidos com Dinis I de Portugal (1279-1325), teve dificuldades com o novo soberano, que se recusou a desobrigá-lo do seu compromisso de honra. Segundo reza a tradição, tendo consultado diversas cortes européias sobre como proceder honrosamente nesse impasse, fez sair a guarnição e gentes do castelo, trancando-se no seu interior. Tendo lançado fogo a uma das habitações no seu interior, salvou-se, descendo-se por um cesto suspenso por uma corda amarrada em uma das ameias. Desse modo, exonerou-se da função sem ferir o compromisso de honra assumido. Verdadeira a narrativa ou não, é fato que, em 1282, D. Dinis arrendou os domínios de Celorico de Basto a Martim Joanes, pelo montante de 210 morabitinos, com a obrigação de que o arrendatário contratasse um cavaleiro para as funções de alcaide deste castelo. Os domínios e o castelo foram arrendadas pelo mesmo soberano em 1284 aos moradores de Celorico de Basto.",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Restaurante Santiago",
+					"Morada": "Rua Senador Magalhães Bastos Edif, Santiago, Ent. Sul 1º, 4890-220 Celorico de Basto",
+					"Classificacao": "4,7",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Pizzaria Hudi",
+					"Morada": "Capitão de Abril, R. Rodrigo Sousa e Castro, 4890-293 Gémeos",
+					"Classificacao": "4,1",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Restaurante da Alzira",
+					"Morada": "Restaurante da Alzira Av. João Pinto Ribeiro (antigo 900, 4890-221 Celorico de Basto)",
+					"Classificacao": "4,2",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Flag Hotel Celorico Palace",
+					"Morada": "R. dos Combatentes do Ultramar 100 293, 4890-293 Celorico de Basto",
+					"Classificacao": "4*",
+					"Preco": "67€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Água Hotels Mondim de Basto",
+					"Morada": "Monte da Paradela, 4880-162 Mondim de Basto",
+					"Classificacao": "4*",
+					"Preco": "50€",
 					"Imagem": ""
 				}
 			]
@@ -146,7 +271,13 @@
 			"Nome": "Esposende",
 			"Atracoes": [
 				{
-					"Nome": "",
+					"Nome": "Esposende 2000",
+					"Localidade": "Avenida Engenheiro Eduardo Arantes E Oliveira, Edif. Piscinas, Esposende",
+					"Historia": "",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Praia de Esposende",
 					"Localidade": "",
 					"Historia": "",
 					"Imagem": ""
@@ -154,18 +285,43 @@
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Restaurante O Buraco",
+					"Morada": "Av. Eng. Eduardo Arantes e Oliveira 50, 4740-204 Esposende",
+					"Classificacao": "4,3",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Siamo In Due Restaurante & Pizzeria",
+					"Morada": "R. Pinhal da Foz 20, 4740-255 Esposende",
+					"Classificacao": "4,3",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Attytude by Sky Valley",
+					"Morada": "R. 1º de Dezembro, 4740-226 Esposende",
+					"Classificacao": "4,4",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Sky Valley Restaurant & Sushibar",
+					"Morada": "Av. Eng. Eduardo Arantes e Oliveira, 4740-204 Esposende",
+					"Classificacao": "4,5",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Hotel Suave Mar",
+					"Morada": "Av. Eng. Eduardo Arantes e Oliveira, 4740-204 Esposende",
+					"Classificacao": "3*",
+					"Preco": "50€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Esposende GuestHouse",
+					"Morada": "R. Conde Agrolongo 29, 4740-239 Esposende",
+					"Classificacao": "2*",
+					"Preco": "24€",
 					"Imagem": ""
 				}
 			]
@@ -174,26 +330,51 @@
 			"Nome": "Fafe",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Teatro Cinema de Fafe",
+					"Localidade": "Localidade: N207, 4820-279 Fafe",
+					"Historia": "",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Jardim do Calvário",
+					"Localidade": "Tv. Visc. Moreira de Rei 52, 4820-255 Fafe",
 					"Historia": "",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Porto Seguro",
+					"Morada": "R. de Moçambique 300, 4820-216 Fafe",
+					"Classificacao": "4,4",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Quinta do Rio",
+					"Morada": "Fafe",
+					"Classificacao": "4,6",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Taberna do Sushi",
+					"Morada": "R. Parque da Cidade 134, 4820-202 Fafe",
+					"Classificacao": "4,7",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Hotel Fafense",
+					"Morada": "Largo Ferreira de Melo 133 a 143, 4820-137 Fafe",
+					"Classificacao": "3*",
+					"Preco": "40€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Flag Hotel Guimarães Fafe",
+					"Morada": "Av. do Brasil, 4820-121 Fafe",
+					"Classificacao": "2*",
+					"Preco": "27€",
 					"Imagem": ""
 				}
 			]
@@ -202,26 +383,57 @@
 			"Nome": "Guimarães",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Castelo de Guimarães",
+					"Localidade": "R. Conde Dom Henrique, Guimarães",
+					"Historia": "No contexto da Reconquista cristã da Península Ibérica, os domínios de Vimaranes foram outorgados, em fins do século IX, a um cavaleiro de suposta origem castelhana, de nome Diogo Fernandes, que nelas veio a estabelecer-se. Uma de suas filhas, de nome Mumadona Dias, desposou o poderoso conde Hermenegildo Gonçalves, vindo a governar, desde meados do século X até ao terceiro quartel do século XI, os domínios de Portucale. Mumadona enviuvou por volta de 928, entrando na posse de vastos domínios, divididos em julho de 950 entre os seus seis filhos. Nesse momento, por inspiração piedosa, fundou, na parte baixa da povoação de Vimaranes um mosteiro, ao qual veio a fazer, mais tarde, uma vultosa doação de terras, gado, rendas, objetos de culto e livros religiosos (26 de janeiro de 959).",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Paço dos Duques de Bragança",
+					"Localidade": "R. Conde Dom Henrique 3, 4800-412 Guimarães",
+					"Historia": "Foi erguido no século XV por iniciativa de Afonso I de Bragança. O estilo borgonhês deste palácio reflete os seus gostos, adquiridos nas viagens pela Europa, ainda que o seu aspecto actual tenha sido recriado, de forma polémica, durante o Estado Novo.Esteve desocupado quando os duques se mudaram para o Paço Ducal de Vila Viçosa, período em que o edifício foi sendo pilhado, perdendo gradativamente a sua forma original que, atualmente, permanece ignorada. Em 1933, sob o governo de António de Oliveira Salazar, foi transformado em residência oficial do Presidente do Conselho, após uma campanha de restauro controversa.",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Padrão do Salado",
+					"Localidade": "Largo da Oliveira, Guimarães",
 					"Historia": "",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Taberna Trovador",
+					"Morada": "Largo do Trovador 10, 4810-451 Guimarães",
+					"Classificacao": "4,6",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Pizzaria Luzzo",
+					"Morada": "Largo do Toural 82, 4810-225 Guimarães",
+					"Classificacao": "4,4",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Le Babachris",
+					"Morada": "R. Dom João I 39, 4810-422 Guimarães",
+					"Classificacao": "4,7",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Hotel de Guimarães",
+					"Morada": "R. Eduardo Manuel de Almeida 202, 4810-440 Guimarães",
+					"Classificacao": "4*",
+					"Preco": "62€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Santa Luzia ArtHotel",
+					"Morada": "R. Francisco Agra 100, 4800-157 Guimarães",
+					"Classificacao": "4*",
+					"Preco": "70€",
 					"Imagem": ""
 				}
 			]
@@ -230,63 +442,113 @@
 			"Nome": "Póvoa",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
+					"Nome": "Castelo da Póvoa de Lanhoso",
+					"Localidade": "N205 560, 4830-513 Póvoa de Lanhoso",
+					"Historia": "A primitiva ocupação humana do sopé do monte onde o castelo se ergue remonta à pré-história, durante o período calcolítico, conforme atestado pela recente pesquisa arqueológica.Após a invasão romana da Península Ibérica, vizinho da estrada que ligava Bracara Augusta (atual Braga), Aquae Flaviae (hoje Chaves) e Astorga pelo sul do rio Cávado, aqui foi erguida uma torre militar.",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Castro de Póvoa de Lanhoso",
+					"Localidade": "R. João Carvalho 155, 4830-513 Póvoa de Lanhoso",
+					"Historia": "O Castro de Póvoa do Lanhoso, é um dos quatro Monumentos situados no Monte do Pilar mais precisamente no sopé do Monte. Os vestígios mais antigos da ocupação humana nesta zona remontam ao calcolitico correspondente ao III milénio a. C.,e um outro período de ocupação corresponde ao Bronze final, dos séculos VII e VIII a.C. Desenvolveu-se nos séculos seguintes um povoado Fortificado que parece ter atingido o seu máximo nos finais da idade do Ferro e nos primeiros séculos da Romanização. Atualmente esta povoação castreja está situada no sopé do Monte Pilar. São de construções circular com e sem vestíbulo e retangulares, por vezes associadas a pavimentos lajeados. Está classificado como imóvel de interesse público.",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Café Gonçalves",
+					"Morada": "Av. dos Bombeiros Voluntários 112, 4830-514 Póvoa de Lanhoso",
+					"Classificacao": "4,6",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Birá à Portuguesa",
+					"Morada": "Rua Drº, R. Dr. Avelino Pereira de Carvalho nº67, 4830-552 Póvoa de Lanhoso",
+					"Classificacao": "4,2",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Restaurante O Nosso Encontro",
+					"Morada": "R. da Feira, 4830-538 Póvoa de Lanhoso",
+					"Classificacao": "4,1",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Hotel Rural Vila Joaquina",
+					"Morada": "Caminho do Barreiro 78, 4830-191 Póvoa de Lanhoso",
+					"Classificacao": "3*",
+					"Preco": "60€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Hotel Rural Maria da Fonte",
+					"Morada": "Quinta do Fundão, 4830-065 Póvoa de Lanhoso",
+					"Classificacao": "3*",
+					"Preco": "77€",
 					"Imagem": ""
 				}
 			]
 		},
 		{
-			"Nome": "Terras",
+			"Nome": "Terras de Bouro",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
+					"Nome": "Santuário de Nossa Senhora da Abadia",
+					"Localidade": "Terras de Bouro",
+					"Historia": "O Santuário de Nossa Senhora da Abadia é um santuário mariano do séc XVIII que impressiona pela imponente fachada, assim como pelo seu estado de conservação. O interior do templo setecentista, tem três naves, separadas por arcadas de volta inteira assentes em colunas toscanas.Nas naves laterais podem-se admirar vários altares, todos muito bem decorados e preservados.",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Parque Nacional Peneda-Gerês",
+					"Localidade": "Braga",
+					"Historia": "O Parque Nacional da Peneda-Gerês é considerado pela UNESCO como Reserva Mundial da Biosfera. É uma das maiores atracções naturais de Portugal, pela rara e impressionante beleza paisagística e pelo valor ecológico e etnográfico[4] e pela variedade de fauna (íbex-ibéricos, corços, garranos, lobos, aves de rapina) e flora (pinheiros, teixos, castanheiros, carvalhos e várias plantas medicinais). Estende-se desde a serra do Gerês, a Sul, passando pela serra da Peneda até a fronteira espanhola.",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Restaurante Lua de Mel",
+					"Morada": "N205-3 30, 4840-060 Terras de Bouro",
+					"Classificacao": "4,2",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Toca do Caçador",
+					"Morada": "4840-100 Terras de Bouro",
+					"Classificacao": "4,2",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Tasca do Lopes",
+					"Morada": "Lago da República 16, 4840-100 Terras de Bouro",
+					"Classificacao": "4,6",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
+					"Nome": "Lgo da República 16, 4840-100 Terras de Bouro",
+					"Morada": "Av. Dr. Paulo Marcelino 62, 4840-100 Terras de Bouro",
 					"Classificacao": "",
-					"Preco": "",
+					"Preco": "40€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Tempus Hotel & Spa",
+					"Morada": "Lugar de Quintao, Oleiros, 4980-521 Pte. da Barca",
+					"Classificacao": "4*",
+					"Preco": "65€",
 					"Imagem": ""
 				}
 			]
 		},
 		{
-			"Nome": "Vieira",
+			"Nome": "Vieira do Minho",
 			"Atracoes": [
 				{
-					"Nome": "",
+					"Nome": "Quinta do Farejal",
 					"Localidade": "",
 					"Historia": "",
 					"Imagem": ""
@@ -294,74 +556,84 @@
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Restaurante Pizzaria Ritrovo",
+					"Morada": "Rua da Lameira nº87, 4850-542 Vieira do Minho",
+					"Classificacao": "4,7",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Ronca",
+					"Morada": "Vieira do Minho",
+					"Classificacao": "4,6",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Vieira do Minho",
+					"Morada": "R. Padre Casimiro José Vieira 186, 4850-504 Vieira do Minho",
+					"Classificacao": "4,1",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
+					"Nome": "Dobau Village",
+					"Morada": "Vieira do Minho",
 					"Classificacao": "",
-					"Preco": "",
+					"Preco": "79€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Pousadela Village - Aldeamento Turístico",
+					"Morada": "Rua do Riso 835, 4850-214",
+					"Classificacao": "4*",
+					"Preco": "77€",
 					"Imagem": ""
 				}
 			]
 		},
 		{
-			"Nome": "Vila",
+			"Nome": "Vila Verde",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
+					"Nome": "Santuário de Nossa Senhora do Alívio",
+					"Localidade": "Vila Verde, Braga",
+					"Historia": "O Santuário de Nossa Senhora do Alívio, também referido apenas como Santuário do Alívio, é um santuário fundado em 1798, localizado na freguesia de Soutelo, concelho de Vila Verde, distrito de Braga, em Portugal.",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Palácio Restaurante",
+					"Morada": "R. 25 de Abril 43, 4730-352 Vila Verde",
+					"Classificacao": "4,5",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Casa do Campo",
+					"Morada": "EM1189 51, 4730-596 Vila Verde",
+					"Classificacao": "4,4",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Churrasqueira Barros",
+					"Morada": "R. Frei Albano Emílio Alves 90A, 4730-072 Vila Verde",
+					"Classificacao": "4,6",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Hotel Bom Sucesso",
+					"Morada": "Largo Antunes Lima 5, 4730-450 Vila de Prado",
+					"Classificacao": "2*",
+					"Preco": "40€",
 					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Vila",
-			"Atracoes": [
+				},
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Alojamento Costa & Dias",
+					"Morada": "5*",
+					"Classificacao": "R. Dom Paio Guterres da Silva nº6, 4730-062",
+					"Preco": "45€",
 					"Imagem": ""
 				}
 			]
@@ -370,26 +642,45 @@
 			"Nome": "Vizela",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Parque das Termas",
+					"Localidade": "v. da Cascalheira, Caldas de Vizela",
 					"Historia": "",
 					"Imagem": ""
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
+					"Nome": "Pregaria da Bica",
+					"Morada": "Rua Jardim Manuel Faria nº43, 4815-514 Vizela",
+					"Classificacao": "4,6",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Museu do Presunto e do Vinho",
+					"Morada": "R. António Pereira da Silva 36, 4815-476 Caldas de Vizela",
+					"Classificacao": "4,7",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Restaurante Porta2",
+					"Morada": "Av. Bombeiros Voluntários 139, 4815-394 Vizela",
+					"Classificacao": "4,2",
 					"Imagem": ""
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Classificacao": "",
-					"Preco": "",
+					"Nome": "Hotel Termas Vizela",
+					"Morada": "R. Dr. Abílio Torres nº1236, 4815-552 Caldas de Vizela",
+					"Classificacao": "4*",
+					"Preco": "63€",
+					"Imagem": ""
+				},
+				{
+					"Nome": "Hotel Bienestar Termas De Vizela",
+					"Morada": "R. Dr. Abílio Torres 855, 4815-552 Caldas de Vizela",
+					"Classificacao": "4*",
+					"Preco": "62€",
 					"Imagem": ""
 				}
 			]
