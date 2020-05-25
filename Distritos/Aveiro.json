@@ -2,534 +2,983 @@
     "Nome": "Aveiro",
     "Historia": "É uma cidade na costa oeste portuguesa fundada junto a uma laguna conhecida como Ria de Aveiro. Distingue-se pelos seus canais navegados por barcos coloridos (barcos moliceiros), tradicionalmente utilizados para a colheita de algas.",
     "Cidades": [
-      { "Nome": "Águeda", 
+      {
+        "Nome": "Águeda",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Umbrella Sky Project",
+            "Localidade": "R. Luís de Camões 111, 3750-156 Águeda",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Parque Fluvial de Bolfiar",
+            "Localidade": "3750-064 Águeda",
             "Historia": "",
             "Imagem": ""
           }
+
         ],
-        "Restaurantes":[
+        "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Restaurante O MANJAR DA HELENA",
+            "Morada": "R. Dr. Manuel Pinto 8, 3750-140 Águeda",
+            "Classificacao": "4,5",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante Três Manos",
+            "Morada": "R. Liberdade nº 102, 3750-779 Águeda",
+            "Classificacao": "4,6",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Telhas e Canecos Lda",
+            "Morada": "Largo 1º de Maio, Águeda",
+            "Classificacao": "4,1",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "In Gold Hotel & Spa",
+            "Morada": "R. Manuel de Sousa Carneiro 25, 3750-160 Águeda",
+            "Classificacao": "4*",
+            "Preco": "60€",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Hotel Conde d'Agueda",
+            "Morada": "Praça Conde de Águeda, 3750-119 Águeda",
+            "Classificacao": "4*",
             "Preco": "",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Albergaria-a-Velha",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Pelourinho de Serém",
+            "Localidade": "R. Central 522 3750, Serém",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Pouso do Rei",
+            "Morada": "Rua 1º de Dezembro - Edif. Peclar 2 - Ent. 3 R/C Dto., 3850-002 Albergaria-a-Velha",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante O Sobreiro",
+            "Morada": "R. Nossa Sra. da Nazaré 21, 3850-269 Albergaria-a-Velha",
+            "Classificacao": "4,0",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante Solar o Condado",
+            "Morada": "Rua Samouqueira,3850-126 Albergaria-a-Velha",
+            "Classificacao": "4,4",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Hotel Alameda",
+            "Morada": "EN n1 (IC 2) - Cavada Nova, 3850-165 Albergaria-a-Velha",
+            "Classificacao": "2*",
+            "Preco": "40€",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Quinta dos Meireles",
+            "Morada": "Rua da Lameira, Valmaior, 3850-833 Albergaria-a-Velha",
+            "Classificacao": "4*",
+            "Preco": "63€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Anadia",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Museu do Vinho da Bairrada",
+            "Localidade": "Av. Engenheiro Tavares da Silva, 3780-203 Anadia",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Caves do Solar de São Domingos",
+            "Localidade": "R. Elpídio Martins Semedo 42, 3780-473 Anadia",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Dom Ferraz",
+            "Morada": "R. Estr. Nacional Nº 1, 3780-295 Anadia",
+            "Classificacao": "4,6",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Moita 25",
+            "Morada": "R. Alto da Feira n°53, 3780-476 Anadia",
+            "Classificacao": "4,5",
+            "Imagem": ""
+          },
+          {
+            "Nome": "pizzeria Moretti - pizzeria Italiana",
+            "Morada": "loja, R. Fausto Sampaio 2, 3780-231 Anadia",
+            "Classificacao": "4,5",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Hotel Cabecinho Anadia",
+            "Morada": "Av. Eng. Tavares da Silva, 3780-203 Anadia",
+            "Classificacao": "3*",
+            "Preco": "55€",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Curia Palace Hotel, Spa & Golf",
+            "Morada": "Av. Plátanos, 3780-541 Anadia",
+            "Classificacao": "4*",
             "Preco": "",
             "Imagem": ""
           }
         ]
-
       },
+
       {
         "Nome": "Arouca",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Arouca Geopark",
+            "Localidade": "Rua Alfredo Vaz Pinto, 4540-118 Arouca",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Museu de Arte Sacra de Arouca",
+            "Localidade": "Largo Santa Mafalda, 4540-101 Arouca",
+            "Historia": "De acordo com as fontes documentais, foi fundado na primeira metade do século X, como um pequeno mosteiro habitado por uma comunidade religiosa sob a invocação de São Bento de Núrsia. Recebeu carta de couto no século XII, período que definiu o caráter de centralidade deste cenóbio na vida política e administrativa da região. Desde 1154 passou a ser habitado apenas por religiosas.",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Miradouro sobre Arouca",
+            "Localidade": "CM1251 4540, Arouca",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Restaurante Varandinha",
+            "Morada": "Av. Reinaldo Noronha 39, Arouca",
+            "Classificacao": "4,3",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante Parlamento",
+            "Morada": "Tv. Ribeira 2, 4540-148 Arouca",
+            "Classificacao": "4,6",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Tasquinha da Quinta - Restaurante Regional, Lda",
+            "Morada": "R. 1º de Maio 3, 4540-121 Arouca",
+            "Classificacao": "4,5",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Hotel S. Pedro",
+            "Morada": "Av. Reinaldo Noronha 24, 4540-105 Arouca",
+            "Classificacao": "3*",
             "Preco": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Hotel Rural Quinta de Novais",
+            "Morada": "Novais - Santa Eulália, 4540-540 Arouca",
+            "Classificacao": "3*",
+            "Preco": "60€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Aveiro",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Mosteiro de Jesus",
+            "Localidade": "Av. Santa Joana s/n, 3810-164 Aveiro",
+            "Historia": "A origem do Mosteiro de Jesus remonta aos anos de 1458 e 1460, quando D. Brites Leitoa e D. Mecia Pereira[2][3][4], recolheram a uma pequena casa, implantada no local onde viria a nascer o mosteiro. Autorizado por bula Papal em 16 de Maio de 1461, as obras de edificação tiveram início no ano imediato, tendo começado a funcionar como clausura de freiras da Ordem Dominicana feminina em 1465.",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Salinas de Aveiro",
+            "Localidade": "8, R. do Dr. Bernardino Machado, 3800-180 Aveiro",
+            "Historia": "A exploração de sal na região de Aveiro remonta a uma época anterior à existência da própria Ria de Aveiro, sendo o primeiro documento escrito sobre o salgado aveirense anterior à fundação da nacionalidade.",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Canal Central de Aveiro",
+            "Localidade": "40.641584, -8.653023",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Subenshi Aveiro",
+            "Morada": "R. Carlos Aleluia 4 17, 3810-077 Aveiro",
+            "Classificacao": "4,7",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Kyoto House Aveiro",
+            "Morada": "R. de Agostinho Pinheiro 21, 3800-095 Aveiro",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Maré Cheia",
+            "Morada": "R. de José Rabumba 8, 3810-125 Aveiro",
+            "Classificacao": "4,6",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Hotel Imperial",
+            "Morada": "R. Dr. Nascimento Leitão 1, 3800-108 Aveiro",
+            "Classificacao": "3*",
+            "Preco": "31€",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Aveiro Palace",
+            "Morada": "Rua de Viana do Castelo 4, 3800-275 Aveiro",
+            "Classificacao": "4*",
             "Preco": "",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Castelo de Paiva",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Miradouro de Catapeixe",
+            "Localidade": "N224, Castelo de Paiva",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Jardim do Largo do Conde de Castelo de Paiva",
+            "Localidade": "Largo Conde de Castelo de Paiva 123, 4550-117 Castelo de Paiva",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Restaurante Típico Casa de São Pedro",
+            "Morada": "Quinta São Pedro Sobrado, 4550-261 Castelo de Paiva",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante da Villa",
+            "Morada": "Praça Independência 59-62, 4550-123 Castelo de Paiva",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Pizzaria Espaço Z",
+            "Morada": "R. da Escola Eb 2,3, Castelo de Paiva",
+            "Classificacao": "4,5",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Douro41 Hotel & Spa",
+            "Morada": "Estrada Nacional 222 km 41, 4550-631 Castelo de Paiva",
+            "Classificacao": "4*",
             "Preco": "",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Espinho",
         "Atracoes": [
           {
-            "Nome": "",
+            "Nome": "Casino de Espinho",
+            "Localidade": "R. 19 85, 4500-256 Espinho",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Praia de Silvalde",
             "Localidade": "",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Praia da Frente Azul",
+            "Localidade": "R. 6 278, 4500-368 Espinho",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "A Fidalguinha de Espinho",
+            "Morada": "Av. São João de Deus 1484, 4500-389 Espinho",
+            "Classificacao": "4,5",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Kurika",
+            "Morada": "R. 64 350, 4500-368 Espinho",
+            "Classificacao": "4,6",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante Baliza",
+            "Morada": "R. 8 471, 4500-217 Espinho",
+            "Classificacao": "4,3",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "PraiaGolfe Hotel",
+            "Morada": "PRAIAGOLFE, R. 6, 4500-368 Espinho",
+            "Classificacao": "4*",
+            "Preco": "95€",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Monte Lírio Hotel",
+            "Morada": "R. dos Limites 550, 4500-009 Espinho",
+            "Classificacao": "4*",
             "Preco": "",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Estarreja",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Bioria Estarreja",
+            "Localidade": "R. do Cadaval 53, 3865-218 Salreu",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Cruzeiro do Senhor Coberto",
+            "Localidade": "R. de São Tiago 28, 3860-303 Estarreja",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Xixas",
+            "Morada": "Praça de Francisco Barbosa 47, 3860-389 Estarreja",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Cozinha Da Terra",
+            "Morada": "Av. Visc. de Salreu 90, 3860-353 Estarreja",
+            "Classificacao": "4,1",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Pizzaria D'avó",
+            "Morada": "R. Des. Correia Teles 49, 3860-362 Estarreja",
+            "Classificacao": "4,4",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Tulip Inn Estarreja Hotel & SPA",
+            "Morada": "R. Marques Rodrigues N36, 3860-404 Estarreja",
+            "Classificacao": "4*",
+            "Preco": "62€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Ílhavo",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Museu Marítimo de Ílhavo e Aquário dos Bacalhaus",
+            "Localidade": "Avenida Doutor Rocha Madahil 193, 3830-193 Ílhavo",
             "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Carnaval de Vale de Ílhavo",
+            "Localidade": "R. do Cabeço do Nuno 6, 3830-289 Vale de Ílhavo",
+            "Historia": "O Museu Marítimo de Ílhavo (MMI) é um museu da Câmara Municipal de Ílhavo. Nasceu a 8 agosto de 1937, após um longo processo de gestação dinamizado por um grupo de Amigos do Museu (Associação dos Amigos do Museu). Lugar de memória dos ilhavenses que o criaram, começou por assumir uma vocação etnográfica e regional. Em 2001 foi renovado e ampliado, passando a habitar num belo edifício de arquitetura moderna projetado pelo gabinete ARX Portugal. Nesse mesmo ano, o MMI passou a contar com o navio-museu Santo André, antigo arrastão bacalhoeiro.",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "MARADENTRO Restaurante",
+            "Morada": "R. da Malhada 2A, 3830-141 Ílhavo",
+            "Classificacao": "4,6",
+            "Imagem": ""
+          },
+          {
+            "Nome": "O Navegante",
+            "Morada": "R. das Cancelas, Ílhavo",
+            "Classificacao": "4,5",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Churrasqueira Farnel de Ílhavo",
+            "Morada": "R. de Camões 83, 3830-152 Ílhavo",
+            "Classificacao": "4,3",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Hotel Ílhavo Plaza",
+            "Morada": "Av. Mário Sacramento 113, 3830-052 Ílhavo",
+            "Classificacao": "4*",
+            "Preco": "69€",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Montebelo Vista Alegre Ílhavo Hotel",
+            "Morada": "Lugar da, 3830-292 Ílhavo",
+            "Classificacao": "5*",
             "Preco": "",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Mealhada",
         "Atracoes": [
           {
-            "Nome": "",
+            "Nome": "Cruz Alta - Miradouro",
             "Localidade": "",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Mata Nacional do Buçaco",
+            "Localidade": "R. Porta do Buçaco 56, 3050-261 Luso",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Churrasqueira Rocha Leitão Mealhada",
+            "Morada": "Tv. Churrasqueira, 3050-352 Mealhada",
+            "Classificacao": "4,5",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Rei dos Leitões",
+            "Morada": "EN1 Av. Restauração, Nº 17, 3050-382 Mealhada",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Pedro dos Leitões",
+            "Morada": "Rua Álvaro Pedro nº1, Mealhada",
+            "Classificacao": "4,3",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Quinta dos Três Pinheiros",
+            "Morada": "Estrada Nacional 1, Sernadelo, 3050-382 Mealhada",
+            "Classificacao": "3*",
+            "Preco": "44€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Murtosa",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Cais do Bico",
+            "Localidade": "R. Vasco da Gama 86A, Murtosa",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "COMUR - Museu Municipal da Murtosa",
+            "Localidade": "R. José Maria Barbosa 20, 3870-214 Murtosa",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Taberna 'O Escondidinho' Café, Restaurante",
+            "Morada": "Viela do Fontes 6, 3870-224 Murtosa",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante O Bico",
+            "Morada": "R. Vasco da Gama 100, 3870-178 Murtosa",
+            "Classificacao": "4,1",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Pizzaria Feira dos 5",
+            "Morada": "Praça Egas Moniz 205, 3870-233 Murtosa",
+            "Classificacao": "4,3",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Estalagem Riabela Hotel",
+            "Morada": "Quintas do Sul, 3870-304 Torreira",
+            "Classificacao": "4*",
+            "Preco": "42€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Oliveira de Azeméis",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Parque de La Salette",
+            "Localidade": "R. Dom Manuel Correia Bastos Pina 179, Oliveira de Azeméis",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Parque Temático Molinológico - Moinhos de Azeméis",
+            "Localidade": "R. da Ponte da Igreja, 3720-604 Oliveira de Azeméis",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Dom Filipe",
+            "Morada": "R. Dr. António Luís Gomes 115, Oliveira de Azeméis",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Retiro da Cerca",
+            "Morada": "4,5",
+            "Classificacao": "R. Cerca do Mosteiro 106, Oliveira de Azeméis",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante D. Gomado",
+            "Morada": "Av. Dr. Albino dos Reis, Oliveira de Azeméis",
+            "Classificacao": "4,7",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Hotel Dighton",
+            "Morada": "Oliveira de Azeméis",
+            "Classificacao": "4*",
+            "Preco": "67€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Oliveira do Barro",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Parque dos Pinheiros Mansos - Oliveira do Bairro",
+            "Localidade": "Oliveira do Bairro",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Restaurante Quinta do Vale",
+            "Morada": "R. Colégios 211, 3770-221 Oliveira do Bairro",
+            "Classificacao": "4,7",
+            "Imagem": ""
+          },
+          {
+            "Nome": "QA Restaurante/Cafetaria/Bar",
+            "Morada": "R. Bombeiros 13, 3770-102 Oliveira do Bairro",
+            "Classificacao": "4,7",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante Pataco",
+            "Morada": "R. Cândido dos Reis, 3770-213 Oliveira do Bairro",
+            "Classificacao": "4,2",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Hotel Paraiso",
+            "Morada": "R. do Foral Nº 87 Ap.120, 3770-909 Oliveira do Bairro",
+            "Classificacao": "3*",
+            "Preco": "54€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Ovar",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Praia do Furadouro",
+            "Localidade": "Av. do Infante Dom Henrique 602, Ovar",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Museu de Ovar",
+            "Localidade": "R. Heliodoro Salgado 11, 3880-143 Ovar",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Passadiços sul da praia do Furadouro",
+            "Localidade": "Av. da República, Ovar",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Oxalá",
+            "Morada": "R. Família Colares Pinto 1695, Ovar",
+            "Classificacao": "4,7",
+            "Imagem": ""
+          },
+          {
+            "Nome": "TOCA - Restaurante & Tapas",
+            "Morada": "Praça da República 37, 3880-141 Ovar",
+            "Classificacao": "4,6",
+            "Imagem": ""
+          },
+          {
+            "Nome": "SCALA Ristorante Italiano - Pizzeria",
+            "Morada": "Av. dos Bombeiros Voluntários do Porto 70, 3880-352 Ovar",
+            "Classificacao": "4,4",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Aqua Hotel",
+            "Morada": "R. Aquilino Ribeiro 1, 3880-151 Ovar",
+            "Classificacao": "3*",
+            "Preco": "40€",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Hotel Meia Lua",
+            "Morada": "R. Eng. Adelino Amaro da Costa, 3884-214 Ovar",
+            "Classificacao": "3*",
+            "Preco": "71€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Santa Maria da Feira",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Castelo de Santa Maria da Feira",
+            "Localidade": "Dr., Alameda Roberto Vaz de Oliveira, Santa Maria da Feira",
+            "Historia": "Embora a primitiva ocupação humana do seu sítio remonte à pré-história, adquiriu maior relevância quando os Lusitanos aqui ergueram um templo em honra da divindade Bandeve-Lugo Tueræus. Após a Invasão romana da Península Ibérica, por aqui passava a estrada que unia Olissipo (Lisboa) a Bracara Augusta (Braga), conforme os testemunhos arqueológicos que remetem esta ocupação ao período do Baixo Império. À época da Reconquista cristã da Península Ibérica, este centro religioso pagão veio a ser transformado em um centro Mariano, desenvolvendo-se aqui uma feira regional, cuja elevada expressão daria nome ao local: Feira de Santa Maria. ",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Viagem Medieval",
+            "Localidade": "4520-181 Santa Maria da Feira",
             "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Convento dos Lóios",
+            "Localidade": "R. Dr. Santos Carneiro 7, Santa Maria da Feira",
+            "Historia": "O convento foi erguido por iniciativa do 3º conde da Feira, D. Manuel Pereira, mas foi o seu filho, o 4º conde da Feira, Diogo Pereira e sua esposa, Ana de Menezes, que assumiram o testemunho de devoção a São João Evangelista.",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Praceta",
+            "Morada": "Rua das Fogaceiras 15, 4520-162 Santa Maria da Feira",
+            "Classificacao": "4,5",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante Amandius",
+            "Morada": "R. Jornal Correio da Feira 10, 4520-234 Santa Maria da Feira",
+            "Classificacao": "4,5",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Tábua Rasa",
+            "Morada": "R. Dr. Elísio de Castro 68, 4520-213 Santa Maria da Feira",
+            "Classificacao": "4,5",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Nova Cruz Hotel",
+            "Morada": "R. S. Paulo da Cruz, 4520-249 Santa Maria da Feira",
+            "Classificacao": "4*",
+            "Preco": "65€",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Hotel Feira Pedra Bela",
+            "Morada": "4520-506, R. Malaposta 510, Santa Maria da Feira",
+            "Classificacao": "3*",
+            "Preco": "65€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "São João da Madeira",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Parque Urbano do Rio Ul",
+            "Localidade": "Av. do Vale, São João da Madeira",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Igreja Matriz de São João da Madeira",
+            "Localidade": "3700-137 São João da Madeira",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Restaurante Homenagem",
+            "Morada": "R. António José de Oliveira Júnior 918, 3700-205 São João da Madeira",
+            "Classificacao": "5,0",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante Katekero (São João da Madeira)",
+            "Morada": "Av. da Liberdade 319, 3700-501 São João da Madeira",
+            "Classificacao": "3,9",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Tudo aos Molhos",
+            "Morada": "Largo de Santo António 35, 3700-175 São João da Madeira",
+            "Classificacao": "4,7",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Golden Tulip Hotel",
+            "Morada": "Av. Adelino Amaro da Costa 573, 3700-023 São João da Madeira",
+            "Classificacao": "4*",
             "Preco": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Central Suites",
+            "Morada": "R. António José de Oliveira Júnior 54 3º, 3700-206 São João da Madeira",
+            "Classificacao": "3*",
+            "Preco": "41€",
             "Imagem": ""
           }
         ]
       },
+
       {
-        "Nome": "Server do Vouga",
+        "Nome": "Sever do Vouga",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Parque das Minas do Braçal",
+            "Localidade": "Sever do Vouga",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Restaurante O Cortiço",
+            "Morada": "Avenida Comendador Augusto Martins Pereira, Edifício Arestal, 3740-255 Sever do Vouga",
+            "Classificacao": "4,0",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Passa Palavra Restaurante&Cervejaria",
+            "Morada": "Av. Comendador Augusto Martins Pereira 217, Sever do Vouga",
+            "Classificacao": "4,1",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante Casa Vitorino",
+            "Morada": "Rua da Igreja nº11, 3740-264 Sever do Vouga",
+            "Classificacao": "3,9",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Encosta dos Túneis - Turismo e Lazer",
+            "Morada": "Rua da Portela N.º 261, 3740-078 Sever do Vouga",
+            "Classificacao": "2*",
+            "Preco": "55€",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Hotel O Cortico",
+            "Morada": "Av. Comendador Augusto Martins Pereira 91, 3740-260 Sever do Vouga",
+            "Classificacao": "3*",
+            "Preco": "45€",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Vagos",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Santuário de Nossa Senhora de Vagos",
+            "Localidade": "Vagos",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Museu do Brincar",
+            "Localidade": "Largo de Branco de Melo, 3840-383 Vagos",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Restaurante Vagos - Gracita",
+            "Morada": "Rua D. António dos Santos nº50 R/C Esquerdo, 3840-507 Vagos",
+            "Classificacao": "4,5",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Restaurante 'O Barracao'",
+            "Morada": "R. Cândido dos Reis 258, 3840-412 Vagos",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Grémio Restaurante-Bar",
+            "Morada": "R. Cândido dos Reis 385, 3840-412 Vagos",
+            "Classificacao": "4,3",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Hotel Santiago",
+            "Morada": "R. Padre Vicente Maria da Rocha 20, 3840-453 Vagos",
+            "Classificacao": "2*",
             "Preco": "",
             "Imagem": ""
           }
         ]
       },
+
       {
         "Nome": "Vale de Cambra",
         "Atracoes": [
           {
-            "Nome": "",
-            "Localidade": "",
+            "Nome": "Parque Urbano de Vale de Cambra",
+            "Localidade": "Av. Eng. Ilídio Pinho 100, Vale de Cambra",
+            "Historia": "",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Miradouro das Baralhas",
+            "Localidade": "Vale de Cambra",
             "Historia": "",
             "Imagem": ""
           }
         ],
         "Restaurantes": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
+            "Nome": "Restaurante Colher de Pau",
+            "Morada": "R. Fábrica 207, 3730-251 Vale de Cambra",
+            "Classificacao": "4,4",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Adega Soares",
+            "Morada": "Av. de Santo António 289, 3730-249 Vale de Cambra",
+            "Classificacao": "4,2",
+            "Imagem": ""
+          },
+          {
+            "Nome": "Sabores da Freita",
+            "Morada": "R. Carvalho Santo 40, Vale de Cambra",
+            "Classificacao": "4,2",
             "Imagem": ""
           }
         ],
         "Hoteis": [
           {
-            "Nome": "",
-            "Morada": "",
-            "Classificacao": "",
-            "Preco": "",
+            "Nome": "Hotel Quinta Progresso",
+            "Morada": "Rua do Sobreiro Grosso Nº 80, 3730-289",
+            "Classificacao": "4*",
             "Imagem": ""
           }
         ]
