@@ -4,6 +4,9 @@ using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
 using Portourgal.InteractionsAPI;
+using System.Threading.Tasks;
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
 
 namespace Portourgal.ViewModel
 {
@@ -19,8 +22,9 @@ namespace Portourgal.ViewModel
 
         public string Email { get; set; }
         public string Password { get; set; }
-
         public Command ComandoEntrar { get; }
+
+
 
         async void EntrarUtilizador()
         {
