@@ -23,19 +23,19 @@
           {
             "Nome": "Restaurante O MANJAR DA HELENA",
             "Morada": "R. Dr. Manuel Pinto 8, 3750-140 Águeda",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante Três Manos",
             "Morada": "R. Liberdade nº 102, 3750-779 Águeda",
-            "Classificacao": "4,6",
+            "Classificacao": 4.6,
             "Imagem": ""
           },
           {
             "Nome": "Telhas e Canecos Lda",
             "Morada": "Largo 1º de Maio, Águeda",
-            "Classificacao": "4,1",
+            "Classificacao": 4.1,
             "Imagem": ""
           }
         ],
@@ -43,14 +43,14 @@
           {
             "Nome": "In Gold Hotel & Spa",
             "Morada": "R. Manuel de Sousa Carneiro 25, 3750-160 Águeda",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "60€",
             "Imagem": ""
           },
           {
             "Nome": "Hotel Conde d'Agueda",
             "Morada": "Praça Conde de Águeda, 3750-119 Águeda",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "",
             "Imagem": ""
           }
@@ -71,19 +71,19 @@
           {
             "Nome": "Pouso do Rei",
             "Morada": "Rua 1º de Dezembro - Edif. Peclar 2 - Ent. 3 R/C Dto., 3850-002 Albergaria-a-Velha",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante O Sobreiro",
             "Morada": "R. Nossa Sra. da Nazaré 21, 3850-269 Albergaria-a-Velha",
-            "Classificacao": "4,0",
+            "Classificacao": 4.0,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante Solar o Condado",
             "Morada": "Rua Samouqueira,3850-126 Albergaria-a-Velha",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           }
         ],
@@ -91,14 +91,14 @@
           {
             "Nome": "Hotel Alameda",
             "Morada": "EN n1 (IC 2) - Cavada Nova, 3850-165 Albergaria-a-Velha",
-            "Classificacao": "2*",
+            "Classificacao": 2,
             "Preco": "40€",
             "Imagem": ""
           },
           {
             "Nome": "Quinta dos Meireles",
             "Morada": "Rua da Lameira, Valmaior, 3850-833 Albergaria-a-Velha",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "63€",
             "Imagem": ""
           }
@@ -125,19 +125,19 @@
           {
             "Nome": "Dom Ferraz",
             "Morada": "R. Estr. Nacional Nº 1, 3780-295 Anadia",
-            "Classificacao": "4,6",
+            "Classificacao": 4.6,
             "Imagem": ""
           },
           {
             "Nome": "Moita 25",
             "Morada": "R. Alto da Feira n°53, 3780-476 Anadia",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           },
           {
             "Nome": "pizzeria Moretti - pizzeria Italiana",
             "Morada": "loja, R. Fausto Sampaio 2, 3780-231 Anadia",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           }
         ],
@@ -145,14 +145,14 @@
           {
             "Nome": "Hotel Cabecinho Anadia",
             "Morada": "Av. Eng. Tavares da Silva, 3780-203 Anadia",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "55€",
             "Imagem": ""
           },
           {
             "Nome": "Curia Palace Hotel, Spa & Golf",
             "Morada": "Av. Plátanos, 3780-541 Anadia",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "",
             "Imagem": ""
           }
@@ -185,19 +185,19 @@
           {
             "Nome": "Restaurante Varandinha",
             "Morada": "Av. Reinaldo Noronha 39, Arouca",
-            "Classificacao": "4,3",
+            "Classificacao": 4.3,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante Parlamento",
             "Morada": "Tv. Ribeira 2, 4540-148 Arouca",
-            "Classificacao": "4,6",
+            "Classificacao": 4.6,
             "Imagem": ""
           },
           {
             "Nome": "Tasquinha da Quinta - Restaurante Regional, Lda",
             "Morada": "R. 1º de Maio 3, 4540-121 Arouca",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           }
         ],
@@ -205,14 +205,14 @@
           {
             "Nome": "Hotel S. Pedro",
             "Morada": "Av. Reinaldo Noronha 24, 4540-105 Arouca",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "",
             "Imagem": ""
           },
           {
             "Nome": "Hotel Rural Quinta de Novais",
             "Morada": "Novais - Santa Eulália, 4540-540 Arouca",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "60€",
             "Imagem": ""
           }
@@ -245,19 +245,19 @@
           {
             "Nome": "Subenshi Aveiro",
             "Morada": "R. Carlos Aleluia 4 17, 3810-077 Aveiro",
-            "Classificacao": "4,7",
+            "Classificacao": 4.7,
             "Imagem": ""
           },
           {
             "Nome": "Kyoto House Aveiro",
             "Morada": "R. de Agostinho Pinheiro 21, 3800-095 Aveiro",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Maré Cheia",
             "Morada": "R. de José Rabumba 8, 3810-125 Aveiro",
-            "Classificacao": "4,6",
+            "Classificacao": 4.6,
             "Imagem": ""
           }
         ],
@@ -265,14 +265,14 @@
           {
             "Nome": "Hotel Imperial",
             "Morada": "R. Dr. Nascimento Leitão 1, 3800-108 Aveiro",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "31€",
             "Imagem": ""
           },
           {
             "Nome": "Aveiro Palace",
             "Morada": "Rua de Viana do Castelo 4, 3800-275 Aveiro",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "",
             "Imagem": ""
           }
@@ -299,19 +299,19 @@
           {
             "Nome": "Restaurante Típico Casa de São Pedro",
             "Morada": "Quinta São Pedro Sobrado, 4550-261 Castelo de Paiva",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante da Villa",
             "Morada": "Praça Independência 59-62, 4550-123 Castelo de Paiva",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Pizzaria Espaço Z",
             "Morada": "R. da Escola Eb 2,3, Castelo de Paiva",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           }
         ],
@@ -319,7 +319,7 @@
           {
             "Nome": "Douro41 Hotel & Spa",
             "Morada": "Estrada Nacional 222 km 41, 4550-631 Castelo de Paiva",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "",
             "Imagem": ""
           }
@@ -352,19 +352,19 @@
           {
             "Nome": "A Fidalguinha de Espinho",
             "Morada": "Av. São João de Deus 1484, 4500-389 Espinho",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           },
           {
             "Nome": "Kurika",
             "Morada": "R. 64 350, 4500-368 Espinho",
-            "Classificacao": "4,6",
+            "Classificacao": 4.6,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante Baliza",
             "Morada": "R. 8 471, 4500-217 Espinho",
-            "Classificacao": "4,3",
+            "Classificacao": 4.3,
             "Imagem": ""
           }
         ],
@@ -372,14 +372,14 @@
           {
             "Nome": "PraiaGolfe Hotel",
             "Morada": "PRAIAGOLFE, R. 6, 4500-368 Espinho",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "95€",
             "Imagem": ""
           },
           {
             "Nome": "Monte Lírio Hotel",
             "Morada": "R. dos Limites 550, 4500-009 Espinho",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "",
             "Imagem": ""
           }
@@ -406,19 +406,19 @@
           {
             "Nome": "Xixas",
             "Morada": "Praça de Francisco Barbosa 47, 3860-389 Estarreja",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Cozinha Da Terra",
             "Morada": "Av. Visc. de Salreu 90, 3860-353 Estarreja",
-            "Classificacao": "4,1",
+            "Classificacao": 4.1,
             "Imagem": ""
           },
           {
             "Nome": "Pizzaria D'avó",
             "Morada": "R. Des. Correia Teles 49, 3860-362 Estarreja",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           }
         ],
@@ -426,7 +426,7 @@
           {
             "Nome": "Tulip Inn Estarreja Hotel & SPA",
             "Morada": "R. Marques Rodrigues N36, 3860-404 Estarreja",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "62€",
             "Imagem": ""
           }
@@ -453,19 +453,19 @@
           {
             "Nome": "MARADENTRO Restaurante",
             "Morada": "R. da Malhada 2A, 3830-141 Ílhavo",
-            "Classificacao": "4,6",
+            "Classificacao": 4.6,
             "Imagem": ""
           },
           {
             "Nome": "O Navegante",
             "Morada": "R. das Cancelas, Ílhavo",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           },
           {
             "Nome": "Churrasqueira Farnel de Ílhavo",
             "Morada": "R. de Camões 83, 3830-152 Ílhavo",
-            "Classificacao": "4,3",
+            "Classificacao": 4.3,
             "Imagem": ""
           }
         ],
@@ -473,14 +473,14 @@
           {
             "Nome": "Hotel Ílhavo Plaza",
             "Morada": "Av. Mário Sacramento 113, 3830-052 Ílhavo",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "69€",
             "Imagem": ""
           },
           {
             "Nome": "Montebelo Vista Alegre Ílhavo Hotel",
             "Morada": "Lugar da, 3830-292 Ílhavo",
-            "Classificacao": "5*",
+            "Classificacao": 5,
             "Preco": "",
             "Imagem": ""
           }
@@ -507,19 +507,19 @@
           {
             "Nome": "Churrasqueira Rocha Leitão Mealhada",
             "Morada": "Tv. Churrasqueira, 3050-352 Mealhada",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           },
           {
             "Nome": "Rei dos Leitões",
             "Morada": "EN1 Av. Restauração, Nº 17, 3050-382 Mealhada",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Pedro dos Leitões",
             "Morada": "Rua Álvaro Pedro nº1, Mealhada",
-            "Classificacao": "4,3",
+            "Classificacao": 4.3,
             "Imagem": ""
           }
         ],
@@ -527,7 +527,7 @@
           {
             "Nome": "Quinta dos Três Pinheiros",
             "Morada": "Estrada Nacional 1, Sernadelo, 3050-382 Mealhada",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "44€",
             "Imagem": ""
           }
@@ -554,19 +554,19 @@
           {
             "Nome": "Taberna 'O Escondidinho' Café, Restaurante",
             "Morada": "Viela do Fontes 6, 3870-224 Murtosa",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante O Bico",
             "Morada": "R. Vasco da Gama 100, 3870-178 Murtosa",
-            "Classificacao": "4,1",
+            "Classificacao": 4.1,
             "Imagem": ""
           },
           {
             "Nome": "Pizzaria Feira dos 5",
             "Morada": "Praça Egas Moniz 205, 3870-233 Murtosa",
-            "Classificacao": "4,3",
+            "Classificacao": 4.3,
             "Imagem": ""
           }
         ],
@@ -574,7 +574,7 @@
           {
             "Nome": "Estalagem Riabela Hotel",
             "Morada": "Quintas do Sul, 3870-304 Torreira",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "42€",
             "Imagem": ""
           }
@@ -601,19 +601,19 @@
           {
             "Nome": "Dom Filipe",
             "Morada": "R. Dr. António Luís Gomes 115, Oliveira de Azeméis",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Retiro da Cerca",
-            "Morada": "4,5",
-            "Classificacao": "R. Cerca do Mosteiro 106, Oliveira de Azeméis",
+            "Morada": "R. Cerca do Mosteiro 106, Oliveira de Azeméis",
+            "Classificacao": 4.5,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante D. Gomado",
             "Morada": "Av. Dr. Albino dos Reis, Oliveira de Azeméis",
-            "Classificacao": "4,7",
+            "Classificacao": 4.7,
             "Imagem": ""
           }
         ],
@@ -621,7 +621,7 @@
           {
             "Nome": "Hotel Dighton",
             "Morada": "Oliveira de Azeméis",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "67€",
             "Imagem": ""
           }
@@ -642,19 +642,19 @@
           {
             "Nome": "Restaurante Quinta do Vale",
             "Morada": "R. Colégios 211, 3770-221 Oliveira do Bairro",
-            "Classificacao": "4,7",
+            "Classificacao": 4.7,
             "Imagem": ""
           },
           {
             "Nome": "QA Restaurante/Cafetaria/Bar",
             "Morada": "R. Bombeiros 13, 3770-102 Oliveira do Bairro",
-            "Classificacao": "4,7",
+            "Classificacao": 4.7,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante Pataco",
             "Morada": "R. Cândido dos Reis, 3770-213 Oliveira do Bairro",
-            "Classificacao": "4,2",
+            "Classificacao": 4.2,
             "Imagem": ""
           }
         ],
@@ -662,7 +662,7 @@
           {
             "Nome": "Hotel Paraiso",
             "Morada": "R. do Foral Nº 87 Ap.120, 3770-909 Oliveira do Bairro",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "54€",
             "Imagem": ""
           }
@@ -695,19 +695,19 @@
           {
             "Nome": "Oxalá",
             "Morada": "R. Família Colares Pinto 1695, Ovar",
-            "Classificacao": "4,7",
+            "Classificacao": 4.7,
             "Imagem": ""
           },
           {
             "Nome": "TOCA - Restaurante & Tapas",
             "Morada": "Praça da República 37, 3880-141 Ovar",
-            "Classificacao": "4,6",
+            "Classificacao": 4.6,
             "Imagem": ""
           },
           {
             "Nome": "SCALA Ristorante Italiano - Pizzeria",
             "Morada": "Av. dos Bombeiros Voluntários do Porto 70, 3880-352 Ovar",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           }
         ],
@@ -715,14 +715,14 @@
           {
             "Nome": "Aqua Hotel",
             "Morada": "R. Aquilino Ribeiro 1, 3880-151 Ovar",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "40€",
             "Imagem": ""
           },
           {
             "Nome": "Hotel Meia Lua",
             "Morada": "R. Eng. Adelino Amaro da Costa, 3884-214 Ovar",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "71€",
             "Imagem": ""
           }
@@ -755,19 +755,19 @@
           {
             "Nome": "Praceta",
             "Morada": "Rua das Fogaceiras 15, 4520-162 Santa Maria da Feira",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante Amandius",
             "Morada": "R. Jornal Correio da Feira 10, 4520-234 Santa Maria da Feira",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           },
           {
             "Nome": "Tábua Rasa",
             "Morada": "R. Dr. Elísio de Castro 68, 4520-213 Santa Maria da Feira",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           }
         ],
@@ -775,14 +775,14 @@
           {
             "Nome": "Nova Cruz Hotel",
             "Morada": "R. S. Paulo da Cruz, 4520-249 Santa Maria da Feira",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "65€",
             "Imagem": ""
           },
           {
             "Nome": "Hotel Feira Pedra Bela",
             "Morada": "4520-506, R. Malaposta 510, Santa Maria da Feira",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "65€",
             "Imagem": ""
           }
@@ -809,19 +809,19 @@
           {
             "Nome": "Restaurante Homenagem",
             "Morada": "R. António José de Oliveira Júnior 918, 3700-205 São João da Madeira",
-            "Classificacao": "5,0",
+            "Classificacao": 5,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante Katekero (São João da Madeira)",
             "Morada": "Av. da Liberdade 319, 3700-501 São João da Madeira",
-            "Classificacao": "3,9",
+            "Classificacao": 3.9,
             "Imagem": ""
           },
           {
             "Nome": "Tudo aos Molhos",
             "Morada": "Largo de Santo António 35, 3700-175 São João da Madeira",
-            "Classificacao": "4,7",
+            "Classificacao": 4.7,
             "Imagem": ""
           }
         ],
@@ -829,14 +829,14 @@
           {
             "Nome": "Golden Tulip Hotel",
             "Morada": "Av. Adelino Amaro da Costa 573, 3700-023 São João da Madeira",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Preco": "",
             "Imagem": ""
           },
           {
             "Nome": "Central Suites",
             "Morada": "R. António José de Oliveira Júnior 54 3º, 3700-206 São João da Madeira",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "41€",
             "Imagem": ""
           }
@@ -857,19 +857,19 @@
           {
             "Nome": "Restaurante O Cortiço",
             "Morada": "Avenida Comendador Augusto Martins Pereira, Edifício Arestal, 3740-255 Sever do Vouga",
-            "Classificacao": "4,0",
+            "Classificacao": 4.0,
             "Imagem": ""
           },
           {
             "Nome": "Passa Palavra Restaurante&Cervejaria",
             "Morada": "Av. Comendador Augusto Martins Pereira 217, Sever do Vouga",
-            "Classificacao": "4,1",
+            "Classificacao": 4.1,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante Casa Vitorino",
             "Morada": "Rua da Igreja nº11, 3740-264 Sever do Vouga",
-            "Classificacao": "3,9",
+            "Classificacao": 3.9,
             "Imagem": ""
           }
         ],
@@ -877,14 +877,14 @@
           {
             "Nome": "Encosta dos Túneis - Turismo e Lazer",
             "Morada": "Rua da Portela N.º 261, 3740-078 Sever do Vouga",
-            "Classificacao": "2*",
+            "Classificacao": 2,
             "Preco": "55€",
             "Imagem": ""
           },
           {
             "Nome": "Hotel O Cortico",
             "Morada": "Av. Comendador Augusto Martins Pereira 91, 3740-260 Sever do Vouga",
-            "Classificacao": "3*",
+            "Classificacao": 3,
             "Preco": "45€",
             "Imagem": ""
           }
@@ -911,19 +911,19 @@
           {
             "Nome": "Restaurante Vagos - Gracita",
             "Morada": "Rua D. António dos Santos nº50 R/C Esquerdo, 3840-507 Vagos",
-            "Classificacao": "4,5",
+            "Classificacao": 4.5,
             "Imagem": ""
           },
           {
             "Nome": "Restaurante 'O Barracao'",
             "Morada": "R. Cândido dos Reis 258, 3840-412 Vagos",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Grémio Restaurante-Bar",
             "Morada": "R. Cândido dos Reis 385, 3840-412 Vagos",
-            "Classificacao": "4,3",
+            "Classificacao": 4.3,
             "Imagem": ""
           }
         ],
@@ -931,7 +931,7 @@
           {
             "Nome": "Hotel Santiago",
             "Morada": "R. Padre Vicente Maria da Rocha 20, 3840-453 Vagos",
-            "Classificacao": "2*",
+            "Classificacao": 2,
             "Preco": "",
             "Imagem": ""
           }
@@ -958,19 +958,19 @@
           {
             "Nome": "Restaurante Colher de Pau",
             "Morada": "R. Fábrica 207, 3730-251 Vale de Cambra",
-            "Classificacao": "4,4",
+            "Classificacao": 4.4,
             "Imagem": ""
           },
           {
             "Nome": "Adega Soares",
             "Morada": "Av. de Santo António 289, 3730-249 Vale de Cambra",
-            "Classificacao": "4,2",
+            "Classificacao": 4.2,
             "Imagem": ""
           },
           {
             "Nome": "Sabores da Freita",
             "Morada": "R. Carvalho Santo 40, Vale de Cambra",
-            "Classificacao": "4,2",
+            "Classificacao": 4.2,
             "Imagem": ""
           }
         ],
@@ -978,7 +978,7 @@
           {
             "Nome": "Hotel Quinta Progresso",
             "Morada": "Rua do Sobreiro Grosso Nº 80, 3730-289",
-            "Classificacao": "4*",
+            "Classificacao": 4,
             "Imagem": ""
           }
         ]
