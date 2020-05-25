@@ -21,7 +21,7 @@
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/users",
-      "applicationUrl": "https://portourgalapi2020.azurewebsites.net/",
+      "applicationUrl": "https://portourgalapi.azurewebsites.net/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
