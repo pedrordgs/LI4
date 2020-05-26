@@ -37,10 +37,17 @@ namespace PortourgalAPI.Services
         public void Update(string id, User userIn) =>
             _users.ReplaceOne(user => user.Id == id, userIn);
 
+        public void UpdateByEmail(string email, User userIn) =>
+            _users.ReplaceOne(user => user.Email == email, userIn);
+
         public void Remove(User userIn) =>
             _users.DeleteOne(user => user.Id == userIn.Id);
 
         public void Remove(string id) =>
             _users.DeleteOne(user => user.Id == id);
+
+        public void RemoveByEmail(string email) =>
+            _users.DeleteOne(user => user.Email == email);
+
     }
 }

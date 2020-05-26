@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Portourgal.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace Portourgal.View
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class HotelView : ContentPage
     {
-        public HotelView()
+        public HotelView(Hotel hotel)
         {
             InitializeComponent();
         }

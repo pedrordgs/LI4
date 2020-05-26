@@ -4,6 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:local="clr-namespace:Portourgal.View"
+             xmlns:localvm="clr-namespace:Portourgal.ViewModel"
              mc:Ignorable="d"
              x:Class="Portourgal.View.MainContentPage">
     <ContentPage.Resources>
@@ -27,7 +28,9 @@
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
                             <Grid>
-                                <ImageButton ClassId="{Binding Nome}" Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill" Clicked="ImageClicked"/>
+                                <ImageButton Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill" 
+                                             Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:MainContentPageViewModel}}, Path=ComandoDistrito}"  
+                                             CommandParameter="{Binding Nome}"/>
                                 <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="#E9E9E9"/>
                             </Grid>
                         </Frame>

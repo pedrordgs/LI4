@@ -37,10 +37,16 @@ namespace PortourgalAPI.Services
         public void Update(string id, Distrito distritoIn) =>
             _distritos.ReplaceOne(distrito => distrito.Id == id, distritoIn);
 
+        public void UpdateByNome(string nome, Distrito distritoIn) =>
+            _distritos.ReplaceOne(distrito => distrito.Nome == nome, distritoIn);
+
         public void Remove(Distrito distritoIn) =>
             _distritos.DeleteOne(distrito => distrito.Id == distritoIn.Id);
 
         public void Remove(string id) =>
             _distritos.DeleteOne(distrito => distrito.Id == id);
+
+        public void RemoveByNome(string nome) =>
+            _distritos.DeleteOne(distrito => distrito.Nome == nome);
     }
 }

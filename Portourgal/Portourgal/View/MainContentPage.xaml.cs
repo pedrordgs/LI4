@@ -16,10 +16,11 @@ namespace Portourgal.View
     {
         public MainContentPage()
         {
-            InitializeComponent();
             BindingContext = new MainContentPageViewModel();
+            InitializeComponent();
         }
 
+        /*
         private void ImageClicked(object sender,EventArgs e)
         {
             string distrito = ((ImageButton)sender).ClassId;
@@ -27,5 +28,6 @@ namespace Portourgal.View
             Navigation.PushAsync(new DistritosInfView(distrito));
             //App.Current.MainPage = new NavigationPage(new DistritosInfView(distrito));
         }
+        */
     }
 }
