@@ -14,8 +14,17 @@ namespace Portourgal.ViewModel
         public MainContentPageViewModel()
         {
             Distritos = DistritoInteraction.GetDistritos().Result;
+            ComandoDistrito = new Command(SelecionarDistrito);
+        }
+
+        void SelecionarDistrito(object d)
+        {
+            string distrito = ((string) d);
+            Distrito dist = Distritos.Find(x => string.Equals(x.Nome,distrito));
+            App.Current.MainPage.Navigation.PushAsync(new DistritosInfView(dist));
         }
 
         public List<Distrito> Distritos  { get; set; }
+        public Command ComandoDistrito { get; }
     }
 }

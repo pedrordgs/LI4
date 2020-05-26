@@ -62,6 +62,23 @@ namespace PortourgalAPI.Controllers
             return NoContent();
         }
 
+        // PUT: api/Users/admin
+        [HttpPut("{email}")]
+        public IActionResult PutByEmail(string email, User userIn)
+        {
+            var user = _userService.GetByEmail(email);
+
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            _userService.UpdateByEmail(email, userIn);
+
+            return NoContent();
+        }
+
+
         // DELETE: api/Users/5
         [HttpDelete("{id}")]
         public IActionResult Delete(string id)
@@ -74,6 +91,23 @@ namespace PortourgalAPI.Controllers
             }
 
             _userService.Remove(user.Id);
+
+            return NoContent();
+        }
+
+
+        // DELETE: api/Users/5
+        [HttpDelete("{email}")]
+        public IActionResult DeleteByEmail(string email)
+        {
+            var user = _userService.GetByEmail(email);
+
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            _userService.RemoveByEmail(user.Email);
 
             return NoContent();
         }

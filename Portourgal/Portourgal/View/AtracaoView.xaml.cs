@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Portourgal.Model;
+using Portourgal.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,9 +14,10 @@ namespace Portourgal.View
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AtracaoView : ContentPage
     {
-        public AtracaoView()
+        public AtracaoView(Atracao atracao)
         {
             InitializeComponent();
+            BindingContext = new AtracaoViewModel(atracao);
         }
     }
 }
