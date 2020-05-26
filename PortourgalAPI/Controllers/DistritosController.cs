@@ -86,6 +86,8 @@ namespace PortourgalAPI.Controllers
                 return NotFound();
             }
 
+            distritoIn.Id = user.Id;
+
             _distritoService.UpdateByNome(nome, distritoIn);
 
             return NoContent();

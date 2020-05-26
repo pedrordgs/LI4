@@ -87,6 +87,8 @@ namespace PortourgalAPI.Controllers
                 return NotFound();
             }
 
+            userIn.Id = user.Id;
+
             _userService.UpdateByEmail(email, userIn);
 
             return NoContent();
