@@ -24,7 +24,21 @@ namespace PortourgalAPI.Controllers
         }
 
         // GET: api/Users/5
-        [HttpGet("{email}", Name = "GetUser")]
+        [HttpGet("{id}", Name = "GetUser")]
+        public ActionResult<User> Get(string id)
+        {
+            var user = _userService.Get(id);
+
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            return user;
+        }
+
+        // GET: api/Users/email/admin@gmail.com
+        [HttpGet("email/{email}")]
         public ActionResult<User> GetByEmail(string email)
         {
             var user = _userService.GetByEmail(email);
@@ -62,8 +76,8 @@ namespace PortourgalAPI.Controllers
             return NoContent();
         }
 
-        // PUT: api/Users/admin
-        [HttpPut("{email}")]
+        // PUT: api/Users/email/admin@gmail.com
+        [HttpPut("email/{email}")]
         public IActionResult PutByEmail(string email, User userIn)
         {
             var user = _userService.GetByEmail(email);
@@ -96,8 +110,8 @@ namespace PortourgalAPI.Controllers
         }
 
 
-        // DELETE: api/Users/5
-        [HttpDelete("{email}")]
+        // DELETE: api/Users/email/admin@gmail.com
+        [HttpDelete("email/{email}")]
         public IActionResult DeleteByEmail(string email)
         {
             var user = _userService.GetByEmail(email);

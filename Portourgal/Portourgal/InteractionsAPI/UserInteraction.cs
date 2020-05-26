@@ -35,12 +35,25 @@ namespace Portourgal.InteractionsAPI
                 {
                     String json = await response.Content.ReadAsStringAsync();
                     Utilizador u = JsonConvert.DeserializeObject<Utilizador>(json);
-                    user = u;
+                    //user = u;
                     if (u != null && u.Password == password && email == u.Email) { user = u; return true; }
                     else return false;
                 }
             }
             return false;
+        }
+
+        public static async Task<Utilizador> EditaUtilizador(String email, Utilizador u)
+        {
+            if (Connectivity.NetworkAccess != NetworkAccess.None)
+            {
+                HttpClient client = new HttpClient();
+                StringContent content = new StringContent(JsonConvert.SerializeObject(u), Encoding.UTF8, "application/json");
+                HttpResponseMessage response = await client.PutAsync("https://portourgalapi.azurewebsites.net/api/users/"+email, content);
+                user = u;
+                if (response.IsSuccessStatusCode) return u;
+            }
+            return null;
         }
     }
 }

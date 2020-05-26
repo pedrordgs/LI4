@@ -23,8 +23,22 @@ namespace PortourgalAPI.Controllers
             return _distritoService.Get();
         }
 
-        // GET: api/Distritos/Braga
-        [HttpGet("{nome}", Name = "GetDistrito")]
+        // GET: api/Distritos/5
+        [HttpGet("{id}", Name = "GetDistrito")]
+        public ActionResult<Distrito> Get(string id)
+        {
+            var distrito = _distritoService.Get(id);
+
+            if (distrito == null)
+            {
+                return NotFound();
+            }
+
+            return distrito;
+        }
+
+        // GET: api/Distritos/nome/Braga
+        [HttpGet("nome/{nome}")]
         public ActionResult<Distrito> GetByNome(string nome)
         {
             var distrito = _distritoService.GetByNome(nome);
@@ -61,8 +75,8 @@ namespace PortourgalAPI.Controllers
             return NoContent();
         }
 
-        // PUT: api/Distritos/5
-        [HttpPut("{nome}")]
+        // PUT: api/Distritos/nome/Braga
+        [HttpPut("nome/{nome}")]
         public IActionResult PutByName(string nome, Distrito distritoIn)
         {
             var user = _distritoService.GetByNome(nome);
@@ -94,8 +108,8 @@ namespace PortourgalAPI.Controllers
             return NoContent();
         }
 
-        // DELETE: api/Distritos/Aveiro
-        [HttpDelete("{Nome}")]
+        // DELETE: api/Distritos/nome/Aveiro
+        [HttpDelete("nome/{Nome}")]
         public IActionResult DeleteByNome(string nome)
         {
             var distrito = _distritoService.Get(nome);
