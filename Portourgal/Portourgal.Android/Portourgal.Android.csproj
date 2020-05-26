@@ -87,7 +87,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\build.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Portourgal\Portourgal.csproj">
       <Project>{7C23C785-46DB-430E-96DB-505CFCEE22C9}</Project>

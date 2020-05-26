@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage  xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Portourgal.View.EditarPerfilView">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Spacing="20" Padding="0, 40, 0, 0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="60*"/>
+                        <RowDefinition Height="20*"/>
+                    </Grid.RowDefinitions>
+                </Grid>
+                <!-- Vai passar a ser uma image source -->
+                <BoxView Grid.Row="0" Color="CornflowerBlue"
+                         CornerRadius="10"
+                        WidthRequest="160"
+                        HeightRequest="160"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center" Margin="0,-5,0,5"/>
+                <StackLayout Grid.Row="2" Spacing="30" Margin="50, 50, 50, 0">
+                    <!--Nome-->
+                    <Entry Text="{Binding Email}" Placeholder="Email" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
+                    <!--Cidade-->
+                    <Entry Text="{Binding Nome}" Placeholder="Nome" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
+                    <!--Distrito-->
+                    <Entry Text="{Binding Cidade}" Placeholder="Cidade" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
+                    <!--Email-->
+                    <Entry Text="{Binding Distrito}" Placeholder="Distrito" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
+                    <!--Password-->
+                    <Entry Text="{Binding Password}" Placeholder="Password" BackgroundColor="#E7E7E7" ClearButtonVisibility="WhileEditing"/>
+                </StackLayout>
+
+                <Button Text="Editar" Command="{Binding ComandoEditar}"  TextColor="White" CornerRadius="25" BackgroundColor="#C65F4A" VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="250" Margin="20"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

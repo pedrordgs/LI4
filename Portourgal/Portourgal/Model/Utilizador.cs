@@ -28,6 +28,10 @@ namespace Portourgal.Model
         public string Email { get; set; }
         public string Password { get; set; }
 
+        public bool Equals (Utilizador u)
+        {
+            return Nome == u.Nome && Cidade == u.Cidade && Distrito == u.Distrito && Email == u.Email && Password == u.Password;
+        }
 
     }
 }
