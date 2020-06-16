@@ -25,6 +25,10 @@ namespace Portourgal.ViewModel
             Distrito = "";
             Password = "";
             Imagem = "";
+            NomeAntigo = UserInteraction.user.Nome;
+            EmailAntigo = UserInteraction.user.Email;
+            CidadeAntiga = UserInteraction.user.Cidade;
+            DistritoAntigo = UserInteraction.user.Distrito;
             ComandoEditar = new Command(EditarUtilizadorAsync);
         }
 
@@ -55,6 +59,11 @@ namespace Portourgal.ViewModel
         public string Distrito { get; set; }
         public string Password { get; set; }
         public string Imagem { get; set; }
+        public string NomeAntigo { get; set; }
+        public string EmailAntigo { get; set; }
+        public string CidadeAntiga { get; set; }
+        public string DistritoAntigo { get; set; }
+        public string PasswordAntiga { get; set; }
         public Command ComandoEditar { get; }
     }
 }

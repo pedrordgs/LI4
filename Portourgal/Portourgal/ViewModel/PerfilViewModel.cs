@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
+using Portourgal.Model;
 
 namespace Portourgal.ViewModel
 {
@@ -25,14 +26,17 @@ namespace Portourgal.ViewModel
             };
             ComandoEditarPerfil = new Command(EntrarEditarUtilizadorAsync);
         }
-         
+
         void EntrarEditarUtilizadorAsync()
         {
             App.Current.MainPage.Navigation.PushAsync(new EditarPerfilView());
         }
 
         public string NomeUtilizador { get; } = UserInteraction.user.Nome;
+        public string Localidade { get; } = UserInteraction.user.Cidade + ", " + UserInteraction.user.Distrito;
+        public string TextoPontos { get; } = UserInteraction.user.Pontos + " pontos";
         public string Imagem { get; } = UserInteraction.user.Imagem;
+        public List<Publicacao> Historico { get; } = UserInteraction.user.Historico;
         public List<Palavra> Frases { get; set; }
         public Command ComandoEditarPerfil { get; }
     }

@@ -16,21 +16,26 @@
             <RowDefinition Height="10*"/>
             <RowDefinition Height="65*"/>
         </Grid.RowDefinitions>
-        <Image Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" Aspect="Fill" HeightRequest="300" VerticalOptions="StartAndExpand"/>
-        <!--<BoxView Color="Violet" HeightRequest="300"/>-->
+        <!--<Image Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" Aspect="Fill" HeightRequest="300" VerticalOptions="StartAndExpand"/>-->
+        <BoxView Color="Violet" HeightRequest="300"/>
         <Grid Grid.Row="1" Margin="20,-40,20,0" Padding="0" HeightRequest="120" VerticalOptions="CenterAndExpand">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-            <BoxView Color="CornflowerBlue"
-                     CornerRadius="10"
-                     WidthRequest="160"
-                     HeightRequest="160"
-                     VerticalOptions="Center"
-                     HorizontalOptions="Center" Margin="0,-5,0,5"/>
-            <Label Grid.Column="1" Text="{Binding NomeUtilizador}" TextColor="Red" FontSize="14" HorizontalOptions="Start" VerticalOptions="Center"/>
+            <Frame CornerRadius="10"
+                   WidthRequest="160"
+                   HeightRequest="160"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center" Margin="0,-5,0,5" IsClippedToBounds="True" Padding="0">
+                <Image Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"/>
+            </Frame>
+            <StackLayout Grid.Column="1" VerticalOptions="End" Margin="0,0,0,5" Spacing="1" HorizontalOptions="Start">
+                <Label Text="{Binding NomeUtilizador}" TextColor="Black" FontSize="16" HorizontalOptions="Start" VerticalOptions="Center"/>
+                <Label Text="{Binding Localidade}" TextColor="Gray" FontSize="12" HorizontalOptions="Start" VerticalOptions="Center"/>
+                <Label Text="{Binding TextoPontos}" TextColor="Gray" FontSize="12" HorizontalOptions="Start" VerticalOptions="Center"/>
+            </StackLayout>
             <ImageButton Grid.Column="2" Source="build.png"  Command="{Binding ComandoEditarPerfil}" HorizontalOptions="Center" VerticalOptions="Center"/>
         </Grid>
         <!--<ListView Grid.Row="2" Margin="20,0" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="Beige" ItemsSource="{Binding Frases}">
@@ -47,12 +52,13 @@
             </ListView.ItemTemplate>
         </ListView>-->
         <ScrollView Grid.Row="2" Margin="20,20" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
-            <StackLayout BindableLayout.ItemsSource="{Binding Frases}">
+            <StackLayout BindableLayout.ItemsSource="{Binding Historico}">
                 <BindableLayout.ItemTemplate>
                     <DataTemplate>
                         <StackLayout>
-                            <Label Text="{Binding Texto}"/>
-                            <Image Source="{Binding Nome}" VerticalOptions="CenterAndExpand"/>
+                            <Label Text="{Binding Atracao}"/>
+                            <Label Text="{Binding Distrito}"/>
+                            <Image Source="{Binding Imagem}" VerticalOptions="CenterAndExpand"/>
                         </StackLayout>
                     </DataTemplate>
                 </BindableLayout.ItemTemplate>

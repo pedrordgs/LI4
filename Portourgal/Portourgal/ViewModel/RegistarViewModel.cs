@@ -31,14 +31,9 @@ namespace Portourgal.ViewModel
         async void RegistarUtilizadorAsync()   
         {
             List<Publicacao> hist = new List<Publicacao>();
-            string type;
-            byte[] data;
-            var res = new ResourceReader(@".\ApplicationResources.resources");
-            res.GetResourceData("defaultProfile.png", out type, out data);
-            string base64String = Convert.ToBase64String(data);
-            Utilizador u = new Utilizador(Nome, Cidade, Distrito, Email, Password, base64String, 0, hist);
+            Utilizador u = new Utilizador(Nome, Cidade, Distrito, Email, Password, "", 0, hist);
             u = await UserInteraction.AddUtilizadorDB(u);
-            App.Current.MainPage = new HomePage();
+            App.Current.MainPage = new NavigationPage(new HomePage());
         }
 
         public Command ComandoRegistar { get; }

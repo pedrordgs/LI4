@@ -57,7 +57,7 @@ namespace Portourgal.ViewModel
         {
             string atracao = (string)a;
             Atracao atr = Atracoes.Find(x => string.Equals(x.Nome, atracao));
-            App.Current.MainPage.Navigation.PushAsync(new AtracaoView(atr));
+            App.Current.MainPage.Navigation.PushAsync(new AtracaoView(atr, Nome));
         }
 
         void SelecionarHotel(object h)
@@ -79,7 +79,6 @@ namespace Portourgal.ViewModel
         public List<Atracao> Atracoes { get; set; }
         public List<Restaurante> Restaurantes { get; set; }
         public List<Hotel> Hoteis { get; set; }
-
         public Command ComandoAtracao { get; }
         public Command ComandoHotel { get; }
         public Command ComandoRestaurante { get; }
