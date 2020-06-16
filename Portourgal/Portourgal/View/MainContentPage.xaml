@@ -28,7 +28,7 @@
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
                             <Grid>
-                                <ImageButton Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill" 
+                                <ImageButton Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" 
                                              Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:MainContentPageViewModel}}, Path=ComandoDistrito}"  
                                              CommandParameter="{Binding Nome}"/>
                                 <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="#E9E9E9"/>

@@ -30,7 +30,7 @@ namespace Portourgal.InteractionsAPI
             if (Connectivity.NetworkAccess != NetworkAccess.None)
             {
                 HttpClient client = new HttpClient();
-                HttpResponseMessage response = await client.GetAsync("https://portourgalapi.azurewebsites.net/api/users/" + email);
+                HttpResponseMessage response = await client.GetAsync("https://portourgalapi.azurewebsites.net/api/users/email/" + email);
                 if (response.IsSuccessStatusCode)
                 {
                     String json = await response.Content.ReadAsStringAsync();
@@ -49,7 +49,7 @@ namespace Portourgal.InteractionsAPI
             {
                 HttpClient client = new HttpClient();
                 StringContent content = new StringContent(JsonConvert.SerializeObject(u), Encoding.UTF8, "application/json");
-                HttpResponseMessage response = await client.PutAsync("https://portourgalapi.azurewebsites.net/api/users/"+email, content);
+                HttpResponseMessage response = await client.PutAsync("https://portourgalapi.azurewebsites.net/api/users/email/"+email, content);
                 user = u;
                 if (response.IsSuccessStatusCode) return u;
             }
