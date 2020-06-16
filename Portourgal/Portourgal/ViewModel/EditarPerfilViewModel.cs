@@ -12,7 +12,6 @@ namespace Portourgal.ViewModel
     {
         public EditarPerfilViewModel()
         {
-            Imagem = "";
             /*
             Nome = UserInteraction.user.Nome;
             Email = UserInteraction.user.Email;
@@ -25,6 +24,7 @@ namespace Portourgal.ViewModel
             Cidade = "";
             Distrito = "";
             Password = "";
+            Imagem = "";
             ComandoEditar = new Command(EditarUtilizadorAsync);
         }
 
@@ -35,7 +35,8 @@ namespace Portourgal.ViewModel
                 if (Cidade == "") Cidade = UserInteraction.user.Cidade;
                 if (Distrito == "") Distrito = UserInteraction.user.Distrito;
                 if (Password == "") Password = UserInteraction.user.Password;
-                Utilizador u = new Utilizador(Nome, Cidade, Distrito, Email, Password);
+                if (Imagem == "") Imagem = UserInteraction.user.Imagem;
+                Utilizador u = new Utilizador(Nome, Cidade, Distrito, Email, Password, Imagem, UserInteraction.user.Pontos, UserInteraction.user.Historico);
                 if (!u.Equals(UserInteraction.user))
                 {
                     await App.Current.MainPage.DisplayAlert("Novo Perfil", u.Nome + " " + u.Email + " " + u.Cidade + " " + u.Distrito + " " + u.Password, "OK");
@@ -48,12 +49,12 @@ namespace Portourgal.ViewModel
                 }
         }
 
-        public string Imagem { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }
         public string Cidade { get; set; }
         public string Distrito { get; set; }
         public string Password { get; set; }
+        public string Imagem { get; set; }
         public Command ComandoEditar { get; }
     }
 }

@@ -26,6 +26,5 @@ namespace Portourgal.ViewModel
 
         public List<Distrito> Distritos { get; set; }
         public Command ComandoDistrito { get; }
-        public Uri Image { get; }
     }
 }

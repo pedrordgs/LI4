@@ -32,6 +32,7 @@ namespace Portourgal.ViewModel
         }
 
         public string NomeUtilizador { get; } = UserInteraction.user.Nome;
+        public string Imagem { get; } = UserInteraction.user.Imagem;
         public List<Palavra> Frases { get; set; }
         public Command ComandoEditarPerfil { get; }
     }
