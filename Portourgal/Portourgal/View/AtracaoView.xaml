@@ -17,7 +17,11 @@
             <BoxView HeightRequest="1" Margin="40,0" BackgroundColor="DimGray"/>
             <Label Text="{Binding Historia}" FontSize="10" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center"/>
             <Label Text="{Binding Localidade}" FontSize="10" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center"/>
-            <Image Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Image Source="{Binding Imagem}" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Visitado?" />
+                <Switch IsToggled="{Binding Visitado}" OnColor="#C65F4A" />
+            </StackLayout>
         </StackLayout>
     </ScrollView>
 </ContentPage>

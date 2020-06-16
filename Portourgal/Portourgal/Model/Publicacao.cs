@@ -9,19 +9,19 @@ namespace Portourgal.Model
         public Publicacao()
         {
             Distrito = "";
-            Cidade = "";
             Atracao = "";
+            Imagem = "";
         }
 
-        public Publicacao(string d, string c, string a)
+        public Publicacao(string d, string a, string i)
         {
             Distrito = d;
-            Cidade = c;
             Atracao = a;
+            Imagem = i;
         }
 
         public string Distrito { get; set; }
-        public string Cidade { get; set; }
         public string Atracao { get; set; }
+        public string Imagem { get; set; }
     }
 }

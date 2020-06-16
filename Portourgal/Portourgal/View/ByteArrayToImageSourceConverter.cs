@@ -13,7 +13,7 @@ namespace Portourgal.View
             ImageSource retSource = null;
             if (value != null)
             {
-                if ((string)value == "") retSource = ImageSource.FromFile("district.png");
+                if ((string)value == "") retSource = ImageSource.FromFile("defaultProfile.png");
                 else
                 {
                     byte[] imageAsBytes = System.Convert.FromBase64String((string)value);

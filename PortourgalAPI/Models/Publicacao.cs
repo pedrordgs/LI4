@@ -9,7 +9,7 @@ namespace PortourgalAPI.Models
     {
 
         public string Distrito { get; set; }
-        public string Cidade { get; set; }
         public string Atracao { get; set; }
+        public string Imagem { get; set; }
     }
 }

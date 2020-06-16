@@ -26,13 +26,9 @@
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
                             <Grid>
-
-                                <ImageButton Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"
+                                <ImageButton Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill"
                                                     Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoAtracao}"  
                                                     CommandParameter="{Binding Nome}"/>
-                                <!--<ImageButton HorizontalOptions="Center" Aspect="AspectFill"
-                                                    Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoAtracao}"  
-                                                    CommandParameter="{Binding Nome}"/>-->
                                 <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="#E9E9E9"/>
                             </Grid>
                         </Frame>
@@ -41,17 +37,17 @@
             </CarouselView>
 
             <Label Text="Hotéis" TextColor="Black" FontSize="20" FontAttributes="Bold" Margin="10,20"/>
-            <CarouselView x:Name="MainCarouselViewA" HeightRequest="300" ItemsSource="{Binding Hoteis}">
+            <CarouselView x:Name="MainCarouselViewA" HeightRequest="300" PeekAreaInsets="100" HorizontalOptions="CenterAndExpand" ItemsSource="{Binding Hoteis}">
+                <CarouselView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Horizontal"  ItemSpacing="20" />
+                </CarouselView.ItemsLayout>
                 <CarouselView.ItemTemplate>
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
                             <Grid>
-                                <ImageButton Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"
+                                <ImageButton Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill"
                                                     Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoHotel}"  
                                                     CommandParameter="{Binding Nome}"/>
-                                <!--<ImageButton HorizontalOptions="Center" Aspect="AspectFill"
-                                                    Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoHotel}"  
-                                                    CommandParameter="{Binding Nome}"/>-->
                                 <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="#E9E9E9"/>
                             </Grid>
                         </Frame>
@@ -60,16 +56,16 @@
             </CarouselView>
 
             <Label Text="Restaurantes" TextColor="Black" FontSize="20" FontAttributes="Bold" Margin="10,20"/>
-            <CarouselView x:Name="MainCarouselViewB" HeightRequest="300" ItemsSource="{Binding Restaurantes}">
+            <CarouselView x:Name="MainCarouselViewB" HeightRequest="300" PeekAreaInsets="100" HorizontalOptions="CenterAndExpand" ItemsSource="{Binding Restaurantes}">
+                <CarouselView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Horizontal"  ItemSpacing="20" />
+                </CarouselView.ItemsLayout>
                 <CarouselView.ItemTemplate>
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
                             <Grid>
-                                <!-- <ImageButton Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"
-                                                    Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoRestaurante}"  
-                                                    CommandParameter="{Binding Nome}"/> -->
-                                <ImageButton HorizontalOptions="Center" Aspect="AspectFill"
-                                                    Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoRestaurante}"  
+                                <ImageButton Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill"
+                                                    Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoHotel}"  
                                                     CommandParameter="{Binding Nome}"/>
                                 <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="#E9E9E9"/>
                             </Grid>
