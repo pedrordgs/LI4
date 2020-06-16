@@ -1,371 +1,619 @@
 {
-	"Nome": "Beja",
-	"Historia": "Ã‰ uma cidade portuguesa pertencente Ã  regiÃ£o do Alentejo e sub-regiÃ£o do Baixo Alentejo. CrÃª-se que a cidade foi fundada cerca de 400 anos a.C., pelos celtas.Conta a lenda que quando a cidade de Beja era uma pequena localidade de cabanas rodeada de um compacto matagal, uma serpente assassina era o maior problema da populaÃ§Ã£o. A soluÃ§Ã£o para este dilema passou por assassinar a serpente, feito alcanÃ§ado deixando um touro envenenado na floresta onde habitava a serpente. Ã‰ devido a esta lenda que existe um touro representado no brasÃ£o da cidade.",
-	"Cidades": [
-		{
-			"Nome": "Aljustrel",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "AlmodÃ´var",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Alvito",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Barrancos",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Beja",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Castro Verde",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Cuba",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Ferreira do Alentejo",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "MÃ©rtola",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Moura",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Odemira",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Ourique",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Serpa",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Vidigueira",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		}
-	],
-	"Imagem": "https://www.travel-in-portugal.com/sites/default/files/photos/beja.jpg"
+  "Nome": "Beja",
+  "Historia": "É uma cidade portuguesa pertencente à região do Alentejo e sub-região do Baixo Alentejo. Crê-se que a cidade foi fundada cerca de 400 anos a.C., pelos celtas.Conta a lenda que quando a cidade de Beja era uma pequena localidade de cabanas rodeada de um compacto matagal, uma serpente assassina era o maior problema da população. A solução para este dilema passou por assassinar a serpente, feito alcançado deixando um touro envenenado na floresta onde habitava a serpente. É devido a esta lenda que existe um touro representado no brasão da cidade.",
+  "Cidades": [
+    {
+      "Nome": "Aljustrel",
+      "Atracoes": [
+        {
+          "Nome": "Jardim 25 de Abril",
+          "Localidade": "R. da Quadra 32, 7600-068 Aljustrel",
+          "Historia": "O Jardim 25 de Abril dispõe de parque infantil, canteiros floridos e frondosa e variada vegetação. É um local agradável e refrescante para gozar momentos de lazer.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/826049"
+        },
+        {
+          "Nome": "Museu Municipal de Arqueologia de Aljustrel",
+          "Localidade": "Rua de São João de Deus 19, 7600-116 Aljustrel",
+          "Historia": "O Museu Municipal de Aljustrel, depositário de grande parte do espólio arqueológico e etnográfico recolhido no concelho, convida-o a realizar uma viagem no tempo, através dos artefactos utilizados pelos diversos povos que aqui se estabeleceram, desde os períodos mais remotos até à atualidade, cruzando as suas gentes e as suas culturas e de que resultou a realidade que hoje é Aljustrel.",
+          "Imagem": "https://www.vozdaplanicie.pt/images/180520171652-547-MuseudaRuralidade.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Fio d'Azeite",
+          "Morada": "R. Catarina Eufémia 5 099, 7600-099 Aljustrel",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/05/57/9b/restaurante-fio-d-azeite.jpg"
+        },
+        {
+          "Nome": "O Cabecinha",
+          "Morada": "Avenida Antero Quental 22, 7600-013 Aljustrel",
+          "Classificacao": 4.3,
+          "Imagem": "data:image/jpeg;base64,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"
+        },
+        {
+          "Nome": "Mirante",
+          "Morada": "Urbanização praça de touros, 7600-098 Aljustrel",
+          "Classificacao": 3.7,
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/770495"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Villa Aljustrel",
+          "Morada": "R. Catarina Eufémia nº5, 7600-099 Aljustrel",
+          "Preco": "85€",
+          "Classificacao": 3,
+          "Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/destaque%20aljustrel1.jpg?itok=UkknNfHc"
+        }
+      ]
+    },
+    {
+      "Nome": "Almodôvar",
+      "Atracoes": [
+        {
+          "Nome": "Convento de Nossa Senhora da Conceição",
+          "Localidade": "Rua do Convento 25, 7700-058 Almodôvar",
+          "Historia": "Foi fundado por Pedro Cardoso Machado, 3.º neto de Gonçalo Eanes, e dele recebendo avultados donativos para ali se instalar a sua irmã, já freira professa da Ordem de Santa Clara, no Mosteiro da Luz, na então vila da Praia. Recebeu alvará concedido pelo Papa Paulo V através de Bula de 5 de agosto de 1606.",
+          "Imagem": "https://www.visitarportugal.pt/images/fotos/administrator/beja/c-almodovar/almodovar/convento-n-sra-conceicao-4.jpg+"
+        },
+        {
+          "Nome": "Homenagem ao Mineiro, escultura de Aureliano de Aguiar",
+          "Localidade": "N267 7700, Almodôvar",
+          "Historia": "Foi fundado por Pedro Cardoso Machado, 3.º neto de Gonçalo Eanes, e dele recebendo avultados donativos para ali se instalar a sua irmã, já freira professa da Ordem de Santa Clara, no Mosteiro da Luz, na então vila da Praia. Recebeu alvará concedido pelo Papa Paulo V através de Bula de 5 de agosto de 1606.",
+          "Imagem": "https://www.sulinformacao.pt/wp-content/uploads/2018/11/rotunda-mineiros-almod%C3%B4var-2-e1543596175388.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "O Moinho",
+          "Morada": "46, R. do Arco de Baúlhe 36",
+          "Classificacao": 4.0,
+          "Imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/10/13295415Restaurante-O-Moinho-40.JPG"
+        },
+        {
+          "Nome": "Pizzaria 'O Forno'",
+          "Morada": "R. 17 de Abril 2, 7700-050 Almodôvar",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/09/fe/e0/photo0jpg.jpg"
+        },
+        {
+          "Nome": "Pizzaria Ricordi",
+          "Morada": "Rua do Convento 9, 7700-058 Almodôvar",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/53/c2/94/pizzaria-ricordi.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Serafim",
+          "Morada": "Rua do Afonso 9, 7700-053 Almodôvar",
+          "Preco": "45€",
+          "Classificacao": 2,
+          "Imagem": "https://pix10.agoda.net/hotelImages/467/467586/467586_13091211570015088119.jpg?s=1024x768"
+        },
+        {
+          "Nome": "Monte Gois Country House & Spa",
+          "Morada": "Monte Gois 212, Almodôvar",
+          "Preco": "105€",
+          "Classificacao": 5,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/218/218438468.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Alvito",
+      "Atracoes": [
+        {
+          "Nome": "Moinho de Bagaço",
+          "Localidade": "Largo Gen. Humberto Delgado 4, 7920-027 Alvito",
+          "Historia": "Mós de Granito, parte de equipamento usado até aos anos 70 do Séc.XX para esmagar o bagaço de azeitona nos lagares de azeite (Alvito, Portugal).",
+          "Imagem": "data:image/jpeg;base64,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"
+        },
+        {
+          "Nome": "Ermida de São Sebastião",
+          "Localidade": "R. dos Aviadores 1, 7920-052 Alvito",
+          "Historia": "Foi mandada edificar em 1892 por Francisco Maria Brum junto da sua residência, sob a invocação de São Sebastião. Possui ainda imagens de Nossa Senhora das Necessidades, do Espírito Santo, de Santo António, de São José e de São Francisco de Assis.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/75/a3/7c/ermida-de-sao-sebastiao.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Café Restaurante - O Francês",
+          "Morada": "Av. dos Bombeiros Voluntários 30, 7920-011 Alvito",
+          "Classificacao": 4.1,
+          "Imagem": "data:image/jpeg;base64,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"
+        },
+        {
+          "Nome": "Restaurante da pousada de Alvito",
+          "Morada": "Largo do Castelo 3, 7920-054 Alvito",
+          "Classificacao": 4.1,
+          "Imagem": "https://lifecooler.com/files/registos/imagens/332061/70967.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Horta Da Vila",
+          "Morada": "Alvito",
+          "Preco": "80€",
+          "Classificacao": 4,
+          "Imagem": "https://www.mybesthotel.eu/pic/_10_557d99abb8a7f.jpg"
+        },
+        {
+          "Nome": "Pousada do Castelo de Alvito",
+          "Morada": "Castelo de Alvito, 7920-999 Alvito",
+          "Preco": "85€",
+          "Classificacao": 4,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/146/146155090.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Barrancos",
+      "Atracoes": [
+        {
+          "Nome": "Jardim do Miradouro de Barrancos",
+          "Localidade": "Rua 1 de Dezembro 33, 7230-042 Barrancos",
+          "Historia": "Jardim decorado com pequenos lagos, palmeiras e cabanas de madeira. Possui ainda um parque infantil com chão almofadado. Encontra-se localizado junto a um miradouro de onde se vislumbra paisagens em redor de Barrancos.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/828146"
+        },
+        {
+          "Nome": "Jardim das Bicas",
+          "Localidade": "R. das Bicas 18, 7230-023 Barrancos",
+          "Historia": "Jardim no centro de Barrancos, com árvores de grande porte e caminhos pedonais serpenteando a área verde.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/827104"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante A Esquina",
+          "Morada": "Rua das Fontaínhas 2, 7230-018 Barrancos",
+          "Classificacao": 4.9,
+          "Imagem": "data:image/jpeg;base64,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"
+        },
+        {
+          "Nome": "Restaurante Miradouro",
+          "Morada": "Rua 1 de Dezembro 34, 7230-042 Barrancos",
+          "Classificacao": 4.7,
+          "Imagem": "https://4.bp.blogspot.com/-pL0lPNsQ-QM/VvQt9e4VHzI/AAAAAAABuSo/UqBTtWB2v48I0YsiXbNwiMryZpoR5LslA/s1600/Miradouro%2B2.jpg"
+        },
+        {
+          "Nome": "A Forja",
+          "Morada": "Rua Dr. Higino de Sousa 7 9, 7230-013 Barrancos",
+          "Classificacao": 5.0,
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/749206"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Parque de Natureza de Noudar",
+          "Morada": "Estrada Municipal 1023, 7230-057 Barrancos",
+          "Preco": "",
+          "Classificacao": 4,
+          "Imagem": "https://lh3.googleusercontent.com/proxy/S4X8AgmpwP3m4mXhhJz7_Tl6bqMuGpOYv1eOpckWe3TsLCnk2WZ12eraJt9yNtJ8-SHkhVbp7n2WpElntDmV0poC6UopjPskh_TBRshQqT7AUSypJpFHbUrjYJK7AhJInA"
+        }
+      ]
+    },
+    {
+      "Nome": "Beja",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Beja",
+          "Localidade": "R. Dom Dinis 3, 7800-266 Beja",
+          "Historia": "Embora a primitiva ocupação humana do seu sítio remonte à pré-história e esteja mencionada nos escritos de Ptolomeu e de Políbio, em meados do século II a.C., a sua fortificação data da Invasão romana da Península Ibérica, possivelmente devido à importância adquirida no cenário regional. Foi este o local escolhido por Júlio César para formalizar a paz com os Lusitanos (49), após o que passou a se denominar Pax Julia, vindo a sediar uma das três jurisdições romanas da Lusitânia. Acredita-se que os muros de defesa romanos remontem a algum momento entre o século III e o século IV. À época da Reconquista cristã da Península Ibérica, foi inicialmente conquistada pelas forças de D. Afonso Henriques (1112-1185) em 1159, para ser abandonada quatro meses mais tarde. Foi reconquistada de surpresa, por uma expedição de populares idos de Santarém, em princípio de Dezembro de 1162.",
+          "Imagem": "https://cm-beja.pt/util/imgLoader2.ashx?img=/upload_files/client_id_1/website_id_1/Beja/IMG_7997.jpg"
+        },
+        {
+          "Nome": "Monumento ao Prisioneiro Político Desconhecido",
+          "Localidade": "R. Dom Nuno Alvares Pereira 5, 7800-054 Beja",
+          "Historia": "Foi projetada em 1953 para o Concurso Internacional de Escultura promovido pelo Institute of Contemporary Arts, Londres, O Prisioneiro Político Desconhecido, onde foi premiada. A maqueta levada a concurso integrou, depois, a mostra de artistas premiados nesse certame na Tate Gallery, Londres. Foi apresentada também na II Bienal de S. Paulo, Brasil (representação portuguesa). Em 1958 a escultura foi novamente exposta, no Pavilhão de Portugal da Exposição Universal de Bruxelas (Exposition Universelle de Bruxelles). Foi então selecionada pelo júri de admissão para integrar a exposição 50 Ans d'Art Moderne (Bruxelas, 1958); organizada no âmbito da Exposição Universal de Bruxelas, essa mostra apresentou uma panorâmica da arte internacional nas primeiras cinco décadas do século XX através de obras dos seus mais destacados representantes (a imagem a preto e branco que ilustra este artigo foi publicada no catálogo dessa exposição).",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b7/Jorge_Vieira_Monumento_ao_prisioneiro_pol%C3%ADtico_desconhecido_1953.jpg/220px-Jorge_Vieira_Monumento_ao_prisioneiro_pol%C3%ADtico_desconhecido_1953.jpg"
+        },
+        {
+          "Nome": "Igreja da Misericórdia de Beja",
+          "Localidade": "Praça da República 41, 7800-396 Beja",
+          "Historia": "A Igreja da Misericórdia de Beja apresenta-se como um emblemático e belo exemplar da arquitectura de transição entre o Renascimento e o Maneirismo em Portugal, pleno do entendimento das fontes tratadísticas e das formas eruditas da lição maneirista italiana, originado na traça de um dos mais notáveis arquitectos do terceiro quartel do século XVI.",
+          "Imagem": "https://cm-beja.pt/util/imgLoader2.ashx?img=/upload_files/client_id_1/website_id_1/Beja/IMG_597111.JPG"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Adega Típica 25 de Abril",
+          "Morada": "R. da Moeda 23, 7800-464 Beja",
+          "Classificacao": 4.4,
+          "Imagem": "https://lifecooler.com/files/registos/imagens/393985/103384.jpg"
+        },
+        {
+          "Nome": "Os Infantes Restaurante",
+          "Morada": "R. dos Infantes 16, 7800-495 Beja",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/da/77/d1/sala-com-aboboda.jpg"
+        },
+        {
+          "Nome": "Restaurante Dom Dinis",
+          "Morada": "R. Dom Dinis 11, 7800-305 Beja",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3c/fa/0e/restaurante-dom-dinis.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Melius",
+          "Morada": "Av. Fialho de Almeida, 7800-395 Beja",
+          "Preco": "65€",
+          "Classificacao": 3,
+          "Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/39/66/39665_v3.jpeg"
+        },
+        {
+          "Nome": "BejaParque Hotel",
+          "Morada": "R. Francisco Miguel Duarte 1, 7800-510 Beja",
+          "Preco": "74€",
+          "Classificacao": 4,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/118/118764422.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Cuba",
+      "Atracoes": [
+        {
+          "Nome": "Casa-Museu Quinta da Esperança",
+          "Localidade": "Rua da Quinta da Esperança, 7940-256 Cuba",
+          "Historia": "A Quinta da Esperança situa-se em Cuba, Distrito de Beja, Baixo Alentejo, Portugal. É uma casa senhorial datada do final do Século XVI. Há registos de sua existência já em meados de 1595. Com quatro pisos e mais de 200 divisões, foi erguida pela família Sebolinhos de Barahona, influente família da região que transformou toda a área a seu redor num dos maiores campos de cultivo de trigo de Portugal, criando o Morgado da Esperança a partir de 1750. O imóvel, por ser uma habitação da nobreza, teve o privilégio de hospedar três elementos da Família Real Portuguesa: a Rainha D. Maria II, o Rei D. Pedro V e o Rei D. Luís, aquando das suas deslocações à cidade de Beja, além também de ter recebido em suas dependências outras realezas de outras terras. Em exposição no momento, 25 salas, incluindo a belíssima Capela entre outras curiosidades do edifício.",
+          "Imagem": "https://bolimg.blob.core.windows.net/producao/imagens/entidades/aderentes/ent5784.jpg?v=7"
+        },
+        {
+          "Nome": "eco Palacete Borralho Relógio",
+          "Localidade": "Rua Dr. João de Almeida Tojeiro 6, 7940-122 Cuba",
+          "Historia": "Alvo de requalificações nos anos de 2014 e 2015, o ecoPalacete Borralho Relógio remonta ao século XIX, contando mais de 140 anos de história. Hoje, partilha com os visitantes um pouco da história da vila, bem como da 'família que durante 6 gerações procurou preservar um património que é de todos'.",
+          "Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/eco%20Palacete%20PBR%204-660x371.jpg?itok=a8F7NRna"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Adega da Casa de Monte Pedral",
+          "Morada": "Rua da Fonte dos Leões, 7940-014 Cuba",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/82/b4/e6/restaurante-alentejano.jpg"
+        },
+        {
+          "Nome": "Restaurante Taberna da Arrufa",
+          "Morada": "Trecho das Francas n3, 7940-178 Cuba",
+          "Classificacao": 4.4,
+          "Imagem": "data:image/jpeg;base64,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"
+        },
+        {
+          "Nome": "Restaurante O Lucas",
+          "Morada": "R. Visc. da Esperança 65A, 7940-191 Cuba",
+          "Classificacao": 4.1,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/a9/b6/f8/sala-de-refeicoes.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Herdade Do Gizo",
+          "Morada": "Estrada Nacional, 7940-017 Cuba",
+          "Preco": "220€",
+          "Classificacao": 4,
+          "Imagem": "https://pix10.agoda.net/property/11742147/0/34170c8184cd24e21cf94ffca11eb21f.jpg?s=1024x768"
+        }
+      ]
+    },
+    {
+      "Nome": "Ferreira do Alentejo",
+      "Atracoes": [
+        {
+          "Nome": "Museu Municipal de Ferreira do Alentejo",
+          "Localidade": "R. do Conselheiro Júlio de Vilhena 5, 7900-599 Ferreira do Alentejo",
+          "Historia": "O Museu Municipal de Ferreira do Alentejo foi criado em dezembro de 1996, quando o Município criou o Serviço Histórico Museológico, tendo sido inaugurado apenas a 22 de outubro de 2004. O Museu ocupa a grande maioria da Casa Agrícola Jorge Ribeiro de Sousa, propriedade do herdeiro dos Condes de Avilez e Boa Vista e da Morgada da Apariça. Desconhece-se a data exata de construção do edifício, no entanto, algumas das suas características arquitetónicas datam da segunda metade do século XIX.",
+          "Imagem": "https://www.e-cultura.pt/images/user/image14829343888412.jpg"
+        },
+        {
+          "Nome": "Capela do Calvário",
+          "Localidade": "7900-556 Ferreira do Alentejo",
+          "Historia": "Este templo foi construído no Século XVII.",
+          "Imagem": "https://ferreiradoalentejo.pt/wp-content/uploads/2017/04/rascunho-automatico-76.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Sabores com Memória",
+          "Morada": "Rua Dr. António José de Almeida 41, 7900-583 Ferreira do Alentejo",
+          "Classificacao": 4.1,
+          "Imagem": "https://ferreiradoalentejo.pt/wp-content/uploads/2017/04/sabores2.jpg"
+        },
+        {
+          "Nome": "Restaurante O Baguinho",
+          "Morada": "Av. Gen. Humberto Delgado 96, 7900-110 Ferreira do Alentejo",
+          "Classificacao": 4.1,
+          "Imagem": "https://ferreiradoalentejo.pt/wp-content/uploads/2017/04/qqqqqa.jpg"
+        },
+        {
+          "Nome": "Restaurante O Portão",
+          "Morada": "R. Movimento das Forças Armadas 12, 7900-619 Ferreira do Alentejo",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/16/3d/8f/69/sala.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel O Gato",
+          "Morada": "Estrada Nacional Nº 2, 7900-371",
+          "Preco": "61€",
+          "Classificacao": 3,
+          "Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/12/79/127915_v10.jpeg"
+        },
+        {
+          "Nome": "Pátio das Andorinhas",
+          "Morada": "R. 25 de Abril 5, 7900-574 Ferreira do Alentejo",
+          "Preco": "45€",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/106/106130017.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Mértola",
+      "Atracoes": [
+        {
+          "Nome": "Miradouro do Castelo de Mértola",
+          "Localidade": "R. da Igreja, 7750-338 Mértola",
+          "Historia": "A indicação mais comum é a de atribuir a Torre do Relógio aos finais do século XVI e princípios do XVII. Situada na proximidade do rio Guadiana, a torre integra-se na estrutura das muralhas que delimitam a cidade. Acredita-se que esta edificação se proponha para uma das duas ou até mesmo para as duas funcionalidades como o fornecimento de água e o controle da zona portuária.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/833835"
+        },
+        {
+          "Nome": "Torre do Relógio de Mértola",
+          "Localidade": "R. Dom Sancho II 15, 7750-350 Mértola",
+          "Historia": "Este templo foi construído no Século XVII.",
+          "Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/beja-mertola/mertola/torre-do-relogio.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Espaço Casa Amarela",
+          "Morada": "Vivenda Casa Amarela, Estrada dos Celeiros 25-26, Sitio, 77750-301 Mértola",
+          "Classificacao": 4.4,
+          "Imagem": "https://lifecooler.com/files/registos/imagens/451479/358940.jpg"
+        },
+        {
+          "Nome": "Restaurante Tamuje",
+          "Morada": "Rua Dr. Serrão Martins 36, 7750-355 Mértola",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/e4/ee/03/casadepasto-cafetaria.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Museu",
+          "Morada": "R. Dr. Afonso Costa 112, 7750-352 Mértola",
+          "Preco": "50€",
+          "Classificacao": 3,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/490/49093751.jpg"
+        },
+        {
+          "Nome": "BEIRA RIO",
+          "Morada": "R. Dr. Afonso Costa Nº 108, 7750-352 Mértola",
+          "Preco": "36€",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/236/236294519.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Moura",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Moura",
+          "Localidade": "Calçada do Castelo, 7860-009 Moura",
+          "Historia": "Acredita-se que a primitiva ocupação humana deste sítio remonte a um castro da Idade do Ferro, sucessivamente ocupado pelos Romanos, pelos Visigodos e pelos Muçulmanos, quando alcançou expressão regional como capital da província de Al-Manijah, conforme os diversos testemunhos arqueológicos atualmente recolhidos ao Museu Municipal de Moura. A construção da fortificação Muçulmana, em taipa, datará dos meados do século XI ao início do século XII, da qual nos chegaram alguns vestígios, como a chamada Torre da Salúquia. À época da Reconquista cristã da Península Ibérica, a povoação foi inicialmente conquistada, em 1166, pelos irmãos Pedro e Álvaro Rodrigues e perdida quase de seguida. Foi, ainda em 1166, conquistada por Geraldo Sem Pavor, tendo depois disso, e até ao reinado de D. Dinis, sido perdida e reconquistada mais quatro vezes. Na segunda metade do século XIV, sob o reinado de D. Fernando (1367-1383), iniciou-se uma segunda cerca amuralhada, envolvendo os novos limites da povoação, aumentados. Quando de seu falecimento, abrindo-se a crise de 1383-1385, a vila e seu castelo tomaram partido por D. Beatriz e João I de Castela até à época da batalha de Aljubarrota.",
+          "Imagem": "https://images.turismoenportugal.org/Castelo-de-Moura.jpg"
+        },
+        {
+          "Nome": "Torre do Relógio de Moura",
+          "Localidade": "Praça Sacadura Cabra 2, 7860-184 Moura",
+          "Historia": "A Torre do Relógio compreende duas obras distintas: a base, de inícios do século XVI; e a parte superior, de finais do século XIX/ inícios do século XX.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/88/ec/63/torre-do-relogio-moura.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante O Molho",
+          "Morada": "R. Nova do Carmo 17, Moura",
+          "Classificacao": 4.7,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/41/49/53/restaurante-o-molho.jpg"
+        },
+        {
+          "Nome": "Restaurante O Celeiro",
+          "Morada": "Rua Henrique jose pinto, 7860-355 Moura",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/1e/83/52/o-celeiro.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel de Moura",
+          "Morada": "Praça Gago Coutinho nº1, 7860-010 Moura",
+          "Preco": "47€",
+          "Classificacao": 3,
+          "Imagem": "https://hoteldemoura.com/downloads/SEO/1/imagem1.jpg"
+        },
+        {
+          "Nome": "Hotel Santa Comba",
+          "Morada": "Praça Sacadura Cabral 34, 7860-208 Moura",
+          "Preco": "44€",
+          "Classificacao": 2,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/97/65/6c/frente-do-hotel.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Odemira",
+      "Atracoes": [
+        {
+          "Nome": "Cerro do Peguinho",
+          "Localidade": "7630-174 Odemira",
+          "Historia": "O miradouro do Cerro do Peguinho localiza-se num planalto no centro da vila de Odemira, junto à biblioteca municipal, onde existiu o antigo castelo de Odemira. Este local está recheado de história, pois no Cerro do Peguinho há vestígios do antigo castelo de Odemira, que entretanto deu lugar ao jardim e a um anfiteatro localizado junto ao edifício da biblioteca. É neste local que se realizam algumas atividades culturais, como é o exemplo do Festival de Folclore, todos os anos no dia 25 de abril.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/89/3f/79/cerro-do-peguinho-odemira.jpg"
+        },
+        {
+          "Nome": "Rota Vicentina",
+          "Localidade": "Passeio Quinta da Estrela, 3, 7630-130 Odemira",
+          "História": "A Rota Vicentina distingue-se de tantas rotas pelo mundo fora, pelo facto de ser uma Associação Privada assente numa rede de dezenas – na verdade, mais de duas centenas! – de empresas locais. Estas empresas acreditam nos princípios de sustentabilidade que o projecto tem para a região e o seu investimento reparte-se entre o seu próprio negócio e o trabalho conjunto que a Rota Vicentina representa.",
+          "Imagem": "https://www.visitportugal.com/sites/www.visitportugal.com/files/mediateca/RotaVicentina_2630-660x371_03_0.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante Fonte Férrea",
+          "Morada": "7630-174 Odemira",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/a9/bd/8a/bar-restaurante-fonte.jpg"
+        },
+        {
+          "Nome": "Cantinho Alentejano",
+          "Morada": "R. Coron'el Galhardo 13, 7630-174 Odemira",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/4a/2f/44/o-cantinho-alentejano.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "WOW Alentejo",
+          "Morada": "Tv. J. M. Mascarenhas Serrão 1, 7630-174 Odemira",
+          "Preco": "55€",
+          "Classificacao": 3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/27/27/81/wow-alentejo.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Ourique",
+      "Atracoes": [
+        {
+          "Nome": "Igreja Matriz de Ourique",
+          "Localidade": "R. António Vitorino de Matos 1, 7670-363 Ourique",
+          "Historia": "Construída no séc. XVI, com profundas alterações no séc. XIX, esta igreja apresenta uma planta longitudinal composta por nave e por capela-mor, a que se adossa, do lado esquerdo, a sacristia, dependências de apoio, baptistério e dois pequenos campanários. Possui nave coberta por laje em três planos. À direita de quem entra pia de água benta de cantaria; imediatamente a seguir à entrada, lápide sepulcral com uma inscrição muito delida.",
+          "Imagem": "https://www.rotasturisticas.com/imagens/fotos/pt/large/fotos_22042_ourique_igreja_matriz_de_ourique.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante Monte Velho",
+          "Morada": "R. Batalha de Ourique 33, 7670-261 Ourique",
+          "Classificacao": 4.3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/67/ff/88/best-restaurant-in-alentejo.jpg"
+        },
+        {
+          "Nome": "Churrasqueira os salgados",
+          "Morada": "R. Ten. Pereira 29, 7670-274 Ourique",
+          "Classificacao": 4.4,
+          "Imagem": "https://10619-2.s.cdn12.com/rests/small/w166/h136/341_502624913.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Romba",
+          "Morada": "Cerca de S. Lourenço - Estrada de Garvão - Ourique, 7670-253 Ourique",
+          "Preco": "37€",
+          "Classificacao": 2,
+          "Imagem": "https://www.letsbookhotel.com/img/max300/278/27852519.jpg"
+        },
+        {
+          "Nome": "Prazeres Do Alentejo",
+          "Morada": "Av. 25 de Abril nº 24, 7670-250 Ourique",
+          "Preco": "54€",
+          "Classificacao": 3,
+          "Imagem": "data:image/jpeg;base64,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"
+        }
+      ]
+    },
+    {
+      "Nome": "Serpa",
+      "Atracoes": [
+        {
+          "Nome": "Museu Etnográfico de Serpa",
+          "Localidade": "7830-328 Serpa",
+          "Historia": "O Museu Etnográfico de Serpa, inaugurado em 1987, encontra-se instalado no edifício do antigo mercado municipal, construção de finais do século XIX, que foi objecto de recuperação e remodelação pelo atelier do arquitecto A. Saldanha.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/0c/32/29/museu-etnografico-de.jpg"
+        },
+        {
+          "Nome": "Museu do Relógio",
+          "Localidade": "R. do Assento 35, 7830-338 Serpa",
+          "Historia": "Encontra-se sedeado em Serpa, no edifício do Convento do Mosteirinho do século XVI, em pleno centro histórico da cidade. Em Évora estende-se a colecção no “Museu do Relógio – Polo de Évora”, localizado no nobre Palácio Barrocal (junto à famosa Praça do Giraldo), onde expõe mais de 500 peças da sua colecção total.",
+          "Imagem": "https://www.guiadacidade.pt/bpt/destup/large/50b26a1911938sala4jpg.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "O Alentejano",
+          "Morada": "Praça da República 15, 7830-389 Serpa",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/2a/53/ef/o-alentejano.jpg"
+        },
+        {
+          "Nome": "Café Engrola",
+          "Morada": "R. Nova da Porta Nova 11, 7830-426 Serpa",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/28/cf/50/pequeno-restaurante-familiar.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Casa de Serpa - Turismo Rural",
+          "Morada": "Largo do Salvador 28, 7830-330 Serpa",
+          "Preco": "45€",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/623/62357923.jpg"
+        },
+        {
+          "Nome": "Hotel Pulo do Lobo",
+          "Morada": "Estr. de São Bráz 9, 7830-324 Serpa",
+          "Preco": "33€",
+          "Classificacao": 2,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/191/19191072.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Vidigueira",
+      "Atracoes": [
+        {
+          "Nome": "Museu Municipal de Vidigueira",
+          "Localidade": "R. Dr. Carlos César Sotto Mayor Figueira 1, Vidigueira",
+          "Historia": "O Museu Municipal da Vidigueira localiza-se na Praça Vasco da Gama na Vidigueira e encontra-se instalado no antigo edifício antes ocupado pela Escola Primária Vasco da Gama, que foi remodelado e adaptado a espaço museológico. O espaço organiza-se em dois grandes núcleos temáticos de leitura independente, entrando em linha de conta o aproveitamento museológico do próprio edifício, cuja memória, enquanto Escola Primária, merece ser preservada. No primeiro núcleo é retratada a história no concelho, desde a inauguração do edifício da Escola, em 1884, até ao final da sua utilização como estabelecimento de ensino em 1991. O segundo núcleo dá-nos uma visão do quadro económico das décadas de 30 e seguintes, através dos ofícios, comércio, agricultura e pequena indústria do concelho.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/89/30/3b/museu-municipal-da-vidigueira.jpg"
+        },
+        {
+          "Nome": "Praça Vasco Da Gama",
+          "Localidade": "R. Dr. Carlos César Sotto Mayor Figueira 1, Vidigueira",
+          "Historia": "O Museu Municipal da Vidigueira localiza-se na Praça Vasco da Gama na Vidigueira e encontra-se instalado no antigo edifício antes ocupado pela Escola Primária Vasco da Gama, que foi remodelado e adaptado a espaço museológico.",
+          "Imagem": "https://lh3.googleusercontent.com/proxy/jVk1UWJozNF0OXpMCeDpRXqo7UhffJ3I8fKJiv8qS0LZxHyqVXU1Xv6VZ4szeOrjZfhpDd6ohg6jqw_aN_YuprIcmMgBHaGD3tzEpOUu167ParmP0OPZxa2-V-nMMDyp4qN-x_7sJA"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante 'A Cascata'",
+          "Morada": "Largo da Cascata 6, Vidigueira",
+          "Classificacao": 4.0,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/22/3e/81/photo0jpg.jpg"
+        },
+        {
+          "Nome": "Taberna Tia Jacinta",
+          "Morada": "Largo Frei Antonio das Chagas 71, 7960-220 Vidigueira",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/53/15/30/20191218-121648-largejpg.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Santa Clara",
+          "Morada": "Rua do Matadouro 1, 7960-258 Vidigueira",
+          "Preco": "58€",
+          "Classificacao": 2,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/a5/f1/b8/residencial-santa-clara.jpg"
+        }
+      ]
+    }
+  ],
+  "Imagem": "https://www.travel-in-portugal.com/sites/default/files/photos/beja.jpg"
 }
