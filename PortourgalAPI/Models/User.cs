@@ -17,5 +17,8 @@ namespace PortourgalAPI.Models
         public string Cidade { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
+        public string Imagem { get; set; }
+        public int Pontos { get; set; }
+        public List<Publicacao> Historico { get; set; }
     }
 }

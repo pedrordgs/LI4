@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Portourgal.Model
 {
@@ -11,15 +12,21 @@ namespace Portourgal.Model
             this.Distrito = "";
             this.Email = "";
             this.Password = "";
+            this.Imagem = "";
+            this.Pontos = 0;
+            this.Historico = new List<Publicacao>();
         }
 
-        public Utilizador(String n, String c, String d, String m, String p)
+        public Utilizador(String n, String c, String d, String m, String p, String i, int pontos, List<Publicacao> h)
         {
             this.Nome = n;
             this.Cidade = c;
             this.Distrito = d;
             this.Email = m;
             this.Password = p;
+            this.Imagem = i;
+            this.Pontos = pontos;
+            this.Historico = h;
         }
 
         public string Nome { get; set; }
@@ -27,6 +34,9 @@ namespace Portourgal.Model
         public string Distrito { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
+        public string Imagem { get; set; }
+        public int Pontos { get; set; }
+        public List<Publicacao> Historico { get; set; }
 
         public bool Equals (Utilizador u)
         {
