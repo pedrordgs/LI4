@@ -3,9 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:localvm="clr-namespace:Portourgal.ViewModel"
+             xmlns:local="clr-namespace:Portourgal.View"
+             xmlns:localvm="clr-namespace:Portourgal.ViewModel" 
              mc:Ignorable="d"
              x:Class="Portourgal.View.DistritosInfView">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:ByteArrayToImageSourceConverter x:Key="ByteArrayToImage" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ScrollView>
         <StackLayout Margin="20">
             <Label Text="{Binding Nome}" FontSize="30" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center"/>
@@ -20,13 +26,13 @@
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
                             <Grid>
-                               
-                                <!--<ImageButton Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"
-                                                    Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoAtracao}"  
-                                                    CommandParameter="{Binding Nome}"/>-->
-                                <ImageButton HorizontalOptions="Center" Aspect="AspectFill"
+
+                                <ImageButton Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"
                                                     Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoAtracao}"  
                                                     CommandParameter="{Binding Nome}"/>
+                                <!--<ImageButton HorizontalOptions="Center" Aspect="AspectFill"
+                                                    Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoAtracao}"  
+                                                    CommandParameter="{Binding Nome}"/>-->
                                 <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="#E9E9E9"/>
                             </Grid>
                         </Frame>
@@ -40,12 +46,12 @@
                     <DataTemplate>
                         <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
                             <Grid>
-                                <!--<ImageButton Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"
-                                                    Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoHotel}"  
-                                                    CommandParameter="{Binding Nome}"/>-->
-                                <ImageButton HorizontalOptions="Center" Aspect="AspectFill"
+                                <ImageButton Source="{Binding Imagem,Converter={StaticResource ByteArrayToImage}}" HorizontalOptions="Center" Aspect="AspectFill"
                                                     Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoHotel}"  
                                                     CommandParameter="{Binding Nome}"/>
+                                <!--<ImageButton HorizontalOptions="Center" Aspect="AspectFill"
+                                                    Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:DistritosInfViewModel}}, Path=ComandoHotel}"  
+                                                    CommandParameter="{Binding Nome}"/>-->
                                 <Label Text="{Binding Nome}" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="#E9E9E9"/>
                             </Grid>
                         </Frame>
