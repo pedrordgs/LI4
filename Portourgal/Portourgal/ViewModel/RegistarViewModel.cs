@@ -3,6 +3,8 @@ using Portourgal.Model;
 using Portourgal.View;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Resources;
 using System.Text;
 using Xamarin.Forms;
 
@@ -28,7 +30,13 @@ namespace Portourgal.ViewModel
 
         async void RegistarUtilizadorAsync()   
         {
-            Utilizador u = new Utilizador(Nome, Cidade, Distrito, Email, Password);
+            List<Publicacao> hist = new List<Publicacao>();
+            string type;
+            byte[] data;
+            var res = new ResourceReader(@".\ApplicationResources.resources");
+            res.GetResourceData("defaultProfile.png", out type, out data);
+            string base64String = Convert.ToBase64String(data);
+            Utilizador u = new Utilizador(Nome, Cidade, Distrito, Email, Password, base64String, 0, hist);
             u = await UserInteraction.AddUtilizadorDB(u);
             App.Current.MainPage = new HomePage();
         }

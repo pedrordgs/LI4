@@ -56,7 +56,7 @@ namespace PortourgalAPI.Controllers
         public ActionResult<Distrito> Post(Distrito distrito)
         {
             _distritoService.Create(distrito);
-            return CreatedAtRoute("GetDistrito", new { nome = distrito.Nome }, distrito);
+            return CreatedAtRoute("GetDistrito", new { nome = distrito.Id }, distrito);
         }
 
         // PUT: api/Distritos/5
