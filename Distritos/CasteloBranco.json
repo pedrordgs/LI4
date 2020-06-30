@@ -2,292 +2,472 @@
     "Nome": "Castelo Branco",
     "Historia": "Ao contrário de outras cidades da região, que cresceram notavelmente devido à indústria têxtil, Castelo Branco sempre teve uma importância geoestratégica e política em Portugal. Não está, por esse motivo, sujeita às flutuações económicas que deslocalizaram empresas têxteis. Foi considerada em 2006, num estudo elaborado pela DECO, a segunda capital de distrito do país com melhor qualidade de vida.",
     "Cidades": [
-        {
-            "Nome": "Belmonte",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Castelo Branco",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Covilhã",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Fundão",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Idanha-a-Nova",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Oleiros",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Penamacor",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Proença-a-Nova",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Sertã",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Vila de Rei",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Vila Velha de Ródão",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        }
+      {
+        "Nome": "Belmonte",
+        "Atracoes": [
+          {
+            "Nome": "Museu Judaico de Belmonte",
+            "Localidade": "R. da Portela 4, 6250-088 Belmonte",
+            "Historia": "A comunidade que, durante séculos, resistiu aos éditos de expulsão dos Reis Católicos, ao decreto de expulsão ou conversão de D. Manuel I, ao olhar vigilante da Santa Inquisição e às penas do seu tribunal, merece ser recordada. Peças da Idade Média ao séc. XX, utilizadas por judeus e cristãos-novos no quotidiano ou nas práticas religiosas, encontram-se neste espaço museológico e acessível aos visitantes.",
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/36/78/29/museu-judaico-de-belmonte.jpg"
+          },
+          {
+            "Nome": "Pelourinho de Belmonte",
+            "Localidade": "6250-039 Belmonte",
+            "Historia": "Contemporâneo da concessão da segunda carta de foral por D. Manuel I à povoação, em 1510, foi desmantelado em 1885, resultando o monumento actual de uma reconstituição efectuada em 1896 a partir de algumas peças originais. Ergue-se sobre um soco octogonal de três degraus. O seu fuste, também octogonal, assenta numa base com os ângulos decorados por meias esferas. É formado por cinco tambores, servindo o superior, de maior diâmetro que os restantes, de remate. Uma das suas faces ostenta uma brasão do concelho encimado por uma inscrição, abreviada, com a expressão Tudela Passus. Esta divisa, assim como as próprias armas de Belmonte, que incluem a representação de uma prensa, relaciona-se com uma lenda segunda a qual o senhor de Belmonte resistiu a uma chantagem do inimigo, preferindo assitir ao esmagamento do filho numa prensa a entregar o castelo.",
+            "Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/castelobranco-belmonte/belmonte/pelourinho.jpg"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "Restaurante O Brasão",
+            "Morada": "Largo Afonso Costa 1, 6250-026 Belmonte",
+            "Classificacao": 4.1,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/9a/28/7c/restaurante-o-brasao.jpg"
+          },
+          {
+            "Nome": "Farol da Esperança",
+            "Morada": "Rua dos Bombeiros Voluntários 5, 6250-072 Belmonte",
+            "Classificacao": 4.2,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/17/de/16/farol-da-esperanca.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Belmonte Sinai Hotel",
+            "Morada": "Largo de São Sebastião, 6250-086 Belmonte",
+            "Preco": "57€",
+            "Classificacao": 4,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/f5/ad/f6/doble-room.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Castelo Branco",
+        "Atracoes": [
+          {
+            "Nome": "Jardim do Paço",
+            "Localidade": "R. Bartolomeu da Costa 5, 6000-773 Castelo Branco",
+            "Historia": "Criado no século XVIII pelo bispo João de Mendonça, está organizado num padrão formal, mas na sua profusão de estátuas. De estilo barroco e frequentemente bizarros, os santos e apóstolos alinham-se nas sebes, os leões de pedra reflectem-se nos lagos e os monarcas guardam as balustradas. Os odiados reis dos 60 anos de domínio espanhol, são em tamanho reduzido.",
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/16/1d/a4/garden-view.jpg"
+          },
+          {
+            "Nome": "Miradouro de São Gens",
+            "Localidade": "6000-173 Castelo Branco",
+            "Historia": "Miradouro inaugurado em 1941, proporciona uma bela vista panorâmica sobre a Zona Histórica da cidade. Situado perto do Castelo, percorre-se uma longa subida para o alcançar, mas o esforço é recompensado pela bela paisagem que dali se avista. Os bancos de jardim e os muitos recantos à sombra convidam ao merecido descanso. Originalmente construído para camuflar os depósitos de abastecimento de água à cidade, este espaço foi integralmente recuperado no âmbito da Intervenção Polis na cidade e afirma-se agora e simultaneamente como encontro de percursos, como alargamento numa encruzilhada de caminhos ou como coroamento da massa edificada que sustenta a encosta do Castelo.",
+            "Imagem": "https://lifecooler.com/files/registos/imagens/328165/47106.jpg"
+          },
+          {
+            "Nome": "Casa do Arco do Bispo",
+            "Localidade": "6000-116 Castelo Branco",
+            "Historia": "Em plena Zona Medieval de Castelo Branco há um arco romanico, ao estilo da porta principal do castelo. Encontra-se demasiado afastado da cerca da vila para que se possa pensar que era uma das suas entradas; além disso data de muito antes da construção da cerca da vila, pelo que a sua presença sempre constituiu um enigma. Observando atentamente a casa que fica ao cimo do Arco, verificamos que é um edifício antiquíssimo que mostra claramente indícios de ter várias sobreposições de muros e, ao alto, apresenta uma janela que constitui a prova da sua existência já em meados do séc. XIII. A janela é em estilo gótico, ainda tão tímido que o arco parece redondo, e tem um tímpano liso, de tradição romana. Bem pode ser, pois, da época da transicão ente os estilos e coeva do arco. Por outro lado, observando o desenhos de Duarte de Armas da vista da vila tirada da banda de nordeste, constatamos que ali foram desenhadas duas casas torreadas e fortificadas, com um pequeno pano de muralha que se diferencia bem da muralha da cerca da vila. No local podemos observar que a casa sobre o Arco é um edifício torreado, que faz lembrar a casa do desenho de Duarte de Armas.",
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/0a/31/f6/arco.jpg"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "Namaste",
+            "Morada": "R. de São Jorge 21, 6000-277 Castelo Branco",
+            "Classificacao": 4.9,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/fe/7a/28/prato-do-dia.jpg"
+          },
+          {
+            "Nome": "Retiro do Caçador",
+            "Morada": "R. Ruivo Godinho 9, 6000-275 Castelo Branco",
+            "Classificacao": 4.2,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/11/8d/29/sala-do-restaurante.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "MELIÃ Castelo Branco",
+            "Morada": "R. da Piscina, 6000-776 Castelo Branco",
+            "Preco": "90€",
+            "Classificacao": 4,
+            "Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/234/234053347.jpg"
+          },
+          {
+            "Nome": "Hotel Rainha D. Amélia, Arts & Leisure",
+            "Morada": "Rua de Santiago 15, 6000-179 Castelo Branco",
+            "Preco": "53€",
+            "Classificacao": 4,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/e1/0f/ef/003183-guest-room.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Covilhã",
+        "Atracoes": [
+          {
+            "Nome": "Museu de Arte Sacra",
+            "Localidade": "Av. Frei Heitor Pinto 9, 6200-176 Covilhã",
+            "Historia": "O Museu de Arte Sacra, é uma parceria entre a Câmara Municipal e o Arciprestado da Covilhã, que permitiu devolver peças do culto religioso à cidade. Serviu de residência a Maria José Alçada, que o ofereceu à cidade, na condição de ali funcionarem serviços de cariz cultural. O edifício projetado por Raul Lino, conhecido arquiteto, fundador da Academia Nacional de Belas Artes,  também responsável por obras, como o Hotel Tivoli em Lisboa, Casa do Cipreste, em Sintra entre outros. Este museu com traça arquitetónica do inicio do séc. XX representa a tradição portuguesa da época.",
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/05/ab/a2/photo0jpg.jpg"
+          },
+          {
+            "Nome": "Ponte da Ribeira da Carpinteira",
+            "Localidade": "R. Marquês de Ávila e Bolama 418, Covilhã",
+            "Historia": "A ponte sobre o Vale da Carpinteira, da autoria do Arquitecto João Carrilho da Graça e do Engenheiro Adão Fonseca, surge na sequência de um plano de mobilidade do Município da Covilhã para facilitar a circulação pedonal entre o centro da cidade e a zona dos Penedos Altos. Com uma arquitectura elegante, a ponte estabelece uma forte relação com a profunda largura do vale, dominada pelo maciço da Serra da Estrela e no lado oposto o vale da Cova da Beira, permitindo um novo modo de reconhecer a estrutura territorial.",
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/42/be/3c/ponte.jpg"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "Taberna A Laranjinha",
+            "Morada": "R. Primeiro de Dezembro 10, 6200-038 Covilhã",
+            "Classificacao": 4.6,
+            "Imagem": "https://media.timeout.com/images/105134736/image.jpg"
+          },
+          {
+            "Nome": "Ananda Café Covilhã",
+            "Morada": "R. Comendador Campos Melo 44, 6200-066 Covilhã",
+            "Classificacao": 4.5,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d7/e9/e1/inside-of-ananda-cafe.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Hotel Solneve",
+            "Morada": "R. Visc. de Coriscada 126, 6200-077 Covilhã",
+            "Preco": "47€",
+            "Classificacao": 3,
+            "Imagem": "https://thumbnails.trvl-media.com/AjFV0eaZtsVw_pi7TKDInfRM3Bo=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/6000000/5210000/5205800/5205789/1a8b2db7_z.jpg"
+          },
+          {
+            "Nome": "Puralã - Wool Valley Hotel & SPA",
+            "Morada": "Alameda Pêro da Covilhã, 6200-507 Covilhã",
+            "Preco": "71€",
+            "Classificacao": 4,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/03/f4/8f/piscina-interior.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Fundão",
+        "Atracoes": [
+          {
+            "Nome": "Castelo Novo",
+            "Localidade": "R. do Castelo 2, Castelo Novo",
+            "Historia": "A sua existência será anterior ao início do século XIII, uma vez que o castelo se encontra referido tanto no testamento de D. Pedro Guterres (8 de Janeiro de 1221) como no foral de Lardosa. Encontra-se ligado ainda à presença da Ordem dos Templários na região, razão pela qual alguns autores atribuem a sua edificação ao Mestre da Ordem, D. Gualdim Pais, sob o reinado de D. Sancho I (1185-1211). Ao final do século XIV, o rei D. Dinis (1279-1325) determinou reforçar as suas defesas, hipótese que se fundamenta na constatação de vestígios de adarves e ameias dionisinas em um troço das muralhas. A partir desta época, teria sido abandonado o chamado Castelo Velho, no topo da serra. Recentemente, entre 2002 e 2004, foram desenvolvidas três campanhas de escavações arqueológicas no castelo a cargo da Arqueonova, no âmbito do Programa Aldeias Históricas de Portugal, que colocaram a descoberto centenas de vestígios da sua ocupação medieval, entre a sua construção no século XII e o seu abandono por volta do século XVII. Moedas portuguesas dos reinados de D. Sancho I (1169-1210) até ao de D. João III (1521-1557), peças metálicas em ferro e em cobre, e peças de cerâmica, entre outras podem ser apreciadas a partir de 2005 no Núcleo Museológico de Castelo Novo, nas dependências da antiga Casa da Câmara, requalificada como museu histórico-arqueológico.",
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/df/31/97/castelo-novo.jpg"
+          },
+          {
+            "Nome": "Pelourinho de Castelo Novo",
+            "Localidade": "R. Gama Lobo 24, 6230-160 Castelo Novo",
+            "Historia": "Possivelmente coevo da carta de foral concedida à povoação em 1510 por D. Manuel I, e da renovação então efectuada no castelo e nos Paços do Concelho, assenta num alto soco octogonal de seis degraus. O fuste, sem plinto, compõe-se de duas secções, sendo a inferior oitavada e lisa, e a superior estriada e ornada com bosantes e elementos fitimórficos. O capitel, ornado por meias esferas e flores-de-lis, conserva ainda os ferros das forcas. O bloco de remate, octogonal, encimado por uma pirâmide decorada com trifólios, apresenta em duas das faces a cruz de Cristo e, nas restantes, a esfera armilar e o escudo nacional.",
+            "Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/castelobranco-fundao/castelo-novo/pelourinho.jpg"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "Tasca da Estação",
+            "Morada": "Largo da Estação, 6230-311 Fundão",
+            "Classificacao": 4.5,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/16/e3/10/08/tipica-tasca-portuguesa.jpg"
+          },
+          {
+            "Nome": "Restaurante Marisqueira Bela Vista",
+            "Morada": "Parque Desportivo Municipal, Fundão, Castelo Branco",
+            "Classificacao": 4.1,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/73/33/49/restaurante-marisqueira.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Hotel O Alambique de Ouro",
+            "Morada": "Estrada Nacional 18, 6230-463 Fundão",
+            "Preco": "93€",
+            "Classificacao": 4,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/05/b4/a1/o-alambique-de-ouro-hotel.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Idanha-a-Nova",
+        "Atracoes": [
+          {
+            "Nome": "Castelo de Idanha-a-Nova",
+            "Localidade": "R. da Misericórdia 3, 6060-136 Idanha a Nova",
+            "Historia": "Idanha-a-nova situa-se num cabeço, aos pés do qual corre o Rio Ponsul. Na vila de Idanha-a-Nova são observáveis as ruínas do castelo, construído em 1187 por D. Gualdim Pais de Maratecos, Mestre da Ordem dos Templários. D. Sancho I eleva a povoação a vila em 1201 e doa-a à Ordem dos Templários. Em 1229 D. Afonso II confirmou-lhe a doação e o foral. Este monarca baptizou a povoação com o topónimo actual, no intuito de a distinguir da velha cidade da Egitânia, a Civitas Igaeditanorum romana, intitulada Eydaiá (Idanha) pelos árabes, situada a 18 quilómetros da actual. D. Manuel I, em 1496, admirou-se com a diferença do desenvolvimento das duas Idanhas, e em Junho de 1510, reconhecendo o progresso de Idanha-a-Nova, renovou-the o foral. De facto, Idanha-a-Nova desenvolveu-se bastante desde o século XIII por oposição a Idanha-a-Velha que, por esta altura, já tinha entrado em decadência. Aliás, o foral de D. Sancho I oferecia inúmeras regalias a quem quisesse habitar em Idanha-a-Velha que, contudo, só no século XVI sofreu um leve repovoamento.",
+            "Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/castelobranco-idanhaanova/idanha-a-nova/castelo.jpg"
+          },
+          {
+            "Nome": "Centro Cultural Raiano",
+            "Localidade": "Av. Joaquim Morão, Idanha a Nova",
+            "Historia": "Situado na Avenida Joaquim Morão Lopes Dias, o Centro Cultural Raiano constitui o centro de referência disciplinar, técnica e funcional que desenvolve e coordena as acções básicas de pesquisa, preservação e comunicação referenciadas no património cultural, assumindo um papel preponderante na programação cultural do Município de Idanha-a-Nova. ",
+            "Imagem": "https://lh3.googleusercontent.com/proxy/7UA6UmokgNInqWUo-LOWtvcm31oz8V4P_EDUZZmp9x6uOSjFWSdTGaFI_TrVc0YlAJB8AvxJW_RXUrNMltcUg32p-RHPIJaHP4kGlNGiD4dD3nQHUTIkNQox"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "Helana - Restaurante",
+            "Morada": "R. José Silvestre Ribeiro 35, 6060-133 Idanha a Nova",
+            "Classificacao": 4.4,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/bd/3c/d5/pormenor-de-uma-mesa.jpg"
+          },
+          {
+            "Nome": "Restaurante O Moinho De Idanha-A-Nova",
+            "Morada": "Zona Industrial De, Lt. 3, Idanha a Nova",
+            "Classificacao": 3.7,
+            "Imagem": "https://booktables.pt/restaurant/image/1089-image-5236-lg.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Hotel Estrela da Idanha",
+            "Morada": "Av. Joaquim Morão 48, 6061-909 Idanha a Nova",
+            "Preco": "75€",
+            "Classificacao": 3,
+            "Imagem": "https://estreladaidanha.pt/wp-content/uploads/2017/04/Hotel-Estrela-da-Idanha.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Oleiros",
+        "Atracoes": [
+          {
+            "Nome": "Camping Oleiros",
+            "Localidade": "Açude Pinto, 6160-301 Oleiros",
+            "Historia": "Para os amantes de glamping, propomos que viva nas nossas pequenas casas da floresta. Pusemos todo o requinte e atenção para lhe dar a comodidade de que necessita para descansar e saborear a floresta. Frescas e luminosas no verão, acolhedoras e quentes no inverno, cada cabana é única e pensada para respirar a atmosfera calma e relaxante que nos rodeia.",
+            "Imagem": "https://campingoleiros.com/portal/wp-content/uploads/2016/05/camping-oleiros-16.jpg"
+          },
+          {
+            "Nome": "Fonte do Jardim",
+            "Localidade": "6160-412 Oleiros",
+            "Historia": "Fonte de formato circular, junto ao coreto, com vários repuxos de água.",
+            "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQR2ckAofY6HlF8j9h2cJjwGpUYIpgxNhdBGg&usqp=CAU"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "Restaurante Caniçal",
+            "Morada": "N238, 6160-303 Oleiros",
+            "Classificacao": 4.0,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/18/f2/45/restaurante-salina.jpg"
+          },
+          {
+            "Nome": "Restaurante O Prontinho",
+            "Morada": "Rua do Ramalhal, 6160-409 Oleiros",
+            "Classificacao": 3.7,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/09/4e/87/chega-a-ser-comovente.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Refúgios do Pinhal, Casa Rural, Turismo Natureza",
+            "Morada": "6160-496 Oleiros",
+            "Preco": "67€",
+            "Classificacao": 3,
+            "Imagem": "https://refugiosdopinhal.pt/wp-content/uploads/2015/09/Refugios_do_Pinhal-Turismo_Rurral_Oleiros2-1024x678.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Penamacor",
+        "Atracoes": [
+          {
+            "Nome": "Pelourinho de Penamacor",
+            "Localidade": "R. da Misericórdia 3, 6090-551 Penamacor",
+            "Historia": "Edificado em 1565, assenta num soco de quatro degraus octogonais. É formado por uma coluna cilíndrica com sulcos, de capitel ornado com as armas nacionais e municipais. Do seu topo projectam-se ferros de sujeição serpentiformes.",
+            "Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/castelobranco-penamacor/penamacor/pelourinho2.jpg"
+          },
+          {
+            "Nome": "Museu Municipal de Penamacor",
+            "Localidade": "6090-603 Penamacor",
+            "Historia": "Criado em 1949 por iniciativa da Câmara Municipal, o Museu de Penamacor viria a ser instalado no antigo edifício da Domus Municipalis, sob o impulso de Mário Pires Bento, estudioso e investigador do passado local. Efectivamente, tratava-se mais da preocupação de salvaguardar património do que cumprir qualquer quesito ou programa museológico. Após largo período de estagnação e indefinição, o processo ganharia novo impulso quando Aristides Galhardo Mota foi encarregado de reestruturar o Museu, em 1982, procedendo de imediato à inventariação e limpeza do acervo e, mais tarde, à mudança para as instalações do ex-quartel militar, onde ainda permanece nos moldes então delineados. No presente, assiste-se a uma forte intenção, por parte da Câmara Municipal, de reorganização do espaço e das colecções, ditada pelas novas exigências resultantes do integral cumprimento das funções museológicas. ",
+            "Imagem": "https://beira.pt/diretorio/wp-content/uploads/sites/14/2014/02/Museu-Municipal-de-Penamacor-750x400.jpg"
+          },
+          {
+            "Nome": "Jardim da República",
+            "Localidade": "R. de Santo Estevão 42, 6090-557 Penamacor",
+            "Historia": "Jardim aprazível com canteiros floridos e arborizados, a oferecer uma bela vista panorâmica. No seu interior, destaca-se uma esplanada e um parque infantil. ",
+            "Imagem": "https://live.staticflickr.com/8504/8253559057_de52d4025b_b.jpg"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "Restaurante A Cave",
+            "Morada": "Largo 25 de Abril 15, 6090-525 Penamacor",
+            "Classificacao": 4.2,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/2e/06/22/restaurante-a-cave.jpg"
+          },
+          {
+            "Nome": "Café Restaurante Jardim",
+            "Morada": "R. de Santo Estevão 44, 6090-557 Penamacor",
+            "Classificacao": 4.3,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/3d/03/6c/img-20190420-212254-largejpg.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Palace Hotel & Spa - Termas de São Tiago",
+            "Morada": "Quinta do Cafalado, 6090-543 Penamacor",
+            "Preco": "65€",
+            "Classificacao": 4,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/ee/8e/71/palace-hotel-spa-termas.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Proença-a-Nova",
+        "Atracoes": [
+          {
+            "Nome": "Parque Urbano Comendador João Martins",
+            "Localidade": "Largo do Chão D'Ordem 6, 6150-523 Proença-a-Nova",
+            "Historia": "Parque verde no centro da vila de Proença-a-Nova, com parque infantil, jardim, monumentos e outros equipamentos.",
+            "Imagem": "https://live.staticflickr.com/5038/5887779521_9623f254b8_b.jpg"
+          },
+          {
+            "Nome": "Centro Ciência Viva da Floresta",
+            "Localidade": "Estrada Nacional 241, Moitas, 6150-345 Proença-a-Nova",
+            "Historia": "Tocar, sentir os cheiros e os materiais da floresta, aprender experimentando e participando nas muitas atividades propostas: no Centro Ciência Viva da Floresta há desafios para todas as idades, que dão a conhecer a floresta como fonte de bem-estar, fonte de vida e fonte de riqueza – os três temas em torno dos quais está estruturada a exposição. Os vários módulos foram recentemente renovados e outro dos serviços que tem vindo a ser alargado é um laboratório em que se realizam análises ao mosto, vinho, azeite e outros produtos regionais. ",
+            "Imagem": "https://portugaldelesales.pt/wp-content/uploads/2017/03/cc_sala.jpg"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "Restaurante A Rotunda",
+            "Morada": "Rua Vila Melhorada Nº135, Proença-A-Nova, Castelo Branco",
+            "Classificacao": 4.3,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/fa/79/2f/interior-sala-2-esplanada.jpg"
+          },
+          {
+            "Nome": "Ti-Zé",
+            "Morada": "R. de Santa Cruz 67, 6150-521 Proença-a-Nova",
+            "Classificacao": 4.3,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/4d/56/a3/um-espaco-acolhedor-moderno.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Amoras Country House Hotel",
+            "Morada": "R. Comendador Assis Roda 25, 6150-557 Proença-a-Nova",
+            "Preco": "100€",
+            "Classificacao": 4,
+            "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/171/171235567.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Sertã",
+        "Atracoes": [
+          {
+            "Nome": "Castelo da Sertã",
+            "Localidade": "6100-732 Sertã",
+            "Historia": "De acordo com uma lenda local, registrada pelo Pe. Lourenço Farinha, que a publicou em 1930, a origem de seu castelo deve-se a Sertório, um militar romano que, exilado, viveu na Península Ibérica por volta de 80 a.C., onde se aliou à resistência dos Lusitanos, que chegou a comandar. Traído por Perpena, um lugar-tenente a soldo de Roma, que o assassinou durante um banquete, abriu-se uma nova fase que culminou com a romanização da Península. Nas lutas que recrudesceram nesta conjuntura, diante da aproximação das tropas romanas que vinham impor cerco a esta fortificação, o chefe desta veio a perecer em combate. Ciente da notícia, a sua esposa, Celinda, subiu ao alto dos muros da povoação e liderou a defesa, lançando azeite fervente sobre os romanos com a grande frigideira com que fritava ovos no dia-a-dia (sertage). Esta corajosa ação permitiu ganhar tempo para que chegassem reforços dos lugares vizinhos, obrigando ao recuo dos romanos, ficando daí em diante o lugar conhecido como Certã, posteriormente Sertã. A lenda encontra-se perpetuada no brasão de armas da vila, onde se lê: Sartago Sternit Sartagine Hostes. No contexto das lutas pela Reconquista cristã da Península Ibérica, o conde D. Henrique de Borgonha (1095-1112), teria determinado o repovoamento do local bem como a reedificação de seu castelo. Estes domínios pertenceram à Ordem do Templo e, com a sua extinção em Portugal, passaram à Ordem do Hospital. Sob o reinado de D. Afonso V (1438-1481), a povoação recebeu Carta de Foral (1455), confirmado em 1513 por D. Manuel I (1495-1521). Algumas décadas mais tarde, em meados do século XVI, foi Alcaide-mor da Sertã, Vicente Caldeira. ",
+            "Imagem": "https://miscastillos.files.wordpress.com/2018/09/castelo-de-sertc3a3-2-p.jpg?w=600"
+          },
+          {
+            "Nome": "Igreja de São Pedro",
+            "Localidade": "6100-770 Sertã",
+            "Historia": "Templo com primitivo traço gótico, foi mais tarde acrescentada com elementos renascentistas e barrocos. O altar-mor em talha, o púlpito, os altares laterais, os azulejos e a decoração dos tetos, são elementos de destaque no interior da igreja. Na sacristia o destaque vai para os retábulos de São Pedro no trono e o martírio de São Pedro, do século XVI.",
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/96/61/85/igreja-de-sao-pedro-moura.jpg"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "Restaurante Ponte Romana, O Delfim",
+            "Morada": "R. da Ponte Romana 4, 6100-617 Sertã",
+            "Classificacao": 4.5,
+            "Imagem": "https://ponteromana.com/wp-content/uploads/2016/11/00138-864x400.jpg"
+          },
+          {
+            "Nome": "Restaurante Sabores do Pinhal",
+            "Morada": "Centro De Coordenação De Transportes -616, Sertã",
+            "Classificacao": 4.5,
+            "Imagem": "https://turismo.cm-serta.pt/umbraco/ImageGen.ashx?image=/media/954856/S2260065.JPG&height=200"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Convento da Sertã Hotel",
+            "Morada": "Rua do Convento nº12, 6100-597 Sertã",
+            "Preco": "120€",
+            "Classificacao": 4,
+            "Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/930/93030994.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Vila de Rei",
+        "Atracoes": [
+          {
+            "Nome": "Museu Municipal de Vila de Rei",
+            "Localidade": "R. do Cap. Mor 46, 6110-206 Vila de Rei",
+            "Historia": "Instalado na antiga Casa do Patronato, foi edificado numa das casas mais antigas de vila. Abriu as portas em Julho de 2001 e recria o modo de vida de uma família abastada de agricultores entre os séculos XIX e XX. Retrata igualmente aspectos do dia-a-dia da lavoura bem como todo um conjunto de actividades e profissões tradicionais, como o processo de produção do vinho, a matança do porco, os ofícios do sapateiro, do ferreiro, do apicultor, do oleiro ou mesmo do resineiro.",
+            "Imagem": "https://lifecooler.com/files/registos/imagens/395277/199001.jpg"
+          },
+          {
+            "Nome": "Cascata dos Poios",
+            "Localidade": "Vila de Rei",
+            "Historia": "A chamada Cascata dos Poios, inserida no Trilho das Cascatas, é um verdadeiro exemplo de beleza natural existente na região, um local que transborda paz e sossego. Aqui poderá usufruir de um momento bem agradável de puro contacto com a Natureza. O percurso é realizável durante todo o ano, sendo que o calor nos meses de verão e o piso escorregadio nos meses de inverno, são fatores a ter em conta na planificação do passeio. Para nós a altura ideal é a seguir ao inverno, onde já temos alguns dias de Sol, mas ainda existe um bom caudal de água.",
+            "Imagem": "https://cdn.olhares.pt/client/files/foto/big/917/9176729.jpg"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "A Tasquinha da Vila",
+            "Morada": "6110-218 Vila de Rei",
+            "Classificacao": 4.4,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/1a/23/ca/tasquinha-da-vila.jpg"
+          },
+          {
+            "Nome": "Restaurante O Cobra",
+            "Morada": "6110-225 Vila de Rei",
+            "Classificacao": 4.2,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/b9/dc/37/restaurante-o-cobra.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Hotel Vila de Rei",
+            "Morada": "R. Dr. Eduardo de Castro 41, 6110-218 Vila de Rei",
+            "Preco": "44€",
+            "Classificacao": 2,
+            "Imagem": "https://lifecooler.com/files/registos/imagens/457475/381754.jpg"
+          }
+        ]
+      },
+      {
+        "Nome": "Vila Velha de Ródão",
+        "Atracoes": [
+          {
+            "Nome": "Miradouro Portas de Rodão",
+            "Localidade": "Vila Velha de Rodão",
+            "Historia": "As Portas de Ródão são um dos mais conhecidos monumentos naturais portugueses. Aqui em Vila Velha de Ródão, o Tejo é estrangulado por entre dois penhascos de impactante efeito cénico. Olhe-se para eles com atenção a partir do miradouro, ou percorra-se de comboio a linha férrea que aqui segue o rio.",
+            "Imagem": "https://www.researchgate.net/profile/Carlos_Carvalho22/publication/266970214/figure/fig7/AS:667716507684864@1536207429005/Miradouro-do-Castelo-de-Rodao-com-as-Portas-de-Rodao-em-primeiro-plano-e-o-eixo-do.jpg"
+          },
+          {
+            "Nome": "Lagar de Varas",
+            "Localidade": "R. da Estrada 933 1129, 6030-242 Vila Velha de Rodão",
+            "Historia": "O Lagar de Varas em Vila Velha de Ródão é um monumento do azeite que documenta todas as fases históricas do fabrico deste produto precioso: desde o uso da energia humana e animal até ao recurso da força hidráulica e da mecânica. É um edifício que assinala o significado e o valor histórico da olivicultura no território português. Num concelho onde existem muitos testemunhos materiais da lagaragem, este Lagar de Varas é o exemplar mais completo, não só porque exemplifica um conjunto de sistemas utilizados no fabrico do azeite, como também o edifício em xisto preserva os materiais de construção tradicionais desta região.",
+            "Imagem": "https://www.protyp.pt/wp-content/uploads/2018/03/largar-varas-vila-velha-rodao-01.jpg"
+          }
+        ],
+        "Restaurantes": [
+          {
+            "Nome": "A Ponte do Encherrique",
+            "Morada": "R. da Estrada 2, 6030-198 Vila Velha de Rodão",
+            "Classificacao": 4.0,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/4c/52/f0/almoco.jpg"
+          },
+          {
+            "Nome": "Vila Portuguesa - Restaurante Bar",
+            "Morada": "R. do Porto do Tejo 155, 6030-198 Vila Velha de Rodão",
+            "Classificacao": 3.9,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/db/a3/a5/vilaportuguesa-restaurante.jpg"
+          }
+        ],
+        "Hoteis": [
+          {
+            "Nome": "Vila Portuguesa",
+            "Morada": "R. das Pesqueiras 33, 6030-233 Vila Velha de Rodão",
+            "Preco": "55€",
+            "Classificacao": 4,
+            "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/bd/31/27/vila-portuguesa.jpg"
+          }
+        ]
+      }
     ],
     "Imagem":"https://media-manager.noticiasaominuto.com/1920/naom_5d08ed6388a83.jpg"
 }
