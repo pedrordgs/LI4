@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Essentials;
 using Newtonsoft.Json;
+using System.Collections.Generic;
 
 namespace Portourgal.InteractionsAPI
 {
@@ -64,6 +65,22 @@ namespace Portourgal.InteractionsAPI
                 StringContent content = new StringContent(JsonConvert.SerializeObject(user), Encoding.UTF8, "application/json");
                 HttpResponseMessage response = await client.PutAsync("https://portourgalapi.azurewebsites.net/api/users/email/" + user.Email, content);
             }
+        }
+
+        public static async Task<List<Utilizador>> getUtilizadores()
+        {
+            if (Connectivity.NetworkAccess != NetworkAccess.None)
+            {
+                HttpClient client = new HttpClient();
+                HttpResponseMessage response = await client.GetAsync("https://portourgalapi.azurewebsites.net/api/users/").ConfigureAwait(false);
+                if (response.IsSuccessStatusCode)
+                {
+                    String json = await response.Content.ReadAsStringAsync();
+                    List<Utilizador> u = JsonConvert.DeserializeObject<List<Utilizador>>(json);
+                    return u;
+                }
+            }
+            return null;
         }
     }
 }

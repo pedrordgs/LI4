@@ -8,23 +8,19 @@ using Portourgal.Model;
 
 namespace Portourgal.ViewModel
 {
-    class Palavra
-    {
-        public string Nome { get; set; }
-        public string Texto { get; set; }
-    }
+
     class PerfilViewModel
     {
 
         public PerfilViewModel()
         {
-            Frases = new List<Palavra>
-            {
-                new Palavra{ Nome = "https://cdn-cv.r4you.co/wp-content/uploads/2018/10/iStock-536613027.jpg", Texto = "OLA123" },
-                new Palavra{ Nome = "https://cdn-cv.r4you.co/wp-content/uploads/2018/10/iStock-536613027.jpg", Texto = "OLAOLA"},
-                new Palavra{ Nome = "https://st.depositphotos.com/1752371/1250/i/450/depositphotos_12507644-stock-photo-a-sword-with-a-red.jpg", Texto = "olaollll"}
-            };
             ComandoEditarPerfil = new Command(EntrarEditarUtilizadorAsync);
+            NomeUtilizador = UserInteraction.user.Nome;
+            Localidade =  UserInteraction.user.Cidade + ", " + UserInteraction.user.Distrito;
+            TextoPontos = UserInteraction.user.Pontos + " pontos";
+            Imagem = UserInteraction.user.Imagem;
+            Historico = UserInteraction.user.Historico;
+            Historico.Reverse();
         }
 
         void EntrarEditarUtilizadorAsync()
@@ -32,12 +28,11 @@ namespace Portourgal.ViewModel
             App.Current.MainPage.Navigation.PushAsync(new EditarPerfilView());
         }
 
-        public string NomeUtilizador { get; } = UserInteraction.user.Nome;
-        public string Localidade { get; } = UserInteraction.user.Cidade + ", " + UserInteraction.user.Distrito;
-        public string TextoPontos { get; } = UserInteraction.user.Pontos + " pontos";
-        public string Imagem { get; } = UserInteraction.user.Imagem;
-        public List<Publicacao> Historico { get; } = UserInteraction.user.Historico;
-        public List<Palavra> Frases { get; set; }
+        public string NomeUtilizador { get; }
+        public string Localidade { get; }
+        public string TextoPontos { get; }
+        public string Imagem { get; }
+        public List<Publicacao> Historico { get; }
         public Command ComandoEditarPerfil { get; }
     }
 }
