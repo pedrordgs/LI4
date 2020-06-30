@@ -6,25 +6,52 @@
 			"Nome": "Amarante",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque Aquático de Amarante",
+					"Localidade": "nº2245 -909, R. do Tâmega, Fregim",
+					"Historia": "Além de diversões de alta velocidade, escorregas e piscinas, este parque aquático inclui vista pitoresca para a encosta.",
+					"Imagem": "https://nit.pt/wp-content/uploads/2019/06/45fdba171ae75e2efab98fd52f376dc3.jpg"
+				},
+				{
+					"Nome": "Igreja de S. Gonçalo de Amarante",
+					"Localidade": "Amarante",
+					"Historia": "De acordo com a tradição (local) remonta a uma primitiva ermida erguida pelo beato Gonçalo de Amarante no início do século XIII.",
+					"Imagem": "https://thumbs.web.sapo.io/?W=2100&H=0&crop=center&delay_optim=1&epic=YmFlIT3xFgrMlyz9N2/WXwmcyiHR3eL2zfKbRIl7ufhWLq6zwkKfst/doxuxUvF/SFZWrRnzsCmFXvVcRQ8As4upI2tt0RKfXTYOUqc4dKiAHS0="
+				},
+				{
+					"Nome": "Museu Municipal Amadeo de Souza-Cardoso",
+					"Localidade": "4600-758 Amarante",
+					"Historia": "O acervo do Museu Municipal Amadeo de Souza-Cardoso é composto por coleções de arte portuguesa moderna e contemporânea",
+					"Imagem": "https://www.amadeosouza-cardoso.pt/fileManager/slideshow/imagem_5.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Taberna do Coelho",
+					"Morada": "Restaurante R. da Boavista 393",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/9d/c5/d7/sala-principal.jpg"
+				},
+				{
+					"Nome": "Restaurante A Eira",
+					"Morada": "Restaurante Rua da Vinha, Lote 19",
+					"Classificacao": 4.0,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/436636/263861.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Casa da Calçada - Relais & Chateaux",
+					"Morada": "Largo da Cruz, Real, 4605-010 Amarante",
+					"Classificacao": 5,
+					"Preco": "80€",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/91/37/b1/guest-room.jpg"
+				},
+				{
+					"Nome": "Monverde - Wine Experience Hotel",
+					"Morada": "Quinta de Sanguinhedo, 4600-761 Telões",
+					"Classificacao": 4,
+					"Preco": "115€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/241/241614251.jpg"
 				}
 			]
 		},
@@ -32,25 +59,52 @@
 			"Nome": "Baião",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Quinta de Covela",
+					"Localidade": " Rua do Mirão, 4640-211 São Tomé de Covelas",
+					"Historia": "Antiga Casa de Covela, formada pelas ruinas do solar renascentista, os lagares e a capela, testemunha a presença multissecular da produção de vinho.",
+					"Imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/10/quinta-de-covela-passeios-pelo-douro-verde-2-1024x732.jpg"
+				},
+				{
+					"Nome": "Carvalhal de Reixela",
+					"Localidade": "Ovil",
+					"Historia": "Carvalhal de “Reixela” estende-se por mais de 15 hectares.  Trata-se de um dos verdadeiros refúgios de espécies naturais.",
+					"Imagem": "https://www.visitbaiao.pt/wp-content/uploads/2017/04/Mata_Reixela_1_visitbaiao_portugal.jpg"
+				},
+				{
+					"Nome": "Miradouro de Teixeirô",
+					"Localidade": "Cinfães",
+					"Historia": "O Miradouro de Teixeirô localiza-se numa encosta sobranceira à foz do rio Bestança. A partir deste miradouro obtém-se uma vista privilegiada sobre a albufeira e o lugar de Porto Antigo, onde se encontra o histórico Hotel Porto Antigo e um importante cais de acostagem para embarcações marítimo-turísticas e de recreio, bem como barcos de cruzeiro, no rio Douro.",
+					"Imagem": "https://www.rotadoromanico.com/media/images/Teixeiro_szM7LFW.width-1920.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Tasquinha do Fumo",
+					"Morada": "Baiao, R. de Almofrela, 4640-165 Campelo",
+					"Classificacao": 4.6,
+					"Imagem": "https://images.impresa.pt/bcbm/2019-11-25-20191120_132155.jpg-1/original"
+				},
+				{
+					"Nome": "A Casa Restaurante",
+					"Morada": "Rua de Baião 3830, 4640-452 Santa Leocádia",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/8b/0a/06/lareira.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Douro Palace Hotel Resort & Spa",
+					"Morada": "Lugar do Carrapatelo, 4640-423 Santa Cruz do Douro",
+					"Classificacao": 4,
+					"Preco": "135€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/239/239654781.jpg"
+				},
+				{
+					"Nome": "Douro Suites",
+					"Morada": "Rua da Portela do Rio 543, 4640-402",
+					"Classificacao": 4,
+					"Preco": "209€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/666/66668718.jpg"
 				}
 			]
 		},
@@ -58,25 +112,39 @@
 			"Nome": "Felgueiras",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Casa Das Torres",
+					"Localidade": "4610 108, R. Costa Guimarães 54",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.joaomorgado.com/image/src=/uploads/projects/jm_casadastorres_003.jpg&w=900&h=600&zc=2"
+				},
+				{
+					"Nome": "Santa Quitéria",
+					"Localidade": "Alameda de Santa Quitéria, Felgueiras",
+					"Historia": "",
+					"Imagem": "https://www.joaomorgado.com/image/src=/uploads/projects/jm_casadastorres_003.jpg&w=900&h=600&zc=2"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Zona Verde",
+					"Morada": "Felgueiras",
+					"Classificacao": 4.2,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/867571"
+				},
+				{
+					"Nome": "Fora d'Horas - Cervejaria",
+					"Morada": "Av. Agostinho Ribeiro 479, 4610-102 Felgueiras",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/eb/ed/d0/fora-d-horas-cervejaria.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
+					"Nome": "Hotel Albano",
+					"Morada": "nº a 384610-125, R. 25 de Abril 45, Ribeirão",
+					"Classificacao": 2,
 					"Preco": "",
-					"Imagem": ""
+					"Imagem": "https://pix10.agoda.net/property/3685300/0/93c9de05c61ae49c5ba36ce7bb0f5513.jpg?s=1024x768"
 				}
 			]
 		},
@@ -84,25 +152,40 @@
 			"Nome": "Gondomar",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque de Merendas Gondomar",
+					"Localidade": "Av. Multiusos, S. Cosme",
+					"Historia": "Situado junto à ponte sobre o rio Sousa, este espaço de lazer e repouso tem uma área de 2.700 m2 e dispõe de excelentes condições para piqueniques e parque infantil.",
+					"Imagem": "https://www.granirecta.com/wp-content/uploads/2019/05/CIMG3923-Small.jpg"
+				},
+				{
+					"Nome": "Museu Adão Soares Rei dos Congros",
+					"Localidade": "Rua Adão Soares Rei dos Congros, 495, 4420-606 Gondomar",
+					"Historia": "É um projeto particular que pretende divulgar a vida e a obra de Adão Soares. Neste espaço, encontramos fotografias dos exemplares pescados, artes utilizadas na pesca do congro, jornais, revistas e troféus ganhos em concursos de pesca desportiva.",
+					"Imagem": "http://www.portoenorte.pt/fotos/oquefazer/1459438992.9348_17164326455a61de6901eb1.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
+					"Nome": "O Novo Brasil",
+					"Morada": "R. 25 de Abril 336-386, 4420-356 Gondoma",
+					"Classificacao": 4.8,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/b1/f0/b1/interior-do-restaurante.jpg"
+				},
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Pestana Palácio do Freixo",
+					"Morada": "N108 206, 4300-316 Porto",
+					"Classificacao": 4,
+					"Preco": "165€",
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/316/31639297.jpg"
+				},
+				{
+					"Nome": "Acta The Avenue",
+					"Morada": "Av. de Fernão de Magalhães 188, 4300-188 Porto",
+					"Classificacao": 4,
+					"Preco": "90€",
+					"Imagem": "https://www.hoteltheavenueporto.com/wp-content/blogs.dir/1808/files/gallery-hotel/hotel1.jpg"
 				}
 			]
 		},
@@ -110,25 +193,46 @@
 			"Nome": "Lousada",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Centro de Interpretação do Românico",
+					"Localidade": "Praça das Pocinhas 107, 4620-657 Lousada",
+					"Historia": "Baseando-se nos conceitos geradores da arquitectura do Românico em Portugal, o edifício agora proposto pretende ser um elemento de transição entre os dias de hoje e o longínquo passado do Românico.",
+					"Imagem": "https://www.spaceworkers.pt/wp-content/uploads/2011/12/CentRoma_EnRui_sergio_216.jpg"
+				},
+				{
+					"Nome": "Parque De Lousada",
+					"Localidade": "Av. Amílcar Neto 270, 4620-687 Lousada",
+					"Historia": "Parque infantil com bastantes divertimentos em alumínio de design futurista. Chão almofadado e erva.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/mU5Rix1J-BNyzczUY41KEMOAukdOMW9B828jqQS3qc2x7V85yeHivmKZHb2r95fCAWs5tt6LY55AMT6psO720-g6EzXvJP5tPGt4ltHBbrX4r67J0Gsu8eUrcTaI1Thf4mehrC8gNe3Em7o7jzcr1sC-6lcM"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Passion Flower",
+					"Morada": "R. João Oliveira Peixoto 12, Lousada",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/10/c6/62/passion-flower.jpg"
+				},
+				{
+					"Nome": "Hamburgueria da praça",
+					"Morada": "Praça Republica 15, 4620-653 Lousada",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/19/a7/8f/71/hamburgueria-da-praca.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Lousada Country Hotel",
+					"Morada": "Variante de Vila Meã 531, Silvares, 4620-426 Lousada",
+					"Classificacao": 4,
+					"Preco": "55€",
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/327/32793785.jpg"
+				},
+				{
+					"Nome": "Penafiel Park Hotel & Spa",
+					"Morada": "R. Província de Pontevedra s/n, 4560-232 Penafiel",
+					"Classificacao": 4,
+					"Preco": "82€",
+					"Imagem": "https://www.penafielparkhotelspa.com/storage/homepage/February2020/HbLWZ7p2FC19wfDVkjWf.jpg"
 				}
 			]
 		},
@@ -136,25 +240,46 @@
 			"Nome": "Maia",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Zoo da Maia",
+					"Localidade": "Rua da Estação, 4470-184 Maia",
+					"Historia": "Zoo com reptilário, leões marinhos e pequena quinta, além de parque infantil e restaurante.",
+					"Imagem": "https://i.ytimg.com/vi/wvg1PhSxrrA/maxresdefault.jpg"
+				},
+				{
+					"Nome": "Estátua do Lidador",
+					"Localidade": "R. Eng. Duarte Pacheco 26, 4470-202 Maia",
+					"Historia": "Homenagem ao cavaleiro Gonçalo Mendes da Maia, um dos gloriosos militares que combateram ao lado de D. Afonso Henriques pela independência e alargamento territorial de Portugal. Herói da Fundação da Nacionalidade, que o primeiro Rei de Portugal, nomeou seu Adeantado.",
+					"Imagem": "https://c2.quickcachr.fotos.sapo.pt/i/B5c052719/20453148_LnzZZ.jpeg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Essência das Tapas - Maia",
+					"Morada": "Av. Dom Manuel II 1169, 4470-334 Maia",
+					"Classificacao": 4.3,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/nF_BFp_NHPFmLXKbg98BbG_MKjyTWd2rDlaCHZqJ82fAMVAqBpprwlteF9650XrX69rmlSxh2HrFGrYUsju7R9xdJq0kdj6Ic6NpoCXSUvApg6XgI7nPxIOwKCEWZQ"
+				},
+				{
+					"Nome": "Reis da Maia",
+					"Morada": "Rua do Viso 30, 4470-204 Maia",
+					"Classificacao": 4.5,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/6gQBejTWKlClQ8wM5rI0iAxHDUt_j08uKREbMBMindo7Z6CCj1mK1LXBrIkUxi9BHiOUQAQrg2l_ByK-ekynD87i8mR2Dq28s1dzYIR6TgBZshrDMZZlZ-Y4q6jPqnOx3HdSI3AA6k8ySo7JYxUQKHmzRke0"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Central Parque",
+					"Morada": " Av. Visc. de Barreiros 83, 4470-151 Maia",
+					"Classificacao": 4,
+					"Preco": "69€",
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/334/33416433.jpg"
+				},
+				{
+					"Nome": "Oporto Airport & Business Hotel",
+					"Morada": "R. Casimiro Albano Monteiro 35, 4470-428 Moreira",
+					"Classificacao": 4,
+					"Preco": "60€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/167/167094242.jpg"
 				}
 			]
 		},
@@ -162,51 +287,79 @@
 			"Nome": "Marco de Canaveses",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Igreja de Santa Maria",
+					"Localidade": "Av. Gago Coutinho, 4630-206 Marco de Canaveses",
+					"Historia": "A Igreja de Santa Maria de Meinedo encontra-se localizada em Meinedo, Lousada, Portugal. A fundação da igreja data do final do século XIII.",
+					"Imagem": "https://4.bp.blogspot.com/-Ykr2V4wVawk/V7eFIvdhT8I/AAAAAAAANEE/Nk0WPWj0sP0BMZTpq27ODbk6ZrEGi1H2wCLcB/s1600/Igreja%2Bdo%2BMarco%2B-%2BSiza%2BVieira%2B00.jpg"
+				},
+				{
+					"Nome": "Pelourinho de Canaveses",
+					"Localidade": "R. São Nicolau 907, 4630-261 Marco de Canaveses",
+					"Historia": "Pelourinho constituído por um embasamento de três degraus de planta quadrada, sobre o qual assenta uma base monolítica quadranguar de aresta superior chanfrada, possuindo orifício central para encaixe da coluna.",
+					"Imagem": "http://www.portoenorte.pt/fotos/oquefazer_imagens/1521460764.9482_5195963645aafbd8472a4b.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Cancela Velha",
+					"Morada": "Pr Movimentos da forças armadas nº 36, Fornos, 4630-224 Marco de Canaveses",
+					"Classificacao": 4.5,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/757924"
+				},
+				{
+					"Nome": "Tasquinha da Ribeira",
+					"Morada": "R. Alto da Ribeira 176-182, 4630-257 Marco de Canaveses",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/9d/df/91/tasquinha-da-ribeira.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Matosinhos",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Rotunda da Anêmona",
+					"Localidade": "Praça da Cidade do Salvador, Matosinhos",
+					"Historia": "She Changes, conhecida localmente como anémona, é uma escultura projetada pela artista Janet Echelman para as cidades do Porto e Matosinhos, norte de Portugal. ",
+					"Imagem": "https://planetparty.pt/app/uploads/2015/10/pingo-doce.jpg"
+				},
+				{
+					"Nome": "Galeria Municipal",
+					"Localidade": "Av. Dom Afonso Henriques, 4450-230 Matosinhos",
+					"Historia": "Situada nos jardins do Palácio de Cristal, a Galeria Municipal do Porto foi projetada pelo arquiteto José Manuel Soares. Inaugurada em 2001, reabriu em 2013 com uma missão expositiva dedicada às artes visuais, ao design e à arquitetura.",
+					"Imagem": "https://convida.pt/images/POIs/GaleriaMunicipal-Convida-2017-010.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "daTerra Matosinhos",
+					"Morada": "R. Dr. Afonso Cordeiro 71, 4450-005 Matosinhos",
+					"Classificacao": 4.4,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/674da2d2-129d-4f99-a19d-31d73a81bc23/edd4ba7f-c555-4140-acb2-84959b8a2658.jpg"
+				},
+				{
+					"Nome": "Salta O Muro",
+					"Morada": "R. Heróis de França 386, 4450-155 Matosinhos",
+					"Classificacao": 4.6,
+					"Imagem": "https://www.saltaomuro.pt/img/1206/429.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Sea Porto Hotel",
+					"Morada": "009, Av. Dom Afonso Henriques 354, Matosinhos",
+					"Classificacao": 4,
+					"Preco": "80€",
+					"Imagem": "https://www.dinheirovivo.pt/wp-content/uploads/2017/09/IMG_8645-web.jpg"
+				},
+				{
+					"Nome": "Eurostars Matosinhos",
+					"Morada": "R. Heróis de França, 4450-159 Matosinhos",
+					"Classificacao": 4,
+					"Preco": "115€",
+					"Imagem": "https://thumbnails.trvl-media.com/iSrjkXpT0NZrT-Rk931i6bhsXhM=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/41000000/40220000/40210600/40210589/709bf83b_z.jpg"
 				}
 			]
 		},
@@ -214,25 +367,46 @@
 			"Nome": "Paços de Ferreira",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Citânia de Sanfins",
+					"Localidade": "R. da Citânia 144, Sanfins de Ferreira",
+					"Historia": "A Citânia de Sanfins localiza-se quase na sua totalidade na freguesia portuguesa de Sanfins de Ferreira e a parte sudoeste na freguesia de Eiriz, ambas no concelho de Paços de Ferreira, distrito do Porto.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/4/42/Citania_de_Sanfins_Portugal_03.jpg"
+				},
+				{
+					"Nome": "Igreja de São Pedro de Ferreira",
+					"Localidade": "R. do Cruzeiro 124, Ferreira",
+					"Historia": " O Mosteiro de Ferreira forte e seguro mostra a sua firmeza pela sua estrutura.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/porto-pacosdeferreira/ferreira/igreja-sao-pedro-2.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Água Mole",
+					"Morada": "R. Cap. da Praça 246, 4590-570 Paços de Ferreira",
+					"Classificacao": 4.5,
+					"Imagem": "https://booktables.pt/restaurant/image/7510-image-42502-lg.jpg"
+				},
+				{
+					"Nome": "Restaurante O Telheiro",
+					"Morada": "R. Nova de Ferreiró 199, 4590-227 Paços de Ferreira",
+					"Classificacao": 4.4,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/459656/389883.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Paços Ferrara Hotel",
+					"Morada": "Av. Primeiro de Dezembro 137, 4590-505 Paços de Ferreira",
+					"Classificacao": 3,
+					"Preco": "60€",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/wjRu-okx_Tv9aV83CXbqLC0NwhiK3ZQaQsHdyUPLWDGgDvpbVAthLEs-BXPWVvab7UOuCdzH1TLdJacO16oZdpm3I50LixQBEDwN"
+				},
+				{
+					"Nome": "Hotel de Charme Quinta do Pinheiro",
+					"Morada": "R. de Miraldo 262, 4590-390 Paços de Ferreira-Freamunde",
+					"Classificacao": 4,
+					"Preco": "70€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/133/133085530.jpg"
 				}
 			]
 		},
@@ -240,25 +414,46 @@
 			"Nome": "Paredes",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque da Cidade de Paredes",
+					"Localidade": "Paredes",
+					"Historia": "Situado nas margens da ribeira de Sentiais, um afluente do rio Sousa, atravessado por um riacho, está dotado de vários equipamentos para a prática de desporto de manutenção e apetrechado com espaços infantis.",
+					"Imagem": "https://www.cm-paredes.pt/thumbs/cmparedes/uploads/poi/image/38/parque_da_cidade_paredes__76__1_1024_571.JPG"
+				},
+				{
+					"Nome": "Complexo Mineiro das Banjas",
+					"Localidade": "Sobreira",
+					"Historia": "Na margem direita da ribeira de Santa Comba existe um conjunto de estruturas em ruínas relacionadas com a gestão e tratamento do minério, designadamente, instalações dos escritórios, residências, fornos e tanques de lavagem cujo auge de laboração terá sido nas primeiras décadas do século XX.",
+					"Imagem": "https://www.cm-paredes.pt/thumbs/cmparedes/uploads/poi/image/83/2.1.23complexomineirobanjas_1_1024_571.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Oak Paredes",
+					"Morada": "Rua Dr. José Leite Vasconcelos, 4580-259",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/13/9b/15/91/photo0jpg.jpg"
+				},
+				{
+					"Nome": "Conversas & Travessas Restaurante Wine Bar Tapas",
+					"Morada": " Largo da Feira 71, 4580-094 Paredes",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/13/bd/4e/caption.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Paredes Hotel Apartamento",
+					"Morada": "Rua Almeida Garrett 38, 4580-038 Paredes",
+					"Classificacao": 3,
+					"Preco": "61€",
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/159/15907982.jpg"
+				},
+				{
+					"Nome": "Paredes Design Hotel",
+					"Morada": "Rua Central De Mouriz, 1595, 4580-597 Paredes",
+					"Classificacao": 3,
+					"Preco": "48€",
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/384/3843778.jpg"
 				}
 			]
 		},
@@ -266,25 +461,46 @@
 			"Nome": "Penafiel",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Municipal de Penafiel",
+					"Localidade": "R. do Paço 48, Penafiel",
+					"Historia": "O acervo do museu é constituído por três núcleos, arqueologia, etnografia e história do concelho, uma área de exposições temporárias e uma sala multimédia.",
+					"Imagem": "https://verdadeiroolhar.pt/wp-content/uploads/2018/04/Museu-de-Penanfiel-9.jpg"
+				},
+				{
+					"Nome": "Jardim do Sameiro",
+					"Localidade": "Av. Zeferino de Oliveira 239, Penafiel",
+					"Historia": "O jardim desenvolve-se ao longo de vários patamares, acessível por escadas que conduzem até canteiros bem mantidos, limitados por sebes de buxo topiado.",
+					"Imagem": "https://www.cm-penafiel.pt/wp-content/uploads/2019/08/Penafiel-Jardim-Sameiro-1-1024x768.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Casanova",
+					"Morada": " Av. Zeferino de Oliveira 85, 4560-494 Penafiel",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/09/9d/30/casanova-restaurante.jpg"
+				},
+				{
+					"Nome": "O Farela",
+					"Morada": "R. Santa Luzia, 4560-530 Penafiel",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/eb/ea/ed/espaco-simples-e-acolhedor.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
+					"Nome": "Penafiel Park Hotel & Spa",
+					"Morada": "R. Província de Pontevedra s/n, 4560-232 Penafiel",
+					"Classificacao": 4,
+					"Preco": "82€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/252/252991992.jpg"
+				},
+				{
+					"Nome": "Penahotel",
+					"Morada": "Penafiel",
+					"Classificacao": 3,
 					"Preco": "",
-					"Imagem": ""
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/165/16577491.jpg"
 				}
 			]
 		},
@@ -292,25 +508,52 @@
 			"Nome": "Porto",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Jardins do Palácio de Cristal",
+					"Localidade": "R. de Dom Manuel II, 4050-346 Porto",
+					"Historia": "Os Jardins do Palácio de Cristal são um aprazível espaço verde localizado na freguesia de Massarelos, na cidade do Porto, Portugal, a partir do qual se desfrutam deslumbrantes panorâmicas do rio Douro e do mar.",
+					"Imagem": "https://nit.pt/wp-content/uploads/2020/05/5d3e633e1bb5aa3e1412f13f73d22cfe.jpg"
+				},
+				{
+					"Nome": "SEA LIFE Porto",
+					"Localidade": "R. Particular Nº 1 Castelo do Queijo 1ª, 4100-379 Porto",
+					"Historia": "O SEA LIFE Porto é um aquário de acesso público, construído e explorado pelo grupo Merlin Entertainments.",
+					"Imagem": "https://media.timeout.com/images/103884557/630/472/image.jpg"
+				},
+				{
+					"Nome": "Livraria Lello",
+					"Localidade": "R. das Carmelitas 144, 4050-161 Porto",
+					"Historia": "Em virtude do seu ímpar valor histórico e artístico, a Lello tem sido reconhecida como uma das mais belas livrarias do mundo por diversas personalidades e entidades, casos do escritor espanhol Enrique Vila-Matas, do jornal britânico The Guardian e da editora australiana de guias de viagens Lonely Planet.",
+					"Imagem": "https://media.timeout.com/images/105654462/630/472/image.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Nogueira's Porto",
+					"Morada": "R. de Ceuta 23, 4050-191 Porto",
+					"Classificacao": 4.5,
+					"Imagem": "https://www.nogueiras.rest/app/uploads/2017/11/5.jpg"
+				},
+				{
+					"Nome": "Restaurante Brasileirão",
+					"Morada": "R. Veloso Salgado 335, 4450-801 Matosinhos",
+					"Classificacao": 4.1,
+					"Imagem": "https://s3.portugalio.com/u/93/7d/restaurante-brasileirao-1423512021_xl.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Sheraton Porto Hotel & Spa",
+					"Morada": "R. do Ten. Valadim 146, 4100-476 Porto",
+					"Classificacao": 5,
+					"Preco": "113€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/149/149274710.jpg"
+				},
+				{
+					"Nome": "Axis Porto",
+					"Morada": "R. Maria Feliciana 100, 4465-104 São Mamede de Infesta",
+					"Classificacao": 4,
+					"Preco": "89€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/488/48880622.jpg"
 				}
 			]
 		},
@@ -318,25 +561,46 @@
 			"Nome": "Póvoa de Varzim",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Praia Redonda",
+					"Localidade": " 4490-407 Póvoa de Varzim",
+					"Historia": "A Praia Redonda, historicamente conhecida como Praia de Banhos, é uma extensa praia marítima na área urbana da Póvoa de Varzim, localizada entre a Enseada da Póvoa e a Praia da Salgueira.",
+					"Imagem": "https://www.playocean.net/i/portugal/beaches/povoa-de-varzim/redonda/praia-redonda-1.jpg"
+				},
+				{
+					"Nome": "Fortaleza da Póvoa de Varzim",
+					"Localidade": "R. Ten. Veiga Leal 40, 4490-586 Póvoa de Varzim",
+					"Historia": "A fortificação apresenta planta quadrangular com quatro baluartes nos vértices: dois de frente para o mar (baluartes da Conceição e de São Francisco de Bórgia), e dois para terra (baluartes de São José e São Filipe e Diogo).",
+					"Imagem": "https://lowe.pt/wp-content/uploads/2017/08/FotoJet.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Manjar Dos Leitões (Póvoa de Varzim)",
+					"Morada": "Aldeamento Santana Rua 1, Bl 1 P nº 51, 4490-007 Póvoa de Varzim",
+					"Classificacao": 4.5,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/455929/366783.jpg"
+				},
+				{
+					"Nome": "Restaurante Bodegão (Póvoa de Varzim)",
+					"Morada": "R. Paulo Barreto 2, 4490-673 Póvoa de Varzim",
+					"Classificacao": 4.6,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/444091/359287.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Grande Hotel da Póvoa",
+					"Morada": "Passeio Alegre 20, 4490-428 Póvoa de Varzim",
+					"Classificacao": 4,
+					"Preco": "81€",
+					"Imagem": "https://pix10.agoda.net/hotelImages/144/144063/144063_1201150006005818181.jpg?s=1024x768"
+				},
+				{
+					"Nome": "Axis Vermar",
+					"Morada": "R. da Imprensa Regional, 4490-518 Póvoa de Varzim",
+					"Classificacao": 4,
+					"Preco": "80€",
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/177/177732596.jpg"
 				}
 			]
 		},
@@ -344,25 +608,46 @@
 			"Nome": "Santo Tirso",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Chafariz Santo Tirso",
+					"Localidade": "Praça 25 de Abril 4, 4780-564 Santo Tirso",
+					"Historia": "Praça ampla no centro de Santo Tirso, onde se destaca um moderno e amplo chafariz no centro da Praça.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/dd/e1/5b/chafariz.jpg"
+				},
+				{
+					"Nome": "Museu Municipal Abade Pedrosa Museu Internacional Escultura Contemporânea",
+					"Localidade": "373, Santo Tirso",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://imagens.publico.pt/imagens.aspx/1050809?tp=UH&db=IMAGENS&type=JPG&w=960"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Copos E Petiscos",
+					"Morada": "R. Ferreira de Lemos 165A, 4780-468 Santo Tirso",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/37/20/45/copos-e-petiscos.jpg"
+				},
+				{
+					"Nome": "T - Food, Wine & Fun",
+					"Morada": " R. Dr. Joaquim Augusto Pires de Lima 44, 4780-449 Santo Tirso",
+					"Classificacao": 4.5,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/a7b70c56-5d46-4da1-9621-e6420d20dd16/6f91ccc6-3aa1-4f5d-ba6d-5230d2cdb1bf.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Cidnay Santo Tirso - Charming Hotel & Executive Center",
+					"Morada": "Rua Dr. João Gonçalves Apartado 232, 4784-909 Santo Tirso",
+					"Classificacao": 4,
+					"Preco": "106€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/500/50094066.jpg"
+				},
+				{
+					"Nome": "Santo Thyrso Hotel",
+					"Morada": "Praça Conde São Bento 29, 4780-375 Santo Tirso",
+					"Classificacao": 3,
+					"Preco": "50€",
+					"Imagem": "https://santo-thyrso.norteportugal-hotels.com/data/Photos/790x530/4170/417019/417019077.JPEG"
 				}
 			]
 		},
@@ -370,51 +655,66 @@
 			"Nome": "Trofa",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Parque das Azenhas",
+					"Localidade": "R. das Cavadas 152, Trofa",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://lh3.googleusercontent.com/proxy/pBZgdOj83tAns8raow_toi9q_kU5z1ktjH3LZHURTdnYu2oZN_BSINg_y5G0OKKC-VT4KwsgqyzwCcdjoqDP_akQqCnkVCg6mmIMN2GNTZOH7cea0lz8XLO7XB4ClBQdCKMTrnEEhcwBdU6dzqv_7DZnCqwz"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Julinha Restaurante",
+					"Morada": "R. Dr. Avelino Moreira Padrão 1771, 4785-605 Trofa",
+					"Classificacao": 4.6,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/d781b853-7f6d-481e-8c5f-ee179d1565e9/b8c26247-307d-4278-98d5-1c23bcd28b67.jpg"
+				},
+				{
+					"Nome": "Restaurante Tourigalo Trofa",
+					"Morada": "R. das Indústrias, 4785-344 Trofa",
+					"Classificacao": 4.8,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/519517/417415.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Valongo",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque Paleozóico de Valongo",
+					"Localidade": "R. de Santa Helena, 4440-452 Valongo",
+					"Historia": "O Parque Paleozoico de Valongo abrange uma área privilegiada do ponto de vista geológico, apresentando uma grande geodiversidade, da qual se destacam as importantes jazidas fossilíferas do Paleozoico,",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/846843"
+				},
+				{
+					"Nome": "Museu Municipal de Valongo",
+					"Localidade": "R. São Mamede 159, 4440-597 Valongo",
+					"Historia": "Edifício mandado construir por Bernardo Martins da Nova, nos inícios do séc. XIX, com capela dedicada a S. Bruno. Com a elevação de Valongo a Concelho em 1836, nele foi instalada, no ano seguinte, a sede da Câmara, deixando de ter essa utilidade em 1989.",
+					"Imagem": "https://www.cm-valongo.pt/cmvalongo/uploads/poi/image/11/museu_municipal.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Jardim-actividades Hoteleiras Lda (valongo)",
+					"Morada": "R. de Sousa Paupério 19, 4440-452 Valongo",
+					"Classificacao": 4.3,
+					"Imagem": "https://cdn.website.dish.co/media/c3/34/1782214/Restaurante-Jardim-C4BD49DD-6C1B-4811-8D5E-C23B7B51D171.jpg"
+				},
+				{
+					"Nome": "Casablanca Bistrô",
+					"Morada": "R. Padre Joaquim Lopes Reis 89, 4440-452 Valongo",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/2e/33/4c/esterno-del-nostro-ristorante.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Park Hotel Porto Valongo",
+					"Morada": "R. Regedor José Diogo 90, 4440-653 Valongo",
+					"Classificacao": 2,
+					"Preco": "44€",
+					"Imagem": "https://c.otcdn.com/imglib/hotelfotos/8/250/hotel-park-porto-valongo-000.jpg"
 				}
 			]
 		},
@@ -422,25 +722,53 @@
 			"Nome": "Vila do Conde",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Igreja de São João Baptista",
+					"Localidade": "R. 25 de Abril 147, 4480-643 Vila do Conde",
+					"Historia": " É um dos mais importantes monumentos da cidade e um dos mais significativos em estilo manuelino no país, apresentando elementos da arquitectura gótica e renascentista.",
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N4.MON3602d.jpg?itok=tydQNZDW"
+				},
+				{
+					"Nome": "Aqueduto de Santa Clara",
+					"Localidade": "4480-754 Vila do Conde",
+					"Historia": "Encontra-se classificado como Monumento Nacional desde 1910. A versão espanhola da revista National Geographic considerou o aqueduto de Santa Clara o 4.º mais belo aqueduto do mundo, apenas atrás de Pont du Gard em França e dos aquedutos de Segóvia e dos Milagres em Espanha.",
+					"Imagem": "https://viladoconde.com/wp-content/uploads/2019/04/IMG_6731-1.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Os Eusébios",
+					"Morada": "Av. Dr. Carlos Pinto Ferreira 208, 4480-665 Vila do Conde",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/a8/c2/c3/photo0jpg.jpg"
+				},
+				{
+					"Nome": "Caximar Restaurante - Marisqueira",
+					"Morada": "Av. do Brasil 1979, 4480-659 Vila do Conde",
+					"Classificacao": 4.3,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/6269fe4a-5e55-4a3f-98fa-1086bd3c00c0/c797581d-7005-4aff-bb6e-82d9f298ed37.jpg"
+				},
+				{
+					"Nome": "O Mestre",
+					"Morada": "Praça José Régio N 113, 4480-754 Vila do Conde",
+					"Classificacao": 4.3,
+					"Imagem": "https://www.evasoes.pt/files/2017/06/27857468_BINARY_GI03052017JCM1532-960x640_c.jpg"
 				}
+
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Villa C Boutique Hotel",
+					"Morada": "Av. Mouzinho de Albuquerque, s/n, Estrada Nacional 13, 4480-151 Vila do Conde",
+					"Classificacao": 4,
+					"Preco": "168€",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/96/d9/48/villa-c-boutique-hotel.jpg"
+				},
+				{
+					"Nome": "Hotel Brazão",
+					"Morada": "Av. Dr. João Canavarro 7, 4480-688 Vila do Conde",
+					"Classificacao": 3,
+					"Preco": "77€",
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/196/196141350.jpg"
 				}
 			]
 		},
@@ -448,25 +776,46 @@
 			"Nome": "Vila Nova de Gaia",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Jardim do Morro",
+					"Localidade": "Av. da República, 4430-148 Vila Nova de Gaia",
+					"Historia": "O Jardim do Morro é um espaço verde na freguesia de Santa Marinha, em Vila Nova de Gaia, Portugal. ",
+					"Imagem": "https://2.bp.blogspot.com/-XVEZBZ4N_30/Wbrn7kw1_EI/AAAAAAABFIc/QowrcKLiomg1Pcyk9f66FlIrXeTn6UJFQCLcBGAs/s1600/jardim%2Bdo%2Bmorro%2B11.jpg"
+				},
+				{
+					"Nome": "Praia de Salgueiros",
+					"Localidade": "Av. da Beira-Mar C2, 4400-572 Vila Nova de Gaia",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.playocean.net/i/portugal/beaches/vila-nova-de-gaia/salgueiros/praia-de-salgueiros-2.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Dom Gancho",
+					"Morada": "R. Francisco Alexandre Ferreira 188F, 4400-469 Vila Nova de Gaia",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/91/a8/ad/dgancho.jpg"
+				},
+				{
+					"Nome": "Torcatus Restaurante Tapas",
+					"Morada": "R. Laborim de Baixo 574, 4430-259 Vila Nova de Gaia",
+					"Classificacao": 4.5,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/453994/377824.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "The Yeatman",
+					"Morada": "Rua do Choupelo, 4400-088 Vila Nova de Gaia",
+					"Classificacao": 5,
+					"Preco": "270€",
+					"Imagem": "https://www.the-yeatman-hotel.com/fotos/gca/6h0p5792_23895183558dcf2ab1861c.jpg"
+				},
+				{
+					"Nome": "Golden Tulip Porto Gaia Hotel & SPA",
+					"Morada": "Praia de Lavadores, R. da Bélgica 86, 4400-044 Vila Nova de Gaia",
+					"Classificacao": 4,
+					"Preco": "70€",
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/246/24673932.jpg"
 				}
 			]
 		}
