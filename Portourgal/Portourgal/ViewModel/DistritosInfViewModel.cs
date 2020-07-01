@@ -69,7 +69,7 @@ namespace Portourgal.ViewModel
 
         void SelecionarRestaurante(object r)
         {
-            string restaurante = ((string)r);
+            string restaurante = (string)r;
             Restaurante rest = Restaurantes.Find(x => string.Equals(x.Nome, restaurante));
             App.Current.MainPage.Navigation.PushAsync(new RestauranteView(rest));
         }

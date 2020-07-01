@@ -18,5 +18,11 @@ namespace Portourgal.View
             InitializeComponent();
             BindingContext = new PerfilViewModel();
         }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            BindingContext = new PerfilViewModel();
+        }
     }
 }

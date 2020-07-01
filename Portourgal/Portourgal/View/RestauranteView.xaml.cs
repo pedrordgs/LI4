@@ -1,4 +1,5 @@
 ﻿using Portourgal.Model;
+using Portourgal.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,6 +17,7 @@ namespace Portourgal.View
         public RestauranteView(Restaurante restaurante)
         {
             InitializeComponent();
+            BindingContext = new RestauranteViewModel(restaurante);
         }
     }
 }

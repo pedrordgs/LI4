@@ -26,7 +26,7 @@ namespace PortourgalAPI.Services
            _distritos.Find<Distrito>(distrito=> distrito.Id == id).FirstOrDefault();
 
         public Distrito GetByNome(string nome) =>
-            _distritos.Find<Distrito>(distrito => distrito.Nome == nome).FirstOrDefault();
+            _distritos.Find<Distrito>(distrito => distrito.ASCIIName == nome).FirstOrDefault();
 
         public Distrito Create(Distrito distrito)
         {
@@ -38,7 +38,7 @@ namespace PortourgalAPI.Services
             _distritos.ReplaceOne(distrito => distrito.Id == id, distritoIn);
 
         public void UpdateByNome(string nome, Distrito distritoIn) =>
-            _distritos.ReplaceOne(distrito => distrito.Nome == nome, distritoIn);
+            _distritos.ReplaceOne(distrito => distrito.ASCIIName == nome, distritoIn);
 
         public void Remove(Distrito distritoIn) =>
             _distritos.DeleteOne(distrito => distrito.Id == distritoIn.Id);
@@ -47,6 +47,6 @@ namespace PortourgalAPI.Services
             _distritos.DeleteOne(distrito => distrito.Id == id);
 
         public void RemoveByNome(string nome) =>
-            _distritos.DeleteOne(distrito => distrito.Nome == nome);
+            _distritos.DeleteOne(distrito => distrito.ASCIIName == nome);
     }
 }
