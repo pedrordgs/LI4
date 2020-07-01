@@ -19,7 +19,7 @@ namespace Portourgal.InteractionsAPI
             {
                 HttpClient client = new HttpClient();
                 StringContent content = new StringContent(JsonConvert.SerializeObject(u), Encoding.UTF8, "application/json");
-                HttpResponseMessage response = await client.PostAsync("https://portourgalapi.azurewebsites.net/api/users/", content);
+                HttpResponseMessage response = await client.PostAsync("https://portourgalapi2020.azurewebsites.net/api/users/", content);
                 user = u;
                 if (response.IsSuccessStatusCode) return u;
             }
@@ -31,7 +31,7 @@ namespace Portourgal.InteractionsAPI
             if (Connectivity.NetworkAccess != NetworkAccess.None)
             {
                 HttpClient client = new HttpClient();
-                HttpResponseMessage response = await client.GetAsync("https://portourgalapi.azurewebsites.net/api/users/email/" + email);
+                HttpResponseMessage response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/users/email/" + email);
                 if (response.IsSuccessStatusCode)
                 {
                     String json = await response.Content.ReadAsStringAsync();
@@ -50,7 +50,7 @@ namespace Portourgal.InteractionsAPI
             {
                 HttpClient client = new HttpClient();
                 StringContent content = new StringContent(JsonConvert.SerializeObject(u), Encoding.UTF8, "application/json");
-                HttpResponseMessage response = await client.PutAsync("https://portourgalapi.azurewebsites.net/api/users/email/"+email, content);
+                HttpResponseMessage response = await client.PutAsync("https://portourgalapi2020.azurewebsites.net/api/users/email/"+email, content);
                 user = u;
                 if (response.IsSuccessStatusCode) return u;
             }
@@ -63,7 +63,15 @@ namespace Portourgal.InteractionsAPI
             {
                 HttpClient client = new HttpClient();
                 StringContent content = new StringContent(JsonConvert.SerializeObject(user), Encoding.UTF8, "application/json");
-                HttpResponseMessage response = await client.PutAsync("https://portourgalapi.azurewebsites.net/api/users/email/" + user.Email, content);
+                HttpResponseMessage response = await client.PutAsync("https://portourgalapi2020.azurewebsites.net/api/users/email/" + user.Email, content);
+                response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/users/email/" + user.Email);
+                if (response.IsSuccessStatusCode)
+                {
+                    String json = await response.Content.ReadAsStringAsync();
+                    Utilizador u = JsonConvert.DeserializeObject<Utilizador>(json);
+                    //user = u;
+                    user = u;
+                }
             }
         }
 
@@ -72,7 +80,7 @@ namespace Portourgal.InteractionsAPI
             if (Connectivity.NetworkAccess != NetworkAccess.None)
             {
                 HttpClient client = new HttpClient();
-                HttpResponseMessage response = await client.GetAsync("https://portourgalapi.azurewebsites.net/api/users/").ConfigureAwait(false);
+                HttpResponseMessage response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/users/").ConfigureAwait(false);
                 if (response.IsSuccessStatusCode)
                 {
                     String json = await response.Content.ReadAsStringAsync();
@@ -81,6 +89,11 @@ namespace Portourgal.InteractionsAPI
                 }
             }
             return null;
+        }
+
+        public static void terminarSessao()
+        {
+            user = null;
         }
     }
 }

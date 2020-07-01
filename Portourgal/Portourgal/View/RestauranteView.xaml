@@ -7,11 +7,10 @@
              x:Class="Portourgal.View.RestauranteView">
     <ScrollView>
         <StackLayout Margin="2">
-            <Label Text="{Binding Nome}" FontSize="30" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center"/>
-            <BoxView HeightRequest="1" Margin="40,0" BackgroundColor="DimGray"/>
-            <Label Text="{Binding Morada}" FontSize="10" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center"/>
-            <Label Text="{Binding Classificacao}" FontSize="10" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center"/>
-            <Image Source="{Binding Imagem}" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Label Text="{Binding Nome}" FontSize="25" FontAttributes="Bold" VerticalOptions="Center" Margin="30,20,0,10"/>
+            <Label Text="{Binding Morada}" FontSize="10" TextColor="Black" VerticalOptions="Center" Margin="10,0,0,0"/>
+            <Label Text="{Binding Classificacao}" FontSize="10" TextColor="Black" VerticalOptions="Center" Margin="10,0,0,0"/>
+            <Image Source="{Binding Imagem}" VerticalOptions="Center" HorizontalOptions="Center" Margin="30,30,30,30"/>
         </StackLayout>
     </ScrollView>
 </ContentPage>

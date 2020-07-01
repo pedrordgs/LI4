@@ -40,7 +40,7 @@ namespace Portourgal.Model
 
         public bool Equals (Utilizador u)
         {
-            return Nome == u.Nome && Cidade == u.Cidade && Distrito == u.Distrito && Email == u.Email && Password == u.Password;
+            return Nome == u.Nome && Cidade == u.Cidade && Distrito == u.Distrito && Email == u.Email && Password == u.Password && Imagem == u.Imagem;
         }
 
     }

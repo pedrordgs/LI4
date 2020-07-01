@@ -10,7 +10,7 @@ namespace Portourgal.ViewModel
 {
     public class AtracaoViewModel
     {
-        public AtracaoViewModel(Atracao atracao, string distrito)
+        public AtracaoViewModel(Atracao atracao, string distrito, string distritoASCII)
         {
             Nome = atracao.Nome;
             Localidade = atracao.Localidade;
@@ -25,7 +25,7 @@ namespace Portourgal.ViewModel
         {
             Publicacao p = new Publicacao(distrito, atracao, imagem);
             if (UserInteraction.user.Historico.Where(x => string.Equals(x.Distrito, distrito) && string.Equals(x.Atracao, atracao) && string.Equals(x.Imagem, imagem)).ToList().Count > 0) return;
-            UserInteraction.user.Historico.Add(p);
+            UserInteraction.user.Historico.Insert(0, p);
             UserInteraction.user.Pontos++;
             UserInteraction.updateUser();
         }
