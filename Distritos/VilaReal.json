@@ -1,372 +1,564 @@
 {
-    "Nome": "Vila Real",
-	"ASCIIName": "VilaReal",
-    "Historia": "São dois os tipos de paisagem que predominam: a zona mais montanhosa das Serras do Marão e do Alvão, separadas pela terra verdejante e fértil do Vale da Campeã, e, para o Sul, já próximos do Douro, os vinhedos em socalco.",
-    "Cidades": [
+  "Nome": "Vila Real",
+  "ASCIIName": "VilaReal",
+  "Historia": "São dois os tipos de paisagem que predominam: a zona mais montanhosa das Serras do Marão e do Alvão, separadas pela terra verdejante e fértil do Vale da Campeã, e, para o Sul, já próximos do Douro, os vinhedos em socalco.",
+  "Cidades": [
+    {
+      "Nome": "Alijó",
+      "Atracoes": [
         {
-            "Nome": "Alijó",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
+          "Nome": "Miradouro de São Domingos",
+          "Localidade": "Cemitério de Castedo, Alijó",
+          "Historia": "",
+          "Imagem": "https://parque.valetua.pt/wp-content/uploads/2016/07/miradouro-s%C3%A3o-domingos.jpg"
         },
         {
-            "Nome": "Boticas",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Chaves",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Mesão Frio",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Mondim de Basto",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Montalegre",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Murça",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Peso da Régua",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Ribeira da Pena",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Sabrosa",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Santa Marta de Penaguião",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Valpaços",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Vila Pouca de Aguiar",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Vila Real",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
+          "Nome": "Igreja Paroquial de Alijó / Igreja de Santa Maria Maior",
+          "Localidade": "Av. Conselheiro Teixeira de Sousa 4, 5070-046 Alijó",
+          "Historia": "Igreja barroca e neoclássica que apresenta uma nave única e uma capela-mor, com sacristia adossada.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/759983"
         }
-    ],
-    "Imagem": "https://agencia.ecclesia.pt/portal/wp-content/uploads/2018/01/1vila_real.jpg"
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Cêpa Torta",
+          "Morada": "R. Dr. José Bulas da Cruz 41, 5070-047 Alijó",
+          "Classificacao": 4.5,
+          "Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/4a09a6bf-ce24-47f1-b523-0475789b6398/8dba398e-a509-47bb-b0bc-6c77bb83747c.jpg"
+        },
+        {
+          "Nome": "Churrasqueira Pito da Lola",
+          "Morada": "Av. Dr. Francisco Sá Carneiro 120, 5070-013 Alijó",
+          "Classificacao": 4.1,
+          "Imagem": "https://senteodouro.com/images/establishments/fa934422-88a1-468a-a861-26cef9a01cec/2c7d2e26-94a9-4f20-a3b9-605aef9c2869.jpg?p=detail&s=38da6b706c7375c6a9eb430ec16c5f27"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Pousada Barão de Forrester",
+          "Morada": "R. Comendador José Rufino, 5070-031 Alijó",
+          "Preco": "135€",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/186/18669455.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Boticas",
+      "Atracoes": [
+        {
+          "Nome": "Museu Rural de Boticas",
+          "Localidade": "Boticas",
+          "Historia": "O Museu Rural de Boticas é um dos pólos constituintes deste projeto comum do Barroso, que abarca os concelhos de Boticas e Montalegre.",
+          "Imagem": "https://lh3.googleusercontent.com/proxy/uf1VSHbpRW28bG_fYehg5VE0Kq2Vi2AeLpGZ7-yHarnGHphdaQ3I8Z8CBs7cYBVUvpmfRhx0c26TAwMIsFCZnqDpHgCzh4YM1g"
+        },
+        {
+          "Nome": "Parque de Lazer do Ribeiro de Fontão",
+          "Localidade": "R. Município 36, 5460-304 Boticas",
+          "Historia": "A colocação destes equipamentos vai permitir que os utilizadores do espaço envolvente ao ribeiro possam aliar a prática de exercício físico com o contacto com a natureza criando, assim, hábitos de vida saudáveis.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/841111"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante Marialva",
+          "Morada": "R. 5 de Outubro 34, 5460-304 Boticas",
+          "Classificacao": 4.1,
+          "Imagem": "https://images.impresa.pt/bcbm/2011-06-08-e4650be9_0.jpg/original"
+        },
+        {
+          "Nome": "Restaurante Ribeiralta",
+          "Morada": "n° 12, R. Camilo Castelo Branco, Boticas",
+          "Classificacao": 4.1,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/23/18/54/restaurante-ribeiralta.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Boticas Hotel Art & Spa",
+          "Morada": "Junto à C.M, Rua Gomes Monteiro 5, 5460-304 Boticas",
+          "Preco": "110€",
+          "Classificacao": 4,
+          "Imagem": "https://www.boticashotel.com/media/boticas-hotel-art-amp-spa-imageLinkricardo_goncalves_boticas_hotel_spa_dsc030622.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Chaves",
+      "Atracoes": [
+        {
+          "Nome": "Igreja da Misericórdia",
+          "Localidade": "Praça de Camões, 5400-517 Chaves",
+          "Historia": "A Igreja da Misericórdia foi construída no século XVII, num traço marcadamente barroco. No seu interior, possui as paredes revestidas em azulejaria do século XVIII, com temática bíblica.",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Chaves-Igreja_da_Miseric%C3%B3rdia.JPG/300px-Chaves-Igreja_da_Miseric%C3%B3rdia.JPG"
+        },
+        {
+          "Nome": "Ponte de Trajano",
+          "Localidade": "R. Caneiro 47, 5400-501 Chaves",
+          "Historia": "Constitui-se em uma ponte romana, erguida entre fins do século I e o início do II. A par do desenvolvimento das termas, constitui um dos melhores legados romanos da antiga Águas Flávias, que prevalece até aos nossos dias, resistindo a históricas cheias, e às fortes correntes do rio.",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ponte_romana_Chaves_01.jpg/300px-Ponte_romana_Chaves_01.jpg"
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "A Restaurante Pensão Flávia",
+          "Morada": "Tv. Cândido dos Reis, 5400-164 Chaves",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/bf/47/73/starters-5.jpg"
+        },
+        {
+          "Nome": "O Manco",
+          "Morada": "Av. Trindade, Chaves",
+          "Classificacao": 4.2,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/56/d3/59/img-ea10d5fc008f31bb5bab483ac2.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "ibis Styles chaves",
+          "Morada": "R. 25 de Abril, 5400-093 Chaves",
+          "Preco": "52€",
+          "Classificacao": 3,
+          "Imagem": "https://www.ahstatic.com/photos/a6h6_ho_00_p_1024x768.jpg"
+        },
+        {
+          "Nome": "Castelo Hotel",
+          "Morada": "R. Muralha, 5400-414 Chaves",
+          "Preco": "86€",
+          "Classificacao": 4,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/254/254398858.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Mesão Frio",
+      "Atracoes": [
+        {
+          "Nome": "Edifício da Santa Casa da Misericórdia",
+          "Localidade": " R. Sampaio Moreira 141-17, Mesão Frio",
+          "Historia": "",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hospital_da_Santa_Casa_da_Miseric%C3%B3rdia_-_Mes%C3%A3o_Frio_-_Portugal_%288757721378%29.jpg/800px-Hospital_da_Santa_Casa_da_Miseric%C3%B3rdia_-_Mes%C3%A3o_Frio_-_Portugal_%288757721378%29.jpg"
+        },
+        {
+          "Nome": "Jardim de Mesão Frio",
+          "Localidade": "Mesão Frio",
+          "Historia": "Jardim com abundante e bem tratada vegetação e vastas sombras. Tem lago artificial.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/827381"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Convívio",
+          "Morada": "R. Gen. Alves Pedrosa 13, 5040-322 Mesão Frio",
+          "Classificacao": 4.3,
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/770692"
+        },
+        {
+          "Nome": "O Barracão",
+          "Morada": "Largo da Independência, 5040-352 Mesão Frio",
+          "Classificacao": 4.0,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/a1/98/75/photo3jpg.jpg"
+        }
+      ],
+      "Hoteis": [
+      ]
+    },
+    {
+      "Nome": "Mondim de Basto",
+      "Atracoes": [
+        {
+          "Nome": "Senhora da Graça de Mondim de Basto",
+          "Localidade": "4880 Mondim de Basto",
+          "Historia": "A primeira capela no alto do Monte Farinha, conhecida com o título de Senhora da Graça, parece ter sido construída no século XVI.",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Santu%C3%A1rio_de_Nossa_Senhora_da_Gra%C3%A7a_-_Monte_Farinha.jpg/400px-Santu%C3%A1rio_de_Nossa_Senhora_da_Gra%C3%A7a_-_Monte_Farinha.jpg"
+        },
+        {
+          "Nome": "Parque Urbano Municipal de Mondim de Basto",
+          "Localidade": "Mondim de Basto",
+          "Historia": "Jardim com lago e monumento em homenagem aos mortos da Grande Guerra. Tem parque infantil e polidesportivo.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/847058"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Adega Regional 7 Condes",
+          "Morada": "Rua Velha - Travessa do Escourido 13, 4880-256 Mondim de Basto",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/c4/bc/36/vista-interior-do-restaurante.jpg"
+        },
+        {
+          "Nome": "Adega Regional Escondidinho",
+          "Morada": "R. Velha, 4880-212 Mondim de Basto",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/1d/4b/ca/adega-escondidinho.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Água Hotels Mondim de Basto",
+          "Morada": "Monte da Paradela, 4880-162 Mondim de Basto",
+          "Preco": "97€",
+          "Classificacao": 4,
+          "Imagem": "https://www.bookviagens.pt/sites/www.bookviagens.pt/files/styles/offer-real/public/timthumb.php_.jpg?itok=uYOTHFg3"
+        },
+        {
+          "Nome": "Mondim Hotel & Spa",
+          "Morada": "161, Av. da Igreja 19, Mondim de Basto",
+          "Preco": "75€",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/165/16507456.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Montalegre",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Montalegre",
+          "Localidade": "Terreiro Açougue 5, Montalegre",
+          "Historia": "No topo de um monte granítico, de onde se descortinam as serras do Gerês (a Oeste) e do Larouco (a Leste) e o curso do rio Cávado (a Norte), o castelo domina a povoação, a poucos quilómetros da fronteira com a Galiza. Juntamente com o Castelo da Piconha, próximo de Tourém, e o Castelo de Portelo, em Sendim (Padornelos).",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Castelo_montalegre.JPG/300px-Castelo_montalegre.JPG"
+        },
+        {
+          "Nome": "Zona de Lazer de Montalegre",
+          "Localidade": "R. Pte. de Pedra 20, 5470-239 Montalegre",
+          "Historia": "",
+          "Imagem": "https://jf-salto.pt/core/timthumb.php?src=http://jf-salto.pt/publicacoes/b9457017374.jpg&w=1041&h=550&zc=1"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "O Castelo",
+          "Morada": "Terreiro Açougue 5, Montalegre",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/8f/ba/67/la-salle-basse-et-la.jpg"
+        },
+        {
+          "Nome": "Costa",
+          "Morada": "R. Vitor Branco, 5470-235 Montalegre",
+          "Classificacao": 4.2,
+          "Imagem": "https://lh3.googleusercontent.com/proxy/ZrfEpmIpH29n2DPQZF0rUBTyJ7roy9Z1L9nvpYAshub3vsyxD9LROeboTiz9axmwVIl0mXeIE67iRGaaseIfdgQHy3O08jOjUXhJTIZI1LYsSymZ6nkTFeslPsIQsnVP1jGXd0vY1RX2"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Casa Avó Chiquinha",
+          "Morada": "R. Corujeira 634, 5470-219 Montalegre",
+          "Preco": "70€",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/161/161052763.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Murça",
+      "Atracoes": [
+        {
+          "Nome": "Pelourinho de Murça",
+          "Localidade": "Praça 5 de Outubro 10, 5090-134 Murça",
+          "Historia": "O Pelourinho de Murça é um pelourinho situado na freguesia de Murça, no concelho de Murça, distrito de Vila Real, em Portugal. Está classificado pelo IGESPAR, como Monumento Nacional. ",
+          "Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/vilareal-murca/murca/pelourinho-0.jpg"
+        },
+        {
+          "Nome": "Porca de Murça",
+          "Localidade": "Praça 5 de Outubro 10, 5090-134 Murça",
+          "Historia": "Arquitectura religiosa, proto-histórica. Berrão em pedra, considerado pelos estudiosos como estátua votiva e o que leva a admitir a existência de um culto zoolátrico, onde determinados animais eram sagrados, mas a que foi feita a atribuição errada de fémea imortalizando-se com a designação de Porca de Murça.",
+          "Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/vilareal-murca/murca/a-porca.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante residêncial TerraQuente",
+          "Morada": "Murça",
+          "Classificacao": 4.3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/2e/cd/49/sala-acolhedora.jpg"
+        },
+        {
+          "Nome": "Ritual Manjar",
+          "Morada": "R. Frei Dom Diogo de Murça 41, 5090-137 Murça",
+          "Classificacao": 4.1,
+          "Imagem": "https://www.cm-murca.pt/cmmurca2020/uploads/poi/image/22/Imagem3.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Casa do Cabo Murça",
+          "Morada": "R. Marquês de Valle Flôr n. 28 a 30, 5090-138 Murça",
+          "Preco": "120€",
+          "Classificacao": 3,
+          "Imagem": "https://www.cm-murca.pt/thumbs/cmmurca2020/uploads/poi/image/52/83848185_1_2500_2500.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Peso da Régua",
+      "Atracoes": [
+        {
+          "Nome": "Museu do Douro",
+          "Localidade": "R. do Marquês de Pombal, 5050-282 Peso da Régua",
+          "Historia": "O Museu do Douro é um museu localizado em Peso da Régua dedicado à promoção do património da Região Demarcada do Douro e ao vinho do Porto. Em 1997 foi criado o Museu do Douro pela Lei n.º 125/97 de 2 de Dezembro.",
+          "Imagem": "https://douroworldheritage.com/wp-content/uploads/2019/05/5621060099_8e864cb495_o.jpg"
+        },
+        {
+          "Nome": "Ponte da Régua",
+          "Localidade": "N2, 5050-221 Peso da Régua",
+          "Historia": "Construída em 1934 no âmbito da Linha de Lamego, foi adaptada a uso rodoviário depois daquele projecto não ter sido concluído.",
+          "Imagem": "https://www.viajecomigo.com/wp-content/uploads/2017/03/Pontes-da-Regua-%C2%A9-Viaje-Comigo.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "O Maleiro",
+          "Morada": "R. dos Camilos 108, 5050-222 Peso da Régua",
+          "Classificacao": 4.1,
+          "Imagem": "https://lh3.googleusercontent.com/proxy/X89JRR3YNbEhHv_Fcvd1C_xebzta3yx6lcU1MpNmJ8TRP5TCHbgyaar3fNwe-7dGEgI89kYDAA3JdXPJoVt4WFlTHy4e5w6MBCjoQ-DhH0sdMjVkqH-II8CuZTw-7LQL3pMGmtew4fkpGB3Go3g"
+        },
+        {
+          "Nome": "Castas e Pratos / Restaurante / Wine Bar / Wine Shop",
+          "Morada": "R. José Vasques Osório, 5050-280 Peso da Régua",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/b4/5a/c6/wib.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Régua Douro",
+          "Morada": "Av. da Galiza, 5050-280 Peso da Régua",
+          "Preco": "84€",
+          "Classificacao": 4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/00/19/c6/52/hotel.jpg"
+        },
+        {
+          "Nome": "Original Douro Hotel",
+          "Morada": "R. dos Camilos nº115, 5050-273 Peso da Régua",
+          "Preco": "85€",
+          "Classificacao": 2,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/142/142903190.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Ribeira da Pena",
+      "Atracoes": [
+        {
+          "Nome": "Pena Aventura",
+          "Localidade": "Pena Aventura-organização De Actividades Desportivas Lda,, Ribeira de Pena",
+          "Historia": "O PENA AVENTURA PARK é o novo parque de Atividades Lúdicas e de Desportos Aventura situado em Ribeira de Pena, distrito de Vila Real, destinado a todo o tipo de pessoas que gostam de praticar atividades em contacto com a natureza.",
+          "Imagem": "https://www.penaaventura.com.pt/images/atividades/alpine_coaster/alpine_coaster_600px.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Tasca do Xico",
+          "Morada": "Rua do Entroncamento nº1, 4870-118 Ribeira de Pena",
+          "Classificacao": 4.2,
+          "Imagem": "https://terrasdebasto.com/wp-content/uploads/2018/07/659115-842x474.jpg"
+        },
+        {
+          "Nome": "O Cantinho do Churrasco",
+          "Morada": "R. da Variante n°3 163 N312, 4870-163 Ribeira de Pena",
+          "Classificacao": 3.9,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/f7/ab/73/sala.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Pena Park Hotel",
+          "Morada": "Rua do Complexo Turístico de Lamelas, 2, 110, Ribeira de Pena",
+          "Preco": "110€",
+          "Classificacao": 4,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/158/158898807.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Sabrosa",
+      "Atracoes": [
+        {
+          "Nome": "Parque B.B.King",
+          "Localidade": "R. do Bairro 45, 5060-327 Sabrosa",
+          "Historia": "O nome Parque B.B. King foi atribuído a este espaço, em homenagem ao próprio Rei dos Blues por ocasião do seu memorável concerto aí realizado no dia 29 de Maio de 2010, em Sabrosa.",
+          "Imagem": "https://www.sabrosa.pt/thumbs/cmsabrosa/uploads/poi/image/35/sabrosa-_67A8897_1_1024_2500.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Vintage theory - boutique Porto winery",
+          "Morada": "5060-319 Sabrosa",
+          "Classificacao": 4.7,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/dc/2d/1f/photo3jpg.jpg"
+        },
+        {
+          "Nome": "Restaurante Típico",
+          "Morada": "R. do Bouço 3, 5060-327 Sabrosa",
+          "Classificacao": 4.3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/74/1a/44/restaurante-tipico.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Casa dos Barros",
+          "Morada": "R. Fernão de Magalhães 7, 5060-315 Sabrosa",
+          "Preco": "130€",
+          "Classificacao": 3,
+          "Imagem": "https://www.sabrosa.pt/cmsabrosa/uploads/poi/image/147/casa_dos_barros.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Santa Marta de Penaguião",
+      "Atracoes": [
+        {
+          "Nome": "Auditório Municipal de Santa Marta de Penaguião",
+          "Localidade": "Alameda 13 de Janeiro, 5030-470 Santa Marta de Penaguião",
+          "Historia": "O Auditório Municipal de Santa Marta de Penaguião foi inaugurado a 2 de Novembro de 2003 e é um espaço polivalente, onde tem um anfiteatro com capacidade de 216 lugares sentados e uma galeria para exposições.",
+          "Imagem": "https://www.cm-smpenaguiao.pt/wp-content/uploads/2016/11/19-605x335.jpg"
+        },
+        {
+          "Nome": "Caves Santa Marta-vinhos E Derivados Crl",
+          "Localidade": "R. dos Combatentes 36, Santa Marta de Penaguião",
+          "Historia": "As Caves Santa Marta,  empresa com cinco décadas de história, situam-se no concelho de Santa Marta de Penaguião, bem no coração do Douro, a mais antiga região demarcada e regulamentada do mundo e a mais carismática de todas.",
+          "Imagem": "https://www.greatwinecapitals.com/sites/default/files/styles/large/public/best_of/gallery/caves_santa_marta.jpg?itok=--1d5paZ"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante O Pelourinho",
+          "Morada": "R. dos Combatentes 4, 5030-477 Santa Marta de Penaguião",
+          "Classificacao": 4.3,
+          "Imagem": "https://lh3.googleusercontent.com/proxy/JwAGUAC8epyyoF6JJPtITXFgDlAi6m3XwYsTUkl4TsyCnP51ggYUB4xQR_HGfX2lmts1_lYDU8egk22FlVQ5l_P_UtKjV6j3dU5cgARCst0vTr71hHqBAZ848JiCG03NCj9TKAl0XyBfKvYkgMrWD0Ke"
+        },
+        {
+          "Nome": "A Taberna",
+          "Morada": "Tv. da Democracia 5, 5030-477 Santa Marta de Penaguião",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1b/4d/84/18/olea.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Oasis",
+          "Morada": "R. dos Combatentes 24, 5030-477 Santa Marta de Penaguião",
+          "Preco": "48€",
+          "Classificacao": 2,
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/861148"
+        }
+      ]
+    },
+    {
+      "Nome": "Valpaços",
+      "Atracoes": [
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante Toronto",
+          "Morada": "Rua Jorge Malheiro Lage nº4, 5430-422 Valpaços",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/0e/ff/3d/sala.jpg"
+        },
+        {
+          "Nome": "Pizzaria Pizzas Mate",
+          "Morada": "Av. Eng. Luís de Castro Saraiva n 1, 5430-472 Valpaços",
+          "Classificacao": 4.5,
+          "Imagem": "https://valpacos.pt/thumbs/cmvalpacos/uploads/poi/image/188/pizas_mate_1_1_1024_2500.JPG"
+        }
+      ],
+      "Hoteis": [
+      ]
+    },
+    {
+      "Nome": "Vila Pouca de Aguiar",
+      "Atracoes": [
+        {
+          "Nome": "Parque Florestal de Vila Pouca de Aguiar",
+          "Localidade": "Vila Pouca de Aguiar",
+          "Historia": "Situado no perímetro urbano de Vila Pouca de Aguiar, próximo ao centro, o Parque Florestal é dotado de espaço de merendas, ringue desportivo, trilhos e equipamentos de «fitness outdoor» num circuito de manutenção.",
+          "Imagem": "http://www.portoenorte.pt/fotos/oquefazer_imagens/1476437007.5874_20981304585a620ce7d2f94.jpg"
+        },
+        {
+          "Nome": "Museu Municipal Padre José Rafael Rodrigues",
+          "Localidade": "Av. da Noruega 35, Vila Pouca de Aguiar",
+          "Historia": "Instalado na antiga Casa do Condado desde Abril de 2007, o Museu Municipal de Vila Pouca de Aguiar proporciona a quem o visita uma viagem única pelo passado deste território, pautada, simultaneamente, pelo contato com as pré-existências deste edifício histórico.",
+          "Imagem": "https://cm-vpaguiar.pt/wp-content/uploads/2020/06/museu-480x177.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante Costa do Sol",
+          "Morada": "R. Imperador Teodosio 18, 5450-022 Vila Pouca de Aguiar",
+          "Classificacao": 4.3,
+          "Imagem": "https://www.cm-portel.pt/pt/site-visitar/onde_comer/restaurante-o-costa-do-sol/PublishingImages/restaurante-costa-sol-artigo.jpg?RenditionID=16&Width=639&Height=362"
+        },
+        {
+          "Nome": "Toca da Raposa",
+          "Morada": "R. Eng. Fernando Seixas 25, Vila Pouca de Aguiar",
+          "Classificacao": 4.2,
+          "Imagem": "https://senteodouro.com/images/establishments/f51e950d-486e-43e6-bc5a-4faa3933b936/dff16ad5-927d-413c-9938-e2bcacc96330.jpg?p=detail&s=9bc759df450bdb90c5a0e817b8f91abd"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Aguiar da Pena",
+          "Morada": "R. Imperador Teodosio 22, 5450-022 Vila Pouca de Aguiar",
+          "Preco": "58€",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/138/138536065.jpg"
+        },
+        {
+          "Nome": "Hotel Europa",
+          "Morada": "R. Imperador Teodosio 6, 5450-022 Vila Pouca de Aguiar",
+          "Preco": "50€",
+          "Classificacao": 2,
+          "Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/18/50/1850371_v2.jpeg"
+        }
+      ]
+    },
+    {
+      "Nome": "Vila Real",
+      "Atracoes": [
+        {
+          "Nome": "Sé de Vila Real - Igreja de São Domingos",
+          "Localidade": "Av. Carvalho Araújo 89, 5000-657 Vila Real",
+          "Historia": " Construída no século XV, é considerada o melhor exemplo de arquitetura gótica na região de Trás-os-Montes. É sede da Diocese de Vila Real desde 1924. ",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/VilaRealCathedral.jpg/1200px-VilaRealCathedral.jpg"
+        },
+        {
+          "Nome": "Museu da Vila Velha",
+          "Localidade": "R. de Trás-os-Muros, 5000-657 Vila Real",
+          "Historia": "O Museu da Vila Velha constitui-se como o corolário das campanhas arqueológicas levadas a cabo nos últimos anos na Vila Velha. Os trabalhos desenvolvidos deram já resultados, de uma dimensão inimaginável para o público em geral.",
+          "Imagem": "http://mvv.cm-vilareal.pt/images/conteudos/museu.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Cais da Villa",
+          "Morada": "Rua Monsenhor Jerónimo do Amaral, 5000-570 Vila Real",
+          "Classificacao": 4.5,
+          "Imagem": "https://www.evasoes.pt/files/2018/05/cais-da-villa222-960x640.jpg"
+        },
+        {
+          "Nome": "Restaurante Cardoso",
+          "Morada": "R. Miguel Bombarda 42, 5000-625 Vila Real",
+          "Classificacao": 4.5,
+          "Imagem": "https://lifecooler.com/files/registos/imagens/461335/400096.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Mira Corgo",
+          "Morada": "Av. 1º de Maio 76, 5000-651 Vila Real",
+          "Preco": "65€",
+          "Classificacao": 4,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/139/139094020.jpg"
+        },
+        {
+          "Nome": "Douro Scala",
+          "Morada": "R. do Paço, 5040-154 Cidadelhe",
+          "Preco": "117€",
+          "Classificacao": 5,
+          "Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/21/81/2181224_v3.jpeg"
+        }
+      ]
+    }
+  ],
+  "Imagem": "https://agencia.ecclesia.pt/portal/wp-content/uploads/2018/01/1vila_real.jpg"
 }
