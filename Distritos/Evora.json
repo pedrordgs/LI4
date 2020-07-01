@@ -1,372 +1,537 @@
 {
-    "Nome": "Évora",
-	"ASCIIName" : "Evora",
-    "Historia": "É conhecida como a capital de facto do Alentejo. O seu centro histórico bem-preservado é um dos mais ricos em monumentos de Portugal, o que lhe vale o epíteto de Cidade-Museu. Em 1986, o centro histórico da cidade foi declarado Património Mundial pela UNESCO.",
-    "Cidades": [
+  "Nome": "Évora",
+  "ASCIIName": "Evora",
+  "Historia": "É conhecida como a capital de facto do Alentejo. O seu centro histórico bem-preservado é um dos mais ricos em monumentos de Portugal, o que lhe vale o epíteto de Cidade-Museu. Em 1986, o centro histórico da cidade foi declarado Património Mundial pela UNESCO.",
+  "Cidades": [
+    {
+      "Nome": "Alandroal",
+      "Atracoes": [
         {
-            "Nome": "Alandroal",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
+          "Nome": "Castelo Alandroal",
+          "Localidade": "7250-116 Alandroal",
+          "Historia": "Erguido sob o reinado de D. Dinis (1279-1325), de acordo com a inscrição epigráfica sobre uma das portas, a sua primeira pedra foi lançada em 6 de Fevereiro de 1294 por D. Lourenço Afonso, Mestre da Ordem de Avis. Uma segunda inscrição, no alçado Oeste da Torre de Menagem (hoje integrado na Sala do Tesouro da Igreja Matriz), informa a conclusão de sua edificação, em 24 de Fevereiro de 1298, sendo Mestre da Ordem, o mesmo D. Lourenço Afonso. Uma terceira inscrição, no torreão à direita do portão principal, datada críticamente entre 1294 e 1298, refere o nome do seu construtor, que se identificou apenas como 'Eu, Mouro Galvo'. O Alandroal foi elevado à condição de vila por Carta de Foral de 1486, outorgada por D. João II (1481-1495). Nessa qualidade, no reinado de seu sobrinho e sucessor, D. Manuel I (1495-1521), a vila e seu castelo encontram-se figurados por Duarte de Armas (Livro das Fortalezas, c. 1509).",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/0e/8b/7a/castelo-de-alandroal.jpg"
         },
         {
-            "Nome": "Arraiolos",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Borba",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Estremoz",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Évora",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Montemor-o-Novo",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Mora",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Mourão",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Portel",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Redondo",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Reguengos de Monsaraz",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Vendas Novas",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Viana do Alentejo",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
-        },
-        {
-            "Nome": "Vila Viçosa",
-            "Atracoes": [
-                {
-                    "Nome": "",
-                    "Localidade": "",
-                    "Historia": "",
-                    "Imagem": ""
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Imagem": ""
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "",
-                    "Morada": "",
-                    "Preco": "",
-                    "Imagem": ""
-                }
-            ]
+          "Nome": "Fonte das Seis Bicas",
+          "Localidade": "Alandroal, Évora",
+          "Historia": "Esta fonte, que não passa despercebido a quem chega a Alandroal, situa-se na praça central da vila. Aproveitando de a zona ser rica em mármores, esta fonte barroca é dos séculos XVII e XVIII. É de planta retangular com frontispícios de pilastras rematado por fogaréus. Possuí um brasão do século XVIII ladeado por duas esculturas. A fonte possuí seis bicas, representadas por cabeças e leões, denominando-se por:Bica das Feitiçeiras, Santo António, Namorados, Reis, São Pedro e finalmente São João.",
+          "Imagem": "https://fotos.web.sapo.io/i/B62046836/19843016_pE3Oz.png"
         }
-    ],
-    "Imagem" : "https://lp-cms-production.imgix.net/2019-06/1cb364276aafbd7b42896a410eaf1146-evora.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4"
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante Adega dos Ramalhos",
+          "Morada": "Largo Maj. Roçadas 4, 7250-135 Alandroal",
+          "Classificacao": 4.5,
+          "Imagem": "https://www.cm-alandroal.pt/pt/site-visitar/restaurantes/PublishingImages/IMG_2503.JPG?RenditionID=16&Width=639&Height=362"
+        },
+        {
+          "Nome": "Recanto do Fado",
+          "Morada": "Caminho Municipal, Estrada 1108, 7250-135 Alandroal",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d1/5b/f3/frango-de-fricasse.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Alandroal Guest House",
+          "Morada": "R. 5 de Outubro 4, 7250-119 Alandroal",
+          "Preco": "79€",
+          "Classificacao": 3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/9d/93/fe/sala-de-pequenos-almocos.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Arraiolos",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Arraiolos",
+          "Localidade": "Arraiolos, Évora",
+          "Historia": "A ideia de fortificação deste local remonta à doação da chamada herdade de Arraiolos feita por D. Afonso II (1211-1223) a D. Soeiro, bispo de Évora, com a permissão para que nela se erguesse um castelo (1217). Com o adensamento do povoamento, uma nova determinação para o levantamento de uma defesa remonta a um contrato, firmado entre o rei D. Dinis (1279-1325), o Alcaide, os Juízes e o Concelho da Vila de Arraiolos (1305), que estipulava a obrigação de levantar, em torno da povoação, '207 braças de muro, de três braças de alto e uma braça de largo; e a fazer no dito muro dous portaes dárco com suas portas, e com dous cubellos quadrados em cada uma porta'. Ao final do século XVI o castelo ainda era habitado, fechando-se todas as noites pelo sinal do sino (1599). Nessa época um grande número de novas moradias já se espalhava pelas encostas vizinhas. No início do século XVII, entretanto, já se encontrava desguarnecido, vendo os seus materiais de construção serem saqueados e abrigando um curral no seu Pátio de Armas. No início do século XX foi classificado como Monumento Nacional, por Decreto publicado em 23 de Junho de 1910. No período de 1959 a 1963, o castelo e as muralhas de Arraiolos, foram parcialmente restaurados pela Direcção-Geral dos Edifícios e Monumentos Nacionais (DGEMN).",
+          "Imagem": "https://portugalpatrimonio.files.wordpress.com/2016/01/post-02-02-16-01.jpg"
+        },
+        {
+          "Nome": "Igreja da Misericórdia de Arraiolos",
+          "Localidade": "7040-027 Arraiolos",
+          "Historia": "Com a fundação da Instituição da Misericórdia em 1524, depressa esta começou a ganhar importância na vila com a passagem do hospital para os seus domínios, sendo anexado a este edifício uma capela, no ano seguinte. Contudo só na segunda metade desta centúria é que foi possível iniciar a edificação da igreja, que se ergue no pequeno largo Capitão José Cravidão. Largo este que era o mais próximo da Praça do Município, centro do poder e das decisões. Iniciada entre 1585-1586, a construção teve uma celeridade com o interesse de D. Teodósio II, Duque de Bragança, ao disponibilizar artistas que para ele trabalhavam. Em 1598 a construção exterior já estava pronta, uma vez que o templo já estava em condições de receber o forro da carpintaria. As campanhas do interior acabaram em 1602-1603 quando finalizaram o retábulo da capela-mor, igualmente com a construção da igreja. Entretanto no século XVIII visaram várias intervenções no âmbito de atualizar o interior e introduzir a nova linguagem artística barroca, com a aplicação da talha dourada e a introdução do azulejo. Deste período consta também o cadeiral dos mesários existente na nave no lado da Epístola. A nível exterior, teve os trabalhos de estuque da fachada e ao seu remate.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/be/a0/19/vale-a-pena-ver.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "República do Petisco",
+          "Morada": "Praça da República 6, 7040-026 Arraiolos",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/94/00/1d/republica-do-petisco.jpg"
+        },
+        {
+          "Nome": "O Gingão",
+          "Morada": "7040-074 Arraiolos",
+          "Classificacao": 4.1,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/51/53/80/espaco-exterior.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Pousada Convento Arraiolos",
+          "Morada": "Pousada de Arraiolos - Nossa Sra. da Assunção, 7044-909 Arraiolos",
+          "Preco": "128€",
+          "Classificacao": 4,
+          "Imagem": "https://pesweb.azureedge.net/spimg/hotelbannerimages/covid/covid-arraiolos.jpg?scale=downscaleonly&encoder=freeimage&progressive=true&quality=50&w=1440&h=780&mode=crop&anchor=bottomcenter"
+        }
+      ]
+    },
+    {
+      "Nome": "Borba",
+      "Atracoes": [
+        {
+          "Nome": "Pelourinho de Borba",
+          "Localidade": "R. de São Bartolomeu 7 9, 7150-152 Borba",
+          "Historia": "Do pelourinho de Borba, apeado no início do século XIX, restam apenas alguns fragmentos à guarda da Câmara Municipal. Não permitindo a reconstituição rigorosa do monumento, são ainda assim o único testemunho do mais importante símbolo da autonomia jurídica de que o município gozou no passado. O primeiro foral de Borba foi dado em 1302, por D. Dinis, tendo a vila recebido foral novo, por D. Manuel, em 1513. A esta renovação do foral seguia-se geralmente o levantamento de picota nova, embora no presente caso esta seja uma peça mais tardia, não propriamente manuelina, mas sim renascentista, como se pode comprovar pela análise dos poucos elementos conservados. Erguia-se junto à Cadeia da comarca, em frente ao castelo, na actual Praça do Povo, onde até finais do século XVIII funcionou o Senado municipal (ESPANCA, 1978).",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/848179"
+        },
+        {
+          "Nome": "Castelo de Borba",
+          "Localidade": "103, Av. do Povo 21-23, Borba",
+          "Historia": "A construção do Castelo de Borba, localizado em zona de grande importância estratégica para as defesas das fronteiras nacionais ao longo do século XIII, arranca possivelmente pouco após a conquista cristã do local durante o reinado de D. Afonso II, em 1217, ainda que de forma muito incipiente. A conquista deste território, bem como de outros no Sul do país, incluindo Alcácer do Sal, Vieiros, Monforte, Vila Viçosa e, possivelmente, Moura, deveu-se à iniciativa privada, e neste caso particular a Fernão Anes, mestre da Ordem Militar de S. Bento de Avis, antiga Milícia dos Freires de Évora, à qual foi entregue a administração de Borba. O povoamento em larga escala da vila não se terá seguido imediatamente à Reconquista, como aliás acontecia com várias localidades da região, até porque a sede da Ordem de São Bento era então o Castelo de Avis, justamente erguido por Fernão Anes; é provável que tenha arrancado mais ou menos a par das tentativas régias (de D. Sancho II) para ocupar definitivamente e povoar a povoação fronteiriça de Elvas, entre 1226 e 1229. Porém, a muralha que hoje podemos ver é já atribuível ao impulso dado pelo rei D. Dinis, a partir de 1302, data da concessão do primeiro foral a Borba, assim estabelecida em concelho e integrada na linha defensiva do território. As estruturas que já pudessem existir foram então intervencionadas, sendo a obra da fortificação entregue a mestres Diogo (ou Domingos) Salvador e Rodrigo Fernão (ou Fernandes), nomes que figuram numa inscrição epigrafada no monumento. Foi construída uma cerca quadrada, com muros grossos, envolvida por um fosso que, com o tempo, viria a ser integrado no casario envolvente. Um largo adarve, ou caminho de ronda, guarnecido com um parapeito ameiado, corria no topo das muralhas. Estas eram rasgadas por (pelo menos) duas largas portas, conhecidas por Porta do Celeiro e Porta de Estremoz, defendidas por torreões (no primeiro caso) e grandes cubelos de secção semicircular (no segundo caso), também coroados com merlões. Para além destas, outras portas de menor importância estão hoje obstruídas, como a Porta do Sino, entre a Torre de Menagem e a Torre do Relógio, a Porta da Torre, ou a Porta do Sol, esta diante do Rossio de Baixo, ou das Casas Novas (ESPANCA, Túlio, 1966). No perímetro da muralha, encaixada no vértice a Noroeste, sobressai a Torre de Menagem, relativamente baixa mas larga e imponente, que veio a albergar a Cadeia da comarca, já no século XVII. É interessante notar o aparelho de reforço dos cunhais, com lajes em mármore da região.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/7f/73/21/castelo-de-borba-porta.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "O Espiga",
+          "Morada": "Av. da Estação 1A, 7150-144 Borba",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/19/1f/a5/37/novo-espaco-o-mesmo-conceito.jpg"
+        },
+        {
+          "Nome": "O Canhoto",
+          "Morada": "Rua D. António de Melo de Castro 3, 7150-164 Borba",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/ee/18/f3/canhoto.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Estremoz",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Estremoz",
+          "Localidade": "7100-509 Estremoz",
+          "Historia": "O castelo de Estremoz passou definitivamente para o domínio português no reinado de D. Sancho II, depois de já ter estado na mão das forças cristãs e ter sido de novo tomado pelos árabes. Esta fortificação que já devia existir desde a ocupação romana da península, no reinado de D. Sancho II, teve obras de reconstrução, que foram continuadas com o reforço das defesas, nos reinados seguintes. Com D. Dinis, estes trabalhos deram também lugar à construção do Paço Real, onde em 1336, faleceu a Rainha Santa Isabel. Foi também, o Castelo de Estremoz, o quartel-general de, D. Nuno Álvares Pereira. Segundo a tradição, terá sido junto a este castelo que se deu o milagre das rosas, quando a Rainha Santa Isabel, que distribuía esmolas, converteu as moedas em rosas, enganando o rei D. Dinis, que não a queria nessa tarefa de ajuda aos mais necessitados. Esta utilização, como aquartelamento de tropas, viria a verificar-se também durante a Guerra da Restauração, de onde as tropas partiram para diversas batalhas travadas nos anos que se seguiram à declaração de independência, em 1640. Em Agosto de 1698, o depósito de munições explodiu, arruinado uma grande parte do castelo, vindo a ser recuperado no reinado de D. João V, por volta de 1740, que, nestas obras, mandou construir uma Sala de Armas, dotando-a com um valioso recheio, saqueado durante as invasões francesas, em 1800. Classificado como Monumento Nacional, no início do século XX, recebeu intervenções que para além da fortaleza, requalificaram o antigo Paço Real, que agora funciona como pousada e criaram a Galeria de Desenho da Câmara de Estremoz.",
+          "Imagem": "https://www.cm-estremoz.pt/img/upload//conjunto-monumental-de-alcacova-de-estremoz-3-resultado_2019.jpg"
+        },
+        {
+          "Nome": "Porta de Évora",
+          "Localidade": "Largo das Portas de Évora 2, 7100-510 Estremoz",
+          "Historia": "Quando se entra em Estremoz, o acesso é feito por várias portas abertas nas muralhas da fortificação mandada edificar no século xvii, na sequência da guerra da restauração. A porta de Évora não se encontra nas principais vias de acesso, mas numa estreita estrada de acesso local.",
+          "Imagem": "https://www.cm-estremoz.pt/img/upload//portadeEvora-resultado_2019.JPG"
+        },
+        {
+          "Nome": "Pelourinho de Estremoz",
+          "Localidade": "26, Praça Luís de Camões 25, Estremoz",
+          "Historia": "Construído em inícios do séc. XVI, no reinado de D. Manuel I (r. 1495-1521), em 1698 foi removido da frente do antigo Paço Real de D. Dinis (actual Pousada da Rainha Santa Isabel) para o terreiro de Santo André, defronte aos Paços do Concelho da época. Entre 1867 e 1871 foi arriado deste local e disperso em local desconhecido, tendo sido reconstruído, em 1916, por Saavedra Machado e Luís Chaves e colocado no local onde hoje se encontra. Mantém originais o fuste, o capitel e o coruchéu de remate, todos estes elementos de estilo manuelino.",
+          "Imagem": "https://www.cm-estremoz.pt/img/upload//pelourinho-de-estremoz_2019.JPG"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Venda Azul",
+          "Morada": "Largo de São José 26, 7100-106 Estremoz",
+          "Classificacao": 4.7,
+          "Imagem": "https://lifecooler.com/files/registos/imagens/459951/391507.jpg"
+        },
+        {
+          "Nome": "Alecrim",
+          "Morada": "Rossio Marquês de Pombal 31 e 32, 7100-513 Estremoz",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/fe/79/4e/photo0jpg.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Pateo dos Solares Charm Hotel",
+          "Morada": "R. Brito Capelo, 7100-562 Estremoz",
+          "Preco": "108€",
+          "Classificacao": 5,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/204/204473673.jpg"
+        },
+        {
+          "Nome": "Pousada Castelo Estremoz",
+          "Morada": "Largo Dom Dinis, 7100-509 Estremoz",
+          "Preco": "119€",
+          "Classificacao": 4,
+          "Imagem": "https://pesweb.azureedge.net/spimg/hotelbannerimages/hotel-estremoz-exterior0.jpg?scale=downscaleonly&encoder=freeimage&progressive=true&quality=50&w=1440&h=780&mode=crop&anchor=bottomcenter"
+        }
+      ]
+    },
+    {
+      "Nome": "Évora",
+      "Atracoes": [
+        {
+          "Nome": "Templo Romano Évora - Templo de Diana",
+          "Localidade": "Largo do Conde de Vila Flor, 7000-863 Évora",
+          "Historia": "O Templo Romano, em Évora, é um dos mais grandiosos e mais bem preservados templos romanos de toda a Península Ibérica, tendo sido considerado Património Mundial pela UNESCO em 1986. É o ex-libris da cidade, uma espécie de cartão-de-visita, tão conhecido como a Capela dos Ossos. Olhar para este Templo Romano, também conhecido (erradamente) como Templo de Diana, é como regressar ao passado e idealizar tempos que já lá vão. É um dos mais importantes marcos históricos de Évora, senão o mais importante, sendo também um dos mais visíveis símbolos da ocupação romana na cidade. Quando estiver a visitar Évora, este será um circuito bastante interessante para se fazer num dia. Sugiro também um passeio pelo Jardim de Diana, para relaxar, beber um refresco e deliciar-se com a magnífica vista sobre a cidade e a planície alentejana que a rodeia. Ainda hoje este monumento é conhecido como Templo de Diana por muitos portugueses e mesmo eborenses. A confusão explica-se, talvez, devido a uma lenda criada no século XVII que associava a construção do “Templo de Diana” em Évora em honra da deusa romana da caça. A História viria a revelar que, na verdade, o Templo Romano de Évora foi erigido para prestar homenagem ao Imperador Augusto, venerado como um deus, fazendo parte daquilo que seria o fórum romano. Foi modificado nos dois séculos que se seguiram (II e III d.C.) e destruído em parte no século V, aquando da invasão dos povos bárbaros. Com o passar dos séculos, o Templo foi sofrendo várias destruições e alterações na sua utilização prática. No século XIV, por exemplo, servia de casa-forte ao castelo da cidade de Évora. Mais tarde, foi modificado para servir de matadouro. Na segunda metade do século XIX foi alvo de uma grande restauração, cujo objetivo foi devolver-lhe o traçado original, a sua dignidade de monumento. Finalmente, no século XX, aquando de novas escavações, foram encontrados vestígios de um pórtico que estaria rodeado por um espelho de água. No Templo Romano de Évora podemos ver hoje em dia, ao fim de semana, casais recém-casados a posar para fotografias intemporais que os lembrarão não só da união mas também da imponência deste grandioso templo. Para além destes, os turistas sem fim, os recém-licenciados da Universidade de Évora, os namorados, enfim…, que se esgueiram para lá das fitas de proteção, todos querem uma lembrança de um monumento que atravessa os séculos.",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Templo_de_Diana%2C_%C3%89vora-55.jpg"
+        },
+        {
+          "Nome": "Centro de Artes Tradicionais",
+          "Localidade": "Praça 1º de Maio 3, 7000-645 Évora",
+          "Historia": "O edifício do antigo Museu do Artesanato, agora Centro de Artes Tradicionais, exibe mostras sobre diversas manifestações artísticas artesãs e reúne as artes tradicionais do distrito. Antigo Museu do Artesanato, e originalmente Celeiro Comum, o Centro de Artes Tradicionais pretende divulgar e promover as artes tradicionais. Para isso organiza exposições, promove visitas a espaços onde as peças de artesanato são fabricadas, convida artistas para explicarem e demonstrarem o modo como fazem a sua arte. Além de possuir uma colecção com mais de 2000 peças, o edifício - o primeiro Celeiro Comum criado em Portugal, é um espaço magnífico perto da famosa Capela dos Ossos.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/763876"
+        },
+        {
+          "Nome": "Aqueduto da Água de Prata",
+          "Localidade": "R. do Muro 8, 7000-592 Évora",
+          "Historia": "O Aqueduto da Água de Prata de Évora (Aqueduto da Prata) é, pelo seu tamanho, um dos monumentos mais evidentes e impressionantes da cidade. Ele não nos deixa esquecer o engenho que foi preciso para dar de beber a todos os eborenses desde tempos remotos. Por essa mesma e outras razões, é Monumento Nacional desde 1910. A construção do Aqueduto da Água de Prata foi iniciada, por ordem de D. João III, em 1532. Sob direção do arquiteto régio Francisco de Arruda, foram feitos 18km de aqueduto desde a Herdade do Divor, onde vai abastecer de água, até ao centro de Évora. Mas este aqueduto de Évora tinha ainda outras partes que, para além da óbvia função, embelezavam o centro histórico da cidade. Até 1873, um belo pórtico renascentista chamado de Fecho Real do Aqueduto encontrava-se perto da Igreja de São Francisco. No século XVII, foi necessário restaurar o Aqueduto da Água de Prata devido às guerras da Restauração. Outras obras ocorreram nos séculos XIX e XX, mas não alteraram o traço geral original. A mais recente intervenção junto deste monumento foi feita recentemente, quando foi criado o Percurso da Água de Prata e se limparam os campos próximos em toda a sua extensão. Este percurso ambiental de Évora acompanha o aqueduto 8,3km por campos de montado e quintas. A pé ou de bicicleta, vai poder respirar o ar puro alentejano com a vista de Évora nas suas costas. Melhor ainda vai ser voltar. Quem quiser um percurso mais curto, basta seguir o Aqueduto da Água de Prata a partir da Porta da Lagoa (estrada R114-4 Évora-Arraiolos), ponto em que entra no centro histórico de Évora. Vai poder ver como o casario se tornou uno com esta construção do século XVI. Não perca o aqueduto de vista.",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Evora.aqueduct.jpg/1200px-Evora.aqueduct.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Momentos Évora",
+          "Morada": "R. Cinco de Outubro 61, 7000-854 Évora",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/2a/7d/08/porco-preto.jpg"
+        },
+        {
+          "Nome": "Alkimia Madeirense Évora Restaurante/Bar",
+          "Morada": "Av. Dr. Francisco Barahona 6 8, 7005-150 Évora",
+          "Classificacao": 4.3,
+          "Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/0d3481fa-8458-4950-bcb8-ae611b2c1773/c72d9784-1ee0-472b-bbc5-033cf1ffe8d1.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Évora Olive Hotel",
+          "Morada": "R. de Eborim 18, 7000-649 Évora",
+          "Preco": "73€",
+          "Classificacao": 4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/df/f9/5f/evora-olive-hotel.jpg"
+        },
+        {
+          "Nome": "Vila Galé Évora",
+          "Morada": "Avenida Túlio Espanca, 7005-840 Évora",
+          "Preco": "87€",
+          "Classificacao": 4,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/468/46836462.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Montemor-o-Novo",
+      "Atracoes": [
+        {
+          "Nome": "Igreja da Misericórdia de Montemor-o-Novo",
+          "Localidade": "R. Teofilo Braga 71, 7050-273 Montemor-o-Novo",
+          "Historia": "A Igreja da Misericórdia de Montemor-o-Novo faz parte de um conjunto composto pela Igreja e pelos edifícios adjacentes onde se encontra um importante arquivo da misericórdia. Esta Igreja foi construída em 1532 e é famosa pelo seu magnífico portal de estilo manuelino; enquanto que os restantes edifícios datam do século XVII.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/72/c4/16/igreja-da-misericordia.jpg"
+        },
+        {
+          "Nome": "Torre Do Relógio",
+          "Localidade": "R. da Condessa de Valenca 5, 7050-164 Montemor-o-Novo",
+          "Historia": "Torre da época medieval de planta retangular, encimada por campanário manuelino, com aberturas ultrapassadas, coroado por torrinhas cónicas agulhadas. Possui relógio de sol em mármore nas paredes exteriores.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/865581"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante O Cachola",
+          "Morada": "Montemor-o-Novo, Évora",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/80/de/ff/o-cachola.jpg"
+        },
+        {
+          "Nome": "Café Paris",
+          "Morada": "R. 5 de Outubro 130 e 132, 7050-355 Montemor-o-Novo",
+          "Classificacao": 5.0,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/17/0a/b5/mushroom-stew.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel da Ameira",
+          "Morada": "Herdade da Ameira Apart. 163 7054–909, 7054-909 Montemor-o-Novo",
+          "Preco": "98€",
+          "Classificacao": 3,
+          "Imagem": "https://cdn.quierohotel.com/hotel-da-ameira-PF41443_1.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Mora",
+      "Atracoes": [
+        {
+          "Nome": "Museu Interactivo do Megalitismo",
+          "Localidade": "R. da Estação 4, 7490-225 Mora",
+          "Historia": "​​​​​​​​​​​Localizado praticamente no centro da vila de Mora, a escassos quilómetros do Fluviário, o Museu do Megalitismo, único a nível nacional, é a concretização de um sonho antigo da autarquia, no sentido da valorização do vasto e riquíssimo património megalítico existente no Concelho. Inaugurado a 15 de Setembro de 2016, o Museu integra e reabilita a antiga Estação de Mora, e ainda dois novos edifícios destinados ao núcleo museológico e à área de cafetaria. A estrutura antiga acolhe espaços de lazer para os jovens e crianças, com uma sala de internet e biblioteca, cujo acesso é livre, mais uma sala de actividades com diversos jogos interactivos, que, de forma lúdica, alargam o nosso conhecimento. As várias centenas de peças expostas, cedidas maioritariamente pelo Museu Nacional de Arqueologia, são provenientes das dezenas de escavações arqueológicas, que, no Concelho de Mora, tiveram início em 1914, com Vergílio Correia, de que resultou a obra El Neolítico de Pavía, editada em 1921.",
+          "Imagem": "https://www.cm-mora.pt/pt/site-visitar/mora/PublishingImages/Paginas/Nucleo-Regional-Megalistismo/museu.jpg?RenditionID=16&Width=639&Height=362"
+        },
+        {
+          "Nome": "Jardim Publico De Mora",
+          "Localidade": "R. do Parque 6, Mora",
+          "Historia": "Jardim localizado junto à Câmara Municipal, com grande variedade de árvores, bonitos canteiros de flores, lagos, fontes e parque infantil.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/828894"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "O Afonso",
+          "Morada": "R. de Pavia 1, 7490-250 Mora",
+          "Classificacao": 4.3,
+          "Imagem": "https://www.visitevora.net/wp-content/uploads/2015/10/montemor-o-novo.jpg"
+        },
+        {
+          "Nome": "Restaurante Snack Bar Helder Ganhão",
+          "Morada": "R. de São Pedro 42, 7490-208 Mora",
+          "Classificacao": 4.3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1b/54/00/4e/especulares-da-casa.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Mourão",
+      "Atracoes": [
+        {
+          "Nome": "Museu da Luz",
+          "Localidade": "Largo da Igreja de Nossa Senhora da Luz, 7240-100 Luz Mourão",
+          "Historia": "O Museu da Luz (Luz, Mourão, Alentejo) afirma-se como singular espaço de cultura e de identidade. Erigido entre a aldeia da Luz e a margem do lago de Alqueva, é o espaço interpretativo das profundas alterações ocorridas neste território, decorrentes do aparecimento da barragem e da submersão de uma aldeia. O próprio edifício em xisto, diversas vezes premiado, é de uma arquitetura marcante e perfeitamente integrada na paisagem. A ideia de um museu tem origem na década de 1980, no quadro da definição de medidas compensatórias dos impactes decorrentes da implementação do projecto de Alqueva e da reposição da aldeia. Aberto ao público desde 2003, o museu mantém atividade regular desde então. No ano de 2005 o Museu recebeu uma menção honrosa da APOM (Associação Portuguesa de Museologia), na categoria de ‘Melhor Museu do País’.",
+          "Imagem": "https://arquitecturaportuguesa.com/wp-content/uploads/2018/11/Arquitetura-Portuguesa-Museu-da-Luz.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Adega Velha",
+          "Morada": "R. Joaquim José Vasconcelos Gusmão 9, Mourão",
+          "Classificacao": 4.3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/0a/0d/58/restaurante-adega-velha.jpg"
+        },
+        {
+          "Nome": "Restaurante A Chaminé",
+          "Morada": "Estrada da Barca 31, 7240-223 Mourão",
+          "Classificacao": 4.7,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/56/50/5c/restaurante-a-chamine.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Herdade dos Delgados Dark Sky View Hotel & SPA",
+          "Morada": "Rua de S.Sebastião, Mourão",
+          "Preco": "200€",
+          "Classificacao": 5,
+          "Imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/10/abracados-pelo-alqueva-na-herdade-dos-delgados-dark-sky-view-hotel-spa-em-mourao-2-1024x693.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Portel",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Portel",
+          "Localidade": "Rua dos Arcos, 7220 Portel",
+          "Historia": "Monumento Nacional Séc. XIII-XVI - Fundado por D. João Peres de Aboim em 1261, o castelo foi alvo de uma significativa campanha de obras dirigida pelo arquiteto Francisco Arruda, no reinado de D. Manuel I, da qual se destaca a edificação do Paço dos Duques de Bragança e da Igreja de São Vicente no interior do recinto, hoje em ruínas. O amuralhamento da chamada “Vila Velha” observou-se entre os finais do século XIII e princípios do seguinte.",
+          "Imagem": "https://www.cm-portel.pt/pt/site-visitar/o-que-fazer/patrimonio-historico/castelo-de-portel/PublishingImages/castelo-artigo.jpg?RenditionID=16&Width=639&Height=362"
+        },
+        {
+          "Nome": "Igreja da Misericórdia de Portel",
+          "Localidade": "7220-405 Portel, Évora",
+          "Historia": "Séc. XVII – XVIII – Edificada junto à muralha da “Vila Velha” e no mesmo local onde se erguia a capela de São Romão, a igreja da Misericórdia é um excelente exemplar da arquitetura barroca seiscentista, sendo de realçar, no seu interior, o retábulo-mor em talha dourada, barroco, e a tribuna dos mesários da Misericórdia em estilo rococó, obras já do século XVII.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/9a/26/7c/igreja-da-misericordia.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Casa da Açorda",
+          "Morada": "Portel, Évora",
+          "Classificacao": 3.9,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/ab/f7/d6/photo0jpg.jpg"
+        },
+        {
+          "Nome": "Restaurante Sao Pedro",
+          "Morada": "Largo 5 D'outubro 6A, 7220-363 Portel",
+          "Classificacao": 4.4,
+          "Imagem": "https://www.cm-portel.pt/pt/site-visitar/onde_comer/restaurante-s-pedro/PublishingImages/restaurante-spedro-artigo1.jpg?RenditionID=16&Width=639&Height=362"
+        }
+      ]
+    },
+    {
+      "Nome": "Redondo",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Redondo",
+          "Localidade": "Praça Dom Dinis, 7170-055 Redondo",
+          "Historia": "Situa-se na vertente sul da Serra d'Ossa, a 24 km a sudoeste da margem direita do Rio Guadiana. Faz parte da rede de castelos norte-alentejanos reestruturados por Dinis I de Portugal (1279-1325) e doados à nobreza durante a época tardo-medieval – Estremoz, Monsaraz e Portel –, e apresenta alterações significativas do período manuelino. Do topo da Torre de Menagem é possível ver o Castelo de Evoramonte e a Serra d'Ossa, na orientação noroeste. Os restos de suas muralhas e a sua torre de menagem encontram-se classificados como Monumento Nacional por Decreto publicado em 2 de Janeiro de 1946. A imagem de sua entrada a este foi popularizada, a partir da década de 1990, pelos rótulos do vinho Porta da Ravessa, produzido pela Adega Cooperativa de Redondo. Era fronteiro a esta porta que tinha lugar, na Idade Média, a feira da povoação.",
+          "Imagem": "https://www.cm-redondo.pt/pt/site-visitar/O%20que%20Fazer/PublishingImages/Porta%20do%20Postigo.jpg?RenditionID=16&Width=639&Height=362"
+        },
+        {
+          "Nome": "Museu do Barro de Redondo",
+          "Localidade": "R. de Santo António, 7170-056 Redondo",
+          "Historia": "O Museu do Barro é inaugurado em 2009, no merecido testemunho aos seus atores e enquanto instrumento de inquestionável importância na preservação e revitalização da olaria tradicional de Redondo cujo reconhecimento extravasa fronteiras colecionando os mais rasgados elogios. Resguardado pela intimidade que o Convento de Santo António lhe confere, o Museu do Barro convida a acompanhar o percurso histórico da olaria redondense, bem como apreciar e adquirir peças representativas das várias formas de trabalhar o barro. Para além da sua vertente museológica, oferece ainda uma vertente lúdica e pedagógica cujo objetivo passa pela sensibilização dos jovens, face a uma das tradições mais vincadas do concelho. Nesta lógica de formação de públicos, o Museu do Barro desmultiplica-se num ateliê de formação que atua em proximidade com a comunidade escolar assumindo o serviço educativo como uma das suas principais valências. A completar, como resultado de uma estratégia de descentralização, é possível ainda ao visitante percorrer as nove olarias do concelho, podendo assim acompanhar de perto e experienciar o intemporal trabalho na roda dando ainda, quem sabe, forma às suas próprias criações.",
+          "Imagem": "https://www.cm-redondo.pt/pt/site-visitar/O%20que%20Fazer/PublishingImages/Paginas/Museu-do-Barro-/Museu%20do%20Barro%20exterior%20-%20cm%20Redondopeq.jpg?RenditionID=16&Width=639&Height=362"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante O Marujo",
+          "Morada": "R. João Anastácio da Rosa 11, 7170-063 Redondo",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/e2/54/b0/restaurante-o-marujo.jpg"
+        },
+        {
+          "Nome": "Celeiro do Pinto",
+          "Morada": "Av. de Gien 13, 7170-036 Redondo",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/04/4d/e9/75/getlstd-property-photo.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Convento de São Paulo",
+          "Morada": "Aldeia da Serra, 7170-120, Redondo",
+          "Preco": "80€",
+          "Classificacao": 4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/59/ac/5a/hotel-convento-de-sao.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Reguengos de Monsaraz",
+      "Atracoes": [
+        {
+          "Nome": "Praia Fluvial de Monsaraz",
+          "Localidade": "Reguengos de Monsaraz, Évora",
+          "Historia": "​​​​​​​​​​​​​A Praia Fluvial de Monsaraz, situa-se no Centro Náutico de Monsaraz, numa zona interior longe do mar e aliando as ofertas já existentes no concelho de Reguengos de Monsaraz, à primeira praia fluvial da albufeira de Alqueva. A Praia Fluvial de Monsaraz tem todas as caraterísticas de ambientais, de segurança e de conforto necessárias para conseguir o galardão Bandeira Azul deste a data da sua abertura na época balnear de 2017.",
+          "Imagem": "https://1.bp.blogspot.com/-k0e0WWT4lC8/XNvL8QzRmQI/AAAAAAAAgso/aQCVpe_CiYYvFeZU4oOv8cWtFCWW-2VfACLcBGAs/s1600/praia-fluvial-monsaraz.jpg"
+        },
+        {
+          "Nome": "Castelo de Monsaraz",
+          "Localidade": "Largo do Castelo 1, 7200-175 Évora",
+          "Historia": "À época da Reconquista cristã da Península Ibérica, a povoação foi inicialmente conquistada pelas forças sob o comando do lendário Geraldo Sem Pavor (1167). Após a derrota de D. Afonso Henriques (1112-1185) em Badajoz (1169) foi recuperada pelo Califado Almóada sob o comando de Abu Iacube Iúçufe (1173), para ser definitivamente conquistada por D. Sancho II (1223-1248), com o auxílio da Ordem dos Templários, em 1232, a quem fez a doação destes domínios. Desta época ficou-nos a lembrança do cavaleiro templário Gomes Martins Silvestre, povoador de Monsaraz, cujo túmulo se encontra atualmente na Igreja Matriz de Santa Maria da Lagoa. D. Afonso III (1248-1279), visando incrementar o seu povoamento e defesa, concedeu-lhe Carta de Foral em 1276. Neste período, a ação de povoamento de Monsaraz está ligada à figura do cavaleiro Martim Anes Zagallo, que se acredita tenha exercido a função de alcaide da povoação e seu castelo, tendo iniciado as obras da nova alcáçova, época em que se iniciaram ainda a primitiva Igreja Matriz de Santa Maria da Lagoa e outros edifícios. Com a extinção da Ordem em Portugal, tendo o seu patrimônio passado para a Ordem de Cristo (1319), Monsaraz é erigida em Comenda da nova Ordem, na dependência de Castro Marim. É nesta fase, sob o reinado de D. Dinis (1279-1325), que se inicia reconstrução da Torre de Menagem (1310) e a ampliação da cerca da vila, estruturas que, com alterações, chegaram aos nossos dias. No contexto da crise de 1383-1385, a povoação e seu castelo foram atacadas por arqueiros ingleses sob o comando do conde de Cambridge, supostamente aliados de Portugal, vindo a cair, no começo do Verão de 1385, sob o domínio do rei de Castela, quando este invadiu o Alentejo. Abandonados pelas tropas castelhanas em marcha, foram recuperados pelas forças leais a D. João I (1385-1433), sob o comando do Condestável D. Nuno Álvares Pereira, antes da batalha de Aljubarrota. Em 1412, por doação do Condestável a seu neto D. Fernando, Monsaraz passou a integrar os domínios da Casa de Bragança.",
+          "Imagem": "https://www.guiadacidade.pt/assets/capas_poi/capa_13985.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Aloendro",
+          "Morada": "Av. do Alentejo 3A, 7200-000 Reguengos de Monsaraz",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/4e/fe/d1/restaurante-aloendro.jpg"
+        },
+        {
+          "Nome": "Chafarica Tapas & Wine Bar",
+          "Morada": "R. da Caridade 7, 7200-175 Reguengos de Monsaraz",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/f7/37/de/chafarica-tapas-wine.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Vendas Novas",
+      "Atracoes": [
+        {
+          "Nome": "Museu de Artilharia",
+          "Localidade": "7080-094 Vendas Novas, Évora",
+          "Historia": "O Museu da E.P.A é um museu de história militar da arma de artilharia constituído por uma parte instalada no jardim fronteiro à fachada principal da escola, sendo aqui que se encontram as Bocas de Fogo e uma outra parte instalada numa dependência do Quartel. O espólio é anterior a 1861, e conta com munições, material acessório do tiro, fardas mais representativas e homenagem a artilheiros ilustres.",
+          "Imagem": "https://www.cm-vendasnovas.pt/pt/site-visitar/conhecer/museus/PublishingImages/artilharia2.jpg?RenditionID=16&Width=639&Height=362"
+        },
+        {
+          "Nome": "Jardim do Bairro José Saramago",
+          "Localidade": "7080 Vendas Novas, Évora",
+          "Historia": "​Este jardim está inserido num projecto de requalificação paisagística do Bairro José Saramago, o qual compreende três zonas de intervenção: na Praceta Interior ao Loteamento, no Espaço Central e na Rotunda. Na Praceta Interior do Bairro a requalificação foi feita ao nível do sombreamento com árvores de alinhamento e no Espaço Central foram conservadas algumas árvores existentes, nomeadamente oliveiras e algumas fruteiras, as quais foram envolvidas num amplo relvado. Um percurso pedonal composto por quatro acessos, um percurso secundário em calçada decorativa, um parque infantil e juvenil e uma ciclovia para percursos informais de bicicleta também fazem parte deste projecto de requalificação.",
+          "Imagem": "https://www.cm-vendasnovas.pt/pt/site-visitar/conhecer/jardins/PublishingImages/saramago.JPG?RenditionID=16&Width=639&Height=362"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Bifanas & Companhia",
+          "Morada": "R. da Boavista 34 A, 7080-063 Vendas Novas",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/1f/89/c9/a-nossa-bifana-de-vendas.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Acez",
+          "Morada": "Largo 5 de Outubro, 7080-089 Vendas Novas",
+          "Preco": "89€",
+          "Classificacao": 4,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/489/489070.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Viana do Alentejo",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Viana do Alentejo",
+          "Localidade": "Largo de São Luís 7, 7090-271 Viana do Alentejo",
+          "Historia": "A fortaleza de Viana teve incio nos primeiros anos da centria trecentista, reinado de D. Dinis, (1279 - 1325). Fortificao de planta pentagonal com cinco torres cilndricas, da qual desapareceram os fossos e as pontes que facilitavam o movimento de pees e de carruagens, por aterramento artificial, o Castelo mantm todavia, equilibrado nos seus volumes trecentistas e adornos Manuelino - mudjares. A entrada principal, voltada ao norte,  a nica subsistente da muralha dionsia e olhava para o Arrabalde e estrada de vora. Constituda por amplo arco gtico de jambas e chanfros flordelizados, de calcrio de regio, tem profundo enxalso e no corpo interno interessante tnel de abbada nervurada, com fechos simblicos e pavimento lajeado. Correndo na face do Ocidente e no extremo da cerca, ergue-se a Torre da Misericrdia, de esbelta agulha de tijoleira, em cujo olhal se dependura o sino de bronze. No lado oposto, ao oriente e extremando a cintura fortificada levanta-se outro cabelo de aberturas retangulares, no adarve, igualmente rematado pelo coruchu agulhado. Conserva ainda os volumes originais do sculo XIII e motivos decorativos mudjares e manuelinos.",
+          "Imagem": "https://www.visitportugal.com/sites/default/files/styles/large/public/mediateca/N4.LOC1026d.jpg?itok=ou2-kWez"
+        },
+        {
+          "Nome": "Santuário de Nossa Senhora d'Aires",
+          "Localidade": "Viana do Alentejo, Évora",
+          "Historia": "Neste santuário venera-se a imagem em pedra de Ançã da antiga padroeira, Nossa Senhora da Piedade. Essa imagem, em que Nossa Senhora está sentada com Jesus morto nos braços, é objeto de grande fé, pois segundo a tradição nunca deixou de socorrer os crentes, como o confirmam os inúmeros ex-votos expostos na Casa dos Milagres, uma coleção de arte popular única e singular que inclui objetos de diversas épocas como fotografias antigas, vestidos de noiva e tranças de cabelos. O santuário em estilo barroco foi construído entre 1743 e 1804, segundo o projeto do Padre João Baptista, no local onde existia uma anterior ermida quinhentista. Na portada, uma inscrição em latim relata que após a expulsão dos mouros destas terras, um lavrador arava o campo quando encontrou dentro de um pote de barro a imagem que se vê no altar. O edifício tem uma planta de cruz latina, composta por uma única nave, com cobertura em abóbada de berço. No interior, destaca-se o altar de talha em estilo rococó.",
+          "Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/Santu%C3%A1rio-Exterior_660x371.jpg?itok=JctuMcYs"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Cafetaria Restaurante 3 Bicas",
+          "Morada": "R. Padre Luís António da Cruz 73-75, 7090-284 Viana do Alentejo",
+          "Classificacao": 4.2,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/62/66/44/cafetaria-restaurante.jpg"
+        },
+        {
+          "Nome": "Churrasqueira Escadinhas",
+          "Morada": "R. das Escadinhas 9, 7090-249 Viana do Alentejo",
+          "Classificacao": 4.4,
+          "Imagem": "https://lh3.googleusercontent.com/proxy/sYnRXuZOZq1t_M0ydxsqKnkX0izhrQpPkaAR8o3uJsYFgJCYC5AJOMxNwwZnJvAOK5rIDLz95JvaSd5euXg35G6wOobAdCjAhcpajWCzReJUQICTAubyiw2AMDWyCWx5vfPImbboA8-sUA874RIiY3adBx2U7fmbxL1qk2F5oUUz0MokFw"
+        }
+      ]
+    },
+    {
+      "Nome": "Vila Viçosa",
+      "Atracoes": [
+        {
+          "Nome": "Porta dos Nós",
+          "Localidade": "Terreiro do Paço 3, 7160-261 Vila Viçosa",
+          "Historia": "Fundada por D. Jaime no princípio do século XVI, a Porta dos Nós é de inspiração manuelina, formada por duas colunas atadas às ombreiras por um encordoamento, estes três nós simbolizam a posição da Casa Ducal em relação à Casa Real. Esta obra quinhentista foi mandada reconstruir durante o reinado de D. João IV, a Porta dos Nós era, neste tempo, a entrada da vila mas, pelas exigências do trânsito, em 1940 este monumento foi colocado mais de lado, servindo como uma das entradas do Convento dos Agostinhos.",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Vila_Vi%C3%A7osa_-_Porta_dos_N%C3%B3s.jpg"
+        },
+        {
+          "Nome": "Castelo de Vila Viçosa",
+          "Localidade": "R. Sacadura Cabral 2 7160, Vila Viçosa",
+          "Historia": "No centro de Vila Viçosa ergue-se altaneiro o castelo medieval, mandado edificar por D. Dinis na última década do século XIII. De 1461, quando D. Fernando I recebeu a cadeira ducal, até à inauguração do Palácio Ducal, este monumento nacional foi residência dos Bragança. A velha fortaleza medieval conservou a sua traça até ao início do século XVI quando os duques D. Jaime I e D. Teodósio I construíram, seguindo os modelos italianos de praças ultramarinas, o resistente castelo artilheiro. A subida às muralhas oferece uma vista ampla sobre o perímetro urbano de Vila Viçosa e uma perspectiva única sobre o verdadeiro postal ilustrado com que a Avenida Bento de Jesus Caraça e a Praça da República, repletas de verdes laranjeiras, brindam os forasteiros.",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vila_Vicosa_Castle.JPG/1200px-Vila_Vicosa_Castle.JPG"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Taverna dos Conjurados",
+          "Morada": "Largo 25 de Abril 16, 7160-255 Vila Viçosa",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/04/3b/44/0c/interior.jpg"
+        },
+        {
+          "Nome": "Restauração",
+          "Morada": "Praça da República 2, 7160-253 Vila Viçosa",
+          "Classificacao": 4.2,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/d5/65/96/restauracao-cafe-restaurante.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Alentejo Marmoris Hotel & SPA",
+          "Morada": "Largo Gago Coutinho nº11, 7160-214 Vila Viçosa",
+          "Preco": "187€",
+          "Classificacao": 4,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/143/143916996.jpg"
+        }
+      ]
+    }
+  ],
+  "Imagem": "https://lp-cms-production.imgix.net/2019-06/1cb364276aafbd7b42896a410eaf1146-evora.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4"
 }

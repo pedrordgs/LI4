@@ -1,31 +1,45 @@
 {
 	"Nome": "Faro",
-	"ASCIIName" : "Faro",
+	"ASCIIName": "Faro",
 	"Historia": "É a capital da região do Algarve, no sul de Portugal. Sempre foi uma zona notável com acrescido turismo ao longo dos anos. O distrito de Faro é um distrito português coincidente com o território da província do Algarve. ",
 	"Cidades": [
 		{
 			"Nome": "Albufeira",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Estátua de São Vicente de Albufeira",
+					"Localidade": "Largo Jacinto D'Ayet 3, 8200-167 Albufeira",
+					"Historia": "Monumento ao Frei Vicente de Santo António situado no Largo Jacinto d´Ayet. S. Vicente nasceu em 1590 na Vila de Albufeira e aquando do seu baptismo, a mãe oferece-o a N.ª Sr.ª da Orada. Durante os seus estudos mostrou-se trabalhador e inteligente, o que o fez sair de Albufeira e prosseguir os seus estudos em Lisboa, tendo-se revelado um bom cantor, músico, destro tocador de instrumentos, conhecedor de línguas clássicas, desenhador, estudante de medicina e esgrimista. A morte dos seus pais leva-o ao sacerdócio e em seguida parte para o México onde ingressa na Ordem de Santo Agostinho. Depois de muitas dificuldades conseguiu realizar o seu sonho, pregar a Fé de Cristo no Japão. Esteve preso dois anos, durante os quais foi torturado a fim de renegar à Fé Cristã. Como não o fez, foi enjaulado e levaram-no ao suplício final, a fogueira. No dia 3 de Setembro de 1632, expirou, erguendo um crucifixo e gritando 'Viva a Fé de Jesus Cristo!'",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/810007"
+				},
+				{
+					"Nome": "Torre do Relógio",
+					"Localidade": "Praça da República 5, 8200-106 Albufeira",
+					"Historia": "Situada na Rua Bernardino de Sousa, é considerada o ex-libris da cidade. No século XIX foi dotada de uma coroa de ferro que sustenta o sino das horas e actualmente encontra-se iluminada em dias de festa.",
+					"Imagem": "https://2.bp.blogspot.com/-RxC-V2uW94w/T_Iqo5m0ZcI/AAAAAAAALvY/38m74fCX1xA/s1600/ALBUFEIRA+-+Igreja+Velha.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Uzonj Restaurante-Grill",
+					"Morada": "Rua Dunfermline, Edifício Navegador, Lote 11, Loja A, 8200-278 Albufeira",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/9a/74/7b/t-bone.jpg"
+				},
+				{
+					"Nome": "Restaurante The Cockerel",
+					"Morada": "R. Alexandre Herculano 29, 8200-271 Albufeira",
+					"Classificacao": 4.8,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/05/80/9f/photo1jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Paraíso Albufeira",
+					"Morada": "Hotel Paraíso, R. do Município, 8200-161 Albufeira",
+					"Preco": "627€",
+					"Classificacao": 4,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/xrC3hURix58hthR9xz8WQxvJRbBXTCSU_NIH5rXLKYd616uE943oOeGJlUqX6WsCZwTwqQEvWiWWMVO-X-GBvgj5MejjTv68EUjmE_86cmwGjO-pPc7Q-Crg23kbBwGs6gFD0VfCJc8VZlbaW1GRosuwRlLYe_eXPJGJXmSbZy0ekAN8TH5iZ3Q1Sq33BW1stcw65Jddb2_Xh1gRwoFD5ik-I_UvHmYGfeoEKtk"
 				}
 			]
 		},
@@ -33,25 +47,39 @@
 			"Nome": "Alcoutim",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Núcleo Museológico de Arte Sacra de Alcoutim",
+					"Localidade": "8970-065 Alcoutim, Faro",
+					"Historia": "O Núcleo Museológico de Arte Sacra situa-se na Capela de Santo António (Av. Duarte Pacheco), em Alcoutim. Esta exposição tem como fio condutor um percurso histórico/expositivo, que se inicia no Manuelino (séc. XVI) e termina no Neoclassicismo (séc. XIX), constituído por painéis com informação alusiva a cada período histórico e as representações gráficas das obras mais importantes. Ao longo do percurso encontram-se também vitrinas com algumas imagens, assim como alfaias litúrgicas.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/2g4o-jkEBfHtyOgNkKHcBI-iaxI1XcQHZfsQpZet8AP0KB9I64LNu9_gkxrfBkG3-5HT2T8XchoYjz-wcixDbsEMxfWgdmAQhL9Xu6UT5gSsknfkG_ai-sRkwZN8AM6koPsE6RCkd9Qte0O0PIW5dVL8l2Ede0pSa2sLANE1IpYw_90142EKLyzdviK7w2hGm8rBrAtuaP9XGIk2Yw"
+				},
+				{
+					"Nome": "Castelo Velho de Alcoutim / Castro de Santa Bárbara",
+					"Localidade": "Alcoutim, Faro",
+					"Historia": "A norte da vila o Castelo Velho, também denominado como Castro de Santa Bárbara, está situado no ponto mais alto da vila, tido como o ponto mais estratégico da defesa, numa das vistas mais maravilhosas sobre a zona. Estas condições foram aproveitadas pelos muçulmanos aquando da ocupação, mantendo uma singularidade de estruturas militares islâmicas mais importantes do Algarve, como a estrutura existente que mantém a tendência muçulmana. Uma estrutura sem data defenida mas com um período cronológico, devendo-se a várias campanhas aqui existentes. Segundo as teorias dos estudiosos, o castelo tem uma semelhança ao de Alicante (este construído no século X), integrando-se na perfeição numa tipologia de castelos da Dinastia Árabe dos Omíadas. A ideia é reforçada pela morfologia utilizada na construção com base de 'pedra solta irregular' com pedras argamassadas com terra, típico das obras militares Omíadas.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/faro-alcoutim/alcoutim/castelo-velho-1.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Rio",
+					"Morada": "EM507 9, Alcoutim, Faro",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/86/7b/a4/restaurante-o-rio.jpg"
+				},
+				{
+					"Nome": "O Soeiro",
+					"Morada": "R. do Município 4, 8970-066 Alcoutim",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/ac/d8/48/view-from-outside-terrace.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel d'Alcoutim",
+					"Morada": "Av. de Espanha 43, 8970-064 Alcoutim",
+					"Preco": "85€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/100/100648443.jpg"
 				}
 			]
 		},
@@ -59,25 +87,39 @@
 			"Nome": "Aljezur",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Ribat de Arrifana",
+					"Localidade": "8670-156 Aljezur, Faro",
+					"Historia": "Classificado como Monumento Nacional, o Ribat da Arrifana é hoje um dos mais importantes casos de arqueologia ibérica e europeia. Até hoje o único conhecido em Portugal e o segundo na Península Ibérica, o Ribat da Arrifana é um convento-fortaleza, consagrado à oração e vigilância da costa, constituído por várias estruturas, entre as quais se incluem uma necrópole, uma sucessão de mesquitas com oratórios (quibla e mihrab), onde os monges-guerreiros faziam as suas orações, assim como, dependências destinadas tanto aos monges como aos peregrinos e vestígios de um minarete. Este importante monumento localizado na Ponta da Atalaia, a cerca de 1 km para Norte da actual Praia da Arrifana, teria sido mandado edificar, cerca de 1130, pelo mestre sufi e madi, Ibn Qasi, uma das principais figuras do mundo político e religioso do al-Andalus, contemporâneo de D. Afonso Henriques, com quem estabeleceu pacto contra o governador de Silves, Ibn Wazir, e os Almoadas, permitindo ao rei de Portugal a conquista de territórios entre Mondego e Tejo.",
+					"Imagem": "https://cm-aljezur.pt/util/imgLoader2.ashx?w=395&h=554&img=/upload_files/client_id_2/website_id_1/Concelho/Aljezur_para_visitar/ribat_arrifana.JPG"
+				},
+				{
+					"Nome": "Castelo de Aljezur",
+					"Localidade": "8670-156 Aljezur, Faro",
+					"Historia": "Classificado como Imóvel de Interesse Público, localiza-se num cerro xistoso sobranceiro à vila, donde se desfruta de uma magnífica vista panorâmica, a nascente sobre a imensa várzea de Aljezur, sobre a zona da Igreja Nova e da Serra de Monchique e a poente sobre o Vale D. Sancho, onde outrora se cultivava arroz e por onde serpenteia a Ribeira de Aljezur até chegar ao mar, na Praia da Amoreira. Edificado no século X pelos árabes, fez parte integrante do sistema defensivo de Silves, durante os séculos XII e XIII, tendo sido o último castelo islâmico a ser conquistado pelos cristãos no Algarve, em 1249, reinado de D. Afonso III, cuja conquista ficou a dever-se aos cavaleiros da Ordem de Santiago, comandados por D. Paio Peres Correia. O local onde o castelo se encontra implantado parece ter sido ainda ocupado, sucessiva e ininterruptamente por vários povos: os lusitanos que dele fizeram um castro; os romanos que nele tiveram um posto de vigia; os visigodos, que também o utilizaram como vigia; e os árabes que nele deixaram mais vestígios, sendo-lhes atribuída a edificação do castelo e a fundação da vila, bem como a reformulação das suas defesas.",
+					"Imagem": "https://cm-aljezur.pt/util/imgLoader2.ashx?w=1028&img=/upload_files/client_id_2/website_id_1/site_2019/Visitar/Conhecer_Aljezur.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "The Elska Kitchen",
+					"Morada": "Urbanização Vale da Telha 41, Sector B, Vale da Telha, 8670-156 Aljezur",
+					"Classificacao": 4.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/19/26/0e/fa/roasted-squash-pumpkin.jpg"
+				},
+				{
+					"Nome": "VÁRZEA",
+					"Morada": "E. N. 120, Quinta do Sabugueiro, r/c, 8670-122 Aljezur",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/be/fa/3d/varzea.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "VICENTINA HOTEL",
+					"Morada": "Avenida General Humberto Delgado, 8670-001 Aljezur",
+					"Preco": "117€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/844/84409669.jpg"
 				}
 			]
 		},
@@ -85,25 +127,39 @@
 			"Nome": "Castro Marim",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Estátua do Cavaleiro Medieval",
+					"Localidade": "Castro Marim, Faro",
+					"Historia": "Uma escultura nova do metal de um cavaleiro está a cavalo orgulhosa no carrossel fora de Castro Marim A cidade tem uma história do século XIV que envolve os cavaleiros Templar.",
+					"Imagem": "https://thumbs.dreamstime.com/b/cavaleiro-sculpture-castro-marim-portugal-59899091.jpg"
+				},
+				{
+					"Nome": "Castelo Castro Marim - Tortura",
+					"Localidade": "8950-137 Castro Marim, Faro",
+					"Historia": "Utilizando métodos próprios de tortura, a Inquisição Católica foi responsável por milhares de mortes e de atos barbáricos contra a integridade humana, que apenas serviram para provocar dores excruciantes e um sofrimento atroz a quem não professasse da sua fé. Ao longo da exposição poderá encontrar várias réplicas utilizadas na punição dos condenados e que nos transmitem um pouco dos horrores cometidos no período negro da inquisição.",
+					"Imagem": "https://diasmedievais.cm-castromarim.pt/site/sites/cm-castromarim.pt/files/styles/focus_crop/public/noticias/imagem/dias_medievais3.jpg?itok=PC573JKp"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "A Tasca Medieval",
+					"Morada": "R. 25 de Abril 65, 8950-122 Castro Marim",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/56/be/6a/getlstd-property-photo.jpg"
+				},
+				{
+					"Nome": "Restaurante Casa Chatelain",
+					"Morada": "R. São Gonçalo de Lagos, 8950-122 Castro Marim",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/16/b4/ca/1e/facade-2.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Grand House",
+					"Morada": "Av. da República nº 171, 8900-203 Vila Real de Santo António",
+					"Preco": "455€",
+					"Classificacao": 5,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max500/176/176401670.jpg"
 				}
 			]
 		},
@@ -111,25 +167,39 @@
 			"Nome": "Faro",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Arco do Repouso",
+					"Localidade": "R. do Repouso 3, 8000-169 Faro",
+					"Historia": "O Arco do Repouso constituiu uma das portas de acesso às muralhas medievais a sua construção remonta à dinastia almoada (séculos XII / XIII). No século XIII, devido à Reconquista Cristã, esta entrada foi reforçada pelos árabes com duas torres albarrãs com duas entradas laterais, de modo a facilitar a defesa da cidade e tornar difícil o acesso do inimigo. A sua designação está relacionada com a conquista cristã da cidade e com duas lendas a ela associadas: a primeira conta que as tropas do rei D. Afonso III, após a conquista da cidade de Faro aos árabes, em 27 de Março de 1249, repousaram neste sítio; outra lenda evoca a história de uma moura encantada, a filha do governador árabe que por se apaixonar por um jovem cavaleiro do exército cristão foi aqui enfeitiçada pelo seu pai e aqui repousa. No interior de um dos dois Arcos da entrada árabe, foi construído no século XVIII com o patrocínio da Rainha D. Mariana, uma ermida para acolher a imagem de Nossa Senhora do Repouso. Tem no seu interior um retábulo de madeira.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/faro-faro/faro/arco-repouso.jpg"
+				},
+				{
+					"Nome": "Doca de Faro",
+					"Localidade": "16, Praça Dom Francisco Gomes 15, 8000-168 Faro",
+					"Historia": "A zona é formada por diversas ilhas que constituem uma reserva natural com as inerentes restrições. A entrada com cerca de 200m, entre as ilhas Cabo de Santa Maria e Culatra, é limitada por dois quebramares orientados a SSW com farolins. Ao longo da costa é de esperar uma corrente de 3 nós. A batimétrica dos 10m encontra-se a cerca de 1M da costa.Aprincipal referência é o farol do C. De Santa Maria. Esta doca de recreio está completa todo o ano por embarcações locais e dos associados do Clube.",
+					"Imagem": "https://www.cm-faro.pt/util/imgLoader.ashx?w=1280&img=/upload_files/client_id_1/website_id_5/Imagens/turismo/esta%C3%A7%C3%A3o%20n%C3%A1utica/doca4.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante tradicional Tasca Do Ricky",
+					"Morada": "R. do Forno n°21, 8000-299 Faro",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/d4/f1/3f/lugar-humilde-pero-con.jpg"
+				},
+				{
+					"Nome": "Shiraz Restaurants Faro",
+					"Morada": "R. do Prior 6, 8000-470 Faro",
+					"Classificacao": 5.0,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/f_auto,q_auto,w_612,h_344/restaurant/29a28273-9fa5-468b-80b9-b2312ad4b588/0f87b3b8-ffaa-4e97-a1a7-6aadeb6e65f9.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel ibis Faro Algarve",
+					"Morada": "Rua Antonio Aleixo, 204 Nº De Registo:285, 8005-174 Faro",
+					"Preco": "78€",
+					"Classificacao": 2,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/39/49/39497_v9.jpeg"
 				}
 			]
 		},
@@ -137,25 +207,39 @@
 			"Nome": "Lagoa",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Algar de Benagil",
+					"Localidade": "Lagoa, Faro",
+					"Historia": "O algar de Benagil é uma das maiores atracções naturais do sul de Portugal, região do Algarve. Esta região é conhecida por ser uma terra de verão paradisíaca. Cheio de praias incríveis, campos de golfe de alta qualidade e os melhores restaurantes, o Algarve é o melhor destino das férias europeias.",
+					"Imagem": "https://i2.wp.com/www.portugalnummapa.com/wp-content/uploads/2016/09/algar-de-benagil.jpg?fit=620%2C418&ssl=1"
+				},
+				{
+					"Nome": "Algar de Albandeira",
+					"Localidade": "Lagoa, Faro",
+					"Historia": "O Algar de Albandeira fica no concelho da Lagoa, muito perto da praia de Albandeira no sentido da praia da Marinha. Os Algares são formados pelas águas das chuvas que dissolvem os terrenos calcários dando origem a estes grandes buracos. Para o visitar é sair da praia de Albandeira subindo a arriba e seguir o trilho que se faz com facilidade. Respeite as vedações existentes.",
+					"Imagem": "https://live.staticflickr.com/3917/14620347901_8e5534e3e1_b.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Algar",
+					"Morada": "Estr. de Benagil, 8400-427 Lagoa",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/48/0e/a8/photo3jpg.jpg"
+				},
+				{
+					"Nome": "Gaspacho & Migas",
+					"Morada": "R. Francisco L. M. Veloso Lote 5, 8400-348 Lagoa",
+					"Classificacao": 4.9,
+					"Imagem": "https://lh3.googleusercontent.com/gtffsjaYeLsy7WwSNNBlvSKahoDmusw8-fhmVDB5RBtKs8r-3lBfmx-sH3aUn-A5ap0byPkV_YgmJoRS=w768-h768-n-o-v1"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Lagoa Hotel",
+					"Morada": "N125, 8400-395 Lagoa, Faro",
+					"Preco": "117€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/542/54294629.jpg"
 				}
 			]
 		},
@@ -163,25 +247,39 @@
 			"Nome": "Lagos",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Mercado Municipal de Lagos",
+					"Localidade": "Av. dos Descobrimentos, 8600-668 Lagos",
+					"Historia": "O edifício divide-se em três pisos, sendo o térreo ocupado por bancas de peixe e marisco, talhos e um espaço de venda de gelo, enquanto que no primeiro andar foram criados espaços para um café e seis lojas, que comercializam vários produtos, especialmente frutas e os legumes. No terceiro andar situa-se um restaurante e um terraço com vista para a baía de Lagos, e um acesso pedonal para o Centro Ciência Viva de Lagos, instalado nas traseiras do Mercado Municipal. A comunicação entre os três pisos é feita através de uma escadaria e de um elevador panorâmico.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/bd/b2/59/mercado-municipal-da.jpg"
+				},
+				{
+					"Nome": "Forte da Meia Praia",
+					"Localidade": "Lagos, Faro",
+					"Historia": "O Forte de S. Roque da Meia Praia localiza-se na freguesia de Lagos, junto ao apeadeiro da Meia Praia, com vistas privilegiadas sobre a praia e o oceano. Seiscentista, estrategicamente implantado na orla costeira, foi durante a Idade Moderna uma das fortificações complementares de defesa do Algarve. Parcialmente reconstruído após o terramoto e maremoto de 1755, o forte continuou a ter um papel importante na defesa da baía, até ser desartilhado e desguarnecido depois da Convenção de Évoramonte em 1834. Mais tarde nele foi instalado um posto da Guarda Fiscal, entretanto desativado.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Forte_da_Meia_Praia_-_03-2018.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "PIE Lagos",
+					"Morada": "R. 25 de Abril 91 1F, 8600-763 Lagos",
+					"Classificacao": 5.0,
+					"Imagem": "https://nit.pt/wp-content/uploads/2020/01/f5c337dfccce9dc3702d7cbc87893d11-754x394.jpg"
+				},
+				{
+					"Nome": "Pepperino Pizzeria Lagos",
+					"Morada": "R. Marreiros Netto n 55, 8600-754 Lagos",
+					"Classificacao": 4.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/ce/c2/b4/photo2jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Vila Galé Lagos",
+					"Morada": "Rua Sophia de Melo Breyner Andresen, 8600-295 Lagos",
+					"Preco": "185€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/195/195346343.jpg"
 				}
 			]
 		},
@@ -189,25 +287,39 @@
 			"Nome": "Loulé",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Ermida de Nossa Senhora da Conceição",
+					"Localidade": "8100-606 Loulé, Faro",
+					"Historia": "As origens deste pequeno templo remontam a meados do século XVII. Pensava-se que tinha sido construído da parte de fora das muralhas medievais, adossado a uma das portas então existentes, no local onde as Visitações da Ordem Militar de São Tiago de 1565 referem ter existido um nicho. No entanto, novas revelações vieram pôr de parte esta suposição. Na sequência da Restauração da Independência, nas Cortes de 1646, D. João IV emitiu um voto de acção de graças, consagrando Nossa Senhora da Conceição padroeira de Portugal. Ordenou, então, que se colocasse às entradas das cidades e vilas uma lápide evocativa deste acontecimento. A lápide existente na fachada principal da Ermida de Nossa Senhora da Conceição de Loulé parece corresponder, não só aos desígnios do Rei D. João IV, mas também ao impulso que motivou a construção do templo, surgindo a data de 1656 como o ano provável do início das obras. Em meados do século seguinte, a Confraria de Nossa Senhora da Conceição das Portas da Vila foi responsável pela renovação da ornamentação interior da Ermida, resultando desta intervenção uma das mais interessantes manifestações artísticas setecentistas do Algarve. No entanto, algumas intervenções posteriores têm descaracterizado a ornamentação deste templo: a abertura de uma porta na parede do lado do evangelho e a consequente destruição de um dos painéis de azulejaria; a construção de um coro alto; a pilhagem de azulejos na parede do fundo e a completa destruição da pintura da cobertura, restando somente uma tela pintada e em mau estado de conservação.",
+					"Imagem": "https://www.visitalgarve.pt/util/imgLoader2.ashx?w=480&h=360&img=/upload_files/client_id_1/website_id_1/Equipamentos/Patrim%C3%B3nio%20Cultural/Loul%C3%A9/Ermida%20de%20Nossa%20Senhora%20da%20Concei%C3%A7%C3%A3o/N%20S%20Conceicao%2002.jpg"
+				},
+				{
+					"Nome": "Estátua de António Aleixo",
+					"Localidade": "Praça da República 65, 8100-562 Loulé",
+					"Historia": "Considerado um dos poetas populares algarvios de maior relevo, famoso pela sua ironia e pela crítica social sempre presente nos seus versos, António Aleixo também é recordado por ter sido simples, humilde e semi-analfabeto, e ainda assim ter deixado como legado uma obra poética singular no panorama literário português da primeira metade do século XX. No emaranhado de uma vida recheada de pobreza, mudanças de emprego, emigração, tragédias familiares e doenças, na sua figura de homem humilde e simples, havia o perfil de uma personalidade rica, vincada e conhecedora das diversas realidades da cultura e sociedade do seu tempo. Do seu percurso de vida fazem parte profissões como tecelão, guarda de polícia e servente de pedreiro, trabalho este que, como emigrante foi exercido em França. De regresso ao seu país natal, restabeleceu-se novamente em Loulé, onde passou a vender cautelas e a cantar as suas produções pelas feiras portuguesas, actividades que se juntaram às suas muitas profissões e que lhe renderia a alcunha de 'poeta-cauteleiro'.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/EstatuaAntonioAleixo.JPG"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Cafezique",
+					"Morada": "R. das Bicas Velhas 5, 8100-606 Loulé",
+					"Classificacao": 5.0,
+					"Imagem": "https://www.portugalresident.com/wp-content/uploads/2020/01/Cafezique-12-by-Maria-Simiris.jpg"
+				},
+				{
+					"Nome": "A Fábrica",
+					"Morada": "Loulé, Faro",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/30/d8/78/eggcelente-doggy-it-s.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Loulé Jardim Hotel",
+					"Morada": "Praça Manuel de Arriaga, 8100-665 Loulé",
+					"Preco": "125€",
+					"Classificacao": 3,
+					"Imagem": "https://cdn.quierohotel.com/hotel-loule-jardim-PF42578_1.jpg"
 				}
 			]
 		},
@@ -215,25 +327,39 @@
 			"Nome": "Monchique",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Convento de Nossa Senhora do Desterro",
+					"Localidade": "Caminho do Convento, Monchique",
+					"Historia": "O convento de Nossa Senhora do Desterro foi fundado em 1631 por Pero da Silva, o Mole, que depois foi vice-rei da Índia. Diz a lenda, que ainda hoje subsiste, que a fundação deste convento se deve ao cumprimento de uma promessa, feita no alto mar por dois navegantes que se achavam em perigo, de construírem ambos uma igreja no lugar da terra de Portugal que primeiro avistassem do mar. Diz também a lenda que o fundador trouxera consigo da Índia uma pequena imagem da Nossa Senhora, em marfim, imagem que, depois da sua morte, os frades veneravam como relíquia, até que, para a salvar do vendaval de 1834, um deles a escondeu debaixo do hábito e foi pedir a uma senhora, que a recolhesse. Actualmente as ruínas do Convento de Nossa Senhora do Desterro, erguem-se num lugar muito aprazível, rodeada de arvoredo, de onde se desfruta  de um dos mais belos panoramas desta encantadora região.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Convent_of_Nossa_Senhora_do_Desterro_%2811952093015%29.jpg"
+				},
+				{
+					"Nome": "Igreja Matriz de Monchique",
+					"Localidade": "R. da Igreja 29, 8550-464 Monchique",
+					"Historia": "A Igreja Matriz de Monchique foi edificada nos séculos século XV e século XVI e sofreu uma reconstrução em consequência do terramoto de 1755. Pórtico principal manuelino, decorado com cogulhos nos cinco ângulos e máscaras nos intercolúnios. Os portais laterais, mais simples, são do mesmo período. nterior de três naves. Os capitéis das colunas, formados por cordões torcidos, repetem o tema decorativo do portal principal. Na capela-mor, o retábulo de talha dourada (século XVIII) tem a originalidade de apresentar no arco dois anjos segurando a lua e o sol, enquanto dois curiosos atlantes suportam todo o conjunto. Interessante sacrário em forma de templete. A imagem de Nossa Senhora da Conceição (século XVIII) é atribuída ao escultor Machado de Castro. A capela do Santíssimo contém um pequeno tesouro de azulejaria do século XVII, constituído pelos que revestem a abóboda manuelina, que incluem 4 painéis de alminhas, e os das paredes historiando São Francisco salvando as almas e São Miguel matando o Diabo. O retábulo de madeira de castanho encerada (século XVIII) da capela de Nossa Senhora do Carmo, possivelmente proveniente do extinto convento franciscano, tem planta convexa, o que é pouco usual no Algarve.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/8/89/Portugal_2012_%288010509482%29.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Jardim das Oliveiras",
+					"Morada": "Sitio do Porto Escuro, 8550-351",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/74/5f/7b/hauptraum-restaurante.jpg"
+				},
+				{
+					"Nome": "Ceiceira Tasting Lounge",
+					"Morada": "Estrada da Foia, 8550-245 Monchique",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/19/19/48/b6/we-have-plenty-of-space.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Monchique Resort & Spa",
+					"Morada": "Lugar do Montinho, 8550-232 Monchique",
+					"Preco": "146€",
+					"Classificacao": 5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/ef/4d/74/macdonald-monchique-resort.jpg"
 				}
 			]
 		},
@@ -241,25 +367,39 @@
 			"Nome": "Olhão",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque Natural da Ria Formosa",
+					"Localidade": "8700-225 Olhão, Faro",
+					"Historia": "O Parque Natural da Ria Formosa (PNRF) está situado no sotavento algarvio, assente na importante zona lagunar aí existente, cobrindo uma superfície de cerca de 18.000 ha, incluindo a área submersa abrangendo os concelhos de Faro, Loulé, Olhão, Tavira e Vila Real de Sto António.",
+					"Imagem": "https://www.visitalgarve.pt/util/imgLoader2.ashx?w=480&h=360&img=/upload_files/client_id_1/website_id_1/Inspire-se/imagens-topo_Ria_Formosa.jpg"
+				},
+				{
+					"Nome": "Museu Municipal de Olhão",
+					"Localidade": "8700-548 Olhão, Faro",
+					"Historia": "O Museu da Cidade de Olhão situa-se no Edifício do Compromisso Marítimo de Olhão que é, só por si, uma obra de valor patrimonial inestimável, uma vez que “esta obra foi feita à custa dos mareantes da Nobre Casa do Corpo Santo deste lugar de Olhão”. Situado no Largo da Restauração (junto à Igreja Matriz) este edifício acolhe atualmente o Museu Municipal.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/55/86/2e/olhao-museum.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "À do Fernando",
+					"Morada": "R. Gaibeu 25, 8700-412 Olhão",
+					"Classificacao": 4.8,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/7b/e6/b5/photo1jpg.jpg"
+				},
+				{
+					"Nome": "Vai e Volta",
+					"Morada": "Largo do Grémio 2, 8700-343 Olhão",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/32/15/ab/vai-e-volta.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Zenit Guest House",
+					"Morada": "R. 31 de Janeiro 23, 8700-521 Olhão",
+					"Preco": "80€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/50/4e/59/zenit-b-b-guest-house.jpg"
 				}
 			]
 		},
@@ -267,25 +407,39 @@
 			"Nome": "Portimão",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Marina Portimão",
+					"Localidade": "8500-311 Portimão, Faro",
+					"Historia": "Rodeada por algumas das mais famosas e bonitas praias da Europa, a Marina de Portimão, assumiu uma posição de líder português, como destino preferencial de Mega-Iates até 50m. Situada na barra mais segura do país, no amplo estuário do Rio Arade, estende-se por uma área de cerca de 25 ha, enquadrada pelos fortes de Santa Catarina e S. João e por magníficas instalações de apoio. A Marina tem águas profundas que permitem entrar e sair da mesma, em qualquer maré, ampla entrada e espaçosas áreas de manobra, abrigadas dos ventos predominantes.",
+					"Imagem": "https://assets.tivolihotels.com/image/upload/q_auto,f_auto/media/minor/tivoli/images/hotels/tmpo/overview/topimage1920x1000/tmpo_panoramicview_1920x1000_res.jpg"
+				},
+				{
+					"Nome": "Miradouro dos Três Castelos",
+					"Localidade": "Portimão, Faro",
+					"Historia": "O acesso à Praia dos Três Castelos faz-se através das escadas que descem do miradouro dos Três Castelos. Antes de descer aproveite para desfrutar de uma vista admirável sobre as formações rochosas muito esculpidas, onde são visíveis arcos, grutas e plataformas muito apetecíveis para falcões, gaivotas, guinchos, pombos-da-rocha e andorinhões. Nos declives mais suaves das arribas da Praia dos Três Castelos crescem aroeiras, barrilhas e salgadeiras.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/f0/6f/b7/vista-do-miradouro.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Branquinho",
+					"Morada": "Portimão, Faro",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/ee/09/ed/restaurante-branquinho.jpg"
+				},
+				{
+					"Nome": "Restaurante Casa da Tocha",
+					"Morada": "Nº, R. Sra. da Tocha 24, 8500-598 Portimão",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/46/3d/aa/20160209-140416-largejpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Água Hotels Riverside",
+					"Morada": "Quinta do Parchal, 8400-655 Portimão",
+					"Preco": "79€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/02/f4/0e/ac/agua-hotels-riverside.jpg"
 				}
 			]
 		},
@@ -293,25 +447,30 @@
 			"Nome": "São Brás de Alportel",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Azinheira do Alportel",
+					"Localidade": "R. Serpa Pinto 2, 8150-134 São Brás de Alportel",
+					"Historia": "Árvore de interesse público desde 1942. Te 4,10 m de perímetro, 25m de diâmetro da copa e 15m de altura.",
+					"Imagem": "https://cdn.olhares.pt/client/files/foto/big/774/7740765.jpg"
+				},
+				{
+					"Nome": "Museu do Traje de São Brás de Alportel",
+					"Localidade": "R. Dr. José Dias Sancho 61, 8150-141 São Brás de Alportel",
+					"Historia": "O Museu do Traje de São Brás de Alportel está instalado na residência de um antigo almocreve enriquecido com o comércio e a indústria da cortiça. O edifício é, por isso, representativo da arquitectura burguesa do final do séc. XIX. Para além de uma mostra dos trajes característicos do Algarve nos séculos XIX e XX, o museu inclui um núcleo etnográfico onde a cortiça, abordada nos seus aspetos históricos e patrimoniais, tem um especial destaque. Nos jardins do museu estão expostos cerca de duas dezenas de antigos veículos algarvios.",
+					"Imagem": "https://misericordiasaobras.pt/images/paginas/15/05-09-2017_1504574332_museu.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Luís dos Frangos",
+					"Morada": "R. o Emigrante 2, 8150-153 São Brás de Alportel",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/4f/b7/23/churrasqueira-paraiso.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Ysconderijo",
+					"Morada": "R. Gago Coutinho 45, 8150-115 São Brás de Alportel",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/97/31/1d/photo8jpg.jpg"
 				}
 			]
 		},
@@ -319,25 +478,39 @@
 			"Nome": "Silves",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Sé de Silves",
+					"Localidade": "R. da Sé 19, 8300-146 Silves",
+					"Historia": "É considerado um dos templos mais notáveis da arquitectura gótica do Algarve. Provavelmente foi mandado erigir nos finais do século XIII, após a conquista definitiva da cidade, em 1248 ou 49, por D. Paio Peres Correia. A Sé de Silves apresenta-nos um estilo Gótico, deturpado pelas sucessivas reconstruções e restauro a que foi votado. Construída num arenito vermelho (Grés de Silves), a catedral em planta de cruz latina é formada pela abside e transepto. Com uma altura de, aproximadamente, 18m, a nave central é mais elevada que as duas laterais. No átrio interior podemos observar vários sarcófagos, incluindo o túmulo de D. João II que aqui foi sepultado em 1495, tendo os seus restos mortais sido transladados para o Mosteiro da Batalha quatro anos depois.",
+					"Imagem": "https://www.cm-silves.pt/util/imgLoader.ashx?w=1280&img=/upload_files/client_id_1/website_id_1/Visitar/O_que_fazer/roteiro/silves_1.JPG"
+				},
+				{
+					"Nome": "Miradouro de Silves",
+					"Localidade": "N269 8300, Silves, Faro",
+					"Historia": "Este miradouro proporciona sem dúvida uma das melhores vistas para a cidade de Silves. Dispõe de bancos de pedra para que possa desfrutar da paisagem com toda a tranquilidade.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/832234"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante - Bistro Rainha",
+					"Morada": "Santo Estevão, 8300-047 Silves",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/08/79/40/d6/a-rainha.jpg"
+				},
+				{
+					"Nome": "Restaurant O Alambique",
+					"Morada": "8300-042 Silves, Faro",
+					"Classificacao": 4.7,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/2370d217-bff5-4bd4-982e-7b83447f54b4/5fca3c84-c95e-4570-af3f-0e15ace95325.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Colina dos Mouros",
+					"Morada": "Pocinho Santo, 8300-999 Silves",
+					"Preco": "65€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/106/106724204.jpg"
 				}
 			]
 		},
@@ -345,25 +518,39 @@
 			"Nome": "Tavira",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Tavira",
+					"Localidade": "Largo Abu-Otmane, 8800-312 Tavira",
+					"Historia": "Embora a primitiva ocupação humana da região remonte à pré-história, uma campanha arqueológica empreendida em 1997, trouxe à luz um troço de muralha Fenícia datado do século VIII a.C., comprovando a existência de um entreposto ou de uma colônia aqui estabelecida por aquele povo de navegadores e comerciantes. À época da Invasão romana da Península Ibérica, a povoação, então denominada Balsa, adquiriu importância estratégica devido à construção de uma ponte sobre o rio. Embora não hajam sido localizados vestígios materiais de uma fortificação neste período, acredita-se que um destacamento tenha guarnecido este trecho da antiga estrada romana. À época da Reconquista cristã da península, as forças portuguesas atingem o leste algarvio a partir de 1238. Tavira foi conquistada em 11 de Junho de 1239 (Maio de 1240, segundo Alexandre Herculano ou mesmo 1242 segundo outras fontes), pelas forças de D. Paio Peres Correia, Mestre da Ordem de Santiago. A tradição associa a esta conquista a uma represália daquela Ordem pela morte de sete de seus cavaleiros em uma emboscada quando à caça no sítio das Antas (Freguesia da Luz). Sob o reinado de D. Dinis (1279-1325), o castelo foi reparado e reforçado e a cerca da vila ampliada (1292), conforme inscrição epigráfica. Data desse período a ereção da Torre de Menagem. O soberano, por Carta Régia de 1303, ampliou os privilégios dos moradores, impedindo que os seus bens fossem penhorados ou vendidos excepto por dívidas com a Coroa. As muralhas do Castelo de Tavira encontram-se classificadas como Monumento Nacional, por Decreto publicado em 16 de Maio de 1939.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tavira_Castelo1.jpg/1200px-Tavira_Castelo1.jpg"
+				},
+				{
+					"Nome": "Igreja de Santa Maria do Castelo",
+					"Localidade": "8800-606 Tavira, Faro",
+					"Historia": "A Igreja de Santa Maria é um edifício do século XIII, provavelmente mandado construir no local da antiga mesquita pelo conquistador da cidade, D. Paio Peres Correia, mestre da Ordem de Santiago, que está sepultado na capela-mor juntamente com sete cavaleiros cristãos falecidos em 1242 nessa batalha. Erigida originalmente em estilo gótico, foi severamente danificada pelo terramoto de 1755 e mandada reconstruir pelo Bispo do Algarve, D. Francisco Gomes de Avelar, que encomendou o projeto ao italiano Francisco Xavier Fabri. Na fachada, salientam-se os elementos conservados em estilo gótico: o portal, decorado com capitéis de ornamentação vegetalista, a janela em ogiva e uma pequena rosácea. A torre do relógio também pertence à construção primitiva, embora contenha elementos decorativos posteriormente acrescentados. À estética gótica pertencem ainda os arcos e a abóbada da capela do Senhor dos Passos, que já é manuelina.",
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/Tavira-IgrejaSantaMaria-TurismoAlgarve-PedroReis-Visit1.jpg?itok=y6nWDxVO"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "A Taska",
+					"Morada": "R. da Porta Nova 8, 8800-637 Tavira",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/84/a7/63/a-taska.jpg"
+				},
+				{
+					"Nome": "O Castelo",
+					"Morada": "R. da Liberdade 76, 8800-407 Tavira",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/b5/06/71/castelo-cafe-e-restaurante.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Vila Galé Tavira",
+					"Morada": "Rua 4 de Outubro, 8800-362 Tavira",
+					"Preco": "158€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/106/106992799.jpg"
 				}
 			]
 		},
@@ -371,25 +558,33 @@
 			"Nome": "Vila do Bispo",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Praia dos Mouranitos",
+					"Localidade": "Vila do Bispo, Faro",
+					"Historia": "A Praia dos Mouranitos é uma praia selvagem que fica situada entre a praia da Barriga e da Murração. O acesso é muito difícil mas na maré baixa pode ser feito pela praia da Barriga.",
+					"Imagem": "https://www.playocean.net/i/portugal/beaches/vila-do-bispo/mouranitos/praia-dos-mouranitos-1.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Ribeira do Poço",
+					"Morada": "R. Ribeira do Poço 11, 8650-426 Vila do Bpo.",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/59/59/15/ribeira-do-poco.jpg"
+				},
+				{
+					"Nome": "A Tasca do Careca",
+					"Morada": "8650 429, R. Primeiro de Maio 4A, Vila do Bpo.",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/cb/94/46/photo2jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Mira Sagres",
+					"Morada": "R. Primeiro de Maio 3, 8650-425 Vila do Bpo.",
+					"Preco": "135€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/585/58585453.jpg"
 				}
 			]
 		},
@@ -397,28 +592,30 @@
 			"Nome": "Vila Real de Santo António",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Farol de Vila Real de Santo António",
+					"Localidade": "Vila Real de Santo António 393, 8900-211 Vila Real de Santo António",
+					"Historia": "O Farol de Vila Real de Santo António entrou em funcionamento em janeiro de 1923, após largos anos de discussão quanto ao método de construção, visto estar localizado num local arenoso. A torre, circular, tinha 40 metros de altura e assentava sobre fundações de betão armado. A luz lá instalada, de relâmpagos, era obtida por incandescência de vapor de petróleo e tinha um alcance de 33 M. Em 1927 é electrificado com motores geradores, e posteriormente, em 1947, ligado à rede pública de electricidade, ano em que a máquina de relojoaria que, até então, tinha assegurado o movimento do aparelho óptico foi também substituída por motores eléctricos e a lâmpada por uma outra de 3.000W. Em 1960, os dínamos foram substituídos por alternadores e foi instalado um elevador de acesso à torre. Em 1983, a lâmpada é substituída por uma de 1.000W. Seis anos depois, o farol é automatizado, estando, portanto, desprovido de faroleiros nos dias de hoje.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Villa_Real_Lighthouse_02.jpg/1200px-Villa_Real_Lighthouse_02.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Tá Certo",
+					"Morada": "R. Jornal do Algarve, 8900-315 Vila Real de Santo António",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/17/01/ef/3a/perna-de-pato-confitada.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Yellow Praia Monte Gordo",
+					"Morada": "Av. Infante Dom Henrique, 8900-414 Monte Gordo",
+					"Preco": "186€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/85/da/e1/yellow-praia-monte-gordo.jpg"
 				}
 			]
 		}
 	],
-	"Imagem":"https://www.luxair.lu/sites/default/files/styles/slide_images/public/2019-03/LG_Faro_web.jpg?itok=3o_9BlOj"
+	"Imagem": "https://www.luxair.lu/sites/default/files/styles/slide_images/public/2019-03/LG_Faro_web.jpg?itok=3o_9BlOj"
 }

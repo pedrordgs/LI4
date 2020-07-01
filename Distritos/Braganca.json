@@ -1,31 +1,45 @@
 {
 	"Nome": "Bragança",
-	"ASCIIName" : "Braganca",
+	"ASCIIName": "Braganca",
 	"Historia": "É um município ainda não muito explorado pelo turismo que oferece paisagens selvagens e de rara beleza, cidades, vilas e aldeias cheias de interesse histórico, uma gastronomia regional rica e um estilo de vida ainda marcado pelas tradições.",
 	"Cidades": [
 		{
 			"Nome": "Alfândega da Fé",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Alfândega da Fé",
+					"Localidade": "Alfândega da Fé",
+					"Historia": "Há um lugar que convida à descoberta e desperta os sentidos, pelas cores, pelos cheiros, pelos sabores, pelo trato amável e hospitalidade das suas gentes. Esse lugar é Alfândega da Fé. Como o próprio nome indica um local calmo e hospitaleiro a convidar a uma estada prolongada. Assim o descreveram os Árabes quando no séc. VIII lhe atribuíram a designação de Alfandagh. Mais tarde, as lutas pela reconquista Cristã da península acrescentaram-lhe a palavra Fé. Assim nasce o atual toponímico da vila e sede de um concelho, que sempre teve na Serra de Bornes, Vale da Vilariça e Rio Sabor os seus elementos de referência. Alfandagh, Alfândega, foi sede administrativa com alguma importância no tempo da ocupação muçulmana, mas sabe-se que o território já era habitado em tempos anteriores. A prová-lo os vestígios arqueológicos que o tempo ou estudos mais aprofundados se encarregaram de manter e revelar. A testemunhar que a fé desta Alfândega há muito se começou a desenhar e que a Fé nesta Alfândega resiste às escaramuças da história, às investidas do tempo e se vai sedimentando, qual fortaleza erigida por homens e mulheres que continuam, fielmente, a escrever a história deste território.",
+					"Imagem": "https://www.cm-alfandegadafe.pt/cmalfandegadafe/uploads/poi/image/29/castelo_alfandega_4b747579d9fc5.jpg"
+				},
+				{
+					"Nome": "Câmara Municipal de Alfândega da Fé",
+					"Localidade": "R. Camilo de Mendonça 58, 5350-020 Alfândega da Fé",
+					"Historia": "A Câmara Municipal de Alfândega da Fé é o órgão autárquico deste concelho e cabe-lhe promover o desenvolvimento do município em todas as áreas da vida, como a saúde, a educação, a ação social e habitação, o ambiente e saneamento básico, o ordenamento do território e urbanismo, os transportes e comunicações, o abastecimento público, o desporto e cultura, a defesa do consumidor e a proteção civil.",
+					"Imagem": "https://live.staticflickr.com/5575/15124832948_7165f94e43_b.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Bairral",
+					"Morada": "R. Júlio Manuel Pereira 119, 5350-020 Alfândega da Fé",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/43/87/4f/restaurante-bairral.jpg"
+				},
+				{
+					"Nome": "O Garfo 2",
+					"Morada": "Urbanização da Coitada, Bloco A, 5350-001 Alfândega da Fé",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/0f/c8/8d/muito-simpatica-a-sala.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel & Spa Alfandega da Fe",
+					"Morada": "Alto da Serra de, 5350-909 Alfândega da Fé",
+					"Preco": "75€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/784/7843030.jpg"
 				}
 			]
 		},
@@ -33,25 +47,46 @@
 			"Nome": "Bragança",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Pelourinho de Bragança",
+					"Localidade": "R. Duque Dom João II 61, 5300-252 Bragança",
+					"Historia": "Símbolo do poder concelhio. Ergue-se no largo de S. Tiago, onde existiu uma igreja com este nome. Implantava-se junto à 'Domus Municipalis', edifício com que estaria em consonância, dada a sua relação com o poder municipal. Poderia ter sido nestas 'andanças' que foi encastrado numa porca. O monumento é, assim, constituído por duas peças distintas, dois elementos bem separados no tempo: o pelourinho propriamente dito e a figura zoomórfica proto-histórica, um berrão. Deste casamento resultou um conjunto anacrónico, mas original e de grande valor simbólico.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/braganca-braganca/braganca/pelourinho-0.jpg"
+				},
+				{
+					"Nome": "Museu Ibérico da Máscara e do Traje",
+					"Localidade": "R. Camilo de Mendonça 58, 5350-020 Alfândega da Fé",
+					"Historia": "Inaugurado em 2007, é um espaço de divulgação das tradições relacionadas com as máscaras do Nordeste Transmontano e da Região de Zamora (parceria entre o Município de Bragança e a Diputación de Zamora – Projeto Máscaras). Local único onde se encontram expostas máscaras, trajes, adereços e objetos feitos por artesãos portugueses e espanhóis e usados nas Festas de Inverno em Trás-os-Montes e Alto Douro e em Zamora.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/02/79/03/museu-iberico-da-mascara.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Solar Bragançano",
+					"Morada": "Praça da Sé 34, 5300-265 Bragança",
+					"Classificacao": 4.6,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/332255/401486.jpg"
+				},
+				{
+					"Nome": "Geadas",
+					"Morada": "R. do Loreto, 5300-189 Bragança",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/37/a3/0b/sala.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Turismo São Lázaro",
+					"Morada": "Av. do Sabor 2, 5300-367 Bragança",
+					"Preco": "59€",
+					"Classificacao": 3,
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/destaque_7.jpg?itok=oghLSYg7"
+				},
+				{
+					"Nome": "Baixa Hotel",
+					"Morada": "Tv. da Misericórdia 4, 5300-252 Bragança",
+					"Preco": "38€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/124/124434760.jpg"
 				}
 			]
 		},
@@ -59,25 +94,39 @@
 			"Nome": "Carrazeda de Ansiães",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Moinho de Vento de Carrazeda de Ansiães",
+					"Localidade": "R. Moinho de Vento, 5140-085 Carrazeda de Ansiães",
+					"Historia": "Não sendo Trás-os-Montes uma terra de moinhos de vento, a existência desta estrutura eólica no concelho de Carrazeda acaba por constituir uma curiosidade e um motivo de atração. O moinho de vento de Carrazeda de Ansiães foi construído no início do séc. XX e terá funcionado durante cerca de uma década, moendo o trigo produzido nos campos circundantes à vila de Carrazeda. Em 2012 foi recuperado pela autarquia estando integrado num programa de visitas guiadas com caráter pedagógico, cultural e patrimonial. O Moinho de Vento que espreita sobranceiramente a vila de Carrazeda sempre fez parte do imaginário popular que, ao longo dos últimos 100 anos, se habituou a ver a vetusta estrutura isolada sobre as muitas pedras que ladeiam o moinho e interrogar-se acerca da sua origem e funcionalidade. Atualmente, entre a população idosa não existe memória da época do seu funcionamento. No entanto, no início da década de 80, foram recolhidos importantes testemunhos, entre os habitantes mais idosos da povoação, que hoje nos ajudam a compreender um pouco da sua história. Decorria o ano de 1900 quando Damião Gonçalves Neves, originário do Porto, decidiu mandar construir um moinho de vento que iria substituir o velho moinho de água localizado na veiga, junto ao antigo caminho para Fontelonga. O moinho de vento funcionou cerca de uma década moendo o trigo produzido nos campos circundantes e que as mulheres transportavam à cabeça pelo estreito caminho rural que trepa pelas imensas fragas circunscritas no mesmo. Aí Damião Neves e o seu ajudante transformavam o grão em farinha, que depois de ensacada e tirada a sua maquia, iria alimentar a população crescente desta vila transmontana. Pouco se sabe sobre a razão pela qual esta estrutura terá deixado de funcionar podendo-se especular sobre a dificuldade de funcionamento e a imprevisibilidade do vento. Certo é que terá sido substituída pela máquina a vapor tocada a carvão e mais tarde pelo motor a diesel.",
+					"Imagem": "https://www.cm-carrazedadeansiaes.pt/thumbs/cmcarrazedadeansiaes/uploads/writer_file/image/470/moinho_de_vento_reduzido_1_736_2500.jpg"
+				},
+				{
+					"Nome": "Núcleo Museológico da Telha - Telheira de Luzelos",
+					"Localidade": "Variante à N214, 5140-151 Carrazeda de Ansiães",
+					"Historia": "Localizado na aldeia de Luzelos, o Núcleo Museológico da Telha do Museu da Memória Rural mostra ao visitante como era produzido a telha tradicional. Todo o processo relacionado com a produção tradicional da Telha encontra-se aqui retratado ao nível do discurso museológico que se inicia nos Barreiros para ao Pios, amassar o barro, fazer a eira, moldar a telha, cozer a telha no forno e finalmente a distribuição e venda. Todo o discurso museológico é sustentado em painéis gráficos e documentos de vídeo que recorrem a imagens de recolha etnográfica e documentação fotográfica antiga.",
+					"Imagem": "https://museudamemoriarural.pt/wp-content/uploads/2017/07/20431488_1909614889307264_3321900218500100638_n.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Taberna da Helena",
+					"Morada": "Av. Aquilino Ribeiro 468, 5140-058 Carrazeda de Ansiães",
+					"Classificacao": 4.5,
+					"Imagem": "https://www.cm-carrazedadeansiaes.pt/thumbs/cmcarrazedadeansiaes/uploads/poi/image/34/taberna_da_helena_reduzido_1_1_736_2500.jpg"
+				},
+				{
+					"Nome": "Restaurante Convivio",
+					"Morada": "R. Mal. Carmona 20, 5140-082 Carrazeda de Ansiães",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/8e/ee/e9/restaurante-convivio.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Seven Books House",
+					"Morada": "R. Cap. Francisco de Amaral 123, 5140-062 Carrazeda de Ansiães",
+					"Preco": "80€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/444/44478857.jpg"
 				}
 			]
 		},
@@ -85,25 +134,39 @@
 			"Nome": "Freixo de Espada à Cinta",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Freixo de Espada à Cinta",
+					"Localidade": "R. do Carril de Cima 36, 5180-153 Freixo de Espada À Cinta",
+					"Historia": "A origem da povoação bem como o seu topónimo são muito antigos, mergulhando no terreno da lenda. De acordo com o erudito quinhentista João de Barros (homónimo do cronista), na sua Geografia de Entre Douro e Minho e Trás-os-Montes, a fundação é atribuída a um fidalgo espanhol, de apelido Feijão, que teria vivido no século X, e em cujas armas constaria um freixo e uma espada. Uma tradição local atribui o topónimo a um guerreiro Visigodo de apelido Espadacinta, que, ali se deitou à sombra de um freixo para descansar, o que passou a identificar o lugar. A povoação de Freixo existia nos primeiros tempos da Independência de Portugal, marcando a fronteira a oeste do rio Douro. Por essa razão, visando fomentar o seu povoamento e defesa, D. Afonso Henriques (1112-1185), outorgou-lhe foral desde 1152 (ou 1155-1157), confirmado em 1246. Acredita-se que remonta a esse período tanto a construção do castelo quanto o privilégio de couto e homízio (exceto para os crimes de aleive e traição), que seria limitado por D. João I (1385-1433), em 1406, a apenas três vilas no reino, entre as quais esta de Freixo. As primeiras referências documentais ao castelo, entretanto, referem-se a obras em progresso em 1258.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/327736/34313.jpg"
+				},
+				{
+					"Nome": "Igreja Matriz de Freixo de Espada à Cinta",
+					"Localidade": "R. de Trás do Adro 26, 5180-146 Freixo de Espada À Cinta",
+					"Historia": "Igreja quinhentista de planta rectangular com três naves, capela-mor, absidíolos e sacristia. No alçado principal regista-se um portal manuelino, de arco abatido ladeado por pilastras e decoração relevada. A espacialidade interior é de tipo igreja-salão, com notável abóbada de pedraria.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/15/64/c1/7d/img-20180624-145942-largejpg.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Cintadouro - Actividades Turísticas Lda",
+					"Morada": "Avenida Guerra Junqueiro s/n, 5180 Freixo de Espada À Cinta",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/94/48/35/img-20160818-125020-largejpg.jpg"
+				},
+				{
+					"Nome": "A Paula Restaurante Cafe",
+					"Morada": "Largo do Terreirinho 9, 5180-120 Freixo de Espada À Cinta",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/4a/c7/9e/photo0jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Casa do Conselheiro",
+					"Morada": "R. da Fonte Seca 11, 5180-142 Freixo de Espada À Cinta",
+					"Preco": "65€",
+					"Classificacao": 2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/16/a6/89/casa-do-conselheiro.jpg"
 				}
 			]
 		},
@@ -111,25 +174,46 @@
 			"Nome": "Macedo de Cavaleiros",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Estação ferroviária de Macedo de Cavaleiros",
+					"Localidade": "Largo da Estação 9, 5340-215 Macedo de Cavaleiros",
+					"Historia": "Em 19 de Abril de 1902, foi assinado o contrato com o empresário João Lopes da Cruz para a construção do troço de Mirandela a Bragança, tendo sido estipulado que este caminho de ferro teria de passar por Macedo de Cavaleiros. Em 30 de Junho de 1903, foi autorizado o trespasse da concessão para a Companhia Nacional de Caminhos de Ferro. Em Junho de 1905, previa-se que no mês seguinte se inaugurasse o lanço entre Mirandela e Quintella, contando desde logo com uma estação em Macedo de Cavaleiros. No entanto, no mês seguinte já se esperava que o troço de Grijó a Macedo de Cavaleiros entrasse ao serviço nos finais de Agosto. Em Setembro ainda não se tinha concluído o assentamento da via entre Romeu e Macedo, esperando-se que aquela secção fosse aberta até ao final de Outubro, enquanto que o troço seguinte, até Quintella, devia abrir entre os finais de Setembro ou princípios de Outubro.",
+					"Imagem": "https://3.bp.blogspot.com/-lfPXKUWqXVM/W6-e1ZYYe3I/AAAAAAABtbk/u8deipywEA0pi99g59odZYXr255qk4SJQCLcBGAs/s1600/Estacao_de_Macedo_de_Cavaleiros.jpg"
+				},
+				{
+					"Nome": "Museu Municipal de Arqueologia Coronel Albino Pereira Lopo",
+					"Localidade": "5340-308 Macedo de Cavaleiros",
+					"Historia": "O local onde durante décadas diferentes gerações de Macedenses iniciaram os estudos é agora um museu de arqueologia. A Escola Primária do Trinta conta agora mais de 5000 anos de história, pela força de diversas peças arqueológicas, reunidas em duas áreas cronológicas. É Patrono do novo museu o Coronel Albino Pereira Lopo (1860-1933). É considerado um dos pioneiros da Arqueologia, reconhecido no país e com uma grande obra na região. Responsável pela primeira monografia de Bragança, foi também o criador do Museu Municipal daquela cidade, hoje Museu Abade de Baçal. A história viria a ignorar a importância deste homem feito Macedense por casamento, em Lamalonga.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/451142/355601.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Brasa",
+					"Morada": "R. de São Pedro 5340, Macedo de Cavaleiros",
+					"Classificacao": 4.5,
+					"Imagem": "https://c.tfstatic.com/q_auto,f_auto,w_612,h_344/restaurant_photos/647/592647/169/612/brasa-vista-da-sala-87b35.jpg"
+				},
+				{
+					"Nome": "Villar De Masaedo",
+					"Morada": "Alameda Nossa Sra. de Fátima 11, 5340-201 Macedo de Cavaleiros",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/9a/4c/42/un-gran-restaurante-muy.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Muchacho",
+					"Morada": "R. Pereira Charula Nº29, 5340-278 Macedo de Cavaleiros",
+					"Preco": "45€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/902/9022419.jpg"
+				},
+				{
+					"Nome": "Hotel Alendouro",
+					"Morada": "Avenida D. Nuno Álvares Pereira 28 r/c, 5340-202 Macedo de Cavaleiros",
+					"Preco": "36€",
+					"Classificacao": 3,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/yIFXUEmfSt1KFNguibAW0Ks6Bfvqfy68DWynt_L3JO1TYZOj90hpTAPydpGcnGwoKQty7zPwPGUypyA8DKtlxXliLVQodpRxsCZ0ixzaMTLM0Vmrs3UQ"
 				}
 			]
 		},
@@ -137,25 +221,39 @@
 			"Nome": "Miranda do Douro",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Ruínas do Paço Episcopal",
+					"Localidade": "Miranda do Douro",
+					"Historia": "Situada nas traseiras da Sé, a intenção de construir o Paço Episcopal foi em 1601, tendo as obras começado em 1616. Foi o seu mentor o Bispo D. Diogo de Sousa. Durante a construção os padres alojavam-se no castelo. O que apenas está ao nosso alcance para ver são as ruínas que em tempos foram de grandiosidade. Restam as arcadas do claustro formadas por arcos abatidos sustentados pelo pé em forma de pilastra monolítica. A monumentalidade da porta de entrada está no respectivo memorial, onde que ainda hoje se cumpre esse dever de inscrever os nomes dos bispos que vão lá passando, tornando esta entrada muito simbólica.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/braganca-mirandadodouro/mirandadodouro/paco-episcopal-1.jpg"
+				},
+				{
+					"Nome": "DOURO PULA CANHADA - Canoagem / Kayaking",
+					"Localidade": "Cais Fluvial, 5210-000 Miranda do Douro",
+					"Historia": "Promovemos o património natural e histórico-cultural do Parque Natural do Douro Internacional e do Nordeste Transmontano, Portugal. Desenvolvemos atividades, programas de atividades e fins de semana temáticos onde a emoção transpõe as expectativas de turistas e empresas, que procuram evadir-se do ritmo intenso do trabalho ou do estilo de vida urbano. Vamos ao encontro do lazer e bem-estar em plena harmonia com a flora e fauna regionais, realçando o contacto com o meio rural, com as gentes, o artesanato, a gastronomia, as tradições.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/5d/40/e5/photo2jpg.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Mirandês",
+					"Morada": "Rua Dom Dinis es Rua Dom Dinis1 Rua Dom Dinis es Rua Dom Dinis 7, 5210-244 Miranda do Douro",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/b5/57/0a/restaurante-o-mirandes.jpg"
+				},
+				{
+					"Nome": "Restaurante - Pizzaria O Moinho",
+					"Morada": "Rua do Mercado 47C, 5210-210 Miranda do Douro",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/04/70/55/f1/restaurante-e-pizzaria.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Parador Santa Catarina",
+					"Morada": "Largo da Pousada s/n, 5210-183 Miranda do Douro",
+					"Preco": "40€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/104/104183418.jpg"
 				}
 			]
 		},
@@ -163,25 +261,39 @@
 			"Nome": "Mirandela",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Vestígios do Castelo de Mirandela",
+					"Localidade": "R. Santo António 15, 5370-284 Mirandela",
+					"Historia": "A primeira referência documental a Mirandela testemunha a presença de D. Sancho I (1185-1211) quando do cerco imposto a Bragança pelas forças do rei Afonso IX de Leão (1198). Data do reinado de D. Afonso III (1248-1279) a concessão de Carta de Foral à vila (25 de Maio de 1250). A primeira grande campanha construtiva vivida pela vila data do reinado de D. Dinis (1279-1325), quando a povoação foi transferida para o seu atual local (1282). O soberano concedeu-lhe novo foral, fazendo delimitar os limites do Concelho (Coimbra, 7 de Março de 1291) e instituindo uma feira (c. 1295). Acredita-se que o soberano tenha determinado edificar um castelo no topo da elevação, onde foi erguido posteriormente o Palácio dos Távoras, e a cerca da vila. Este castelo seria constituído por uma simples torre de menagem protegida por uma barbacã.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/cOLutYk1g15BgBHeBFLfzakyMehIUqm3bsblgdxmFhBZzjnBoIbBWLLGc2X8DaBd8AQ_iMvOMbe3Dewv4thTTDQeyXcb40GxwHqBjs2hZFn1eIGl5oSWCe1MFJjdvj_JIXZa1-oqXgu9qvMPe6eWC4wgndY28Vrt"
+				},
+				{
+					"Nome": "Igreja da Misericórdia de Mirandela",
+					"Localidade": "Praça 5 de Outubro 19, 5370-284 Mirandela",
+					"Historia": "A Igreja da Misericórdia de Mirandela situa-se na zona antiga de Mirandela e a sua construção, remonta a finais do século XVII, de estilo maneirista. Ernesto de Sales (1950, I: 241) refere que no ano de 1518, foi fundada a Casa da Misericórdia em Mirandela, tendo o primeiro templo sido construído nessa altura, na Rua da Ponte (hoje Rua Luciano Cordeiro). Planta composta por dois volumes rectangulares, a nave e a capela-mor, sendo esta de menores dimensões. A fachada principal é dividida em três registos com três panos distintos. No primeiro registo foram rasgadas três portas de moldura rectangular, as laterais encimadas por frontões semicirculares, a do centro por volutas. A Igreja, sofreu nestes dois últimos anos de 2015 e 2016, consideráveis e significativas obras de restauro, sob a responsabilidade e orientação do Arqtº António Figueiredo (Mirandelense).",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/zwEEZax5qv_1dRcqdEFVYpGcx-N_eIOrVUabIjxmSgYlFExTPyVZiOf1Bhe3OnV3YJB-pTTgGM0qZK0M9t9DHqW00TV1tJUhMkoxOBinP706Ei1BMontvf-nXlNDcf7cLH9PGKCttaknG8FEdFf9H7Dgp4gMS0EKWUg8w12e6ckXWQ"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "A Adega",
+					"Morada": "Av. 25 de Abril 866, 5370-202 Mirandela",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/19/38/7e/2d/caption.jpg"
+				},
+				{
+					"Nome": "Restaurante O Pomar",
+					"Morada": "Av. Pte. da Europa 352, 5370-429 Mirandela",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/69/9e/d9/restaurante-o-pomar.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Grande Hotel Dom Dinis",
+					"Morada": "Av. Nossa Sra. do Amparo, 5370-210 Mirandela",
+					"Preco": "50€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/152/152899289.jpg"
 				}
 			]
 		},
@@ -189,25 +301,39 @@
 			"Nome": "Mogadouro",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Estátua de Trindade Coelho",
+					"Localidade": "Praça Eng. Duarte Pacheco 14, 5200-213 Mogadouro",
+					"Historia": "Quem visita a vila de Mogadouro dá inevitavelmente de caras com a estátua do emérito escritor Trindade Coelho. Sobre esta figura já muito foi dito e escrito. Mas, sobre a estátua pouco se sabe. Por decreto de 31 de Maio de 1958, a Direcção-Geral dos Edifícios e Monumentos foi autorizada pelo governo português a celebrar contrato com o escultor Leopoldo Neves de Almeida para a execução em bronze da estátua de Trindade Coelho. O preço da empreitada foi fixado em 150 contos, pagos em duas prestações anuais.",
+					"Imagem": "https://live.staticflickr.com/2213/2083956618_1893d64426_z.jpg"
+				},
+				{
+					"Nome": "Sala Museu de Arqueologia",
+					"Localidade": "R. Dom Afonso II, 5200-241 Mogadouro",
+					"Historia": "A Sala Museu de Arqueologia do Município de Mogadouro abriu nos finais década de 80 do século XX, resultante das campanhas arqueológicas realizadas no concelho durante a referida década. No seu interior conservam-se peças que mostram a história das culturas passadas, que habitaram no actual concelho de Mogadouro; os artefactos expostos e guardados, antes de se converterem em peças de Museu, foram objectos do quotidiano dos nossos antepassados. Dos povoados do Cunho e do Barrocal Alto, ambos em Peredo da Bemposta, foram exumadas peças arqueológicas, que nos indicam uma ocupação humana no decurso do III Milénio a.C., nomeadamente machados polidos, utensílios de caça, pesos de tear, artefactos que nos dão a conhecer as práticas económicas a que se dedicavam.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/-kgt6GQRkdKHsje4aXVY-WoUAGr2liCxr8gKjxR25Qux3Ieo5EunFXPQnL8HPw1dS6s61yi7KWPijlC9HdgX286uPaRRjC7oOa7RZY9cenRg2COsuPsz7ttnMvotWJ1WJQ"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "TASQUINHA",
+					"Morada": "Av. do Sabor Lote 34, 5200-222 Mogadouro",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/08/db/35/a0/getlstd-property-photo.jpg"
+				},
+				{
+					"Nome": "Restaurante Kalifa OK",
+					"Morada": "R. da República Nº18, 5200-233 Mogadouro",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/c2/c7/21/kalifa-ok.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Casa Das Aguas Ferreas",
+					"Morada": "Lugar Das Aguas Ferreas - Estrada Nacional 221, 5200-208 Mogadouro",
+					"Preco": "55€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/c0/c6/b5/casa-das-aguas-ferreas.jpg"
 				}
 			]
 		},
@@ -215,25 +341,39 @@
 			"Nome": "Torre de Moncorvo",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Antiga Estação Ferroviária de Torre de Moncorvo",
+					"Localidade": "R. Luís de Camões 10, Torre de Moncorvo",
+					"Historia": "O lanço entre o Pocinho e Carviçais entrou ao serviço em 17 de Setembro de 1911, tendo sido a primeira parte desta linha a ser aberta. Em 1933, o Ministro das Obras Públicas e Comunicações aprovou um parecer da Direcção Geral de Caminhos de Ferro, que se referia à escolha de um terreno, junto a esta estação, para a instalação de oficinas de reparação de material circulante. Para este empreendimento, foram destinados, entre 1931 e 1932, 600 mil escudos. A linha foi encerrada em 1988.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Esta%C3%A7ao_de_Carvi%C3%A7ais_%282663165983%29.jpg"
+				},
+				{
+					"Nome": "Museu do Ferro e da Região de Moncorvo",
+					"Localidade": "Largo Dr. Balbino Rêgo, 5160-241 Torre de Moncorvo",
+					"Historia": "A ideia de criar um museu para guardar as peças arqueológicas recolhidas na região surgiu no séc. XIX. Mas foi apenas em 1984 que se concretizou, por iniciativa da empresa Ferrominas, em colaboração com a Universidade Nova de Lisboa num programa de investigação em arqueologia industrial. A empresa Ferrominas dedicava-se à exploração mineira do ferro e à investigação histórica desta actividade local. Após a sua extinção, em 1986, o espólio foi cedido à Câmara Municipal de Moncorvo. Em 1993, a Câmara Municipal e o Projecto Arqueológico da Região de Moncorvo assinaram um protocolo de colaboração que daria origem ao novo Museu do Ferro e da Região de Moncorvo. Ficou então determinado que o principal objectivo desta acção museológica seria a guarda do espólio proveniente do extinto Museu do Ferro e do acervo documental recolhido ao longo de vários anos, que inclui peças de arqueologia, etnografia e história regionais.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/AqVByg5B3icimSmmoxeF15NlUXKZyA-Ok-TWtXiy5xLFjl6zQwVbl_LRHUFA6isbP4XB_F5KgMAWHgy5b4XlZ015hQOfet2FQ7zfDA0pr3jZEw7VH-oiDk_xNd4A4e4uay0An19SHIl5meji0DGQJFz8qKQ3n1g"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Lagar",
+					"Morada": "R. do Hospital 16, 5160-243 Torre de Moncorvo",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/04/00/0b/d8/o-lagar.jpg"
+				},
+				{
+					"Nome": "Taberna do Carró",
+					"Morada": "Largo Gen. Claudino 25, 5160-243 Torre de Moncorvo",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/5c/1b/7d/mto-bom-quase-quase-excelente.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Casa Dona Maria Luiza",
+					"Morada": "R. Vasco da Gama 43, 5160-298 Torre de Moncorvo",
+					"Preco": "75€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/7c/54/15/casa-dona-maria-luiza.jpg"
 				}
 			]
 		},
@@ -241,25 +381,39 @@
 			"Nome": "Vila Flor",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Barragem do Peneireiro",
+					"Localidade": "Vila Flor",
+					"Historia": "Barragem tipo terra, localizada na Ribeira do Arco, pertencente à Bacia Hidrográfica do Douro. Insere-se numa zona de montanha pontuada por uma flora arbustiva silvestre. É permitida, com restrições, a prática de pesca.",
+					"Imagem": "https://www.cm-vilaflor.pt/thumbs/cmvilaflor/uploads/poi/image/157/IMG_1322_1_736_2500.jpg"
+				},
+				{
+					"Nome": "Pelourinho Vilas Boas",
+					"Localidade": "Largo Padre António José de Morais 37, 5360-390 Vila Flor",
+					"Historia": "Estrutura em cantaria de granito, composta por soco quadrangular de três degraus, onde se ergue uma coluna com base também quadrangular e fuste chanfrado a toda a altura até quase ao topo, onde existem quatro saliências cantonais, terminando o fuste em secção quadrada. Várias molduras sobrepostas antecedem remate, paralelepipédico, tendo colunelos cantonais com moldura intermédia, ostentando numa das faces as armas de Portugal e nas outras decoração ilegível.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/848512"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "D. Dinis",
+					"Morada": "R. Dr. Artur Vaz 2, 5360-380 Vila Flor",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/46/8e/91/dom-dinis.jpg"
+				},
+				{
+					"Nome": "Restaurante Toca do Rato",
+					"Morada": "R. Sidónio Pais 4, 5350-398 Vila Flor",
+					"Classificacao": 4.1,
+					"Imagem": "https://parque.valetua.pt/wp-content/uploads/2016/07/TOCA-DO-RATO2.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Rural Vila Julia Lda",
+					"Morada": "5360-150, Vila Flor",
+					"Preco": "60€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/02/d5/82/b6/hotel-rural-villa-julia.jpg"
 				}
 			]
 		},
@@ -267,25 +421,39 @@
 			"Nome": "Vimioso",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque Municipal de Vimioso",
+					"Localidade": "5230-311 Vimioso",
+					"Historia": "Amplo espaço verde com canteiros relvados, bancos de jardim e iluminação artificial.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/846747"
+				},
+				{
+					"Nome": "PINTA - Parque Ibérico de Natureza e Aventura",
+					"Localidade": "Estrada das Três Marras, cruzamento para S. Joanico, 5230-000 Vimioso",
+					"Historia": "Os Vales dos rios Angueira, Sabor e Maçãs apresentam características de conservação únicas que conciliam, em perfeita harmonia, a natureza e o homem. De forma a assegurar o correto ordenamento da ocupação humana e dos usos recreativos, tendo por objetivo promover ativamente o turismo de natureza, o PINTA propõe-se realizar um conjunto de atividades que privilegiam o contacto com a diversidade natural e cultural da região.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/451837/363382.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Pizzaria Juventude",
+					"Morada": "N218 13, Vimioso",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/39/f2/81/alguns-dos-nosso-pratos.jpg"
+				},
+				{
+					"Nome": "Restaurante 'O Bléu'",
+					"Morada": "Vimioso",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1b/1a/86/c1/photo0jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Rural Senhora de Pereiras",
+					"Morada": "Estrada Nacional 219, 5230-286 Vimioso",
+					"Preco": "55€",
+					"Classificacao": 3,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/14/29/1429313_v5.jpeg"
 				}
 			]
 		},
@@ -293,28 +461,48 @@
 			"Nome": "Vinhais",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Pelourinho de Vinhais",
+					"Localidade": "R. de Baixo 23, Vinhais",
+					"Historia": "A importância estratégica da vasta área em torno de Vinhais foi rapidamente reconhecida ao tempo do processo de formação e consolidação das fronteiras do reinado português, nomeadamente por ação de D. Sancho II, a quem se deverá a elevação do povoado a “Vila”, seguramente para garantir a sua defesa através da concentração de um maior número de habitantes. Uma iniciativa reiterada com a obtenção de foral, dessa feita por ordem de D. Afonso III, em 1253. D. Manuel I concedeu novo documento, decorria o ano de 1512, depois de um período assaz conturbado, quando a população recusou (ainda que temporariamente) reconhecer a legitimidade de D. João I no trono nacional. É justamente ao período manuelino que remonta a edificação do pelourinho que, até à sua destruição em finais do século XIX, se erguia nas proximidades da casa da câmara e da cadeia. Assim, o exemplar atual resulta de um restauro com reutilização do remate, de indiscutível interesse plástico e iconográfico. Construído em granito, é sobre soco hexagonal de cinco degraus que repousa a base prismática da qual arranca o fuste liso da coluna, de igual configuração, despojado, porém, de capitel. No topo sobressai, no entanto, o volumoso bloco profusamente lavrado com motivos manuelinos (escudo nacional, duas mãos, dois pés e duas maças), envolvido por “corrente” (também ela inscrita na gramática decorativa manuelina) e coroado por quatro braços culminados em cabeça de serpente com argola na boca e ladeada de florões, suportando base troncocónica ostentando esfera armilar pétrea que, na origem, terminaria na característica cruz de Cristo. Esta descrição é sugerida pela aguarela, datada de 1937, do ilustrador Alberto de Sousa.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/Z0hS4Yxisquq8-gPwTHEx0wocIZ60Jts3FJ0NJpgPWpVtWxfq5CXSQNG52c0jteKT4BgIJJcg51nVQ20p8Sv4ytdkMSayiVfsxz6kbCKTRSMsB0aNK3S21XhqF6xJTuY0AyaDMDRZuVmJ0JgL74c-yPJpyh7eEItl15ZtvHv6IrJxVCODFzrQeo"
+				},
+				{
+					"Nome": "Torreão do Castelo de Vinhais",
+					"Localidade": "Rua D. Sancho II, Vinhais",
+					"Historia": "A ocupação humana da região remonta à época pré-histórica, conforme os testemunhos arqueológicos, nomeadamente Arte rupestre, e os monumentos megalíticos (dólmens) e castros. Diante das Invasões bárbaras da Península Ibérica, certamente os Suevos ou os Visigodos cercaram a povoação de muralhas, ampliadas ou reforçadas no contexto da Invasão muçulmana da península Ibérica. Com a expulsão destes últimos, a povoação terá sido arrasada e abandonada. A povoação de Vinhais é fruto das iniciativas de centralização do território de Trás-os-Montes nas chamadas 'vilas novas', sob controle direto da Coroa, melhor aparelhadas para atrair e organizar as populações. Uma primeira tentativa para a sua constituição regista-se sob o reinado de D. Sancho II (1223-1248), uma segunda, sob o de seu irmão e sucessor, D. Afonso III (1248-1279) que lhe outorgou foral em 20 de Maio de 1253, até que se constituiu a vila, 'num cabeço fronteiro a Crespos', onde já existia um núcleo de povoamento organizado em torno da Igreja de São Facundo.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/2PYGnxAqwbz46KRxawDyE98sTOfO6pNVrEUjBcZ8959NlFtj-88nVlAYtTcoyEUOh6SYZN8XKvWQXfzfD8ESP1Up0eaA76zj7G_trMpWHc_WM1JNYokoqBdeTtF7F0SLGQDWiRVot3lytZDF_ERYm-WqwbUQ4Co4kJNd9wHbVA"
+				},
+				{
+					"Nome": "Centro Cultural Solar dos Condes de Vinhais",
+					"Localidade": "Vinhais",
+					"Historia": "Alojado no antigo Solar dos Condes de Vinhais, datado do séc. XVIII, este espaço possui biblioteca, espaço internet, capela, teatro e cafetaria, propondo uma agenda cultural variada e diversas exposições temporárias. Na Sala Pintada – Jorge Lima Barreto, uma colecção permanente de pinturas de António Palolo permite conhecer algumas obras deste importante artista contemporâneo português.",
+					"Imagem": "https://www.cm-vinhais.pt/thumbs/cmvinhais/uploads/image/file/2/ccv_1_720_2500.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Silva",
+					"Morada": "Vinhais",
+					"Classificacao": 4.5,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/759078"
+				},
+				{
+					"Nome": "O Delfim",
+					"Morada": "Av. Padre Fermindo 27, Vinhais",
+					"Classificacao": 4.1,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/749462"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Cepo Verde - Zona de Campismo",
+					"Morada": "5300-561 Gondesende",
+					"Preco": "19€",
+					"Classificacao": 2,
+					"Imagem": "https://www.montesinho.com/images/alojamento/cepoverde-bungalows/foto01.jpg"
 				}
 			]
 		}
 	],
-	"Imagem":"https://mundoviajar.com.br/wp-content/uploads/2018/07/Bragan%C3%A7a-Portugal-2-1300x867.jpg"
+	"Imagem": "https://mundoviajar.com.br/wp-content/uploads/2018/07/Bragan%C3%A7a-Portugal-2-1300x867.jpg"
 }

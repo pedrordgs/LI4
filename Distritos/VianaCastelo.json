@@ -4,158 +4,42 @@
 	"Historia": "Viana do Castelo é a cidade atlântica mais ao Norte de Portugal, situando-se a cerca de 25 minutos do aeroporto internacional do Porto. A presença do rio, do monte e do mar, conferem à cidade dotes paisagísticos de excelência que encantam os sentidos, proporcionam um clima psicológico de descompressão e são propícios à ocupação sadia e aprazível dos tempos livres.",
 	"Cidades": [
 		{
-			"Nome": "Viana do Castelo",
+			"Nome": "Arcos de Valdevez",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Paço de Giela",
+					"Localidade": "4970-155, Giela",
+					"Historia": "A sua origem está profundamente ligada à formação da importante “Terra de Valdevez”. A edificação da “casa-torre” de Giela marca um novo momento de proteção e domínio senhorial e régio sobre a região, destacando o edifício pela sua profunda originalidade e importância.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Pa%C3%A7o_da_Giela_%2826872819561%29.jpg"
+				},
+				{
+					"Nome": "Ponte dos Arcos",
+					"Localidade": "R. dos Milagres, 4970-484 Arcos de Valdevez",
+					"Historia": "Faz parte do regadio que captava a água em Ponte Ferreira, sendo referenciado como existente em 1631, em virtude de uma provisão de 30 de Maio desse ano a autorizar o mesmo regadio.",
+					"Imagem": "https://www.cm-valongo.pt/cmvalongo/uploads/poi/image/44/ponte_dos_arcos.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Pote",
+					"Morada": "R. Amorim Soares 38, 4970-460 Arcos de Valdevez",
+					"Classificacao": 4.4,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/460193/392559.jpg"
+				},
+				{
+					"Nome": "O Braseiro",
+					"Morada": "4970 465, R. Soares Pereira 245, 4970-465 Arcos de Valdevez",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/33/a2/ad/e-so-um-bife-de-carne.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Valença",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Vila Praia de Âncora",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Arcozelo",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Monção",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes":[
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Ponte de Lima",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Ribeira Collection Hotel",
+					"Morada": "R. dos Milagres, 4970-592 Arcos de Valdevez",
+					"Preco": "120€",
+					"Classificacao": 4,
+					"Imagem": "https://ribeiracollectionhotel.com/wp-content/uploads/2018/08/Ribeira-Collection-Hotel-Arcos-de-Valdevez-Fachada-3.jpg"
 				}
 			]
 		},
@@ -163,129 +47,53 @@
 			"Nome": "Caminha",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Torre do Relogio",
+					"Localidade": "Praça do Conselheiro Silva Torres 8, 4910-156 Caminha",
+					"Historia": "A Torre do Relógio localiza-se na vila e concelho de Caminha, distrito de Viana do Castelo, em Portugal. Constitui-se num dos elementos centrais do brasão do município de Caminha.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Torre_do_Relogio_-_Caminha.JPG"
+				},
+				{
+					"Nome": "Chafariz de Caminha",
+					"Localidade": "4910-122 Caminha",
+					"Historia": "Obra renascentista do canteiro portuense João Lopes, o Velho. Situa-se na Praça do Conselheiro Silva Torres, popularmente conhecida por Terreiro, em frente à Torre do Relógio que era a porta principal da antiga cerca medieval de Caminha.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/1/16/The_afternoon_passing_by_%2842136895731%29.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Canto do Lobo",
+					"Morada": "R. Direita 125, 4910-155 Caminha",
+					"Classificacao": 4.8,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/c0/63/03/the-perfect-beer-combined.jpg"
+				},
+				{
+					"Nome": "O Portão",
+					"Morada": "R. Direita 133, Caminha",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/8d/a4/d1/o-portao.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Ponte da Barca",
-			"Atracoes": [
+					"Nome": "Porta do Sol Conference Center & Spa",
+					"Morada": "v. Dr. Dantas Carneiro 104, 4910-104 Caminha",
+					"Preco": "210€",
+					"Classificacao": 4,
+					"Imagem": "https://www.hotelportadosol.com/uploads/img/teste_teste/Hotel.jpg"
+				},
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
+					"Nome": "Design&Wine Hotel",
+					"Morada": "Praça do Conselheiro Silva Torres 8, 4910-122 Caminha",
+					"Preco": "120€",
+					"Classificacao": 4,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/gdxDsbJEtfxylgnm61W6A4fhHNNpvWbCiDUlhYN3gMBGmA_9kil1lDs9wGCXeXy_OGza0TsqBhLmf1op60k175mlhrdtTy5ngVgmVzesQnMSj505AX-JraA5JnkDFgqRdKL5k5y6gDOO4zCrd6mXtsJ5dVMc"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Arcos de Valdevez",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Paredes de Coura",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Vila Nova de Cerveira",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Prazer da Natureza Resort & SPA",
+					"Morada": "Estr. do Funchal 989, 4910-584 Caminha",
+					"Preco": "141€",
+					"Classificacao": 4,
+					"Imagem": "https://c.otcdn.com/imglib/hotelfotos/8/383/hotel-prazer-da-natureza-resort-spa-caminha-000.jpg"
 				}
 			]
 		},
@@ -293,54 +101,363 @@
 			"Nome": "Melgaço",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Igreja Matriz de Melgaço",
+					"Localidade": "Viela da Matriz 28, 4960-543 Melgaço",
+					"Historia": "Pertence à Diocese de Viana do Castelo desde 3 de Novembro de 1977. Actualmente, realiza eucaristia todos os Sábados, pelas 17h30.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Matriz_Melgaco.jpg"
+				},
+				{
+					"Nome": "Castelo de Melgaço",
+					"Localidade": "R. do Castelo 30, 4960-536 Melgaço",
+					"Historia": "Principal defesa raiana do Alto Minho no século XII, constitui-se na sentinela mais setentrional de Portugal, no trecho onde o rio Minho inicia a sua função fronteiriça, vigiando a travessia para a Galiza.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Castelo_de_Melga%C3%A7o.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Tasquinha de Melgaço",
+					"Morada": "Rua de Eiró, R. de Eiró, Melgaço",
+					"Classificacao": 4.6,
+					"Imagem": "https://www.cm-melgaco.pt/wp-content/uploads/2016/08/Tasquinha_Melgaco1-1500x630.jpg"
+				},
+				{
+					"Nome": "Adega Sabino",
+					"Morada": "Largo Hermenegildo Solheiro 46, 4960-551 Melgaço",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/65/b7/4c/adega-sabino-melgaco.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Monte Prado Hotel & SPA",
+					"Morada": "Rua Monte, 4960-320 Prado Melgaco",
+					"Preco": "125€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/213/213660381.jpg"
 				}
 			]
 		},
 		{
-			"Nome": "Castro Laboreiro",
+			"Nome": "Monção",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Monção",
+					"Localidade": "4950-508 Monção",
+					"Historia": "Erguido na margem esquerda, a jusante de Melgaço, tinha como função primitiva defender neste trecho a passagem do rio Minho. ",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mon%C3%A7ao.jpg"
+				},
+				{
+					"Nome": "Museu do Vinho Alvarinho",
+					"Localidade": "Praça Deu-La-Deu 14, 4950-506 Monção",
+					"Historia": "O Museu do Alvarinho localiza-se na na Casa do Curro, Monção, no distrito de Viana do Castelo, em Portugal. Trata-se de um museu temático, dedicado ao vinho da casta Alvarinho.",
+					"Imagem": "https://bomdia.eu/wp-content/uploads/2015/12/517161.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Mangiare Di Roma, Lda.",
+					"Morada": "Urbanização Da Boavista, Bl C Mazedo, 4950-275 Monção",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/24/4f/da/interior.jpg"
+				},
+				{
+					"Nome": "Bistro Don Genaro",
+					"Morada": "R. Dr. José Luís Dias 69, 4950-473 Monção",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/00/a8/67/sua-casa.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Bienestar Termas de Monção",
+					"Morada": "Av. das Caldas, 4959-442 Monção",
+					"Preco": "76€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/116/116901946.jpg"
+				},
+				{
+					"Nome": "Hotel Convento dos Capuchos",
+					"Morada": "Quinta do Convento dos Capuchos, 4950-527 Monção",
+					"Preco": "89€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/223/22375994.jpg"
+				}
+			]
+		},
+		{
+			"Nome": "Paredes de Coura",
+			"Atracoes": [
+				{
+					"Nome": "Festival Paredes De Coura",
+					"Localidade": "Caminho do Agrelo 251",
+					"Historia": "O Vodafone Paredes de Coura, ou apenas Paredes de Coura, é um festival de música de Verão que ocorre anualmente nos meses de Julho e Agosto na Praia Fluvial do Tabuão em Paredes de Coura, Portugal. ",
+					"Imagem": "https://www.mundoportugues.pt/wp-content/uploads/sites/3/2019/08/paredes-de-coura.jpg"
+				},
+				{
+					"Nome": "Museu Regional de Paredes de Coura",
+					"Localidade": "Largo Hintz Ribeiro nº 14, 4940-100 Paredes de Coura",
+					"Historia": "O Museu Regional de Paredes de Coura encontra-se instalado na Casa da Veiga e é composto por 3 galerias de exposição e uma casa rural, sendo a primeira dedicada ao “linho”, a segunda à mobilização da terra e a terceira à arqueologia. ",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/837587"
+				}
+			],
+			"Restaurantes": [
+				{
+					"Nome": "Restaurante Miquelina",
+					"Morada": "R. Conselheiro Miguel Dantas 66, 4940-530 Paredes de Coura",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/b7/c1/dd/sala-e-bar-do-restaurante.jpg"
+				},
+				{
+					"Nome": "Restaurante Pizzaria Romantica,",
+					"Morada": "R. Dr. Afonso Viana 34, 4940-504 Paredes de Coura",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.paredesdecoura.pt/wp-content/uploads/2017/09/PC_0011_PIZZARIA_ROMA_NTICA_1220X451.jpg"
+				}
+			],
+			"Hoteis": [
+				{
+					"Nome": "Residencial Albergaria",
+					"Morada": "R. Dr. Afonso Viana 40, 4940-531 Paredes de Coura",
+					"Preco": "43€",
+					"Classificacao": 3,
+					"Imagem": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/65595979.jpg?k=8c78615e1eda917c8341852d3851da319d437df6ba67e390e5ce4b69c381a405&o="
+				}
+			]
+		},
+		{
+			"Nome": "Ponte da Barca",
+			"Atracoes": [
+				{
+					"Nome": "Monumento a Fernão de Magalhães",
+					"Localidade": "4980-020 Pte. da Barca",
+					"Historia": "",
+					"Imagem": "https://live.staticflickr.com/8299/7843647446_c5ec258c5c_b.jpg"
+				},
+				{
+					"Nome": "Ponte da Barca",
+					"Localidade": "R. Rio Lima, 4980-020 Pte. da Barca",
+					"Historia": "",
+					"Imagem": "https://ominho.pt/wp-content/uploads/2020/03/Ponte-da-Barca.jpg?v=1583844622"
+				}
+			],
+			"Restaurantes": [
+				{
+					"Nome": "Restaurante O Moinho",
+					"Morada": "Largo do Corro 1, 4980-614 Pte. da Barca",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/eb/f7/04/sala-pq.jpg"
+				},
+				{
+					"Nome": "Restaurante Emigrante",
+					"Morada": "R. António José Pereira 24, 4980-622 Pte. da Barca",
+					"Classificacao": 4.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/22/ac/13/um-ambiente-simples-e.jpg"
+				}
+			],
+			"Hoteis": [
+				{
+					"Nome": "Tempus Hotel & Spa",
+					"Morada": "Lugar de Quintao, Oleiros, 4980-521 Pte. da Barca",
+					"Preco": "120€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/639/63963606.jpg"
+				},
+				{
+					"Nome": "Hotel Fonte Velha",
+					"Morada": "R. Plácido de Vasconcelos nº.27, 4980-637 Pte. da Barca",
+					"Preco": "60€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/166/166764781.jpg"
+				}
+			]
+		},
+		{
+			"Nome": "Ponte de Lima",
+			"Atracoes": [
+				{
+					"Nome": "Ponte Romana",
+					"Localidade": "4990-150 Pte. de Lima",
+					"Historia": "O ex-libris de Ponte de Lima, que conjuntamente com o rio que banha a vila, deu o nome à localidade, é a sua ponte. Na realidade, é um conjunto formado por duas pontes: um troço medieval, de maior dimensão, que tem início na margem esquerda e se estende até à Igreja de Santo António da Torre Velha e a passa ainda em dois arcos. Depois, o troço que resta da ponte romana.",
+					"Imagem": "https://www.visitepontedelima.pt/fotos/galerias/ponte_romana_e_ponte_medieval_1__17406282875639fa1b7a8c7.jpg"
+				},
+				{
+					"Nome": "Festival Internacional de Jardins",
+					"Localidade": "4990-150 Arcozelo",
+					"Historia": "O Festival Internacional de Jardins é um evento anual que abre as suas portas ao público na última sexta-feira do mês de maio e encerra a 31 de outubro. Entre novembro e maio, desmontam-se os jardins e prepara-se a nova edição com toda a azáfama da construção.",
+					"Imagem": "https://www.visitepontedelima.pt/fotos/galerias/festival_internacional_de_jardins__fot._amandiosousavieira_117721206056a8a4eb97844.jpg"
+				}
+			],
+			"Restaurantes": [
+				{
+					"Nome": "O Brasão do Lima",
+					"Morada": "R. Formosa 1, 4990-117 Pte. de Lima",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/a3/a3/31/o-brasao.jpg"
+				},
+				{
+					"Nome": "Sabores do Lima",
+					"Morada": "Largo António de Magalhães 78, 4990-150 Pte. de Lima",
+					"Classificacao": 4.3,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/454376/400344.jpg"
+				}
+			],
+			"Hoteis": [
+				{
+					"Nome": "Axis Ponte de Lima",
+					"Morada": "Quinta de Pias, 4990-620 Pte. de Lima",
+					"Preco": "60€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/824/82476292.jpg"
+				},
+				{
+					"Nome": "Carmo’s Boutique Hotel",
+					"Morada": "4990-645, Pte. de Lima",
+					"Preco": "265€",
+					"Classificacao": 5,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/158/158721947.jpg"
+				}
+			]
+		},
+		{
+			"Nome": "Valença",
+			"Atracoes": [
+				{
+					"Nome": "Arquivo Municipal de Valença",
+					"Localidade": "R. de Mousinho de Albuquerque 137, 4930-733 Valença",
+					"Historia": "O Arquivo Municipal de Valença foi criado por deliberação camarária de 29 de Abril de 1997, que  aprovou a transferência dos fundos documentais com valor de conservação permanente para a Casa das Varandas, situada na Rua da Trindade, dentro das muralhas da vila.",
+					"Imagem": "https://www.radiovaledominho.com/wp-content/uploads/2017/07/noticia20222.jpg"
+				},
+				{
+					"Nome": "Ponte Rodo-Ferroviária de Valença",
+					"Localidade": "N-551, Tui, Espanha",
+					"Historia": "A Ponte Rodo-Ferroviária de Valença, também conhecida por Ponte de Valença ou Ponte Internacional de Tui, é uma infraestrutura rodo-ferroviária do Ramal Internacional de Valença, que cruza o Rio Minho, na fronteira entre Portugal e Galiza.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Puente_internacional.jpg"
+				}
+			],
+			"Restaurantes": [
+				{
+					"Nome": "Fronteira Gastrobar-Tapas Vinhos Gins",
+					"Morada": "Av. de Espanha n°1, 4930-677 Valença",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/b0/95/db/sala.jpg"
+				},
+				{
+					"Nome": "Fatum - Restaurante e Fados",
+					"Morada": "Restaurante da pousada de Valença do Minho",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/bb/c4/cd/sala-fatum.jpg"
+				}
+			],
+			"Hoteis": [
+				{
+					"Nome": "Hotel Minho",
+					"Morada": "N13, 4920-140 Vila Meã",
+					"Preco": "128€",
+					"Classificacao": 4,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/38/08/380836_v7.jpeg"
+				},
+				{
+					"Nome": "Hotel Valenca do Minho",
+					"Morada": " Av. Miguel Dantas, 4930-678 Valença",
+					"Preco": "60€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/206/206086171.jpg"
+				}
+			]
+		},
+		{
+			"Nome": "Viana do Castelo",
+			"Atracoes": [
+				{
+					"Nome": "Fundação Gil Eannes",
+					"Localidade": "Navio Gil Eannes - Doca Comercial, 4900-321 Viana do Castelo",
+					"Historia": "O Gil Eannes foi um navio-hospital português. Atualmente ancorado no porto de pesca em Viana do Castelo, tem a função de espaço museológico e Pousada da Juventude.",
+					"Imagem": "https://www.fundacaogileannes.pt/Imgs/content/page_54/navio.jpg"
+				},
+				{
+					"Nome": "Santuário do Sagrado Coração de Jesus (Monte de Santa Luzia)",
+					"Localidade": "N13-6, 4901-909 Viana do Castelo",
+					"Historia": " Santuário Diocesano do Sagrado Coração de Jesus, é um santuário cristão católico localizado no alto do monte de Santa Luzia, na freguesia de Santa Maria Maior, na cidade, concelho e distrito de Viana do Castelo, em Portugal.",
+					"Imagem": "https://www.fundacaogileannes.pt/Imgs/content/page_54/navio.jpg"
+				},
+				{
+					"Nome": "Museu Municipal de Viana do Castelo",
+					"Localidade": " Largo de São Domingos, 4900-330 Viana do Castelo",
+					"Historia": "O Museu Municipal está instalado num edifício composto por duas peças arquitectónicas diferentes mas interligadas num só conjunto.",
+					"Imagem": "https://www.fundacaogileannes.pt/Imgs/content/page_54/navio.jpg"
+				}
+			],
+			"Restaurantes": [
+				{
+					"Nome": "Cerqueira's Lounge & Restaurant",
+					"Morada": "Praça da Liberdade, 4900-040 Viana do Castelo",
+					"Classificacao": 4.7,
+					"Imagem": "https://cdn.website.dish.co/media/b6/ca/1472819/Cerqueiras-Lounge-und-Restaurante-20190923-185201.jpg"
+				},
+				{
+					"Nome": "Casa Primavera - Taberna Soares",
+					"Morada": "R. Góis Pinto 59, 4900-356 Viana do Castelo",
+					"Classificacao": 4.5,
+					"Imagem": "https://media.timeout.com/images/103943462/image.jpg"
+				}
+			],
+			"Hoteis": [
+				{
+					"Nome": "Hotel Flôr de Sal",
+					"Morada": "Av. de Cabo Verde 100, 4900-568 Viana do Castelo",
+					"Preco": "155€",
+					"Classificacao": 4,
+					"Imagem": "https://c.otcdn.com/imglib/hotelfotos/8/190/hotel-flor-de-sal-viana-do-castelo-020.jpg"
+				},
+				{
+					"Nome": "Axis Viana Business & Spa Hotel",
+					"Morada": "Av. Cap. Gaspar de Castro nº 866, 4900-462 Viana do Castelo",
+					"Preco": "90€",
+					"Classificacao": 4,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/93/03/930367_v6.jpeg"
+				}
+			]
+		},
+		{
+			"Nome": "Vila Nova de Cerveira",
+			"Atracoes": [
+				{
+					"Nome": "Parque de Lazer do Castelinho",
+					"Localidade": "Vila Nova de Cerveira, 4920-290 Vila Nova de Cerveira",
+					"Historia": "Parque animado em frente ao rio com minigolfe e parede de escalada, bem como campos para vários desportos.",
+					"Imagem": "https://www.altominho.tv/site/wp-content/uploads/2018/07/IMG_4886.jpg"
+				},
+				{
+					"Nome": "Parque de Cerveira",
+					"Localidade": "Vila Nova de Cerveira",
+					"Historia": "Parque animado em frente ao rio com minigolfe e parede de escalada, bem como campos para vários desportos.",
+					"Imagem": "https://www.cm-vncerveira.pt/thumbs/cmvncerveira/uploads/news/image/958/QK6G7721_1_980_2500.JPG"
+				}
+			],
+			"Restaurantes": [
+				{
+					"Nome": "Casa das Velhas",
+					"Morada": "Quinta das Mineirinhas, 4920-217 Vila Nova de Cerveira",
+					"Classificacao": 4.1,
+					"Imagem": "https://www.cm-vncerveira.pt/cmvncerveira/uploads/poi/image/39/CASA_VELHA_MINEIRINHAS.jpg"
+				},
+				{
+					"Nome": "Curt'isso Taberna Bar",
+					"Morada": "R. Costa Brava 7, 4920-268 Vila Nova de Cerveira",
+					"Classificacao": 4.6,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/460887/394294.jpg"
+				}
+			],
+			"Hoteis": [
+				{
+					"Nome": "INATEL Cerveira",
+					"Morada": "4920-236 Lovelhe",
+					"Preco": "105€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/108/10861519.jpg"
 				}
 			]
 		}
 	],
-	"Imagem":"https://casasdemassinos.com/wp-content/uploads/2018/06/Confraria-Santa-Luzia-Casas-de-Massinos.jpg"
+	"Imagem": "https://casasdemassinos.com/wp-content/uploads/2018/06/Confraria-Santa-Luzia-Casas-de-Massinos.jpg"
 }
