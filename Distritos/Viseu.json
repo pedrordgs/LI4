@@ -1,5 +1,6 @@
 {
 	"Nome": "Viseu",
+	"ASCIIName" : "Viseu",
 	"Historia": "Localiza-se no Centro de Portugal e, ao longo dos séculos, desempenhou sempre um papel preponderante na história do país. A cidade está repleta de igrejas, museus, monumentos e parques que merecem a sua visita. Além disso, possui um centro histórico muito bem conservado, do qual o Rossio é um dos seus principais pontos de interesse.",
 	"Cidades": [
 		{
@@ -10,7 +11,7 @@
 					"Localidade": "Fontelo",
 					"Historia": "Daqui conseguem avistar-se terras dos distritos de Viseu, Vila Real e Porto. Mesmo à frente dos nossos olhos ergue-se a imponente Serra do Marão e aos nossos pés o rio Douro que corre junto à cidade de Peso da Régua na sua viagem rumo ao Porto. A oeste avistam-se o escadório e o santuário de Nossa Senhora dos Remédios, em Lamego.",
 					"Imagem": "https://1.bp.blogspot.com/-l_5JJSkCvYw/UdHURKv_f4I/AAAAAAAAAV8/SARV4D1kg50/s1600/SDomingos_A.JPG"
-				},
+				}
 			],
 			"Restaurantes": [
 				{
@@ -33,7 +34,7 @@
 					"Preco": "57€",
 					"Classificacao": 3,
 					"Imagem": "https://thumbnails.trvl-media.com/1YTyb4-_X5snHNAYwlXtX_AAWK8=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/4000000/3050000/3047800/3047724/ca4859c5_z.jpg"
-				},
+				}
 			]
 		},
 		{
