@@ -14,6 +14,7 @@ namespace Portourgal.ViewModel
         public DistritosInfViewModel(Distrito distrito)
         {
             Nome = distrito.Nome;
+            ASCIIName = distrito.ASCIIName;
             Historia = distrito.Historia;
             Atracoes = new List<Atracao>();
             foreach(Cidade c in distrito.Cidades)
@@ -57,7 +58,7 @@ namespace Portourgal.ViewModel
         {
             string atracao = (string)a;
             Atracao atr = Atracoes.Find(x => string.Equals(x.Nome, atracao));
-            App.Current.MainPage.Navigation.PushAsync(new AtracaoView(atr, Nome));
+            App.Current.MainPage.Navigation.PushAsync(new AtracaoView(atr, Nome, ASCIIName));
         }
 
         void SelecionarHotel(object h)
@@ -75,6 +76,7 @@ namespace Portourgal.ViewModel
         }
 
         public string Nome { get; set; }
+        public string ASCIIName { get; set; }
         public string Historia { get; set; }
         public List<Atracao> Atracoes { get; set; }
         public List<Restaurante> Restaurantes { get; set; }
