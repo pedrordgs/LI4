@@ -6,25 +6,39 @@
 			"Nome": "Arganil",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Capela de São Pedro",
+					"Localidade": "Arganil",
+					"Historia": "É o monumento mais antigo do concelho. A sua edificação data dos finais do século XIII. Está situada fora da vila de Arganil, perto do rio Alva numa zona de achados arqueológicos. A construção é feita de blocos irregulares com predomínio de calhau grosso rolado, com excepção para os cunhais, aberturas e arcos que são de cantaria, feita na sua maior parte em arenito local.",
+					"Imagem": "https://www.cm-arganil.pt/wp-content/uploads/2015/11/CSP-009-1024x683.jpg"
+				},
+				{
+					"Nome": "Mata da Misericórdia",
+					"Localidade": "Arganil",
+					"Historia": "Situada na vertente Este de uma colina, mesmo ao lado da Vila de Arganil, a Mata da Santa Casa da Misericórdia surge como um local agradável onde o sossego e o contacto com a natureza são uma realidade. O sítio ideal para fazer um pic-nic ou aproveitar para dar uma caminhada num ambiente tranquilo e revitalizante.",
+					"Imagem": "https://live.staticflickr.com/6016/5889878351_1d962f80e2_b.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Meu Restaurante",
+					"Morada": "Largo Ribeiro Campos 22 loja 3, 3300-024 Arganil",
+					"Classificacao": 4.1,
+					"Imagem": "https://www.visitarganil.pt/wp-content/uploads/2016/04/O-Meu-Restaurante-1.jpg"
+				},
+				{
+					"Nome": "Pizzaria Avenida",
+					"Morada": "Av. Bombeiros Voluntários Argus 6, 3300-014 Arganil",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/0d/a6/4a/img-20180808-221245-largejpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel de Arganil",
+					"Morada": "Av. Forças Armadas H, 3300-011 Arganil",
+					"Preco": "50€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/370/37017783.jpg"
 				}
 			]
 		},
@@ -32,25 +46,39 @@
 			"Nome": "Cantanhede",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu da Pedra do Município de Cantanhede",
+					"Localidade": "Largo Cândido dos Reis 4, 3060-202 Cantanhede",
+					"Historia": "O museu abriu ao público no dia 20 de outubro de 2001, tendo sido, nesse mesmo ano, galardoado pela Associação Portuguesa de Museologia com a Menção Honrosa de Melhor Museu Português do Triénio 1999/2001. Mais recentemente foi distinguido com o Prémio Nacional de Geoconservação 2006, atribuído pela ProGEO - Associação Europeia para a Preservação do Património Geológico. O Museu da Pedra integra, desde a sua fundação, a Rede Portuguesa de Museus e pertence também à Associação de Museus e Centros de Ciência de Portugal e à Associação Portuguesa de Museologia. ",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/836475"
+				},
+				{
+					"Nome": "Jardim Municipal de Cantanhede",
+					"Localidade": "3060-133 Cantanhede",
+					"Historia": "Jardim com grande variedade de espécies florais, onde se destaca um lago e uma estátua.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/306091/43809.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Marquês De Marialva",
+					"Morada": "Largo Romal 16, 3060-129 Cantanhede",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/bb/0a/ba/sala-paixao-de-ines.jpg"
+				},
+				{
+					"Nome": "Restaurante Dom Fininho",
+					"Morada": "Rua dos Namorados nº1), Largo Dom João Crisóstomo 11, 3060-130 Cantanhede",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/6f/b0/99/dom-fininho.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "B&B Hotel Cantanhede",
+					"Morada": "Av. Comandante Xavier Gomes Gama 1, 3060-209 Cantanhede",
+					"Preco": "69€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/16/23/ef/17/b-b-hotel-cantanhede.jpg"
 				}
 			]
 		},
@@ -58,25 +86,46 @@
 			"Nome": "Coimbra",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Sé Velha",
+					"Localidade": "Largo da Sé Velha, 3000-383 Coimbra",
+					"Historia": "Coimbra (Aeminium, na época romana) é sede episcopal desde o século V, sucedendo à vizinha Conímbriga. Apesar da sua longa história, não há notícia da catedral até à construção da Sé de Santa Maria de Coimbra, que teve início em 1164 por iniciativa do bispo D. Miguel Salomão. Esta foi consagrada em 1184, embora o resto do edifício ainda não estivesse terminado e, em 1185, ali foi coroado o segundo rei de Portugal, D. Sancho I. É a única catedral portuguesa românica, da época da Reconquista, que sobreviveu relativamente intacta até aos nossos dias. O projeto do edifício é atribuído a mestre Roberto, de origem francesa, que dirigia a construção da Sé de Lisboa na mesma época e visitava Coimbra periodicamente. A direção das obras ficou a cargo de mestre Bernardo, também francês, mais tarde substituído por mestre Soeiro, um arquiteto que trabalhou depois em outras igrejas na diocese do Porto. É um edifício de três naves, transepto ligeiramente saliente, torre lanterna sobre o cruzeiro e cabeceira tripartida. Esta construção marca uma rutura com o esquema das catedrais românicas seguido até então no país (Braga e Porto) e o início de uma nova tipologia designada de catedrais do Sul (Coimbra, Lisboa e Évora).",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/S%C3%A9_Velha_de_Coimbra.jpg/1200px-S%C3%A9_Velha_de_Coimbra.jpg"
+				},
+				{
+					"Nome": "Aqueduto de São Sebastião",
+					"Localidade": "Alameda Júlio Henriques 1887, 3000-393 Coimbra",
+					"Historia": "Popularmente conhecido como “Arcos do Jardim”, dada a sua localização contígua ao Jardim Botânico da Universidade Coimbra, este aqueduto foi mandado construir em 1570 pelo rei D. Sebastião, para abastecer de água a Alta da cidade aproveitando o traçado de um precedente aqueduto romano. O desenho desta imponente estrutura, que se estende ao longo de um quilómetro, é atribuído ao engenheiro italiano Felipe Terzi. O primeiro arco, chamado de “arco de honra” difere dos restantes; rematado por cornija, na qual se insere o escudo de Portugal, é encimado por um baldaquino, assente sobre colunelos dóricos e coroado por cúpula e lanternim; a cada lado apresenta dois nichos com as imagens de São Sebastião e São Roque.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Karinecyril_coimbra_aqueduc.jpg/1200px-Karinecyril_coimbra_aqueduc.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Italianino",
+					"Morada": "R. Borges Carneiro 6, 3000-079 Coimbra",
+					"Classificacao": 5.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/b4/70/59/ja-conhece-a-nossa-esplanada.jpg"
+				},
+				{
+					"Nome": "Sete Restaurante",
+					"Morada": "R. Martins de Carvalho 8, 3000-180 Coimbra",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/bb/de/47/entrada-al-restaurante.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Tryp Coimbra Hotel",
+					"Morada": "Alameda Armando Gonçalves, 3000-059 Coimbra",
+					"Preco": "64€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/314/31453628.jpg"
+				},
+				{
+					"Nome": "Hotel Vila Galé Coimbra",
+					"Morada": "R. Abel Dias Urbano 20, 3000-317 Coimbra",
+					"Preco": "76€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/280/28022992.jpg"
 				}
 			]
 		},
@@ -84,25 +133,39 @@
 			"Nome": "Condeixa-a-Nova",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Casa Museu Fernando Namora",
+					"Localidade": "Largo Artur Barreto, 3150-140 Condeixa-a-Nova",
+					"Historia": "A Casa Museu Fernando Namora, tutelada pela Câmara Municipal de Condeixa-a-Nova, foi oficialmente aberta ao público no dia 30 de junho de 1990. As sucessivas alterações desta antiga casa de comércio e de habitação onde nasceu o escritor em 1919, tornaram inviável a sua recuperação em termos de remissão para as suas origens.",
+					"Imagem": "https://www.cm-condeixa.pt/rbcondeixa/images/bt_property/4/original-1461400104-cmfn_3.jpg"
+				},
+				{
+					"Nome": "Buracas do Casmilo",
+					"Localidade": "Vale das Buracas, 3150-272 Condeixa-a-Nova",
+					"Historia": "Percurso com inicio/fim junto ao polidesportivo da aldeia do Casmilo, que nos leva a descobrir a beleza agreste do Vale das Buracas contracenando com a constante presença de dóceis rebanhos e de campos domados pela mão humana, delimitados por muros de pedra calcária.",
+					"Imagem": "https://1.bp.blogspot.com/-nZto44JHDUM/VEz4LVV5j4I/AAAAAAAAbSo/F4gmue0Xd5A/s1600/IMG_6200.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Paço da Vila - Restaurante",
+					"Morada": "R. Francisco de Lemos nº9, 3150-142 Condeixa-a-Nova",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/ee/d6/da/sala.jpg"
+				},
+				{
+					"Nome": "Restaurante .Come",
+					"Morada": "R. Dona Maria Elsa Franco Sotto Mayor 5, 3150-140 Condeixa-a-Nova",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/e3/bc/bc/photo0jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Conímbriga Hotel do Paço",
+					"Morada": "R. Francisco de Lemos nº43, 3150-142 Condeixa-a-Nova",
+					"Preco": "95€",
+					"Classificacao": 4,
+					"Imagem": "https://conimbrigahoteldopaco.pt/wp-content/uploads/2019/06/3B1A7145.jpg"
 				}
 			]
 		},
@@ -110,25 +173,39 @@
 			"Nome": "Figueira da Foz",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Palácio Sotto Maior",
+					"Localidade": "R. Joaquim Sotto Mayor 75, 3080-209 Figueira da Foz",
+					"Historia": "É um dos ex-libris da Figueira da Foz, situado na zona norte da cidade, perto da marginal. É uma residência de luxo do início do século, em estilo francês. À sua volta estende-se um grande jardim. No interior, refiram-se salas ricamente mobiladas com pinturas de António Ramalho e reproduções de quadros do Museun do Louvre.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/04/02/e2/33/palacio-sotto-maior.jpg"
+				},
+				{
+					"Nome": "Museu Municipal Santos Rocha",
+					"Localidade": " R. Calouste Gulbenkian 70, 3080-081 Figueira da Foz",
+					"Historia": "Fundada a 6 de maio de 1894 por iniciativa do arqueologo figueirense, António dos Santos Rocha, o museu esteve instalado na Casa do Paço até 1899, ano em que se mudou para os Paços do Concelho. O museu conheceu repercussão nacional e internacional no seu primeiro tempo áureo até à morte do seu fundador em 1910. Sobretudo a partir de 1945, o enriquecimento das colecções - principalmente de pintura e escultura - foi tornando inevitável a criação de instalações adequadas. Construído em 1975 pela Fundação Calouste Gulbenkian e com projeto do arquiteto figueirense José Isaías Cardoso, o museu transferiu-se em 1976 para as atuais instalações próprias.",
+					"Imagem": "https://centrotv.pt/wp-content/uploads/2016/11/96ac4b32823088eb7e8921457b048b29_XL.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Bar Casa Havanesa",
+					"Morada": "R. Cândido dos Reis 89, 3080-155 Figueira da Foz",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/e9/fe/0f/casa-havanesa.jpg"
+				},
+				{
+					"Nome": "Restaurante Volta e Meia",
+					"Morada": "R. Dr. Francisco António Diniz 64, 3080-157 Figueira da Foz",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/e6/b7/14/para-todos-os-gostos.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Eurostars Oasis Plaza",
+					"Morada": " Av. Brasil, 3080-323 Figueira da Foz",
+					"Preco": "80€",
+					"Classificacao": 4,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/31/69/3169652_v2.jpeg"
 				}
 			]
 		},
@@ -136,25 +213,30 @@
 			"Nome": "Góis",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Praia Fluvial da Peneda",
+					"Localidade": "R. 1 1, Góis",
+					"Historia": "Situada na Vila de Góis e com acesso rápido ao centro histórico da vila, a Praia Fluvial da Peneda/Pego Escuro possui uma vasta área relvada nas margens do Rio Ceira, com boas infraestruturas de apoio.",
+					"Imagem": "https://www.praiafluvial.pt/wp-content/uploads/2016/09/praia-fluvial-da-peneda.-809x457.jpg"
+				},
+				{
+					"Nome": "Ponte Real",
+					"Localidade": "R. Conselheiro Dias Ferreira 31, Góis",
+					"Historia": "Como o nome indica, a ponte é real devido a que esta edificação se realizou no período e consequentemente a mando do Rei D. João III, em 1533, como atesta o alvará de abril desse mesmo ano. O monarca encarregou para sua edificação o escudeiro-mor da vila de Recardães, Simão Fernandes. É de uma importância extrema, e não só pela ligação das margens do Rio Ceira, porque este era atravessado até então por uma vau.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/coimbra-gois/gois/ponte-real-0.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Pizzaria, Restaurante Gril - Encosta Da Seara",
+					"Morada": "Avenida Eng.º, Av. Eng. Augusto Nogueira Pereira Nr 16, 3330-209 Góis",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/95/56/6e/img-20160611-141238-largejpg.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Restaurante Beira Rio",
+					"Morada": "R. Dr. Padre António Dinis, Góis",
+					"Classificacao": 4.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/11/1b/ed/bacalhau-dourado-com.jpg"
 				}
 			]
 		},
@@ -162,25 +244,39 @@
 			"Nome": "Lousã",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Ecomuseu da Serra da Lousã (Museu Municipal Prof. Álvaro Viana de Lemos)",
+					"Localidade": "R. Miguel Bombarda, 3030-194 Coimbra",
+					"Historia": "Equipamento integrado no Ecomuseu da Serra da Lousã,foi reinaugurado a 9 de março de 2013 nas actuais instalações, o Museu Municipal está instalado num espaço renovado, com várias valências, mas na senda dos objetivos iniciais traçados por Álvaro Viana de Lemos. O seu variado espólio inclui livros, moedas, estampas, objetos artísticos e simples curiosidades e recordações, a que se acrescentaram numerosas doações de Lousanenses. É também local de exposições temporárias de pintura, escultura, fotografia ou outras formas de arte. Acolhe também os serviços do Welcome Center das Aldeias do Xisto que funciona como porta de entrada e centro de informação especializada sobre as Aldeias do Xisto.",
+					"Imagem": "https://cm-lousa.pt/wp-content/uploads/2017/04/museu-municipal-prof-alvaro-viana-de-lemos-3.jpg"
+				},
+				{
+					"Nome": "Miradouro Sra. da Piedade",
+					"Localidade": "Lousã",
+					"Historia": "Localizado na Estrada Nacional 236, oferece uma esplêndida vista que se estende sobre o Vale do Arouce, no fundo do qual se avista o Castelo e as Ermidas da Senhora da Piedade. É local de paragem obrigatória no caminho para as Aldeias do Xisto.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/833222"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Burgo",
+					"Morada": "N.ª Sra. da Piedade Castelo da, 3200-000 Lousã",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/4f/21/2b/the-delicious-regional.jpg"
+				},
+				{
+					"Nome": "Restaurante buffet Sabor D´art",
+					"Morada": "R. Dr. Henrique Figueiredo 6, 3200-235 Lousã",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/5a/5f/b1/interior.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Palácio da Lousã Boutique Hotel",
+					"Morada": "R. Viscondessa do Espinhal, 3200-257 Lousã",
+					"Preco": "130€",
+					"Classificacao": 4,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/15/73/157362_v13.jpeg"
 				}
 			]
 		},
@@ -188,25 +284,39 @@
 			"Nome": "Mira",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Etnográfico da Praia de Mira",
+					"Localidade": "Av. da Barrinha 55, 3070-792 Praia de Mira",
+					"Historias": "O Museu Etnográfico e Posto de Turismo da Praia de Mira, inaugurado a 5 de outubro de 1997, é um edifício, construído de raiz, totalmente de madeira e de arquitectura palafítica (assente em estacaria). Vulgarmente chamado de Palheiro, foi esta a construção local, tipicamente popular, que caracterizou a localidade até aos anos 60, que então se designava por Palheiros de Mira.",
+					"Imagem": "https://www.cm-mira.pt/sites/default/files/INTERIOR%20MUSEU%20037.jpg"
+				},
+				{
+					"Nome": "Busto de Mário Maduro",
+					"Localidade": "R. Oscar Moreira da Silva A, 3070-330 Mira",
+					"Historia": "Busto fundido em bronze, de arte contemporânea, de linhas sóbrias, dentro da gramática que Gustavo Bastos aplica em grande parte da sua vasta obra.",
+					"Imagem": "https://www.culturacentro.gov.pt/media/3427/p7kwn0y443okr5126148prd_158.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Alpendre - Tapas e Petiscos",
+					"Morada": "Av. 25 Abril 16, 3070-330 Mira",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/70/9b/9a/alpendre-tapas-e-bar.jpg"
+				},
+				{
+					"Nome": "A Taberna da Vila Maria",
+					"Morada": "Av. Cidade de Coimbra 7, 3070-761 Praia de Mira",
+					"Classificacao": 5.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/3c/6e/df/a-taberna-da-vila-maria.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Quinta da Lagoa",
+					"Morada": "Quinta da Lagoa, 3070-150 Mira",
+					"Preco": "82€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/2b/af/77/quinta-da-lagoa.jpg"
 				}
 			]
 		},
@@ -214,25 +324,39 @@
 			"Nome": "Miranda do Corvo",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Alto do Calvário",
+					"Localidade": "R. 5 4A, 3220-195 Miranda do Corvo",
+					"Historia": "Sendo um dos pontos de maior importância histórica na Vila de Miranda do Corvo, o Alto do Calvário apresentava um ar de abandono. Apesar da sua imagem marcante no perfil de Miranda, poucos conheciam verdadeiramente este espaço, a sua história e o facto de ter existido aqui um castelo que fez parte da Linha Defensiva do Mondego. ",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mirandadocorvo.JPG/235px-Mirandadocorvo.JPG"
+				},
+				{
+					"Nome": "Igreja Matriz de Miranda do Corvo",
+					"Localidade": "Miranda do Corvo, Coimbra",
+					"Historia": "A atual Igreja Matriz, datada do século XVIII, remonta-nos a sua edificação ao período anterior à nacionalidade, sofrendo uma reconstrução no século XIV, de não restou qualquer vestígio artístico. Templo dedicado a São Salvador, acaba por vir a sofrer influências do neoclássico. Situada no alto da colina, a igreja matriz desenvolve-se numa planta retangular formada por uma nave e capela-mor, tendo adossadas a sacristia e duas capelas laterais. A torre sineira, que se situa no lado esquerdo a poucos metros, foi de um aproveitamento da torre de menagem do castelo. A fachada, que é delimitada por cunhais de pilastras, é formada por dois grandes rasgos do portal de moldura curva, sobrepujado por um frontão curvo e encimado por uma janela, também de moldura curva, que ilumina o interior e o coro-alto. Esta liga-se ao friso a separar de um frontão triangular interrompido por uma cruz e ladeado por aletas, a finalizar por 4 fogaréus. Ao centro apresenta uma janela redonda.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/coimbra-mirandacorvo/mirandadocorvo/igreja-matriz-1.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Zé Padeiro",
+					"Morada": "R. Arménio Costa Simões 48, 3220-186 Miranda do Corvo",
+					"Classificacao": 4.0,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/757603"
+				},
+				{
+					"Nome": "Estação de Sabores",
+					"Morada": "R. Dr. Mota Pinto 2, Miranda do Corvo",
+					"Classificacao": 4.3,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/757504"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Parque Serra da Lousã",
+					"Morada": "Parque Biológico da Serra da Lousã, 3220-231 Miranda do Corvo",
+					"Preco": "91€",
+					"Classificacao": 4,
+					"Imagem": "https://thumbnails.trvl-media.com/2IYlB8kFxUVz7Qa4IIINn3z5KLI=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/13000000/12720000/12720000/12719956/807d3e2e_z.jpg"
 				}
 			]
 		},
@@ -240,25 +364,39 @@
 			"Nome": "Montemor-o-Velho",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo Montemor-o-Velho",
+					"Localidade": "Montemor-o-Velho, Coimbra",
+					"Historia": "Em posição dominante sobre a vila, na margem direita do rio Mondego, à época junto à sua foz, no contexto da Reconquista cristã da Península Ibérica, constituiu-se em um ponto estratégico na defesa da linha fronteiriça do baixo Mondego, em particular da região de Coimbra. Foi, por essa razão, a principal fortificação da região, à época. As primeiras referências documentais à povoação e seu castelo remontam ao século IX, quando Ramiro I das Astúrias e seu tio, o abade João do Mosteiro do Lorvão, o conquistaram (848). O soberano transmitiu ao tio estes domínios, com o encargo de defender o castelo, mantendo-lhe guarnição, cuja alcaidaria João entregou a D. Bermudo, filho de sua irmã, D. Urraca. Ainda naquele ano resistiu ao cerco que lhe foi imposto pelo califa de Córdoba, Abderramão II.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MontemorVelho-CCBY-4.jpg/1200px-MontemorVelho-CCBY-4.jpg"
+				},
+				{
+					"Nome": "Parque de Merendas de Montemor",
+					"Localidade": "Montemor-o-Velho, Coimbra",
+					"Historia": "Espaço amplo, relvado e arborizado, com algumas mesas e bancos em madeira para piqueniques.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/842111"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Moagem",
+					"Morada": "Largo Macedo Souto Maior, Montemor-o-Velho",
+					"Classificacao": 4.2,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/756633"
+				},
+				{
+					"Nome": "A Grelha Restaurante",
+					"Morada": "R. Fernão Mendes Pinto 20, 3140-271 Montemor-o-Velho",
+					"Classificacao": 3.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/14/2c/7a/70/photo0jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Garça Real Hotel & SPA",
+					"Morada": "Rua Principal da Coutada nº415 Estrada N111, 3140-166 Coimbra",
+					"Preco": "77€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/0e/d3/7b/garca-real-hotel-spa.jpg"
 				}
 			]
 		},
@@ -266,25 +404,39 @@
 			"Nome": "Oliveira do Hospital",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Capela dos Ferreiros",
+					"Localidade": "Oliveira do Hospital, Coimbra",
+					"Historia": "Esta construção, em estilo gótico, preserva a traça trecentista original e alberga um notável grupo escultórico da autoria de Mestre Pero, o mais completo conjunto escultórico do primeiro gótico nacional. A capela dos Ferreiros é um dos mais importantes espaços funerários góticos portugueses, tanto pela importância das obras que acolhe como por se tratar de uma das raras capelas sepulcrais medievais de iniciativa privada que sobreviveu até aos nossos dias em território nacional. A sua construção deve-se a Domingos Joanes, um nobre de ascendência obscura, neto de D. Chavão, que aí se fez sepultar junto a D. Domingas Sabachais, sua mulher, uma figura igualmente mal documentada da nossa história medieval.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/1_Igreja_Oliveira_do_Hospital_Capela_Ferreiros_IMG_1055.jpg/1024px-1_Igreja_Oliveira_do_Hospital_Capela_Ferreiros_IMG_1055.jpg"
+				},
+				{
+					"Nome": "Casa Museu D. Maria Emília Vasconcelos Cabral",
+					"Localidade": "Oliveira do Hospital, Coimbra",
+					"Historia": "A Casa-Museu encontra-se instalada num solar do século XVIII, onde a Fundação está também instalada. Tem uma exposição permanente com todo o património pertencente à família Vasconcelos Cabral: os objetos pessoais, mobiliário, porcelanas, pinturas e uma parte das pratas da família (em exposição temporária). Possui, ainda, uma secção de esculturas (gessos) nacionais e estrangeiras.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/800672"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Túnel",
+					"Morada": "Largo Ribeiro do Amaral 8B, 3400-070 Oliveira do Hospital",
+					"Classificacao": 4.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/e1/1b/47/restaurante-o-tunel.jpg"
+				},
+				{
+					"Nome": "Grelhado Beirão",
+					"Morada": "R. Dr. Adelino Júnior Mendes Abreu 4A, 3400-136 Oliveira do Hospital",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/df/da/32/bitoque-especial-com.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Aqua Village Health Resort & Spa",
+					"Morada": "3400-521 Oliveira do Hospital",
+					"Preco": "175€",
+					"Classificacao": 5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/95/84/a3/photo0jpg.jpg"
 				}
 			]
 		},
@@ -292,25 +444,39 @@
 			"Nome": "Pampilhosa da Serra",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Miradouro de Pampilhosa da Serra",
+					"Localidade": "R. Calvário 22, 3320-220 Pampilhosa da Serra",
+					"Historia": "Virado para a vila de Pampilhosa da Serra, este Miradouro alberga uma grande imagem de um Cristo Rei na cruz, abençoando a vila e toda a sua magnífica envolvente.",
+					"Imagem": "https://i.pinimg.com/originals/78/eb/8b/78eb8b7922550e311361ca9ac1644a5c.jpg"
+				},
+				{
+					"Nome": "Poço do Caldeirão",
+					"Localidade": "Pampilhosa da Serra, Coimbra",
+					"Historia": "Localizado na Aldeia do Xisto da Barroca, concelho do Fundão, o Centro de Interpretação da Arte Pré-Histórica do Poço do Caldeirão é, como o nome indica, o espaço interpretativo que encontra no início do percurso de visita às gravuras do Poço do Caldeirão.",
+					"Imagem": "https://live.staticflickr.com/3853/14673036353_7627eb5407_b.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Pinheiro",
+					"Morada": "Cimo do lugar, 3320-152 Pampilhosa da Serra",
+					"Classificacao": 4.2,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/EX2EzIXOoNj07li-sKOsI-_vHMDsdNEinnn4cTAFPmtDUUNNrkHxg57xqT-otnSPBwJQDqh7LHawzS2-RrZCtPX791qnzWTJQj9O3mKvDzbYIiYCGPMWaq6hnIzbfCzM5UluD7z9YaEAnQoc8IJqFH3eaCm4DRmrbYujF_r4H-uzkQEqcZoJLGEEpFhCnzneWPG30T2k3DQa4Joviek"
+				},
+				{
+					"Nome": "Restaurante Pizzaria 'O Avô'",
+					"Morada": "Pampilhosa da Serra, Coimbra",
+					"Classificacao": 4.2,
+					"Imagem": "https://apollo-ireland.akamaized.net/v1/files/eyJmbiI6Imcxazg4cWNoOTEybjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.PVsGkLhOstlflbItsiKWg9mj87Ogca8_QOroUVCFQDU/image;s=1280x1024;q=80"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Villa Pampilhosa Hotel",
+					"Morada": "Rua Arlindo de Almeida Esteves, Lote 8E, 3320-232 Pampilhosa da Serra",
+					"Preco": "75€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/113/11377699.jpg"
 				}
 			]
 		},
@@ -318,25 +484,30 @@
 			"Nome": "Penacova",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Moinhos da Serra da Atalhada",
+					"Localidade": "Penacova, Coimbra",
+					"Historia": "Não se sabe ao certo, o ano de construção dos Moinhos de Vento, sabe-se isso sim, que estes foram construídos à séculos, por pessoas que se dedicavam à moagem do cereal, (os moleiros). Abandonada a actividade, os Moinhos, foram-se degradando, atingindo alguns um estado de ruínas total. Na Serra da Atalhada, ainda subsistem os 23 moinhos de vento, alguns deles recuperados e adaptados para o turismo rural, e outros para moagem do cereal.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/d2/38/aa/complexo-dos-moinhos.jpg"
+				},
+				{
+					"Nome": "Livraria do Mondego",
+					"Localidade": "R. Barca do Concelho 22, Penacova",
+					"Historia": "Grandiosa formação rochosa constituída por quartzitos do Ordovícico, localizada nas margens do rio Mondego. O seu nome vem, provavelmente, da disposição dos fraguedos, que parecem sugerir uma estante com livros.",
+					"Imagem": "https://1.bp.blogspot.com/_yDSSmlF2ZZg/S2NssehO4oI/AAAAAAAABKI/oNkMOS6A23Q/s320/DSCF2244.JPG"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Restaurante Panorâmico",
+					"Morada": "Largo Alberto Leitão 7, 3360-341 Penacova",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/ea/ef/32/panoramico-restaurante.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "jo bifanas",
+					"Morada": "R. Conselheiro Barjona de Freitas 1, Penacova",
+					"Classificacao": 4.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/a4/e3/15/jo-bifanas.jpg"
 				}
 			]
 		},
@@ -344,25 +515,30 @@
 			"Nome": "Penela",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Cascata da Pedra da Ferida",
+					"Localidade": "Penela, Coimbra",
+					"Historia": "A cascata conhecida como Pedra da Ferida localiza-se na Serra do Espinhal, em Penela, próximo do lugar com o nome de Ribeira da Azenha. A cascata tem origem graças ao maior número de rochas mais duras. ",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Study_on_a_waterfall_IV_%2832735697844%29.jpg"
+				},
+				{
+					"Nome": "Castelo de Penela",
+					"Localidade": "R. Castelo 5, 3230-280 Penela",
+					"Historia": "Em posição dominante sobre uma colina calcária, integrava a chamada linha do Mondego, e tinha como função a de guarda avançada de Coimbra, à época da Reconquista. Juntamente com o Castelo de Montemor-o-Velho, constituem o testemunho mais expressivo de seu tipo, do período, na região. De seus muros descortina-se uma bela vista da povoação, e ao longe, a Leste, da serra da Lousã. A origem da sua toponímia é controversa, atribuída por alguns autores a primitivos povos celtas. Uma tradição local refere que, quando da conquista por D. Afonso Henriques (1112-1185), ao penetrar na povoação por meio de um estratagema, o soberano teria incitado os assaltantes exclamando: Coragem! Já estamos com o pé nela!. Parece mais correto, entretanto, compreender Penela como um diminuitivo de penha, local eleito para a primitiva fortificação.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Castelo_de_Penela_-_vista_geral.JPG"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "O Bigodes",
+					"Morada": "R. Misericórdia 8, 3230-250 Penela",
+					"Classificacao": 3.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/70/cb/5f/a-chanfana.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Varandas do Castelo",
+					"Morada": "Av. Bombeiros Voluntários de Penela 3, 3230-274 Penela",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/d9/31/84/almoco-de-curso.jpg"
 				}
 			]
 		},
@@ -370,25 +546,30 @@
 			"Nome": "Soure",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Soure",
+					"Localidade": "Largo do Castelo, Soure",
+					"Historia": "Contrariamente ao que é costume observar nos castelos medievais, o castelo de Soure foi erguido numa zona plana, o que em parte se explica pela proximidade ao ponto em que os rios Anços e Arunca confluíam. Constituía, em conjunto com os restantes castelos da Rede, a linha avançada de proteção a Coimbra. Apesar da ausência de testemunhos escritos, tudo parece indicar que terá sido D. Sesnando Davides, governador de toda a vasta região a sul do Douro, a partir de 1064, o responsável pela construção do castelo, inicialmente uma estrutura simples, aproximadamente retangular e sem torres adossadas. O que hoje sobrevive do Castelo de Soure é o suficiente para revelar uma planta rectangular. Das torres que vieram fortalecer a primitiva estrutura restam ainda duas: a de menagem, dotada de alambor pelo exterior e parcialmente arruinada, facto que permite constatar a grossura dos seus muros; e uma outra, no canto oposto, a que se tem acesso por uma porta rasgada ao nível do adarve, em cuja parte de cima se encontra uma pedra (parte de um ajimez) decorada com motivos religiosos, datada da 1ª metade do século XI e naturalmente reaproveitada de um outro edifício.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Castelo_de_Soure.jpg/1200px-Castelo_de_Soure.jpg"
+				},
+				{
+					"Nome": "Jardim Municipal de Soure",
+					"Localidade": "3130-218 Soure",
+					"Historia": "Espaço amplo, relvado e arborizado, onde se destaca um lago rodeado de belos canteiros floridos. Dispõe também de alguns bancos de jardim e de iluminação artificial.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/828675"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Marisqueira Telheiro",
+					"Morada": "Soure, Coimbra",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/68/24/ff/com-marisco-fresco-de.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "timaria restaurante & tapas bar",
+					"Morada": "Praça Miguel Bombarda 2 12, 3130-239 Soure",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/75/a0/9f/timaria-restaurante-tapas.jpg"
 				}
 			]
 		},
@@ -396,25 +577,39 @@
 			"Nome": "Tábua",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Miradouro Pedra da Sé em Tábua",
+					"Localidade": "Tábua, Coimbra",
+					"Historias": "Este miradouro situa-se no limite do concelho, numa das encostas que vai dar à albufeira da Aguieira. A partir dos penedos graníticos da Pedra da Sé podem avistar-se paisagens magníficas sobre a albufeira.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/834582"
+				},
+				{
+					"Nome": "Capela do Senhor dos Milagres",
+					"Localidade": "Praça Sarah Beirão, 3420-326 Tábua",
+					"Historias": "Tábua foi no séc. XII honra da família dos «Cunha», por dádiva da Infanta D. Tereza, conforme as Inquirições de 1258. Todavia, aquilo que veio a constituir e delimitar o actual concelho de Tábua foi a Reforma dos concelhos ocorrida em meados de Oitocentos, com a criação do concelho de Tábua que substituiu e englobou os concelhos de Candosa (extinto em 1840 e anexado ao de Midões), de Midões (extinto em 1853), de Ázere e de Sinde. O património do concelho espelha bem a sua antiguidade, destacando-se a Via Romana da Pedra da Sé, a Ponte Romana dos Sumes, os vários lagares, lagaretas e sepulturas antropomórficas, bem como, mais recente, os pelourinhos e a Capela de Nosso Senhor dos Milagres.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/796691"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Barbas",
+					"Morada": "Largo Almeida Garrett, 3420-305 Tábua",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/21/2a/53/restaurante-o-barbas.jpg"
+				},
+				{
+					"Nome": "Pizzaria Forno D'Ouro",
+					"Morada": "Rua Prof. Doutor Caeiro da Matta n° 7, 3420-335 Tábua",
+					"Classificacao": 4.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/1b/ea/8a/bordinhas-paozinho.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Guest House Tábua",
+					"Morada": " Praça Antonio Castanheira Neves 3, 1º esquerdo, 3420-307 Tábua",
+					"Preco": "43€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/494/49427632.jpg"
 				}
 			]
 		},
@@ -422,25 +617,39 @@
 			"Nome": "Vila Nova de Poiares",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Casa de Campo de Soutelo",
+					"Localidade": "Vila Nova de Poiares, Coimbra",
+					"Historia": "Com uma piscina exterior e banheira de hidromassagem, Casa de Campo de Soutelo está localizado em Soutelo. Coimbra fica a 10 km de distância. Wi-Fi gratuito está disponível em toda a propriedade e estacionamento privado gratuito está disponível no local. O alojamento está equipado com uma televisão de ecrã plano. Algumas unidades dispõem de terraço e / ou varanda. Cada unidade vem com uma casa de banho privada ou partilhada, equipada com roupões de banho. Toalhas e roupa de cama estão disponíveis. Casa de Campo de Soutelo também inclui uma sauna. Os hóspedes podem desfrutar do restaurante no local. aluguer de automóveis está disponível na propriedade e a área é popular para o ciclismo e pesca. Você pode participar em diversas actividades, tais como canoagem e caminhadas. Figueira da Foz é de 47 km de Casa de Campo de Soutelo, enquanto Piódão é de 42 km da propriedade.",
+					"Imagem": "https://q.bstatic.com/data/bsuitewf/5a09afd6e1ba0726259f0e98b0b514029cd35423"
+				},
+				{
+					"Nome": "Largo da Républica",
+					"Localidade": "Jardim de Vila Nova de Poiares, 3350-156 Vila Nova de Poiares",
+					"Historia": "O largo central de Poiares, um excelente espaço ajardinado que tem à sua volta a Câmara Municipal e a Igreja Matriz. Dali também inicia a rua por onde se acede ao Monumento ao Cristo Rei.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/administrator/coimbra/c-vila-nova-poiares/vila-nova-poiares/largo-republica-2.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante A Estrela da Mó",
+					"Morada": "3350-211 São Miguel de Poiares",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/bb/b7/84/estrela-da-mo.jpg"
+				},
+				{
+					"Nome": "Restaurante O Confrade",
+					"Morada": "Largo Dr. Daniel de Matos, 3350-156 Vila Nova de Poiares",
+					"Classificacao": 4.3,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/386413/363107.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Casa nas Serras",
+					"Morada": "Rua do Polomé 19, 3350-023 Vila Nova de Poiares",
+					"Preco": "88€",
+					"Classificacao": 3,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/800807"
 				}
 			]
 		}

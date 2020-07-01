@@ -6,77 +6,113 @@
 			"Nome": "Armamar",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
+					"Nome": "Miradouro S. Domingos",
+					"Localidade": "Fontelo",
+					"Historia": "Daqui conseguem avistar-se terras dos distritos de Viseu, Vila Real e Porto. Mesmo à frente dos nossos olhos ergue-se a imponente Serra do Marão e aos nossos pés o rio Douro que corre junto à cidade de Peso da Régua na sua viagem rumo ao Porto. A oeste avistam-se o escadório e o santuário de Nossa Senhora dos Remédios, em Lamego.",
+					"Imagem": "https://1.bp.blogspot.com/-l_5JJSkCvYw/UdHURKv_f4I/AAAAAAAAAV8/SARV4D1kg50/s1600/SDomingos_A.JPG"
+				},
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Fonte Nova",
+					"Morada": "Av. 8 de Setembro 1, 5110-121 Armamar",
+					"Classificacao": 4.8,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/1d/eb/58/restaurante-reg-fonte.jpg"
+				},
+				{
+					"Nome": "Bom Garfo",
+					"Morada": "Av. 8 de Setembro 16A, 5110-000 Armamar",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/a9/b8/1e/o-bom-garfo.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
+					"Nome": "Hotel Folgosa Douro",
+					"Morada": "Estrada Nacional 222, 5110-204 Armamar",
+					"Preco": "57€",
+					"Classificacao": 3,
+					"Imagem": "https://thumbnails.trvl-media.com/1YTyb4-_X5snHNAYwlXtX_AAWK8=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/4000000/3050000/3047800/3047724/ca4859c5_z.jpg"
+				},
 			]
 		},
 		{
 			"Nome": "Carregal do Sal",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Dólmen da Orca",
+					"Localidade": "Carregal do Sal",
+					"Historia": "O Dólmen da Orca, Lapa da Orca ou Orca de Fiais da Telha é constituído por uma anta de câmara poligonal e corredor encolvido por mamoa.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/807269"
+				},
+				{
+					"Nome": "Pelourinho de Currelos",
+					"Localidade": "Largo Dr. Augusto Pires da Silva Vaz Serra 8, 3430-211 Carregal do Sal",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/848250"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Café Central",
+					"Morada": "R. Afonso Costa 24, 3430-003 Carregal do Sal",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/c4/7f/3d/espaco-exterior.jpg"
+				},
+				{
+					"Nome": "Pizzaria Telheirinho",
+					"Morada": "R. Eduardo Silvestre do Amaral 13A, 3430-121 Carregal do Sal",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/766534"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Castro Daire",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Museu Municipal de Castro Daire",
+					"Localidade": "R. Dr. Lacerda Pinto 1, 3600-078 Castro Daire",
+					"Historia": "O seu acervo museológico é constituído por coleções de objetos essencialmente etnográficos e arqueológicos.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/837376"
+				},
+				{
+					"Nome": "Igreja Matriz de Castro Daire",
+					"Localidade": "Largo São Pedro 1, Castro Daire",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/821579"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Terminal",
+					"Morada": "Av. Gen. Humberto Delgado 29, 3600-187 Castro Daire",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/764501"
+				},
+				{
+					"Nome": "Feira dos Sabores",
+					"Morada": "Av. Gen. Humberto Delgado 84, 3600-187 Castro Daire",
+					"Classificacao": 4.4,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/459860/391119.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
+					"Nome": "Palace Hotel & Spa Astúrias",
+					"Morada": "Rua dos Balneários nº 334, 3600-398 Castro Daire",
+					"Preco": "75€",
+					"Classificacao": 4,
+					"Imagem": "https://hotelasturias.pt/wp-content/uploads/2017/06/82329431.jpg"
+				},
+				{
+					"Nome": "Hotel Montemuro",
+					"Morada": "Lugar das Termas do Carvalhal, 3600-398 Castro Daire",
 					"Preco": "",
-					"Imagem": ""
+					"Classificacao": 3,
+					"Imagem": "https://montemuro.com/wp-content/uploads/2020/01/hotel-montemuro.jpg"
 				}
 			]
 		},
@@ -84,51 +120,39 @@
 			"Nome": "Cinfães",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Serpa Pinto",
+					"Localidade": "R. Dr. Flávio Resende 26, 4690-038 Cinfães",
+					"Historia": "Acolhe de forma permanente duas coleções locais: a investigação arqueológica do Concelho de Cinfães, e a história e vida do General Alexandre Serpa Pinto.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/837621"
+				},
+				{
+					"Nome": "Parque de Lazer de Pias",
+					"Localidade": "Cinfães",
+					"Historia": "O Parque de Lazer de Pias é uma obra pequena, mas grande naquilo que é a promoção e atratividade dum recurso natural tão importante como é o rio Bestança",
+					"Imagem": "https://cm-cinfaes.pt/media/k2/items/cache/f87fbc910391d7330524962d6e39904f_XL.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Cabaz do Sabor Restaurante",
+					"Morada": "4690, CM1016 P1, Cinfães",
+					"Classificacao": 4.2,
+					"Imagem": "https://turismo.cm-cinfaes.pt/media/k2/items/cache/5fa21cd9e0d2531a2f1dfdffbab46f70_XL.jpg"
+				},
+				{
+					"Nome": "Taberna D'ouro",
+					"Morada": "Largo 25 de Abril 20, 4690-031 Cinfães",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/0d/51/2b/taberna-d-ouro.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Cinfães",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Cerrado Dos Outeirinhos",
+					"Morada": " R. Maj. Monteiro Leite 67, 4690-031 Cinfães",
+					"Preco": "50€",
+					"Classificacao": 4.6,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/183/18383287.jpg"
 				}
 			]
 		},
@@ -136,25 +160,52 @@
 			"Nome": "Lamego",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu de Lamego",
+					"Localidade": "Largo Camões, 5100-147 Lamego",
+					"Historia": "A coleção em exposição permanente reflete a história e percurso do museu, destacando-se pelo seu ecletismo e qualidade individual das suas peças.",
+					"Imagem": "https://culturanorte.gov.pt/fotos/galerias/01_ml-fachada_33488307054d69e04e3dfa.jpg"
+				},
+				{
+					"Nome": "Castelo de Lamego",
+					"Localidade": "5100-150 Lamego",
+					"Historia": "Castelo originalmente de montanha, atualmente os seus dois panos de muralha, interna e externa, inserem-se na malha urbana. Ex-libris da cidade, do alto de seus muros podem-se avistar as águas dos rios Coura, Balsemão e Varosa.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/6/60/Castelo_e_Cisterna.jpg"
+				},
+				{
+					"Nome": "Santuário de Nossa Senhora dos Remédios",
+					"Localidade": "Lamego",
+					"Historia": "No topo do monte de Santo Estêvão, o santuário é atualmente parte integrante do panorama da cidade à qual está unido por um escadório cenográfico.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Santu%C3%A1rio_de_Nossa_Senhora_dos_Rem%C3%A9dios_Lamego.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "A Presunteca de Lamego",
+					"Morada": "N2, 5100-081 Lamego",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/6f/08/67/a-presunteca-de-lamego.jpg"
+				},
+				{
+					"Nome": "A Presunteca de Lamego",
+					"Morada": "Lamego",
+					"Classificacao": 4.5,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/447557/331142.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Lamego Hotel & Life",
+					"Morada": "R. de São João, 5100-183 Lamego",
+					"Preco": "113€",
+					"Classificacao": 4.5,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/EOPXqged-hj_72M-KTQSgO-k_EgTRF-LycuRVB45kn6KCcmEqvXQGfbzudVCSAICz8R-NsGVUwYGOTZPV6MCwiZcZirMMDxWWdtXWz0LfJ8R0pt1F51Grj4yRYrWLYHyrZjHLpw"
+				},
+				{
+					"Nome": "Six Senses Douro Valley",
+					"Morada": "Quinta Vale de Abrão, 5100-758 Samodães,Lamego",
+					"Preco": "375€",
+					"Classificacao": 5,
+					"Imagem": "https://d1xyolhen8fnqh.cloudfront.net/media/hotels/slideshow_images_staged/large/1097785.jpg"
 				}
 			]
 		},
@@ -162,77 +213,94 @@
 			"Nome": "Mangualde",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Praia de Mangualde",
+					"Localidade": "Av. Nossa Sra. do Castelo 49B, Mangualde",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.guiadacidade.pt/static/co/upload_img/18000/17969/thumb_800_1375355007.jpg"
+				},
+				{
+					"Nome": "Palácio dos Condes da Anadia",
+					"Localidade": "Largo Conde de Anadia, 3530-129 Mangualde",
+					"Historia": "Em princípios do século XIX, o Palácio de Anadia, Mangualde era conhecido por Casa dos Paes do Amaral mas, pelo casamento de Manuel Paes do Amaral de Almeida e Vasconcelos Quifel Barbarino, 10.º Senhor da Casa de Mangualde, com sua sobrinha D. Maria Luiza de Sá Pereira de Menezes de Mello Sottomayor, 3.ª Condessa de Anadia, passou a ser conhecido por Palácio Anadia.",
+					"Imagem": "https://alivefm.pt/wp-content/uploads/2018/05/O-Palacio-dos-Condes-de-Anadia-640x330.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Valério",
+					"Morada": "Av. dos Combatentes da Grande Guerra, 3530-168 Mangualde",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3e/a0/d4/bar-a-la-entrada.jpg"
+				},
+				{
+					"Nome": "Restaurante Gestur",
+					"Morada": "Av. Montes Hermínios, Mangualde",
+					"Classificacao": 4.3,
+					"Imagem": "https://cksmangualde.files.wordpress.com/2010/12/dscf2190.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Senhora do Castelo",
+					"Morada": "R. de Santa Maria do Castelo 53, Mangualde",
+					"Preco": "59€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/07/e7/5a/hotel-senhora-do-castelo.jpg"
 				}
 			]
 		},
 		{
 			"Nome": "Moimenta da Beira",
 			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "A Alma da Francesinha",
+					"Morada": "Av. da República 33, 3620-371 Moimenta da Beira",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/1e/f4/d6/a-alma-da-francesinha.jpg"
+				},
+				{
+					"Nome": "Residencial Pico do Meio-Dia",
+					"Morada": "Av. 25 de Abril 95, 3620-306 Moimenta da Beira",
+					"Classificacao": 3.9,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/861179"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Mortágua",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Cascata I do PR2 Ribeira da Fraga, Mortágua",
+					"Localidade": "Mortágua",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://s2.wklcdn.com/image_56/1691092/31026807/19904477.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Adega dos Sabores",
+					"Morada": "R. Dr. Aníbal Dias 26, 3450-150 Mortágua",
+					"Classificacao": 4.1,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/518807/402623.jpg"
+				},
+				{
+					"Nome": "Restaurante a Roda",
+					"Morada": "Av. Dr. José Assis e Santos 48, 3450-141 Mortágua",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/15/8d/2b/71/restaurante-roda-velha.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Montebelo Aguieira Lake Resort & Spa",
+					"Morada": "Vale da Aguieira, 3450-010 Mortágua",
+					"Preco": "155€",
+					"Classificacao": 5,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/342/34241716.jpg"
 				}
 			]
 		},
@@ -240,25 +308,39 @@
 			"Nome": "Nelas",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Caminhos Cruzados Winery",
+					"Localidade": "R. de Carvalhal, Nelas",
+					"Historia": "A Caminhos Cruzados nasceu pela iniciativa e vontade de Paulo Santos, natural de Nelas, que, determinado a regressar às suas origens para investir no mundo do vinho, decide transformar uma antiga empresa agrícola numa moderna empresa produtora e engarrafadora de vinhos.",
+					"Imagem": "https://www.portugalbywine.com/media//MULTIMEDIA/FOTOS/993/13839504842549h_1920.jpg"
+				},
+				{
+					"Nome": "Largo do Comércio",
+					"Localidade": "Largo do Comércio 4, 3520-021 Nelas",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CM-nelas.jpg/1200px-CM-nelas.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Bem-Haja Nelas",
+					"Morada": "Rua da Restauração 5, 3520-069 Nelas",
+					"Classificacao": 4.3,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/3cdb4d67-25ba-4afd-83e2-966b72c10842/6387fd39-a69c-4aad-aa08-de1ff3798615.jpg"
+				},
+				{
+					"Nome": "Taberna da Adega da Lusovini",
+					"Morada": "N231, Nelas",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/48/72/be/as-castas-do-dao.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
+					"Nome": "Hotel Nelas Parq",
+					"Morada": "Av. Prof. Dr. Fortunato de Almeida, 3520-056 Nelas",
 					"Preco": "",
-					"Imagem": ""
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/331/33175259.jpg"
 				}
 			]
 		},
@@ -266,25 +348,33 @@
 			"Nome": "Oliveira de Frades",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Municipal de Oliveira De Frades",
+					"Localidade": "Praça Luís Bandeira 18, 3680-139 Oliveira de Frades",
+					"Historia": "O acervo museológico é constituído, fundamentalmente, por objetos etnográficos ligados ao mundo rural, e por objetos arqueológicos provenientes de monumentos e sítios arqueológicos do concelho. Os objetos expostos, referências históricas do município, estão distribuídos por diferentes espaços temáticos: “Espaço Arqueológico”, “Espaço Rural”, “Um município em construção” e “Artes e ofícios”.",
+					"Imagem": "https://viseunow.pt/wp-content/uploads/2020/05/Museu-Municipal-830x596.png"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Mirante",
+					"Morada": "R. Nelson Neves Bandeira, Oliveira de Frades",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/bd/73/74/photo2jpg.jpg"
+				},
+				{
+					"Nome": "O Cantinho do Dino",
+					"Morada": "EM617, Oliveira de Frades",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/16/a6/42/4c/img-20190303-201842-largejpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Ulveira",
+					"Morada": "Largo Feira 17, 3680-076 Oliveira de Frades",
+					"Preco": "45€",
+					"Classificacao": 3,
+					"Imagem": "https://r-fa.bstatic.com/xdata/images/xphoto/1920x810/37970083.jpg?k=0771aa0f491b3e58cd5f0b3bcb0e75e34924ee796c5f557f3111e7158a5752b8&o="
 				}
 			]
 		},
@@ -292,25 +382,46 @@
 			"Nome": "Penalva do Castelo",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Forno Comunitário de Sangemil",
+					"Localidade": "R. Formosa, 3510-000 Penalva do Castelo",
+					"Historia": "O forno comunitário de Sangemil é o resultado de um projeto de recuperação levado a cabo pela junta de freguesia da Ínsua, que visa recuperar o fabrico artesanal do afamado pão de Sangemil. O espaço inclui também um espaço museológico que explica e testemunha o ciclo do pão.",
+					"Imagem": "https://mb.web.sapo.io/683f7c0c4ea383ff49073ccff7a7ff91f50f988c.jpg"
+				},
+				{
+					"Nome": "Mata da Nossa Senhora de Lourdes",
+					"Localidade": "Penalva do Castelo",
+					"Historia": "Mata na qual predomina o pinheiro manso, mimosas e amieiros e onde existe um parque de merendas junto ao rio com mesas e cadeiras em granito.",
+					"Imagem": "https://daoedemo.com/wp-content/uploads/2019/03/senhora-de-lurdes00.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Recordo - Tradição à Mesa",
+					"Morada": "3550-137 Penalva do Castelo",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/ba/d9/c6/recordo-restaurante.jpg"
+				},
+				{
+					"Nome": "Pizzeria da Lameira",
+					"Morada": "Penalva do Castelo",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/2c/7d/5d/exterior.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Parador de Casa da Ínsua",
+					"Morada": "Hotel Parador Casa da Ínsua, 3550-126 Penalva do Castelo",
+					"Preco": "95€",
+					"Classificacao": 5,
+					"Imagem": "https://thumbnails.trvl-media.com/VGmLvfIT95HpMykxh5mnUa_ezBs=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/5000000/4020000/4011700/4011623/3c6b1710_z.jpg"
+				},
+				{
+					"Nome": "Portas do Dão",
+					"Morada": "25 De Abril, 3550-135 Penalva do Castelo",
+					"Preco": "48€",
+					"Classificacao": 3,
+					"Imagem": "https://www.hotelportasdodao.com/web/documento.php?id=20"
 				}
 			]
 		},
@@ -318,25 +429,39 @@
 			"Nome": "Penedono",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Torre do relogio",
+					"Localidade": "Penedono",
+					"Historia": "Torre de relógio de planta retangular coroada por pináculos e por um sino. Assente num afloramento rochos",
+					"Imagem": "https://miscastillos.files.wordpress.com/2018/02/torre-relogio-penedono-1.jpg?w=550&h=841"
+				},
+				{
+					"Nome": "Castelo de Penedono",
+					"Localidade": "Penedono",
+					"Historia": "Em posição dominante sobre a povoação, esta pequena estrutura medieval constitui-se em um misto de fortificação defensiva e residência senhorial.",
+					"Imagem": "https://cm-penedono.pt/wp-content/uploads/2017/03/884168-750x475.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Fornos Do Rei - Taberna Medieval",
+					"Morada": "Penedono",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/75/85/b5/inside-view.jpg"
+				},
+				{
+					"Nome": "Flora",
+					"Morada": "Penedono",
+					"Classificacao": 4.2,
+					"Imagem": "https://cm-penedono.pt/wp-content/uploads/2017/03/1459433634.1615-840x475.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Medieval de Penedono",
+					"Morada": "Praça 25 de Abril, Penedono",
+					"Preco": "60€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/72/54/c1/hotel-medieval-de-penedono.jpg"
 				}
 			]
 		},
@@ -344,77 +469,93 @@
 			"Nome": "Resende",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Municipal de Resende",
+					"Localidade": "Rua Dr. Amadeu Sargaço, 4660-238 Resende",
+					"Historia": "O espólio etnográfico, que caracteriza os usos e costumes da nossa região, e o núcleo arqueológico, composto por um conjunto de materiais desde a pré-história aos nossos dias, constituem maravilhas a apreciar e admirar no Museu Municipal de Resende.",
+					"Imagem": "https://cm-resende.pt/wp-content/uploads/2018/11/Museu-Municipal_fachada-400x400.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Douro à Vista",
+					"Morada": "Quintela , Resende, Viseu, 4660-202 Resende",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/768761"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Santo Comba Dão",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Miradouro Santa Comba Dão",
+					"Localidade": "R. Outeirinho 2 18, 3440-367 Santa Comba Dão",
+					"Historia": "Miradouro com fantásticas vistas sobre o concelho, tendo o rio Dão como ponto central. Não se esqueça da câmara fotográfica!",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/832644"
+				},
+				{
+					"Nome": "Passadiços de Santa Comba Dão",
+					"Localidade": "R. dos Aldrogãos 2 4, 3440-401 Santa Comba Dão",
+					"Historia": "Passadiço localizado junto à ribeira de Santa Comba Dão, muito agradável para um passeio calmo. Pelo caminho, encontrará alguns patos e flores coloridas.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/849513"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Nova Cidade ",
+					"Morada": "Av. Dr. Sá Carneiro 60, 3440-324 Santa Comba Dão",
+					"Classificacao": 4.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/b2/dc/71/restaurante-nova-cidade.jpg"
+				},
+				{
+					"Nome": "Restaurante Cova Funda",
+					"Morada": "R. Nossa Sra. da Assunção 2, 3440-388 Santa Comba Dão",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/34/78/e6/interior-do-restaurante.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "São João da Pesqueira",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Miradouro de São Salvador do Mundo",
+					"Localidade": "São João da Pesqueira",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://lh3.googleusercontent.com/proxy/TUUU2rteizTdS5p_PMdW5sxHYIgcRxXBK1D40XHsq_oIKwX0nxUW1pc1-0XsD8ErnM2OgbI9NJzP1PzLBqRaYngOV6uQVkd4Is4jIeFQQbYcodvfDXcAztGRfsaGCqK3f6MC13m8Q9wR-XpTlIu6o09KdmsULOyBKHwfS6MHzHVPWNa2vh9N9kg31Ete9ZW3XJKSJ3jlytI23Q"
+				},
+				{
+					"Nome": "Palácio do Cidrô",
+					"Localidade": "São João da Pesqueira",
+					"Historia": "Situada em S. João da Pesqueira, uma das mais reputadas zonas de produção de vinhos do Douro, a Quinta de Cidrô transformou-se num modelo de experimentação vitivinicola para toda a região.",
+					"Imagem": "https://fotos.web.sapo.io/i/G9611334d/18207452_gpRYR.jpeg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Cantiflas",
+					"Morada": "R. Nova 13, 5130-301 São João da Pesqueira",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/72/84/01/photo0jpg.jpg"
+				},
+				{
+					"Nome": "Adega Da Ana",
+					"Morada": "Largo do Torrão 8, 5130-331 São João da Pesqueira",
+					"Classificacao": 4.3,
+					"Imagem": "https://www.sjpesqueira.pt/cmsaojoaopesqueira/uploads/poi/image/10/adega_da_ana.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Ventozelo Hotel & Quinta",
+					"Morada": "5130-135 São João da Pesqueira",
+					"Preco": "115€",
+					"Classificacao": 4,
+					"Imagem": "https://thumbnails.trvl-media.com/zKddZbTZAVJwvNsCindA9fDscwY=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/42000000/41960000/41951900/41951817/5a774c48_z.jpg"
 				}
 			]
 		},
@@ -422,25 +563,46 @@
 			"Nome": "São Pedro do Sul",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Estação Caminhos De Ferro S. Pedro Sul",
+					"Localidade": "R. Estação, 3660-427 São Pedro do Sul",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://mapio.net/images-p/88749946.jpg"
+				},
+				{
+					"Nome": "Termas de São Pedro do Sul",
+					"Localidade": "Praça Dr. António José de Almeida Termas de, 3660-692 São Pedro do Sul",
+					"Historia": "As Termas de São Pedro do Sul ficam em Várzea, São Pedro do Sul. São as termas mais frequentadas do país. A nascente de água termal de S. Pedro do Sul é explorada desde o séc. I. O que resta hoje de um balneu construído pelo Romanos é Monumento Nacional. ",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/1e/d1/4e/photo4jpg.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Adega Do Ti Joaquim",
+					"Morada": "Rua Central 779, 3660-692 São Pedro do Sul",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/8b/40/11/getlstd-property-photo.jpg"
+				},
+				{
+					"Nome": "Restaurante Telheiro da Alice",
+					"Morada": "R. Apartamentos Solares do Vouga, 3660-688 São Pedro do Sul",
+					"Classificacao": 4.0,
+					"Imagem": "https://scontent.fymy1-1.fna.fbcdn.net/v/t1.0-9/s720x720/89617925_135326434685998_2796068214147121152_n.jpg?_nc_cat=102&_nc_sid=110474&_nc_eui2=AeFioJ04NRfh8kiUOxdDXQJ_EQZeSH6OvA0RBl5Ifo68DWLhDE16pOG2Oq4zUWklP7Q&_nc_oc=AQlgVFX26EbCMkj-hkCNQLZqGZRDGBhVslD2R1m2XFEScJQB6PvZoeRVVFCegvsCYojyPG04DtiIrN5I7mvTgzuB&_nc_ht=scontent.fymy1-1.fna&_nc_tp=7&oh=41825282476bbc1bcfc054f93912c959&oe=5F0EE711"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Palace Hotel & Spa Monte Rio",
+					"Morada": "Estrada da Lameira, Cruzamento com a variante - Várzea, 3660-692 São Pedro do Sul",
+					"Preco": "71€",
+					"Classificacao": 3,
+					"Imagem": "https://hotelmonterio.com.pt/wp-content/uploads/2019/12/130611128-1108x600.jpg"
+				},
+				{
+					"Nome": "Hotel Do Parque - Health Club & Spa",
+					"Morada": "Termas de, Rua do Serrado, 3660-692 São Pedro do Sul",
+					"Preco": "85€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/252/252824638.jpg"
 				}
 			]
 		},
@@ -448,77 +610,93 @@
 			"Nome": "Sátão",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Eucalipto de Contige",
+					"Localidade": "Sátão",
+					"Historia": "O eucalipto de Contige, considerada “a maior árvore classificada de Portugal”, pela insuspeita Universidade de Aveiro, é um dos grandes ex-libris do concelho de Sátão.",
+					"Imagem": "https://daoedemo.com/wp-content/uploads/2018/01/eucalipto-contige-en229.jpg"
+				},
+				{
+					"Nome": "Penedros da Cabeça",
+					"Localidade": "Sátão",
+					"Historia": "Locais de lazer, de paz, de reflexão e ainda de ligação a memórias perfeitas de infância: os baloiços de madeira são a nova moda em Portugal, até porque são uma aposta certa de sucesso.",
+					"Imagem": "https://i2.wp.com/www.osmeustrilhos.pt/wp-content/uploads/2020/06/Penedro-da-Cabe%C3%A7a-S%C3%A1t%C3%A3o-OsMeusTrilhos-2.jpg?resize=940%2C580&ssl=1"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Eat & Meet",
+					"Morada": "R. Dr. Hilário de Almeida Pereira 113, 3560-172 Sátão",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/c5/22/ee/multi-cuisine-fusion.jpg"
+				},
+				{
+					"Nome": "Solar Dos Petiscos",
+					"Morada": "R. Ferreira Lapa 10, Sátão",
+					"Classificacao": 4.4,
+					"Imagem": "https://10619-2.s.cdn12.com/rests/original/105_366049167.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Sernancelhe",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Santuário Nossa Senhora Da Lapa",
+					"Localidade": "Sernancelhe",
+					"Historia": "A primitiva capela foi construída em 1498. A actual igreja foi construída no século XVII pelos jesuítas, que muito promoveram as peregrinações.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/e6/4d/3e/santuario-nossa-senhora.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Fabius Restaurante & Co.",
+					"Morada": "R. Colégio 1, 3640-233 Sernancelhe",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/3f/f8/97/fabius.jpg"
+				},
+				{
+					"Nome": "Tasquinha do Mário",
+					"Morada": "R. Clube 1, 3640-249 Sernancelhe",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1b/5a/aa/22/img-20200527-wa0007-largejpg.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Tabuaço",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Miradouro do Fradinho",
+					"Localidade": "Tabuaço",
+					"Historia": "As Fragas do Fradinho, situadas à saída de Tabuaço, em direcção à freguesia de Távora, são penedos “apocalíptos” que a natureza colocou ali, ao alto, e que parecem querer tocar o céu.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/37/af/13/fotos-do-fradinho.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Tábua D`aço",
+					"Morada": "R. Abel Botelho, 5120-372 Tabuaço",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.guiadosrestaurantes.pt/wp-content/uploads/2018/05/tabua1.jpg"
+				},
+				{
+					"Nome": "Tachinho da Té",
+					"Morada": "R. Conde Ferreira 35, 5120-400 Tabuaço",
+					"Classificacao": 4.3,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/444245/309419.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Douroinn",
+					"Morada": "Av. Mal. Carmona, 5120-418 Tabuaço",
+					"Preco": "45€",
+					"Classificacao": 2,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/303/30381238.jpg"
 				}
 			]
 		},
@@ -526,51 +704,66 @@
 			"Nome": "Tarouca",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Cristo Rei",
+					"Localidade": "Tarouca",
+					"Historia": "O Miradouro do Cristo Rei, em Tarouca fica a uma altitude de 919m, e deve o seu nome à monumental estátua que se encontra no alto da povoação.",
+					"Imagem": "https://www.guiadacidade.pt/assets/capas_poi/capa_20876.jpg"
+				},
+				{
+					"Nome": "Museu do Espumante",
+					"Localidade": "Rua Casa do Paço, rua Egas Muniz Galvares, 3610-013 Tarouca",
+					"Historia": "É no lagar, já existente na Casa do Paço, que se inicia todo o processo de concepção do espumante. As castas são colocadas no lagar e pisadas. O vinho, depois de espremido, passa para a lagareta.",
+					"Imagem": "https://www.wlci9.com/filecloud/aminhaconta/download/?ut=170&pst=1973&fl=57623&plus=640x420&1552056740668"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Pizzaria Girassol",
+					"Morada": "Av. Nova Dalvares 4, 14 Tarouca",
+					"Classificacao": 3.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/ef/b5/d6/photo0jpg.jpg"
+				},
+				{
+					"Nome": "Restaurante Lumik",
+					"Morada": "nº76, Av. Anarias do Carmo Santos, 3610-020 Tarouca",
+					"Classificacao": 4.2,
+					"Imagem": "https://10619-2.s.cdn12.com/rests/original/106_504280370.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Tondela",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Fonte da Sereia",
+					"Localidade": "R. Tomaz Ribeiro 195, Tondela",
+					"Historia": "A designada Fonte da Sereia, setecentista e de estilo barroco, inclui um belo frontão com as armas reais encimado por uma figura de mulher empunhando uma trompa.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/viseu-tondela/tondela/fonte-sereia.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Os Três Pipos",
+					"Morada": "R. Santo Amaro 966, 3460-479 Tondela",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/b6/c5/b2/a-sala-do-lagar-todo.jpg"
+				},
+				{
+					"Nome": "Gastrófilo",
+					"Morada": "Jardim da Praceta Dr. Teófilo da Cruz, 3460-526 Tondela",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-p/0b/06/94/46/photo0jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel SJ",
+					"Morada": "Av. Dr. Francisco Sá Carneiro 170, 3460-523 Tondela",
+					"Preco": "75€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/135/13532929.jpg"
 				}
 			]
 		},
@@ -578,25 +771,33 @@
 			"Nome": "Vila Nova de Paiva",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Jardim do Auditório (Praça do Município)",
+					"Localidade": "Vila Nova de Paiva",
+					"Historia": "O Jardim do Auditório ao Ar Livre é um espaço verde bastante arborizado, onde está inserido o auditório ao ar livre de Vila Nova de Paiva.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/827700"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "The Village Grill",
+					"Morada": "R. Egas Moniz 101 r/c, 3650-219 Vila Nova de Paiva",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/1c/75/fa/the-village-grill.jpg"
+				},
+				{
+					"Nome": "Restaurante O Trapalhão",
+					"Morada": "R. Mártir São Sebastião, 3650-220 Vila Nova de Paiva",
+					"Classificacao": 4.2,
+					"Imagem": "https://cdn2.igogo.pt/fotos/11/46/restaurante-o-trapalhao-2-2.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Mira Paiva",
+					"Morada": "Vila Nova de Paiva",
+					"Preco": "100€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/9b/72/01/hotel-et-restaurant-pour.jpg"
 				}
 			]
 		},
@@ -604,25 +805,46 @@
 			"Nome": "Viseu",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Museu Nacional Grão Vasco",
+					"Localidade": "Adro Sé, 3500-195 Viseu",
+					"Historia": "Uma das virtualidades da coleção de pintura deste museu é a de permitir enunciar os principais momentos, movimentos e protagonistas da história da pintura portuguesa.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Antigo_Semin%C3%A1rio_e_S%C3%A9_de_Viseu.jpg"
+				},
+				{
+					"Nome": "Adro Sé, 3500-195 Viseu",
+					"Localidade": "Estr. São João da Carreira 3500, 3500-048 Viseu",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.culturacentro.gov.pt/media/4121/2j041q5ccw193dswfrbmprd_20.gif"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Nomiya Sushi Bar - Viseu",
+					"Morada": "Av. Prof. Dr. Júlio Fragata 36, 3500-224 Viseu",
+					"Classificacao": 4.5,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/460934/395071.jpg"
+				},
+				{
+					"Nome": "Restaurante Santa Luzia",
+					"Morada": " N2 394, 3515-327 Viseu",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/02/b3/d5/a9/santa-luzia.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Montebelo Viseu Congress Hotel",
+					"Morada": "Urbanização, Q.ta do Bosque, 3510-020 Viseu",
+					"Preco": "107€",
+					"Classificacao": 5,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/202/20235440.jpg"
+				},
+				{
+					"Nome": "Palacio Dos Melos Hotel",
+					"Morada": "R. Chão do Mte. 4, 3500-103 Viseu",
+					"Preco": "75€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/341/34191946.jpg"
 				}
 			]
 		},
@@ -630,25 +852,39 @@
 			"Nome": "Vouzela",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Estação Caminho de Ferro Vouzela",
+					"Localidade": "Vouzela",
+					"Historia": "A Estação Ferroviária de Vouzela foi uma interface da Linha do Vouga, que servia a vila de Vouzela, no Distrito de Viseu, em Portugal.",
+					"Imagem": "https://i.pinimg.com/originals/72/85/3e/72853e7e31456b6a879b0d428dc95147.jpg"
+				},
+				{
+					"Nome": "Alameda D. Duarte de Almeida",
+					"Localidade": "3670-261 Vouzela",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/826277"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Margarida Restaurante",
+					"Morada": "R. Mousinho de Albuquerque 33, 3670-258 Vouzela",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/04/b6/b3/a5/restaurante-margarida.jpg"
+				},
+				{
+					"Nome": "Quinta da Cavada",
+					"Morada": "Quinta da cavada, Urbanização Porto Salto, 3670-269 Vouzela",
+					"Classificacao": 4.5,
+					"Imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/10/12260502lm-rest-quinta-da-cavada-11-07-16-1.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Casa Museu",
+					"Morada": "R. Ribeiro Cardoso N°6, 3670-231 Vouzela",
+					"Preco": "55€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/131/13160290.jpg"
 				}
 			]
 		}
