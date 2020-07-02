@@ -31,12 +31,13 @@
           "Morada": "Avenida Antero Quental 22, 7600-013 Aljustrel",
           "Classificacao": 4.3,
           "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/bd/09/f6/vongole-alla-spagnola.jpg"
-          {
+        },
+        {
             "Nome": "Mirante",
             "Morada": "Urbanização praça de touros, 7600-098 Aljustrel",
             "Classificacao": 3.7,
             "Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/770495"
-          }
+        }
       ],
       "Hoteis": [
         {
