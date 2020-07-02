@@ -11,8 +11,9 @@ namespace Portourgal.ViewModel
 {
     class DistritosInfViewModel
     {
-        public DistritosInfViewModel(Distrito distrito)
+        public DistritosInfViewModel(string distritoASCII)
         {
+            Distrito distrito = DistritoInteraction.GetDistrito(distritoASCII).Result;
             Nome = distrito.Nome;
             ASCIIName = distrito.ASCIIName;
             Historia = distrito.Historia;

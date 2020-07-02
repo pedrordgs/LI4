@@ -1,4 +1,5 @@
-﻿using Portourgal.Model;
+﻿using Portourgal.InteractionsAPI;
+using Portourgal.Model;
 using Portourgal.ViewModel;
 using System;
 using System.Collections.Generic;
@@ -14,10 +15,10 @@ namespace Portourgal.View
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class DistritosInfView : ContentPage
     {
-        public DistritosInfView(Distrito distrito)
+        public DistritosInfView(string distritoASCII)
         {
             InitializeComponent();
-            BindingContext = new DistritosInfViewModel(distrito);
+            BindingContext = new DistritosInfViewModel(distritoASCII);
         }
     }
 }

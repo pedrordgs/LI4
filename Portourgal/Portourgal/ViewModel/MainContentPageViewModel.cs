@@ -21,7 +21,7 @@ namespace Portourgal.ViewModel
         {
             string distrito = ((string)d);
             Distrito dist = Distritos.Find(x => string.Equals(x.Nome, distrito));
-            App.Current.MainPage.Navigation.PushAsync(new DistritosInfView(dist));
+            App.Current.MainPage.Navigation.PushAsync(new DistritosInfView(dist.ASCIIName));
         }
 
         public List<Distrito> Distritos { get; set; }
