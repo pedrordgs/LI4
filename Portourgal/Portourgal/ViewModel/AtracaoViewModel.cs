@@ -32,30 +32,30 @@ namespace Portourgal.ViewModel
             Distrito = distrito;
             DistritoASCII = distritoASCII;
             Atracao = atracao;
-            Estrelas = new List<Estrela>();
             Avaliacao c = null;
             if (atracao.Classificacao != null)
             {
                 c = atracao.Classificacao.FirstOrDefault(x => x.Email.Equals(UserInteraction.user.Email));
             }
-            Estrelas = new List<Estrela>();
+            List<Estrela> aux = new List<Estrela>();
             if (c != null)
             {
                 int i;
                 for (i = 0; i < c.Classificacao; i++)
                 {
-                    Estrelas.Add(new Estrela("estrela_cor.png", i));
+                    aux.Add(new Estrela("estrela_cor.png", i));
                 }
                 while (i < 5)
-                    Estrelas.Add(new Estrela("estrela.png", i));
+                    aux.Add(new Estrela("estrela.png", i++));
             }
             else
             {
                 for (int i = 0; i < 5; i++)
                 {
-                    Estrelas.Add(new Estrela("estrela.png", i));
+                    aux.Add(new Estrela("estrela.png", i));
                 }
             }
+            Estrelas = aux;
             if (atracao.Classificacao != null)
             {
                 List<int> l = atracao.Classificacao.Select(x => x.Classificacao).ToList();
@@ -71,6 +71,7 @@ namespace Portourgal.ViewModel
             int index = (int)o;
             Avaliacao c = new Avaliacao(UserInteraction.user.Email, index+1);
             Distrito d = DistritoInteraction.GetDistrito(DistritoASCII).Result;
+            Avaliacao help;
             bool found = false;
             for(int i = 0; !found && i < d.Cidades.Count; i++)
             {
@@ -82,32 +83,42 @@ namespace Portourgal.ViewModel
                         {
                             d.Cidades[i].Atracoes[j].Classificacao = new List<Avaliacao>();
                         }
-                        d.Cidades[i].Atracoes[j].Classificacao.Add(c);
+                        if ((help=d.Cidades[i].Atracoes[j].Classificacao.FirstOrDefault(x=> x.Email.Equals(UserInteraction.user.Email))) != null)
+                        {
+                            if (help.Classificacao == index + 1) d.Cidades[i].Atracoes[j].Classificacao.Remove(help);
+                            else
+                            {
+                                d.Cidades[i].Atracoes[j].Classificacao.Remove(help);
+                                d.Cidades[i].Atracoes[j].Classificacao.Add(c);
+                            }
+                        }
+                        else d.Cidades[i].Atracoes[j].Classificacao.Add(c);
                         Atracao = d.Cidades[i].Atracoes[j];
                         found = true;
                     }
                 }
             }
             DistritoInteraction.UpdateDistrito(DistritoASCII,d);
-            c= Atracao.Classificacao.FirstOrDefault(x => x.Email.Equals(UserInteraction.user.Email));
-            Estrelas = new List<Estrela>();
+            c = Atracao.Classificacao.FirstOrDefault(x => x.Email.Equals(UserInteraction.user.Email));
+            List<Estrela> aux = new List<Estrela>();
             if (c != null)
             {
                 int i;
                 for (i = 0; i < c.Classificacao; i++)
                 {
-                    Estrelas.Add(new Estrela("estrela_cor.png", i));
+                    aux.Add(new Estrela("estrela_cor.png", i));
                 }
                 while (i < 5)
-                    Estrelas.Add(new Estrela("estrela.png", i));
+                    aux.Add(new Estrela("estrela.png", i++));
             }
             else
             {
                 for (int i = 0; i < 5; i++)
                 {
-                    Estrelas.Add(new Estrela("estrela.png", i));
+                    aux.Add(new Estrela("estrela.png", i));
                 }
             }
+            Estrelas = aux;
             if (Atracao.Classificacao != null)
             {
                 List<int> l = Atracao.Classificacao.Select(x => x.Classificacao).ToList();

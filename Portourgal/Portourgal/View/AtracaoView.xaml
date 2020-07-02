@@ -26,7 +26,7 @@
                 <StackLayout Orientation="Horizontal" Margin="10" BindableLayout.ItemsSource="{Binding Estrelas}">
                     <BindableLayout.ItemTemplate>
                         <DataTemplate>
-                            <ImageButton Source="{Binding Imagem}" HeightRequest="20" WidthRequest="20" Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:AtracaoViewModel}}, Path=ComandoEstrela}" CommandParameter="{Binding Index}" />
+                            <ImageButton Source="{Binding Imagem}" HeightRequest="20" WidthRequest="20" BackgroundColor="Transparent" Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:AtracaoViewModel}}, Path=ComandoEstrela}" CommandParameter="{Binding Index}" />
                         </DataTemplate>
                     </BindableLayout.ItemTemplate>
                 </StackLayout>
