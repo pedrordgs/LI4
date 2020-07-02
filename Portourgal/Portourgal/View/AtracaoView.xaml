@@ -4,6 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:local="clr-namespace:Portourgal.View"
+             xmlns:localvm="clr-namespace:Portourgal.ViewModel"
              mc:Ignorable="d"
              x:Class="Portourgal.View.AtracaoView">
     <ContentPage.Resources>
@@ -20,6 +21,16 @@
             <StackLayout Orientation="Horizontal" Margin="10,0,0,0">
                 <Label Text="Visitado?" />
                 <Switch IsToggled="{Binding Visitado}" OnColor="#C65F4A" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <StackLayout Orientation="Horizontal" Margin="10" BindableLayout.ItemsSource="{Binding Estrelas}">
+                    <BindableLayout.ItemTemplate>
+                        <DataTemplate>
+                            <ImageButton Source="{Binding Imagem}" HeightRequest="20" WidthRequest="20" Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:AtracaoViewModel}}, Path=ComandoEstrela}" CommandParameter="{Binding Index}" />
+                        </DataTemplate>
+                    </BindableLayout.ItemTemplate>
+                </StackLayout>
+                <Label Text="{Binding Classificacao}"  VerticalOptions="Center"/>
             </StackLayout>
         </StackLayout>
     </ScrollView>

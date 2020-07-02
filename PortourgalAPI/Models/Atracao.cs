@@ -11,5 +11,6 @@ namespace PortourgalAPI.Models
         public string Localidade { get; set; }
         public string Historia { get; set; }
         public string Imagem { get; set; }
+        public List<Avaliacao> Classificacao { get; set; }
     }
 }
