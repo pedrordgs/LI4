@@ -3,7 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:localvm="clr-namespace:Portourgal.ViewModel"
              mc:Ignorable="d"
+             Title="Sugestões"
              x:Class="Portourgal.View.DetalhesRoteirosView">
     <ContentPage.Content>
         <ScrollView>
@@ -11,50 +13,52 @@
             <BindableLayout.ItemTemplate>
                 <DataTemplate>
                     <StackLayout>
-                        <Label Text="{Binding Cidade} - {Binding Distritro}"/>
-                        <Label Text="Sugestões"/>
-                        <Label Text="O que visitar"/>
+                            <Label Text="{Binding Cidade}" TextColor="Black" FontSize="30"/>
+                            <Label Text="O que visitar" TextColor="Black" FontSize="15"/>
                         <!-- grid com 2 colunas / stack layout horizontal-->
                         <StackLayout Orientation="Horizontal" Spacing="20" BindableLayout.ItemsSource="{Binding Atracoes}">
                             <BindableLayout.ItemTemplate>
                                     <DataTemplate>
                                         <Frame CornerRadius="20" Padding="0" WidthRequest="200" HeightRequest="200" IsClippedToBounds="True" HorizontalOptions="Center">
                                             <!--<StackLayout>-->
-                                                <Image Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" />
+                                            <ImageButton Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:RoteirosViewModel}}, Path=ComandoAtracao}"  CommandParameter="{Binding Params}"/>
                                                 <!--<Label Text="{Binding Nome}" TextColor="Black" HorizontalOptions="Center" VerticalOptions="End"/>-->
                                             <!--</StackLayout>-->
                                         </Frame>
                                     </DataTemplate>
                             </BindableLayout.ItemTemplate>
                         </StackLayout>
-                        <Label Text="Onde Comer"/>
+                            <BoxView BackgroundColor="Transparent" HeightRequest="20" />
+                            <Label Text="Onde Comer" TextColor="Black" FontSize="15"/>
                             <StackLayout Orientation="Horizontal" Spacing="20" BindableLayout.ItemsSource="{Binding Restaurantes}">
                             <BindableLayout.ItemTemplate>
                                     <DataTemplate>
                                         <Frame CornerRadius="20" Padding="0" WidthRequest="200" HeightRequest="200" IsClippedToBounds="True" HorizontalOptions="Center">
                                             <!--<StackLayout>-->
-                                            <Image Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" />
+                                            <ImageButton Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:RoteirosViewModel}}, Path=ComandoRestaurante}" CommandParameter="{Binding Params}"/>
                                             <!--<Label Text="{Binding Nome}" TextColor="Black" HorizontalOptions="Center" VerticalOptions="End"/>-->
                                             <!--</StackLayout>-->
                                         </Frame>
                                     </DataTemplate>
                             </BindableLayout.ItemTemplate>
                         </StackLayout>
-                        <!-- grid com 2 colunas / stack layout horizontal-->
-                        <Label Text="Onde dormir"/>
+                            <BoxView BackgroundColor="Transparent" HeightRequest="20" />
+                            <!-- grid com 2 colunas / stack layout horizontal-->
+                        <Label Text="Onde dormir" TextColor="Black" FontSize="15"/>
                         <StackLayout Orientation="Horizontal" BindableLayout.ItemsSource="{Binding Hoteis}">
                             <BindableLayout.ItemTemplate>
                                     <DataTemplate>
                                         <Frame CornerRadius="20" Padding="0" WidthRequest="200" HeightRequest="200" IsClippedToBounds="True" HorizontalOptions="Center">
                                             <!--<StackLayout>-->
-                                            <Image Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" />
+                                            <ImageButton Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:RoteirosViewModel}}, Path=ComandoHotel}" CommandParameter="{Binding Params}"/>
                                             <!--<Label Text="{Binding Nome}" TextColor="Black" HorizontalOptions="Center" VerticalOptions="End"/>-->
                                             <!--</StackLayout>-->
                                         </Frame>
                                     </DataTemplate>
                             </BindableLayout.ItemTemplate>
                         </StackLayout>
-                        <!-- grid com 2 colunas / stack layout horizontal-->
+                            <BoxView BackgroundColor="Transparent" HeightRequest="40" />
+                            <!-- grid com 2 colunas / stack layout horizontal-->
                     </StackLayout>
                 </DataTemplate>
             </BindableLayout.ItemTemplate>
