@@ -9,9 +9,10 @@
              BarBackgroundColor="White"
              SelectedTabColor="#C65F4A"
              UnselectedTabColor="#696969"
+             Title="{Binding Nome}"
              x:Class="Portourgal.View.MainRoteirosPage">
 
-    <views:RoteirosView Title="Roteiro" IconImageSource="profile.png"/>
-    <views:DetalhesRoteirosView Title="Detalhes" IconImageSource="profile.png"/>
+    <views:RoteirosView Title="Roteiro" IconImageSource="tour.png"/>
+    <views:DetalhesRoteirosView Title="Detalhes" IconImageSource="tourguide.png"/>
 
 </TabbedPage>

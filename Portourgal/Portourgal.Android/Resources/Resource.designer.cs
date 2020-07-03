@@ -10613,7 +10613,13 @@ namespace Portourgal.Droid
 			public const int tooltip_frame_light = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int Up = 2131165327;
+			public const int tour = 2131165327;
+			
+			// aapt resource value: 0x7F070090
+			public const int tourguide = 2131165328;
+			
+			// aapt resource value: 0x7F070091
+			public const int Up = 2131165329;
 			
 			static Drawable()
 			{
