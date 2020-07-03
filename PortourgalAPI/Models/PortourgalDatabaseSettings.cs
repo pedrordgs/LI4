@@ -9,6 +9,7 @@ namespace PortourgalAPI.Models
     {
         public string UsersCollectionName { get; set; }
         public string DistritosCollectionName { get; set; }
+        public string RoteirosCollectionName { get; set; }
         public string ConnectionString { get; set; }
         public string DatabaseName { get; set; }
     }
@@ -17,6 +18,7 @@ namespace PortourgalAPI.Models
     {
         string UsersCollectionName { get; set; }
         string DistritosCollectionName { get; set; }
+        string RoteirosCollectionName { get; set; }
         string ConnectionString { get; set; }
         string DatabaseName { get; set; }
     }

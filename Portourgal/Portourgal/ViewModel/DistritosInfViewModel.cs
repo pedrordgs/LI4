@@ -58,8 +58,7 @@ namespace Portourgal.ViewModel
         void SelecionarAtracao(object a)
         {
             string atracao = (string)a;
-            Atracao atr = Atracoes.Find(x => string.Equals(x.Nome, atracao));
-            App.Current.MainPage.Navigation.PushAsync(new AtracaoView(atr, Nome, ASCIIName));
+            App.Current.MainPage.Navigation.PushAsync(new AtracaoView(atracao, Nome, ASCIIName));
         }
 
         void SelecionarHotel(object h)
