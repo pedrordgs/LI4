@@ -13,6 +13,6 @@
              x:Class="Portourgal.View.MainRoteirosPage">
 
     <views:RoteirosView Title="Roteiro" IconImageSource="tour.png"/>
-    <views:DetalhesRoteirosView Title="Detalhes" IconImageSource="tourguide.png"/>
+    <views:DetalhesRoteirosView Title="Sugestões" IconImageSource="tourguide.png"/>
 
 </TabbedPage>
