@@ -37,6 +37,7 @@ namespace PortourgalAPI
 
             services.AddSingleton<DistritoService>();
             services.AddSingleton<UserService>();
+            services.AddSingleton<RoteiroService>();
 
             services.AddControllers()
                 .AddNewtonsoftJson(options => options.UseMemberCasing());
