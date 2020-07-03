@@ -1,31 +1,45 @@
 {
 	"Nome": "Leiria",
-	"ASCIIName" : "Leiria",
+	"ASCIIName": "Leiria",
 	"Historia": "Com uma gastronomia variada e com tradições reconhecidas, o concelho é historicamente rico, como o testemunham o castelo da cidade e o Santuário de Nossa Senhora da Encarnação. Leiria dispõe ainda, dentro do município, das Termas de Monte Real, de praias como a do Pedrógão, da Lagoa da Ervideira e da mata municipal de Marrazes.",
 	"Cidades": [
 		{
 			"Nome": "Alcobaça",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Mosteiro de Alcobaça",
+					"Localidade": "2460-018 Alcobaça, Leiria",
+					"Historia": "Contemporâneo da fundação de Portugal, o Mosteiro é também um pouco da sua História. Fundado pelo primeiro rei, D. Afonso Henriques, e desde logo consagrado ao culto mariano, nasceu da doação das terras de Alcobaça a Bernardo de Claraval e à Ordem de Cister pela vitória sobre os mouros na conquista de Santarém. A construção iniciou-se em 1178 e terminou cerca de 100 anos depois. Na altura, os mestres pedreiros da Ordem de Cister experimentaram um novo «modo» de construção – o gótico – introduzindo no território português essa linguagem arquitetónica. Os monges de hábito branco criaram na região uma obra de civilização ímpar, cujo primeiro exemplo é a escola pública instituída a partir de 1269. As doações régias recebidas pela Ordem ao longo de diversos reinados vieram a constituir os Coutos de Alcobaça, vastos domínios territoriais que os monges povoaram, desenvolveram e onde instituíram uma escola de agricultura. Na fachada da igreja, apenas o pórtico gótico é original. Ladeando-o, a leveza das estátuas de São Bento e de São Bernardo contrasta com o peso barroco do frontispício e das torres sineiras que foram acrescentadas no século XVIII, época em que também se concluíram as últimas dependências do mosteiro. A grandiosa nave central, despojada de qualquer adorno, produz uma sensação de elevação e espiritualidade. Ao centro de cada braço do transepto podemos ver duas obras-primas da estatuária medieval, os túmulos de D. Pedro I (1357-67) e D. Inês, colocados frente a frente para que se possam reencontrar de novo no Dia da Ressurreição.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mosteiro_de_Alcobaca_94b.jpg/1200px-Mosteiro_de_Alcobaca_94b.jpg"
+				},
+				{
+					"Nome": "Museu do Vinho de Alcobaça",
+					"Localidade": "Alcobaça, Leiria",
+					"Historia": "Pelas mãos do grande vitivinicultor, José Eduardo Raposo de Magalhães, surgiu a Adega do Olival Fechado, nos finais do séc. XIX, em Alcobaça. De uma Adega moderna para o seu tempo, equipada com tecnologia de ponta da época, nasce um Museu Nacional, no séc. XX, pelo Eng. Manuel Augusto Paixão Marques, seu fundador, delegado da então Junta Nacional do vinho (J.N.V.). Do legado museológico transparece hoje uma memória bem preservada da modernização operada na década de 40, aquando da aquisição do complexo da quinta do Olival Fechado pela J.N.V. aos herdeiros de José Eduardo Raposo de Magalhães, sendo deste período a transformação do espaço de adega em depósitos industriais, verticais, de vinhos brancos e tintos, segundo o modelo de Abel Pereira da Fonseca. O espólio do Museu conta com um importante acervo de mais de 10.000 peças móveis, de tipologias tão diversas como: enologia; etnologia; tecnologia tradicional; arqueologia industrial; artes gráficas, plásticas e decorativas. As memórias da J.N.V. e do actual Instituto do Vinho e da Vinha estão aqui bem presentes, contribuindo para a indiscutível dimensão nacional deste impressionante Museu. O acervo museológico é o mais completo do país na temática vitivinícola, abrangendo aspectos da cultura material do vinho de inquestionável valor histórico, científico, industrial e etnográfico que vão do século XVII ao advento do século XXI. Um verdadeiro Museu da Cultura do Vinho.",
+					"Imagem": "https://www.e-cultura.pt/images/user/image14437086189636.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante António Padeiro",
+					"Morada": "R. Dr. Maur Cocheril 27, Alcobaça",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/ae/85/f9/tabua-de-entradas.jpg"
+				},
+				{
+					"Nome": "Origens Restaurante",
+					"Morada": "R. Alexandre Herculano 18, Alcobaça",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/27/b3/3f/salas-origens.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Real Abadia, Congress & Spa Hotel",
+					"Morada": "R. da Escola, 2460-479 Alcobaça",
+					"Preco": "82€",
+					"Classificacao": 4,
+					"Imagem": "https://www.realabadiahotel.pt/uploads/galeria/fotosspa/p19up8823jua716vm4a15l110e7l.jpg"
 				}
 			]
 		},
@@ -33,25 +47,30 @@
 			"Nome": "Alvaiázere",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Coreto de Alvaiázere",
+					"Localidade": "3250-114 Alvaiázere, Leiria",
+					"Historia": "Coreto onde funciona um pequeno posto de informação turística. Em dias festivos, atuam aqui as bandas filarmónicas locais.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/805172"
+				},
+				{
+					"Nome": "Museu Municipal de Alvaiázere",
+					"Localidade": "35, R. Dr. Álvaro Pinto Simões, Alvaiázere",
+					"Historia": "O Museu Municipal de Alvaiázere assume um papel de extrema importância no que se refere à preservação e divulgação da identidade alvaiazerense. O Museu Municipal de Alvaiázere assume um papel de extrema importância no que se refere à preservação e divulgação da identidade alvaiazerense. Nesse sentido, promove exposições e atividades que, numa perspetival pedagógica, têm em conta a nossa história e a forma como ela determina o nosso futuro. Assim, o Museu municipal de Alvaiázere conta com duas exposições permanentes (“Tempo, Espaço e Memória” -retrata alguns dos ofícios tradicionais que marcaram o concelho de Alvaiázere até meados do século XX, e “Fragmentos em diálogo” – mostra arqueológica que representa a ocupação deste território deste o Paleolítico até à Idade Média).",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/403976/156486.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "O Bras",
+					"Morada": "R. 15 de maio 14, 3250-114 Alvaiázere",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/46/e5/d0/vista-exterior.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Dutchy's Snack-Bar",
+					"Morada": "R. Colégio Vera Cruz 1, 3250-103 Alvaiázere",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/67/4a/ae/photo0jpg.jpg"
 				}
 			]
 		},
@@ -59,25 +78,39 @@
 			"Nome": "Ansião",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque Verde do Nabão",
+					"Localidade": "Rua de Manuel Melo 17, 3240-153 Ansião",
+					"Historia": "O parque propriamente dito disponibiliza um recinto inter-geracional com skatepark, parques infantil e geriátrico, circuito de manutenção, zona de merendas com grelhadores cobertos, sanitários e parque de estacionamento, além dos mencionados percursos pedonais e ciclovias. Pode ainda usufruir das bicicletas de uso partilhado E-Ginga, pois foi colocado um cais de bicicletas no parque, para que possa fazer um percurso à beira-rio.",
+					"Imagem": "https://live.staticflickr.com/7327/13629018635_fd5c8b616c_b.jpg"
+				},
+				{
+					"Nome": "Nascente do Rio Nabão",
+					"Localidade": "Ansião, Leiria",
+					"Historia": "O rio Nabão é um rio português afluente do rio Zêzere que passa na cidade de Tomar. Nasce no concelho de Ansião, no lugar dos Olhos de Água, e a ele junta-se, a cerca de dez quilómetros de Tomar, a nascente do Agroal, já no concelho de Ourém. O rio Nabão desagua na margem direita do rio Zêzere, depois de um percurso de 61,47 km. Tem como principais afluentes o rio Beselga, a ribeira do Olival e a ribeira de Seiça.",
+					"Imagem": "https://cdn.olhares.pt/client/files/foto/big/214/2148131.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Adega típica de Ansião",
+					"Morada": "R. dos Combatentes da Grande Guerra 40-46, 3240-126 Ansião",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/98/5e/6f/adega-tipica-de-ansiao.jpg"
+				},
+				{
+					"Nome": "O Marujo Ansião",
+					"Morada": "Rua de Manuel Melo 15, 3240-142 Ansião",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/eb/ce/75/chao-do-restaurante-em.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Ansiturismo - Alojamento & SPA",
+					"Morada": "R. Jerónimo Soares Barbosa 34, Ansião",
+					"Preco": "61€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/121/121083361.jpg"
 				}
 			]
 		},
@@ -85,25 +118,39 @@
 			"Nome": "Batalha",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Largo do Mosteiro da Batalha",
+					"Localidade": "2440-108 Batalha, Leiria",
+					"Historia": "Perto do local onde se ergue o Mosteiro da Batalha ocorreu, no dia 14 de agosto de 1385, um acontecimento decisivo para a consolidação da nação portuguesa: D. João, Mestre de Avis e futuro rei de Portugal, venceu os exércitos castelhanos na batalha de Aljubarrota. Essa vitória pôs termo a uma crise dinástica que se arrastava desde 1383, aquando da morte do rei D. Fernando, cuja única filha era casada com o rei de Castela, pretendente ao trono de Portugal. D. João dedicou o mosteiro à Virgem Maria, que havia invocado para que intercedesse pelo seu triunfo, e doou-o à Ordem Dominicana, à qual pertencia o seu confessor. Esta foi a razão de ser do nascimento de uma obra cuja construção se iria prolongar por quase dois séculos e que resultou num dos mais fascinantes monumentos góticos da Península Ibérica. A construção do mosteiro corporizou também a consagração de D. João I como rei de Portugal, assumindo-se assim como símbolo da nova dinastia e legitimada pela vontade divina. A construção abrangeu sete reinados da segunda dinastia (1385-1580) e envolveu uma vasta equipa de mestres-pedreiros de grande nível, tanto nacionais como estrangeiros, que foram inicialmente dirigidos por Afonso Domingues, até ao seu falecimento, em 1402. Durante esse período, ergueu-se parte da igreja e o claustro real. Sucedeu-lhe Mestre Huguet, inglês, que até 1438 completou a igreja, construiu a capela do fundador e iniciou o panteão de D. Duarte. Entre 1448 e 1477, Fernão de Évora desenhou o claustro de D. Afonso V e, já no século XVI, Mateus Fernandes foi o responsável pelas Capelas Imperfeitas. O mosteiro alberga o mais importante núcleo de vitrais medievais portugueses, que se podem admirar na Capela-Mor e na Sala do Capítulo. A nave central da igreja eleva-se a 32,5 metros e apoia-se sobre oito colunas de cada lado. Além das capelas e dos claustros, podem ainda visitar-se o dormitório, o refeitório e a cozinha do mosteiro. O largo situado no exterior foi outrora ocupado em grande parte pelo Claustro de D. João III. Incendiado aquando das Guerras Napoleónicas, veio a ser demolido por ocasião das obras de restauro empreendidas em meados do século XIX. A meio do largo, pode apreciar-se uma lápide que reproduz as siglas de vários pedreiros e assinala o local da antiga Igreja de Santa Maria-a-Velha, o templo primitivo onde os construtores do mosteiro assistiam aos serviços litúrgicos.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mosteiro_da_Batalha_78a.jpg"
+				},
+				{
+					"Nome": "Capelas Imperfeitas",
+					"Localidade": "Largo Infante Dom Henrique, Batalha",
+					"Historia": "Por detrás da cabeceira da Igreja, no alinhamento da capela-mor, situa-se o Panteão de D. Duarte, usualmente conhecido por Capelas Imperfeitas, no sentido de inacabadas, estrutura-se segundo um desenvolvido octógono com a entrada a eixo e sete capelas radiantes separadas por pequenos corpos triangulares. A construção desta capela, devida à iniciativa do rei D. Duarte, ter-se-á iniciado por volta de 1434, quando decorria ainda o primeiro ano do seu reinado. A morte do rei D. Duarte em 1437 e, no ano seguinte, a do próprio mestre Huguet inviabilizaram a conclusão da nova capela funerária, a cuja construção presidiu uma atitude coerente de afirmação pessoal e familiar por parte do rei D. Duarte. No reinado de D. Manuel, com vista à conclusão do panteão foi alterado o projeto inicial, conferindo-se-lhe maior monumentalidade. É deste período o sumptuoso portal, totalmente esculpido, concebido e executado sob a direção de Mateus Fernandes, um dos grandes mestres manuelinos, tendo sido concluído nos primeiros anos do século XVI. As sete capelas funerárias também foram concluídas na época de D. Manuel e têm nas suas abóbadas chaves esculpidas com escudos de armas e emblemas que identificam o seu destinatário. Reinando já D. João III foi ainda levantada, sobre o portal, a varanda renascença, datada 1533, com estrutura e decoração de raiz italiana, atribuída a Miguel de Arruda que, seguramente, a concluiu.",
+					"Imagem": "https://portugalpatrimonio.files.wordpress.com/2017/03/post-29-03-17-07.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Burro Velho",
+					"Morada": "R. Nossa Sra. do Caminho 6A, 2440-121 Batalha",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/94/9a/43/burro-velho.jpg"
+				},
+				{
+					"Nome": "Pizzaria Americano",
+					"Morada": "Largo 14 de Agosto de 1385 8, 2440-038 Batalha",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/1d/d2/25/menu.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Villa Batalha",
+					"Morada": "Rua D. Duarte I, 248, 2440-415 Batalha",
+					"Preco": "71€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/203/203354656.jpg"
 				}
 			]
 		},
@@ -111,25 +158,39 @@
 			"Nome": "Bombarral",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Quinta do Sanguinhal",
+					"Localidade": "Quinta do Sanguinhal, Apartado 5, 2544-909 Bombarral",
+					"Historia": "Na Quinta do Sanguinhal produzem-se nas suas vinhas, os vinhos Quinta do Sanguinhal DOC Óbidos, o leve Sôttal, e os varietais Sanguinhal. Aqui se situa uma das mais antigas destilarias da região com vasos em cobre para a destilação de bagaços e duas colunas contínuas para a destilação de vinhos. Faz também parte do património desta quinta um dos maiores e antigos lagares, da Península Ibérica, com prensas de fuso e vara, a mais antiga das quais data de 1871.",
+					"Imagem": "https://vinhos-sanguinhal.pt/images/qta_sanguinhal/Entrada-Sanguinhal.jpg"
+				},
+				{
+					"Nome": "Mata do Bombarral",
+					"Localidade": "R. Comendador António da Costa 2-16, 2540-121 Bombarral",
+					"Historia": "A Mata do Bombarral é um bosque mediterrânico com cerca de quatro hectares, que foi considerada Área de Interesse Público em 1941. Este pulmão verde chegou aos dias de hoje conservando vegetação com vários séculos. É o caso da gilbardeira, uma espécie em vias de extinção, aroeira, zambujeiro ou de sobreiros com mais de 20 metros de altura. Algumas espécies estão representadas por exemplares com dimensões absolutamente notáveis. Antiga coutada ali existente, pelo menos desde o século XV, esta mata foi cenário das caçadas da corte que ali se deslocava com esse intuito.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/830840"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Forno do Avô",
+					"Morada": "Av. Inocência Cairel Simão, 2540-129 Bombarral",
+					"Classificacao": 4.4,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/p9lPprNO59VEcwoOJ4bGNM9POmvnoSXdr4Y1SkG7y-KbbXc8V8hklndysG73HQUjRPP2pi3TZh-U5uPzQBj2lwhs5UJuGT39-iIB"
+				},
+				{
+					"Nome": "Dom José",
+					"Morada": "Rua Dr Alberto Martins dos Santos 4, 2540-087 Bombarral",
+					"Classificacao": 4.7,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/junFbZA1GUIqWDUwDDtPBpdA-qJEOmuYzke3UG0UQBhZN0Y2KKb91ujX2XbsxqIQTMBafzqjMyymlv7TmB6VuFubT1tXjFCZPavIO7ta_xeGKXazwDt82QhZkQ"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Comendador",
+					"Morada": "Largo Comendador João Ferreira dos Santos, 2540-033 Bombarral",
+					"Preco": "58€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/617/61781870.jpg"
 				}
 			]
 		},
@@ -137,25 +198,39 @@
 			"Nome": "Caldas da Rainha",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque D. Carlos I",
+					"Localidade": "R. de Camões 37, Caldas da Rainha",
+					"Historia": "Trata-se de um jardim romântico que abraça o antigo hospital termal, erigido durante o reinado de D. João V. Este era um local de recuperação física, onde os pacientes do hospital termal podiam passear e beneficiar do efeito apaziguador do parque. . No entanto, no final do séc. XIX, com a ascensão da burguesia e a ligação rodoviária, o arquitecto Berquó assumiu a administração do hospital termal, mudando radicalmente o parque. Converteu-se numa zona de ócio, incluindo um lago central artificial, belas alamedas, um coreto e vigilância policial, atraindo inúmeros visitantes de todo o país. Remodelado em 1950, o Parque D. Carlos I  foi alargado e passou a incluir o Museu José Malhoa e um restaurante. É hoje em dia um ponto a não perder na belíssima cidade das Caldas da Rainha, assim como o colorido mercado da fruta e a Rota Bordalliana.",
+					"Imagem": "https://www.centerofportugal.com/wp-content/uploads/2019/07/parque-dom-carlos-caldas.jpg"
+				},
+				{
+					"Nome": "Chafariz das Cinco Bicas",
+					"Localidade": "2500-254 Caldas da Rainha, Leiria",
+					"Historia": "Trata-se de um chafariz, datado de 1748, o último dos três edificados à época nas Caldas. Destaca-se por ser o mais imponente dos três, quer pelas dimensões quer pelo aparato das volutas e das bacias de onde a água escorre, em cascata. Se os demais chafarizes apresentavam uma bica cada um, este, como o nome indica, dispõe de cinco, alinhadas sob a taça inferior. De acordo com as inscrições epigráficas nos espaldares destes equipamentos, as bicas são uma alusão às sete plêiades, filhas de Atlas e da oceânide Plêione, retomando, assim, uma temática da mitologia clássica, como habitual na iconografia barroca presente em arquitecturas relacionadas com a água. Reformado em 1908, encontra-se classificado como Imóvel de Interesse Público pelo Instituto Português do Património Arquitectónico (IPPAR) desde 1982.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ch_5_bicas_3.jpg/1200px-Ch_5_bicas_3.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Marta's Place",
+					"Morada": "Caldas das Rainhas, Leiria",
+					"Classificacao": 4.5,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/ab5291e9-95ef-457f-83ad-d34705ed6d2e/b99cf9ac-c3a6-4e39-8943-b001cdaf1999.jpg"
+				},
+				{
+					"Nome": "Taskinha Do B3co",
+					"Morada": "Beco de João D`Almeida Cabaco 1, 2500-090 Caldas da Rainha",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/20/d7/4b/taskinha-do-b3co.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "SANA Silver Coast Hotel",
+					"Morada": "Av. Dr. Manuel Figueira Freire da Câmara, 2500-184 Caldas da Rainha",
+					"Preco": "86€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/289/28998083.jpg"
 				}
 			]
 		},
@@ -163,25 +238,39 @@
 			"Nome": "Castanheira de Pera",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Casa do Tempo",
+					"Localidade": "R. Dr. José Fernandes de Carvalho, Castanheira de Pêra",
+					"Historia": "Trata-se de um espaço vocacionado para a preservação e valorização do património relacionado com a arte tipográfica. Além disso, pretende ser também um espaço vivo e dinâmico, impulsionador do progresso da região, nomeadamente como centro de difusão cultural.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/800340"
+				},
+				{
+					"Nome": "Passadiço da Ribeira das Quelhas",
+					"Localidade": "Coentral Grande, 3280-201 Castanheira de Pêra",
+					"Historia": "A margem direita da Ribeira de Quelhas, junto à aldeia do Coentral, Castanheira de Pera, está a receber um passadiço em madeira e estruturas de apoio, com o objectivo de facilitar o acesso a esta maravilha natural do distrito de Leiria. Com um escopo inclusivo, estes passadiços permitirão ao visitante percorrer aproximadamente 1200 metros na margem direita da Ribeira das Quelhas, na proximidade do Coentral Grande, por entre fragas de xisto e de granito, refúgio de espécies protegidas, enquanto visita várias quedas de água e pequenas lagoas.",
+					"Imagem": "https://lh3.googleusercontent.com/WTQG2gtDbv7VvUmH2IdRb2nRDsK-Mwr5K6WJu6MybJlRlxfKhMVTy-TDYzjgNmdrm8Bs_BnGR6BXBNFsBwomFjsbZgdUtwumWAxy4nL10uqwpEOQyhTIKjop7HAe-R7iyBheTptTi7rEk-T9kuKcV1yXOLuRV3dt0K981e-Iz5O4JKZzsyvYU1Vk3SUQ4F6Z_FcoGHIG9GIC0xjN-VzQwEoxncsRDJagLF-jPsiojS4wnhSuh0nvHMM9VU9l9lruGW5n5RnYCC2CgIZD0qi7Z4CltVXuXQj5q-82QrEVKaJoyyPa64aZ11meoZgIgLhkP55qfzTLfGCaEIlZq7R_84vtJxWZpzuh2BMRluF6ukzSMiRr92lb3Yn6GcBuMkkzCPUXVd7TpgwRM_8HFip0UZPaKd3tv3UZDqZH2MpYkHCx9zfOjM1Iz9GNo6klWI2EwRuAVMWKiqh6Yk1kVY5nZxo-8nRxlVvTB-otEdfoeb45g_bKEnAudftAsjX96GXKc3cseQIxo_hoQDLDJFHwZyPBZmF6UmbSzvmGKwDhJFCm4kHdOc2coRaxRUVhxJGYrdk-NTJUcNCFOD-4gDyb6zXPDz7t_AW3_s9rPZQqXf-NcRKmwyQWdlGII5ONp2Jf4V9xFvKnUpcSHA3T4-78eGE_JrDgruoSkkLeaP5b2CDc_ymTDVRtRkA7ili4U9c=w1258-h944-no?authuser=0"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante 'O Gil'",
+					"Morada": "R. João Bebiano 46-50, Castanheira de Pêra",
+					"Classificacao": 4.1,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/760692"
+				},
+				{
+					"Nome": "Restaurante Churrasqueira 'O Almeida'",
+					"Morada": "R. Alto do Carvalhal, 3280-022 Castanheira de Pêra",
+					"Classificacao": 3.9,
+					"Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStgJqUCcjt-Haauf7DA3VVVScU0ROBL4_tcg&usqp=CAU"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Lagar Do Lago",
+					"Morada": "Variante à Nacional 236 22, 3280-022 Castanheira de Pêra",
+					"Preco": "45€",
+					"Classificacao": 2,
+					"Imagem": "https://www.lagardolago.com/wp-content/uploads/2013/06/empreendimentovista-de-frente.jpg"
 				}
 			]
 		},
@@ -189,25 +278,39 @@
 			"Nome": "Figueiró dos Vinhos",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu e Centro de Artes de Figueiró dos Vinhos",
+					"Localidade": "Av. José Malhoa, Figueiró dos Vinhos",
+					"Historia": "Para uma completa experiência conheça o património cultural local. Com mais de oito séculos de existência, Figueiró dos Vinhos é um concelho rico em tradições, carregado de História e histórias, onde o passado convive com o presente e com os projetos futuros. Não deixe de visitar o Museu e Centro de Artes, bem como o Casulo do pintor José Malhoa, onde poderá ficar a conhecer um dos maiores contributos para a projeção de Figueiró dos Vinhos no panorama artístico nacional, através da ligação de várias personalidades do mundo das Belas Artes a este município. Inaugurado no verão de 2013 é um dos pontos de atração para turistas e visitantes. Tem, na sua génese, a missão de expôr e dar a conhecer trabalhos de alguns dos mais importantes pintores e escultores naturalistas nacionais do final do século XIX e início do século XX.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/O5kHX0PPMLsqkNzzSO_IR_AFrRjqFa7uOhh2SDoLHGWqrPLbNP9boXzaW6J4IzkA6eyxNal-_Gk90cqkzDm7EsaMTKF-IW03hn7nFkFPI5jz"
+				},
+				{
+					"Nome": "Torre da Cadeia",
+					"Localidade": "R. Dom Diogo de Sousa 22, Figueiró dos Vinhos",
+					"Historia": "Construída no século XVI por ordem dos juízes, Diogo de Aguiar e Garcia Rodrigues, dos vereadores, Gonçalo Luís e Álvaro Esteves e pelo procurador do concelho, Pero Rodrigues, como símbolo de poder do município, daqui se avista o núcleo quinhentista da vila e os seus principais edifícios desse período. Torre robusta, coroada de merlões, com uma porta quinhentista, possuiu um relógio e um sino com o qual o alcaide convocava as assembleias. Teve como edifício contíguo, a antiga câmara municipal, convertido em cadeia nas primeiras décadas do século XX. A sua localização, na urbe original da vila, virada para o rossio, para onde todas as ruas confluem, confere-lhe a qualidade de atalaia e mirante.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/A2-Tfyrh_YpQBUanajwV1zq4GrsFpCDbZd6JXmImE4P2t9UI6G35Asn0fqOQd7sj5iBIqlgxaIPoV76ZZF-fZWTAN-obXD7_Tx4D9ckAj1bPd8SmeOBQbAvr5Hxg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Tricana",
+					"Morada": "R. Dr. José Martinho Simões 17, Figueiró dos Vinhos",
+					"Classificacao": 4.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/9c/98/59/restaurante-tricana-figueiro.jpg"
+				},
+				{
+					"Nome": "Retiro Figueiras",
+					"Morada": "3260-320 Figueiró dos Vinhos, Leiria",
+					"Classificacao": 4.1,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/760704"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Rota Malhoa",
+					"Morada": "R. Maj. Neutel de Abreu 155, 3260-427 Figueiró dos Vinhos",
+					"Preco": "55€",
+					"Classificacao": 2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/cb/d2/e1/quarto-do-hotel-rota.jpg"
 				}
 			]
 		},
@@ -215,25 +318,39 @@
 			"Nome": "Leiria",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Leiria",
+					"Localidade": "Largo de São Pedro, 2400-235 Leiria",
+					"Historia": "Castelo medieval, artística e arquitetonicamente representativo das diversas fases de construção e reconstrução desde a sua fundação até ao século XX. Estruturas que compõem o conjunto arquitetónico: Palácio Real quatrocentista, Torre de Menagem, Igreja de Stª Maria da Pena, espaço da antiga Colegiada, celeiros medievais e muralhas exteriores. Mandado construir em 1135 por D. Afonso Henriques, nessa altura ainda como Príncipe, e entregue a sua chefia a D. Paio Guterres (primeiro alcaide-mor), o Castelo viria a ser reconquistado pelos muçulmanos, cinco anos depois, voltando para a mão dos cristãos, novamente, em 1142. Mas as lutas pela sua posse estavam longe de terminar tendo sofrido diversos ataques, como os de 1144 e 1195. Este último deverá ter sido intenso, de tal modo que vem referido no foral que D. Sancho I atribuiu a Leiria nessa mesma data, tendo aquele monarca conquistado uma vez mais o Castelo. Em 1325 D. Dinis manda edificar a Torre de Menagem, que após algumas reformulações é agora um núcleo museológico. Pensa-se que a Igreja de Nossa Senhora da Pena e os Paços Episcopais tenham também sido construídos por ordem de D. Dinis. Este terá sido o rei que mais tempo passou em Leiria, juntamente com a sua esposa, a Rainha Santa Isabel. Graças a estes reis nasceram muitas das histórias e das lendas que envolvem Leiria.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/5E-AgBtUJXQL_8rm2V-vo1yCnPeXViyvougbfpoXfk-jZ14Cupojxpz5g4-mDwP3aK6SQhjDYpFCotWcwazQlfbOuNuDo3k09vVqGSui0YR41PKoA5V51jvx1bjFwRFT038zB9g41A"
+				},
+				{
+					"Nome": "Sé de Leiria",
+					"Localidade": "R. Conde Ferreira nº 3, 2400-175 Leiria",
+					"Historia": "Edificada em 1559, a Sé Catedral de Leiria é um magnífico e sóbrio edifício em estilo maneirista que se assume também como um dos exemplos mais perfeitos das igrejas salão (Hallenkirchen), juntamente com o Mosteiro de Alcobaça e o Mosteiro dos Jerónimos em Lisboa. Um dos aspectos mais interessantes acerca da Catedral de Leiria é o papel da mulher nos Evangelhos, porque existe uma representação da coroação da Virgem Maria, no altar principal. Segundo reza a lenda, havia uma torre sineira na Catedral de Leiria, no entanto os habitantes que viviam no outro lado da cidade, não conseguiam ouvir os sinos a chamar para a oração. É precisamente por essa razão que, em 1770, o Bispo D.  Miguel Bulhões e Sousa ordenou a construção de outra torre sineira na encosta do castelo, ou seja, separado da Catedral. Os habitantes locais dizem que “Leiria tem uma torre que não é Sé e uma Sé que não tem torre”. Esta é, de facto, a única catedral em Portugal que não possui a torre sineira integrada. O terrível terramoto de 1775 que abalou Lisboa afectou gravemente a fachada principal da Sé Caedral de Leiria, sendo que os trabalhos de reconstrução começaram no ano seguinte. A Catedral de Leiria é um belo exemplar dos valores do Humanismo e da influência do Renascimento.",
+					"Imagem": "https://1.bp.blogspot.com/-4fl6JVQQGzs/XteC5hI7C8I/AAAAAAAABr8/Q58lS7Qij1UpY6mS2p-4DIIpYRRuJNRnwCLcBGAsYHQ/s320/4428806.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Coconuts Leiria",
+					"Morada": "Centro Comercial Dom Dinis 42, Av. Combatentes da Grande Guerra loja 606, 2400-122 Leiria",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/74/ae/90/coconuts-restaurante.jpg"
+				},
+				{
+					"Nome": "Matilde Noca",
+					"Morada": "R. do Martingil 157, 2415-522 Leiria",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/57/73/27/matilde-noca.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel D. Dinis",
+					"Morada": "R. de Tomar 2, 2400-186 Leiria",
+					"Preco": "49€",
+					"Classificacao": 2,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/137/137457934.jpg"
 				}
 			]
 		},
@@ -241,25 +358,39 @@
 			"Nome": "Marinha Grande",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Mata Nacional de Leiria",
+					"Localidade": "Rua Álvaro Barros 2, 2430-153 M.nha Grande",
+					"Historia": "O pinhal foi inicialmente mandado plantar pelo rei D. Afonso III (1248-1279), no século XIII, com o intuito de travar o avanço e degradação das dunas, bem como proteger a cidade de Leiria e o seu Castelo e os terrenos agrícolas da sua degradação devido às areias transportadas pelo vento, que se tornara uma grande preocupação para os habitantes da região. Seria, então, mais tarde, entre 1279 e 1325, aumentado substancialmente pelo rei D. Dinis I, para as dimensões actuais. Procedeu-se então à sementeira duma área extensa que acompanha o litoral, especialmente com recurso ao pinheiro-bravo.[3] Alguns autores atribuem até o começo da plantação do pinhal a D. Sancho II (1223-1248). Sempre que se procedia ao corte de árvores, era seguida uma replantação - desta forma o pinhal manteve-se intacto. Desde pelo menos o último quartel do século XV, o cargo de Guarda-Mor dos Pinhais de El-Rei ou Pinhais Reais de Leiria, Guarda e Couteiro das Matas dos Pinhais do Rei, foi hereditário nos Rodrigues Veloso, nos da Costa de Mesquita e, finalmente, nos da Silva de Ataíde, até à sua extinção em 1835. Iria adquirir muita importância para o desenvolvimento económico e crescimento demográfico da região no século XVIII e século XIX, uma vez que foi dos principais impulsionadores de indústrias como a construção naval, a indústria vidreira, metalurgia e produtos resinosos (através da extracção da goma dos pinheiros, no século XIX) - a madeira era usada tanto como matéria-prima como fonte de energia para as indústrias e habitações.",
+					"Imagem": "https://www.esquerda.net/sites/default/files/styles/480y/public/captura_de_ecra_2018-08-6_as_16.12.25.png?itok=zgq2Ox3u"
+				},
+				{
+					"Nome": "Monumento de Homenagem a Guilherme Stephens",
+					"Localidade": "Praça Guilherme Stephens, 2430-241 M.nha Grande",
+					"Historia": "O Busto de Guilherme Stephens, da autoria do escultor Luís Fernandes, é uma homenagem prestada pelos vidreiros e restantes trabalhadores da Fábrica Nacional ao grande impulsionador da Indústria Vidreira e de toda uma obra social e cultural com manifesta importância para a história da cidade. Este monumento foi inaugurado em 24 de agosto de 1941.",
+					"Imagem": "https://www.cm-mgrande.pt/thumbs/cmmgrande/uploads/writer_file/image/1824/BustoGuilhermeStephens5_1_728_2500.JPG"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Nini",
+					"Morada": "R. de Leiria nº147, 2430-091 M.nha Grande",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/f2/c8/d3/os-nossos-pratos.jpg"
+				},
+				{
+					"Nome": "Donna Taverna",
+					"Morada": "Estr. de Leiria 233, 2430-076 M.nha Grande",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/14/a7/14/1d/donna-taverna.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Cristal Marinha",
+					"Morada": "R. de Leiria 112, 2430-091 M.nha Grande",
+					"Preco": "65€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/0e/b7/ac/hotel-cristal-marinha.jpg"
 				}
 			]
 		},
@@ -267,25 +398,39 @@
 			"Nome": "Nazaré",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Miradouro do Suberco",
+					"Localidade": "Sitìo do Promontório, Largo do Elevador, 2450-065 Nazaré",
+					"Historia": "O miradouro mais conhecido da Nazaré, situado no Sítio, no local denominado Promontório. Esta formação rochosa ergue-se abruptamente da praia da Nazaré, e é o planalto onde se encontra o Sítio da Nazaré, atingindo a altura máxima de 110 metros.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/834423"
+				},
+				{
+					"Nome": "Praia da Nazaré",
+					"Localidade": "Av. da Republica 12, 2450-200 Nazaré",
+					"Historia": "Sendo sem dúvida a praia mais concorrida do litoral Oeste, a Nazaré é uma das mais tradicionais vilas piscatórias, em que ainda se podem encontrar algumas mulheres vestidas com o tradicional traje de sete saias, a cuidar do peixe que seca ao sol, alinhado sobre estacas. A praia, completamente integrada na área urbana e rodeada pelo casario da marginal, conserva as tradicionais barracas de lona com riscas de cores fortes. Banhada por um mar normalmente bravio e com ondulação forte, é ideal para o surf e bodyboard.",
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/CTO_PraiaNazar%C3%A9_660x371.jpg?itok=BNaQ6bcT"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Luís",
+					"Morada": "Rua dos Tanques 7, 2450-065 Nazaré",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/55/d3/06/photo0jpg.jpg"
+				},
+				{
+					"Nome": "Hamburgueria Mooo",
+					"Morada": "R. Dr. Ruy Rosa 8, 2450-209 Nazaré",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/2e/32/a5/hamburguesas-artesanas.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Miramar Sul",
+					"Morada": "Cam. Real, 2450-060 Nazaré",
+					"Preco": "133€",
+					"Classificacao": 4,
+					"Imagem": "https://www.miramarnazarehotels.com/images/miramarsul/hotelmiramarsul_3.jpg"
 				}
 			]
 		},
@@ -293,25 +438,39 @@
 			"Nome": "Óbidos",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo do Obidos",
+					"Localidade": "R. Josefa de Óbidos, Óbidos",
+					"Historia": "Acredita-se que a primitiva ocupação humana do seu sítio remonte à pré-história. Pela sua proximidade da costa atlântica, despertou o interesse de povos invasores da Península Ibérica, tendo sido sucessivamente ocupado por Lusitanos (século IV a.C.), Romanos (século I), Visigodos (séculos V a VI) e Muçulmanos (século VIII), atribuindo-se a estes últimos a fortificação da povoação, como se constata pela observação de determinados trechos da muralha, com feições mouriscas. No contexto da Reconquista cristã da Península, as forças do rei D. Afonso Henriques (1112-85), após as conquistas de Santarém e de Lisboa (1147), encontraram viva resistência para conquistar a povoação e seu castelo, o que finalmente através de um ardil (10 de Janeiro de 1148). O castelo encontra-se referido documentalmente desde 1153. A povoação e seu castelo mantiveram-se fiéis a D. Sancho II (1223-48), quando da crise de sua deposição, resistindo vitoriosamente, em 1246, aos assaltos das forças do Conde de Bolonha, futuro rei D. Afonso III (1248-1279). Essa resistência valeu à vila o epíteto de mui nobre e sempre leal, que figura até hoje no seu brasão de armas. Sob o reinado de D. Fernando (1367-1383), uma inscrição epigráfica assinala a ereção, em 1375, de uma torre, por alguns considerada de menagem, embora lhe faltem as características da base maciça com entrada a nível do pavimento elevado, presentes na de D. Dinis. Sob o reinado de D. João II (1481-1495), a rainha Dna. Leonor escolheu a povoação e seu castelo para residir após o falecimento por acidente de seu filho único, o príncipe D. Afonso, optando ainda (1494) pelas águas termais da região para tratamento da enfermidade que viria a vitimar aquele monarca. O terramoto de 1755 causou sérios danos na estrutura, por falta de dinheiro não pode ser reconstruído. No contexto da Guerra Peninsular, a fortificação de Óbidos disparou os primeiros tiros de artilharia na batalha de Roliça (1808), primeira derrota das tropas de Napoleão. Posteriormente registou-se a adaptação da torre albarrã a Torre do Relógio (1842) e a construção de escada exterior de acesso à Torre de D. Fernando (1869). A partir de 1932, o conjunto sofreu as primeiras intervenções de consolidação, reconstrução e restauro a cargo da Direcção-Geral dos Edifícios e Monumentos Nacionais, que se estenderam pelas décadas seguintes até aos nossos dias, sendo o espaço do castelejo requalificado como Pousada do Castelo (1948-1950).",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Obidos_April_2009-4b.jpg"
+				},
+				{
+					"Nome": "Porta da Vila",
+					"Localidade": "R. Josefa de Óbidos 2, 2510-001 Óbidos",
+					"Historia": "Entrada principal da vila, a sul da mesma, foi mandada construir pelo rei D. João IV pela proteção que recebeu de Nossa Senhora da Piedade, Padroeira da Vila, na Restauração da Independência em 1640. No seu interior podemos ver uma capela-oratório, com um varandim branco e decorada por azulejos do século XVIII. No topo pode-se ler a inscrição 'A Virgem Nossa Senhora foi concebida sem pecado original'.",
+					"Imagem": "https://images.turismoenportugal.org/Porta-da-Vila-Obidos.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "JamonJamon",
+					"Morada": "R. da Biquinha, 2510-046 Óbidos",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/16/21/81/c6/fachada-do-jamonjamon.jpg"
+				},
+				{
+					"Nome": "A Nova Casa de Ramiro",
+					"Morada": "R. Porta do Vale 12, 2510-053 Óbidos",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/87/d8/46/sala-preparada.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Vila d'Óbidos",
+					"Morada": "Quinta Santo Antão Estrada Nossa Senhora da Luz, 2510-192 Óbidos",
+					"Preco": "88€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/145/14550112.jpg"
 				}
 			]
 		},
@@ -319,51 +478,65 @@
 			"Nome": "Pedrógão Grande",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu de Arte Sacra",
+					"Localidade": "3270-132 Pedrógão Grande",
+					"Historia": "O acervo do Museu é essencialmente constituído por arte sacra, mas também contém pintura, imaginária e objectos litúrgicos de várias épocas.",
+					"Imagem": "https://live.staticflickr.com/6027/5926926633_f121ebd9ef_b.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Taberna do Ferrador",
+					"Morada": "R. Nogueira 8, 3270-118 Pedrógão Grande",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/82/3f/a2/img-20181117-135919-largejpg.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Tudo na Brasa",
+					"Morada": "R. Dr. José Jacinto Nunes 15F, 3270-120 Pedrógão Grande",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/95/f2/a8/imagem-do-restaurante.jpg"
 				}
+
 			]
 		},
 		{
 			"Nome": "Peniche",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Praia de Peniche de Cima",
+					"Localidade": "2520-497 Peniche",
+					"Historia": "Peniche é conhecida pelas suas famosas praias. Com a sua forte exposição ao vento e às ondas, Peniche tem um grande potencial para o surf e é reconhecida internacionalmente por isso. A cidade de Peniche tem muitas infraestruturas dedicadas ao surf e foi até recentemente nomeada a Capital da Onda. Além de visitar Peniche deverá também aproveitar um pouco das suas praias de qualidade.",
+					"Imagem": "https://www.playocean.net/i/portugal/beaches/peniche/peniche-de-cima/praia-de-peniche-de-cima-4.jpg"
+				},
+				{
+					"Nome": "Pelourinho de Peniche",
+					"Localidade": "R. 13 da Infantaria 31 2520, Peniche",
+					"Historia": "Pelourinho localizado num dos pontos centrais da cidade de Peniche, de construção recente e decorado de forma discreta.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/848096"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Tasca do Joel",
+					"Morada": "R. do Lapadusso 73, 2520-370 Peniche",
+					"Classificacao": 4.5,
+					"Imagem": "https://images.impresa.pt/bcbm/2018-05-06-IMG_20180425_113847.jpg/original"
+				},
+				{
+					"Nome": "Lola gastrobar",
+					"Morada": "Av. Monsenhor Bastos 55, 2520-206 Peniche",
+					"Classificacao": 4.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/f0/11/ee/asas-de-frango-com-sambal.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "MH Peniche",
+					"Morada": "Av. Monsenhor Bastos, 2520-206 Peniche",
+					"Preco": "128€",
+					"Classificacao": 3,
+					"Imagem": "https://www.mh-hotels.pt/Images/MH-Peniche/Gallery/01.jpg"
 				}
 			]
 		},
@@ -371,25 +544,33 @@
 			"Nome": "Pombal",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Busto de Marquês de Pombal ",
+					"Localidade": "3100-440 Pombal, Leiria",
+					"Historia": "Obra mandada erigir em homenagem ao Marquês de Pombal - Sebastião José de Carvalho e Melo (1689-1782), político e diplomata português. Recebeu o título de Conde de Oeiras em 1759 e o de Marquês de Pombal em 1769. Foi embaixador no reinado de D. João V, e no reinado seguinte, com D. José, torna-se ministro do reino e ganha a confiança do monarca, sobretudo a partir da altura do grande terramoto em 1755, pela sua enorme capacidade de lidar com a tragédia que se abateu sobre o país. Desde que ganhou poderes dedicou-se a reforçar o domínio do rei, reduzindo o poder de alguma nobreza, designadamente com o polémico processo dos Távoras, família nobre acusada de atentar contra a vida do monarca, vindo o Marquês de Távora e a sua mulher a ser torturados executados. A mesma razão de concentração do poder leva o Marquês de Pombal, a expulsar os Jesuítas de Portugal e a confiscar os seus bens. Promove a reforma do ensino, com a adoção de novos métodos pedagógicos e a criação de novas escolas, entre as quais o Real Colégio dos Nobres. Entretanto com as dificuldades financeiras do país, agravadas pela falta do ouro do Brasil, Marquês de Pombal adota a política de fomento industrial, antes iniciada pelo Conde da Ericeira. As suas atitudes de abuso do poder, nomeadamente retirada de poder às grandes famílias, geraram inimizades, que com a morte de D. José, se insurgiram contra ele, levando à sua retirada do poder e “exilio” na sua casa de Pombal.",
+					"Imagem": "https://www.culturacentro.gov.pt/media/3929/8breuig7757r9745w3seprd_353.jpg"
+				},
+				{
+					"Nome": "Museu de Arte Popular Portuguesa",
+					"Localidade": "Praça Marquês de Pombal 6, 3100-440 Pombal",
+					"Historia": "O Museu de Arte Popular Portuguesa encontra-se instalado num edifício pombalino, classificado como Imóvel de Interesse Público, outrora um Celeiro, mandado construir em 1776 pelo Marquês de Pombal, para armazenar os cereais que vinham da sua quinta, a Quinta da Gramela. O edifício foi remodelado pela Câmara Municipal de Pombal, num projeto do Arquiteto Reis de Figueiredo, tendo as salas do rés do chão sido recuperadas e adaptadas ao projeto museológico do Museu de Arte Popular, dedicado ao Artesanato. Trata-se de um museu geográfico, composto por um conjunto de objetos que caracterizam e são identificativos de uma determinada região, da memória de um povo e que contribuem para o aumento da consciência da herança cultural, transmitindo uma cultura em evolução e o conhecimento de outras culturas. Cada objeto revela uma história, sentimentos, um determinado meio físico, uma cultura própria, uma época, uma pessoa, neste espaço vestido de cultura popular, de fantasia e cor, que convida a uma visita atenta.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/393849/158321.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Manjar do Marquês",
+					"Morada": "IC2, 3100-373 Pombal",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/fb/e4/29/photo2jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Cardal Hotel",
+					"Morada": "Largo do Cardal, 3100-440 Pombal",
+					"Preco": "65€",
+					"Classificacao": 3,
+					"Imagem": "https://cardal.centro-portugal-hotels.com/data/Photos/790x530/193/19347/19347092.JPEG"
 				}
 			]
 		},
@@ -397,28 +578,33 @@
 			"Nome": "Porto de Mós",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Porto de Mós",
+					"Localidade": "R. do Castelo 3, Porto de Mós",
+					"Historia": "Obra arquitectónica de características singulares, o castelo de Porto de Mós, erguido sob os escombros de um posto de vigia romano, acumulou ao longo dos séculos influências militares, góticas e renascentistas assentes numa estrutura pentagonal com torreões de reforço nos ângulos, apesar de, atualmente, resistirem apenas quatro. Os dois torreões que compõem a fachada principal são ornamentados por duas cúpulas piramidais, com acabamento de cerâmica de cor verde. Inicialmente uma fortaleza de índole árabe, o papel do castelo de Porto de Mós foi flagrante durante o período da conquista cristã. Após sucessivas guerrilhas entre portugueses e mouros, em 1148, D. Afonso Henriques, auxiliado por D. Fuas Roupinho, acaba por tomar a vila e vencer as tropas sarracenas, comandadas pelo rei Gámir de Mérida. No reinado de D. Dinis, a fortaleza recebe importantes obras de beneficiação e em 1305 é concedida a carta de foral à vila de Porto de Mós, que há data, já se tinha constituído concelho. Em 1385, o castelo de Porto de Mós volta a desempenhar um papel decisivo naquele que viria a ser um marco na história de Portugal, a Batalha de Aljubarrota, ao albergar as tropas de D. João I e de D. Nuno Álvares Pereira nas noites anteriores à batalha, durante as quais foram planeadas as estratégias de guerra que viriam a dar a independência definitiva ao país. Após o falecimento de D. João I, o domínio do castelo foi legado à sua filha e genro, os Duques de Bragança, e por hereditariedade ao seu neto D. Afonso, 2º Duque de Bragança, 4º Conde de Ourém e 1º Marquês de Valença, também neto do condestável Nuno Álvares Pereira. Durante a segunda metade do século XV, D. Afonso, homem culto e viajado, sob fortes influências renascentistas que começavam a despertar na Europa, inicia obras de recuperação no castelo, visíveis até aos dias de hoje, que posteriormente os seus descendentes conservaram e ampliaram. No entanto, os abalos sísmicos sentidos em 1755 viriam a destruir uma parte do castelo. Posteriormente, em 1936, tem lugar a primeira intervenção de recuperação do monumento. Ao longo do tempo mais forem sendo feitas, sendo que a última, em 1999, permitiu ao castelo ostentar novamente o brilho que sempre lhe foi característico.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Castelo_de_Porto_de_M%C3%B3s_1.JPG"
+				},
+				{
+					"Nome": "Ecopista De Porto De Mós",
+					"Localidade": "Porto de Mós, Leiria",
+					"Historia": "O antigo caminho de ferro, principal meio de transporte do carvão das minas da Bezerra para a Central Termoelétrica, transformado em percurso pedestre, encontra-se agora remodelado, tornando-se numa moderna ecopista que permite realizar caminhadas, a pé ou de bicicleta. O percurso desenvolve-se, essencialmente, ao longo da antiga linha de caminho de ferro, atual Ecopista, que fazia o transporte de carvão das minas da Bezerra para Porto de Mós. É uma caminhada rica em termos de beleza paisagística, faunística e floral. A certa altura a paisagem muda e o trilho é feito por entre paredes de pedra, cortada propositadamente para permitir a passagem da linha de ferro, até ao antigo túnel.",
+					"Imagem": "https://www.municipio-portodemos.pt/thumbs/cmportomos/uploads/content_image/image/1946/livroportomos_ecopista_5176_1_1024_2500.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Restaurante Adega do Luís",
+					"Morada": "R. Principal 650, 2480-162 Porto de Mós",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/02/f5/5c/d9/getlstd-property-photo.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Tasca de São Miguel",
+					"Morada": "R. São Miguel 15, Porto de Mós",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/b5/df/67/tasca-sao-miguel.jpg"
 				}
 			]
 		}
 	],
-	"Imagem":"https://www.visiteleiria.pt/media/2019/02/apaixonei-me-por-leiria-3-1200x700.jpg"
+	"Imagem": "https://www.visiteleiria.pt/media/2019/02/apaixonei-me-por-leiria-3-1200x700.jpg"
 }

@@ -1,31 +1,52 @@
 {
 	"Nome": "Lisboa",
-	"ASCIIName" : "Lisboa",
+	"ASCIIName": "Lisboa",
 	"Historia": "É a capital de Portugal, situada na costa. Lisboa é considerada como cidade global devido à sua importância em aspectos financeiros, comerciais, mediáticos, artísticos, educacionais e turísticos. É um dos principais centros económicos do continente europeu, graças a um progresso financeiro crescente favorecido pelo maior porto de contentores da costa atlântica da Europa e mais recentemente pelo Aeroporto Humberto Delgado.",
 	"Cidades": [
 		{
 			"Nome": "Alenquer",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu do Vinho de Alenquer",
+					"Localidade": "R. Serpa Pinto 2, 2580-340 Alenquer",
+					"Historia": "A funcionar desde abril de 2006, o Museu do Vinho expõe, dá a provar e permite a aquisição dos melhores vinhos da região. Cerca de 20 produtores da Associação das Rotas dos Vinhos de Lisboa estão representados. O edifício do século XIX que acolhe a mostra tem também patente uma exposição relativa à evolução das técnicas e instrumentos associados à produção vitivinícola, um auditório e espaço para provas e concursos. Situado no Areal, bairro que viu nascer Damião de Góis, o museu ocupa um edifício datado de 1811. O Real Celeiro Público guardou as sementes que possibilitaram o auxílio aos agricultores do concelho depois das invasões francesas. Próximos estão vários sítios de interesse histórico. A Torre da Couraça, sob a qual brotava uma das mais importantes nascentes da vila, ou a Real Fábrica do Papel (hoje Moagem) são dois deles.",
+					"Imagem": "https://freguesiaalenquer.pt/images/autarquia/patrimonio/13/imagem_13.jpg"
+				},
+				{
+					"Nome": "Museu Damião de Góis e das Vítimas da Inquisição",
+					"Localidade": "Calçada Damião de Gois nº 11, Alenquer",
+					"Historia": "Homenagem ao Humanista Damião de Góis e às vítimas da Inquisição. A igreja de Santa Maria da Várzea é hoje dedicada à figura de Damião de Góis e à importância da comunidade judaica em Alenquer, fazendo uma homenagem à memória das vítimas da Inquisição.",
+					"Imagem": "https://www.pathsoffaith.com/sites/default/files/styles/thumbnail_1920x1280_/public/jewish_legacy/Museu_Damiao_Goes_Alenquer_HJ_1.jpg?itok=BDb2q0Xy"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Casta 85",
+					"Morada": "Calçada Francisco Carmo 31, Alenquer",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/87/91/31/casta-85.jpg"
+				},
+				{
+					"Nome": "O Valério",
+					"Morada": "Calçada Francisco Carmo 1, Alenquer",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/49/93/98/entrada-do-restaurante.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Alojamento das Fontes",
+					"Morada": "R. das Fontes 34, 2580-567 Alenquer",
+					"Preco": "50€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/129/129366654.jpg"
+				},
+				{
+					"Nome": "Benavente Vila Hotel",
+					"Morada": "Praça da República 39/40, 2130-037 Benavente",
+					"Preco": "70€",
+					"Classificacao": 3,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/14/99/1499477_v2.jpeg"
 				}
 			]
 		},
@@ -33,25 +54,46 @@
 			"Nome": "Amadora",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Palácio dos Condes da Lousã",
+					"Localidade": "R. Carvalho Araújo 13, 2720-465 Amadora",
+					"Historia": "Localizado na freguesia das Águas Livres, o imóvel dominou em tempos um vasto território, na então aldeia da Damaia, encontrando-se atualmente rodeado por uma urbanização dos anos 60. A construção do edifício data do Século XVIII, tendo o corpo central da fachada norte sido restaurado no Século XIX. Trata-se de uma casa de campo típica da região lisboeta, com reboco cor-de-rosa e pilastras de pedra que possuía uma capela particular cujo orago era a Nossa Senhora da Conceição. Da sua história, sabe-se que em 1813 a quinta era habitada apenas pelos caseiros e que, na primeira década do Século XX, viveu lá o Padre Himalaya, famoso pelas suas invenções. Em 2003, a Câmara Municipal da Amadora adquiriu o imóvel, com o objetivo de assegurar a sua preservação. A Quinta dos Condes da Lousã foi classificada como Imóvel de Interesse Público, pela publicação em Diário da República de 24 de dezembro de 2012.",
+					"Imagem": "https://fotos.web.sapo.io/i/Bf1118883/18790759_g5N9b.jpeg"
+				},
+				{
+					"Nome": "Ponte Filipina de Carenque de Baixo",
+					"Localidade": "Estr. Velha de Queluz 42, 2745-190 Amadora",
+					"Historia": "A Ponte Filipina de Carenque de Baixo, sobre a Ribeira de Carenque, foi construída no século XVII. Nessa ponte de grande valor histórico e arquitetónico existe um marco em pedra onde é possível ler-se: Esta ponte foi mandada fazer pelo Senado de Lisboa à custa do real do povo, 1631. A ponte situava-se nessa época no curso da velha Estrada Real Lisboa-Sintra, que passava pelo Palácio de Queluz. Durante muitos anos a ponte constituiu uma ligação de grande importância para o trânsito rodoviário entre a Amadora, freguesia da Venteira, e Queluz, rua D. Pedro IV. Em 2013, o trânsito foi desviado para uma nova ponte a jusante.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/5/57/PonteFilipinaCarenqueBaixo.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Maria Azeitona",
+					"Morada": "R. Alfredo Keil 16, 2700-036 Amadora",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/3f/f3/5f/maria-azeitona-comida.jpg"
+				},
+				{
+					"Nome": "Lugar ao Sul",
+					"Morada": "Av. Eduardo Jorge nr 8b, 2700-307 Amadora",
+					"Classificacao": 4.8,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/444161/309100.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Amadora Palace",
+					"Morada": "Av. Santos Mattos 1, 2700-747 Amadora",
+					"Preco": "70€",
+					"Classificacao": 2,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/106/106090612.jpg"
+				},
+				{
+					"Nome": "Residencial Jardim da Amadora",
+					"Morada": "Largo Maj. Humberto Cruz 3, 2700-545 Amadora",
+					"Preco": "43€",
+					"Classificacao": 2,
+					"Imagem": "https://synergy.booking-channel.com/api/hotels/734/medias/29"
 				}
 			]
 		},
@@ -59,25 +101,39 @@
 			"Nome": "Arruda dos Vinhos",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Chafariz de Arruda dos Vinhos",
+					"Localidade": "R. Cândido dos Reis 104, 2630-369 Arruda dos Vinhos",
+					"Historia": "O Chafariz Pombalino de Arruda dos Vinhos ou Chafariz de Arruda dos Vinhos é um chafariz localizado na freguesia de Arruda dos Vinhos no concelho de Arruda dos Vinhos, tendo sido classificado como Imóvel de Interesse Público no ano de 2005. Foi edificado no ano de 1789, apresentando influências pombalinas e barrocas na sua contituição. No seu coroamento são apresentadas das armas de Portugal. Desconhece-se quem foi o arquitecto, construtor e autor. Tipologicamente, é um chafariz de espaldar. Na sua construção foram utilizados materiais como alvenaria mista, reboco pintado e cantaria de calcário.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Chafariz_em_Arruda_dos_Vinhos_%282%29.jpg/1200px-Chafariz_em_Arruda_dos_Vinhos_%282%29.jpg"
+				},
+				{
+					"Nome": "Igreja da Nossa Senhora da Salvação",
+					"Localidade": "R. 5 de Outubro 51, 2630-113 Arruda dos Vinhos",
+					"Historia": "A Igreja de Nossa Senhora da Salvação de Arruda dos Vinhos ou Igreja Matriz de Arruda dos Vinhos é uma igreja localizada na freguesia de Arruda dos Vinhos, no concelho de Arruda dos Vinhos, distrito de Lisboa. Possui a classificação de Imóvel de Interesse Público, desde o ano de 1944. Após a conquista de Lisboa e Sintra, no final do século XII, a vila de Arruda com o seu castelo foi entregue à Ordem de Santiago sendo este o território que a Ordem detinha a Norte do Tejo. Desconhece-se a data de construção da igreja primitiva, supondo-se que tenha ocorrido nas primeiras décadas do século XIII. Do edifício original, que não vem mencionado na Inquirição do Termo de Lisboa (c. 1220), apenas se sabe que albergava a irmandade de Nossa Senhora da Salvação. É desse tempo a imagem quatrocentista de Nossa Senhora da Piedade, provavelmente a imagem tutelar do templo que foi objecto de grande devoção no final da Idade Média. Nos séculos XVII e XVIII, o interior da Igreja foi substancialmente transformado, tendo as paredes sido revestidas a azulejo, bem como o retábulo-mor, seccionado por colunas pseudo-salomónicas e com decoração à base de parras de videira, e que levou à relocalização das pinturas do Políptico. Em 1744 foi construido o coro-alto, o que obrigou a alterações no primeiro tramo da estrutura, com substituição de capitéis e redução de colunas. tendo também sido revestidas as paredes da capela-mor com painéis de azulejos azuis e brancos.",
+					"Imagem": "https://www.rhlt.pt/wp-content/uploads/2017/10/Igreja-Matriz-Arruda.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Fuso",
+					"Morada": "R. Cândido dos Reis 94, 2630-233 Arruda dos Vinhos",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/55/17/08/o-fuso.jpg"
+				},
+				{
+					"Nome": "O Saloio",
+					"Morada": "CM1221 1417, Arruda dos Vinhos",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/e2/fe/85/restaurante-o-saloio.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Quinta de Santa Maria",
+					"Morada": "Estrada Nacional 248, 2630-263 Arruda dos Vinhos",
+					"Preco": "77€",
+					"Classificacao": 4,
+					"Imagem": "https://lh3.googleusercontent.com/proxy/_t-y2e_hgPg0_It1TAE2Jpok-FkvRJSI20CqEdoVHrD9PDdayHalbJ_-x7Katp-adttlh2v7mZBcIhXR0I9alm1-Lp1aVle8uxaPUEkuhsSh9uA"
 				}
 			]
 		},
@@ -85,25 +141,46 @@
 			"Nome": "Azambuja",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Municipal Sebastião Mateus Arenque",
+					"Localidade": "2050-395 Azambuja, Lisboa",
+					"Historia": "O Museu Municipal Sebastião Mateus Arenque, a funcionar desde Outubro de 2004, no Centro Cultural Páteo Valverde, continua a promover visitas guiadas destinadas a grupos organizados e a desenvolver diversas atividades e ateliers dirigidos às crianças do nosso Concelho. A iniciativa “Tardes de Jogos no Museu” é destinada a crianças dos 6 aos 10 anos. O Museu Municipal dedica a tarde a jogos lúdico-pedagógicos onde serão abordadas temáticas sobre as diversas coleções do museu. Os participantes terão oportunidade de contactar de perto com os objetos e documentos que integram a exposição permanente. Entre os jogos, destacam-se os vários tipos de puzzles, jogo da glória, trivial, sopa de letras, fichas de correspondência, entre outras atividades divertidas e enriquecedoras.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/G0Lygu0fheSzkbgPiHed9f8Qi0gLwEHpZPv9gTQBqB6B8ULDlNRbCn18GEVraH-C0G7OFfr6gyveYPpPnAXzN57odkN6Wys04QWsGIJQhEPxs7I8tNxV8Q"
+				},
+				{
+					"Nome": "Caminho de Fatima",
+					"Localidade": "Rua Engenheiro Moniz da Maia 51, 2050-356 Azambuja",
+					"Historia": "Nesta etapa descobre-se a Lezíria do Tejo, um território plano e fértil, ocupado pelas grandes quintas de produção agrícola nas propriedades a perder de vista. Pelo meio, encostadas ao rio Tejo e protegidas deste por um dique de terra e pedra, pequenas aldeias ligadas ao rio, relembrando as populações da Cultura Avieira que colonizaram estas terras e ainda aqui têm o seu sustento. A origem da Cultura Avieira remonta ao século XIX, quando muitas famílias de pescadores oriundos de Vieira de Leiria se deslocaram para as margens do rio Tejo, e em menor número para o rio Sado, à procura de melhores condições de vida. Caminhar sobre o dique dá uma visão única do rio Tejo e da Lezíria. Um percurso a fazer com tempo para conversar com as populações locais de Valada, Reguengo ou Porto de Muge que apreciam, lentamente, o passar do tempo. Nos campos destacam-se hidrómetros do século XIX que marcam as cheias que mudam a vida destes locais e garantem a fertilidade das terras. Este percurso tem o grande troço sem qualquer tipo de abastecimentos entre Porto de Muge e Santarém, numa caminhada de reflexão profunda.",
+					"Imagem": "https://www.vagamundos.pt/wp-content/uploads/2012/04/1-0329.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Flor de Sal",
+					"Morada": "Rua Engenheiro Moniz da Maia 64, 2050-356 Azambuja",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.atriumazambuja.com/wp-content/uploads/2015/01/DTL4552.jpg"
+				},
+				{
+					"Nome": "Restaurante Totila",
+					"Morada": "R. Vitor Cordon 25 27, 2050-336 Azambuja",
+					"Classificacao": 4.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/77/82/da/sala-jantar.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Residencial Flor DA Primavera",
+					"Morada": "R. Conselheiro Frederico Arouca 19, 2050-001 Azambuja",
+					"Preco": "45€",
+					"Classificacao": 2,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/136/136774980.jpg"
+				},
+				{
+					"Nome": "Ouro Hotel",
+					"Morada": "Azambuja, Lisboa",
+					"Preco": "40€",
+					"Classificacao": 2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/62/da/5a/img-20170823-000617-largejpg.jpg"
 				}
 			]
 		},
@@ -111,25 +188,39 @@
 			"Nome": "Cadaval",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Municipal do Cadaval",
+					"Localidade": "Cadaval, Lisboa",
+					"Historia": "O Museu Municipal do Cadaval existe desde 2002 mas foi reinstalado, em 2015, no edifício da Biblioteca Municipal. O museu mostra a evolução do território desde os tempos mais antigos até aos mais recentes, num percurso que abrange a Paleontologia, a Arqueologia, a História e o Património Cultural do Concelho do Cadaval. No início podem ver-se alguns fósseis de animais invertebrados e de dinossauros. Nas salas de arqueologia, estão expostos materiais pré-históricos das grutas e dos castros da serra de Montejunto, destacando-se as peças metálicas das Idades do Cobre e do Bronze e os materiais dos sítios de Pragança e do Salvador. Da época romana observam-se objetos provenientes de diversos locais do concelho, com destaque para o sítio de Borjigas. Da época medieval, expõem-se materiais da Igreja do Cadaval, algumas cabeceiras de sepultura, um importante capitel decorado e uma escultura de S. Sebastião. Algumas peças expostas do algar de Nossa Senhora das Neves são já do século XVIII. Na História do concelho destacam-se o Foral do Cadaval, de 1513, e o Mapa da Vila do Cadaval, que mostra, numa pintura, como era esta povoação no final do século XVIII. Num conjunto de fotografias antigas pode ver-se como era a vila do Cadaval e a sua vida cultural e recreativa, desde o início do século XX.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/N1qZhejP6bPdiqXIV1-pKJhptcZqsA-Ei-hQPTGG-nMPFxRb4gG-ZN5oIl_vSmcXLQN2hGM0DapJCswq4lRUKboWiIO7NLHJu4Umaup9Vw0EEzJtSMW8vx9_x2EOYvmvsQbI-j3fVSmMQJrl"
+				},
+				{
+					"Nome": "Moinho da Forca",
+					"Localidade": "Cadaval, Lisboa",
+					"Historia": "Num dos recantos mais distantes da Serra de Montejunto, encontramos uma rota de moinhos em que o de Rosa Miguel e Francisco Soares é o último de um percurso em que a paisagem nos deixa quase sem fôlego. O moinho já vem do tempo do pai de Francisco Soares, que nos conta que em tempos a moagem do trigo foi uma indústria e os moinhos que pintalgam a paisagem do Montejunto até às aldeias serviam de sustento a muitas famílias de moleiros. Hoje já não é assim, e o moinho que ainda tem, e no qual tem investido parte do seu tempo na sua recuperação apenas serve para ir moendo alguns cereais que compra numa loja local, para que no fundo o moinho nunca deixe de servir para aquilo que foi feito.",
+					"Imagem": "https://s3.amazonaws.com/gs-geo-images/159a1f67-4fc3-48ae-a6b8-b927fee5952c_l.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Pirilampo",
+					"Morada": "R. Francisco Henriques Corrêa n 1, 2550-137 Cadaval",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/dc/34/17/interior.jpg"
+				},
+				{
+					"Nome": "A Telha",
+					"Morada": "Largo Dom Nuno Alvares Pereira 12, 2550-116 Cadaval",
+					"Classificacao": 4.6,
+					"Imagem": "https://www.clubevinhosportugueses.pt/wp-content/uploads/2017/11/DSC_0248_kjk_5465d0fd96e62.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Quinta do Medronhal",
+					"Morada": "Rua do Seixo 4, 2550-132 Cadaval",
+					"Preco": "73€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/486/48620024.jpg"
 				}
 			]
 		},
@@ -137,25 +228,52 @@
 			"Nome": "Cascais",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Condes de Castro Guimarães",
+					"Localidade": "Av Rei Umberto II de Itália Parque Marecha Carmona, 2750-319 Cascais",
+					"Historia": "Inaugurado em 1931, foi dirigido por figuras de grande prestígio no meio cultural português, como por exemplo João Couto, Carlos Bonvalot, Branquinho da Fonseca e Maria Alice Beaumont. Em 1932, Fernando Pessoa candidatou-se ao cargo de conservador, porém não foi admitido por falta de habilitações. A Torre de S. Sebastião, atual Museu-Biblioteca Condes de Castro Guimarães, data do início do século XX e foi edificada por iniciativa do aristocrata Jorge O'Neil. Obra notável da arquitetura romântica, a Torre de S. Sebastião fascina pela mistura de estilos e por um envolvente misticismo que faz imaginar histórias de outros tempos. Em 1910, o palácio foi vendido aos Condes de Castro Guimarães que, após procederem a algumas alterações, passaram a habitá-lo grande parte do ano. O bom gosto do casal refletiu-se na aquisição de peças de arte e mobiliário representativos de várias épocas, assim como o seu interesse pela cultura se fez sentir na compra de dois dos elementos mais significativos do acervo do atual museu: um órgão neo-gótico, construído de encomenda para o Conde e a valiosa Crónica de D. Afonso Henriques, de Duarte Galvão. Quando faleceu, em 1927, o Conde deixou, em testamento, a casa e propriedade ao Município de Cascais, para que nelas fosse constituída uma Casa-Museu e Jardim Público. O Museu-Biblioteca Condes de Castro Guimarães foi oficialmente inaugurado a 12 de julho de 1931, tendo sido durante largos anos o único existente no concelho de Cascais.",
+					"Imagem": "https://www.cascais.pt/sites/default/files/styles/galeria-new/public/imagens/galerias/p9165744.jpg?itok=Kb4sjVIV"
+				},
+				{
+					"Nome": "Casino Estoril",
+					"Localidade": "Estoril, Cascais",
+					"Historia": "O Casino Estoril é um centro polivalente de atividade de entretenimento e lazer cujo diretor artístico é o actor Júlio César. O director artístico do Casino Estoril mais conhecido e destacado, e que deu início a esta actividade, foi Francisco José Faria Duarte, mais conhecido por Francisco Duarte, o qual foi contratado por José Teodoro dos Santos em 1958. A primeira pedra do Casino Estoril foi lançada em 1916, mas a sua inauguração apenas ocorreu em 1931. Fundado por Fausto de Figueiredo, o Casino Estoril passou a ser explorado por José Teodoro dos Santos em 1958, através da empresa Estoril Sol. Durante a Segunda Guerra Mundial, como Portugal era um país neutro, o Casino Estoril tornou-se num local frequentado por espiões e exilados, incluindo membros de algumas famílias reais depostas. Nos anos 60 do século XX o casino que havia sido construído nos anos 30 foi fortemente ampliado. O projeto de arquitetura desse novo casino foi da responsabilidade dos arquitetos Filipe Nobre de Figueiredo e José Segurado, tendo a responsabilidade do cálculo estrutural cabido ao engenheiro civil Manuel Agostinho Duarte Gaspar e a decoração ficado a cargo de José Espinho e Daciano da Costa. Após o falecimento de Teodoro dos Santos em 1971, a concessão foi conduzida pela estrutura accionista familiar, onde constavam personalidades como a viúva Marcelina Teodoro dos Santos, o seu filho Jorge Teodoro dos Santos, sua filha Maria Emília Teodoro dos Santos Telles. Desde a morte de Teodoro dos Santos até 1987, o cargo de Presidente do Conselho de Administração foi desempenhado pelo seu genro Manuel Joaquim Telles, coadjuvado na Administração do Grupo Estoril-Sol pelos seus filhos José Telles e Jorge Telles, Henrique Rosa Santos, sua mãe Henriqueta Santos e sua irmã Ana Maria Santos. Só entre 1984 e em definitivo a partir de 1987, a estrutura accionista maioritária da empresa Estoril Sol passa a ser representada por Stanley Ho.",
+					"Imagem": "https://www.publituris.pt/wp-content/uploads/2020/06/casino-estoril.jpg"
+				},
+				{
+					"Nome": "Boca do Inferno",
+					"Localidade": "Cascais, Lisboa",
+					"Historia": "O nome 'Boca do Inferno' atribuído a este local deve-se à analogia morfológica e ao tremendo e assustador impacto das vagas que aí se fazem sentir. A característica que compõe a rocha na falésia é de natureza carbonatada. A erosão exercida pela ação das águas das chuvas que, contendo dióxido de carbono dissolvido, provocam a dissolução do carbonato. Através deste processo formam-se cavidades e grutas no interior dos calcários. Com características únicas, é local de lazer, onde se pode desfrutar de uma paisagem divina e magníficos pôr-do-sol, sendo apenas ensombrada por não raros suicídios cometidos na sua perigosa e desprotegida falésia. Actualmente, o mar com embates violentos e impiedosos, eleva-se numa espuma branca e mortífera por dezenas de metros, continuando a desgastar a milenar rocha, aumentando desta forma a espectacularidade e a dimensão da Boca do Inferno.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/b9/56/d5/boca-do-inferno.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "5 Sentidos Cascais",
+					"Morada": "Largo Assunção 6, 2750-298 Cascais",
+					"Classificacao": 4.7,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/f2c0c286-2bc2-48d4-8b50-c39d676e29e9/f32858b8-1acc-43b8-9fda-8bd88e0d9596.jpg"
+				},
+				{
+					"Nome": "Baía do Peixe",
+					"Morada": "Av. Dom Carlos I nº6, 2750-310 Cascais",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/59/27/9e/vista-do-restaurante.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Pestana Cascais",
+					"Morada": "Av. Manuel Júlio Carvalho e Costa 115, 2754-518 Cascais",
+					"Preco": "129€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/1d/4a/e7/pestana-cascais.jpg"
+				},
+				{
+					"Nome": "Eurostars Cascais",
+					"Morada": "Travessa da República 35 -35A, 2750-475 Cascais",
+					"Preco": "174€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/988/98802927.jpg"
 				}
 			]
 		},
@@ -163,25 +281,70 @@
 			"Nome": "Lisboa",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Oceanário de Lisboa",
+					"Localidade": "Esplanada Dom Carlos I s/nº, 1990-005 Lisboa",
+					"Historia": "O Oceanário de Lisboa, originalmente Pavilhão dos Oceanos, é um oceanário situado na freguesia do Parque das Nações, na cidade de Lisboa, distrito de mesmo nome, em Portugal. Constitui-se em um aquário público e instituição de pesquisa sobre Biologia marinha e Oceanografia. É o segundo maior oceanário da Península Ibérica, contendo uma extensa coleção de espécies — aves, mamíferos, peixes e outros habitantes marinhos. Em 2017, foi considerado no TripAdvisor como o melhor oceanário do mundo. Foi construído e inaugurado no âmbito da Expo 98, a última exposição mundial do século XX, com o tema 'Os Oceanos, um Património para o Futuro'.",
+					"Imagem": "https://www.oceanario.pt/content/img/tripadvisor_oceanario_de_lisboa_pedroa.pina_2.jpg"
+				},
+				{
+					"Nome": "Padrão dos Descobrimentos",
+					"Localidade": "Av. Brasília, 1400-038 Lisboa",
+					"Historia": "Da autoria do arquiteto Cottinelli Telmo (1897 – 1948) e do escultor Leopoldo de Almeida (1898 – 1975), o Padrão dos Descobrimentos foi erguido pela primeira vez em 1940, de forma efémera e integrado na Exposição do Mundo Português. Construído em materiais perecíveis, possuía uma leve estrutura de ferro e cimento, sendo a composição escultórica moldada em estafe (mistura de espécies de gesso e estopa, consolidada por armação ou gradeamento de madeira ou ferro). Em 1960, por ocasião da comemoração dos 500 anos da morte do Infante D. Henrique, o Padrão é reconstruído em betão e cantaria de pedra rosal de Leiria, e as esculturas em cantaria de calcário de Sintra. Em 1985 é inaugurado como Centro Cultural das Descobertas. O arquitecto Fernando Ramalho remodelou o interior, dotando o Padrão de um miradouro, auditório e salas de exposições. Isolado e destacado no paredão à beira do Tejo, o Padrão dos Descobrimentos evoca a expansão ultramarina portuguesa, sintetiza um passado glorioso e simboliza a grandeza da obra do Infante D. Henrique, o impulsionador das descobertas. Uma caravela estilizada faz-se ao mar, levando à proa o Infante D. Henrique e alguns dos protagonistas (32) da gesta ultramarina e da cultura da época, navegadores, cartógrafos, guerreiros, colonizadores, evangelizadores, cronistas e artistas, são retratados com os símbolos que os individualizam. Um mastro estilizado, com orientação Norte – Sul, tem em cada uma das faces dois escudos portugueses, com cinco quinas, envolvidos por faixa com 12 castelos e ao centro várias flores-de-lis. Ao mastro adoçam-se, em cada face, três estruturas triangulares, curvas, dando a ilusão de velas enfunadas pelo vento.",
+					"Imagem": "https://padraodosdescobrimentos.pt/wp-content/uploads/2019/03/LP10118-1920x1172.jpg"
+				},
+				{
+					"Nome": "Panteão Nacional",
+					"Localidade": "Campo de Santa Clara, 1100-471 Lisboa",
+					"Historia": "Fundado na 2ª metade do século XVI, o edifício foi totalmente reconstruído em finais de Seiscentos pelo arquiteto João Antunes; embora nunca chegasse a abrir ao culto, conserva, sob a cúpula moderna, o espaço majestoso da nave, animada pela decoração de mármores coloridos, característica da arquitetura barroca portuguesa. Elemento referencial no perfil da cidade e oferecendo pontos de vista privilegiados sobre a zona histórica da cidade e sobre o rio Tejo, está classificado como Monumento Nacional.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/0zb_-RMcK1V_J9hRU5nahI_cGr7haVUmRQND-4zf3VqJUunoaubmjFRxedYeyyzWcio4db0VZd_Y2Wgt5D0pA4OnQ2tp6CJrkDeUlARG-F86bQM9ZeB2X6__DuutHF5sWoziutZqUJQN4OMcs-r0U0ep9671cO9l5A"
+				},
+				{
+					"Nome": "Praça do Comércio",
+					"Localidade": "Praça do Comércio, 1100-148 Lisboa",
+					"Historia": "Em 1511, o rei D. Manuel I transferiu a sua residência do Castelo de São Jorge para este local junto ao rio. O Paço da Ribeira, bem como a sua biblioteca de 70 000 volumes, foram destruídos pelo terramoto de 1755. Na reconstrução, coordenada por Eugénio dos Santos, a praça tornou-se no elemento fundamental do plano do Marquês de Pombal. Os edifícios que envolvem a praça foram, durante décadas, utilizados por diferentes ministérios e outras instituições públicas. Hoje a sua utilização está dividida entre departamentos governamentais, atividades culturais e promocionais, hotéis, restaurantes e cafés. Após a Revolução de 1910 os edifícios foram pintados a cor-de-rosa. Contudo, voltaram recentemente à sua cor original, o amarelo. O lado sul, com as suas duas torres quadradas, está virado para o Tejo. Foi durante muito tempo a entrada nobre de Lisboa e, nos degraus de mármore do Cais das Colunas, vindos do rio, desembarcaram e foram recebidos chefes de estado e outras figuras de destaque. No centro da praça, vê-se a estátua equestre D. José, erigida em 1775 por Joaquim Machado de Castro, o principal escultor português do século XVIII. No lado norte da praça, encontra-se o Arco Triunfal da Rua Augusta, a entrada para a Baixa. A área serviu como parque de estacionamento até à década de 1990, mas hoje este vasto espaço é usado para eventos culturais e espectáculos.",
+					"Imagem": "https://images.turismoenportugal.org/Praca-do-Comercio-Lisboa.jpg"
+				},
+				{
+					"Nome": "Avenida da Liberdade",
+					"Localidade": "Santo António, Lisboa",
+					"Historia": "A Avenida da Liberdade é uma das principais avenidas da cidade de Lisboa, em Portugal, que liga a praça dos Restauradores à Praça do Marquês de Pombal. Com cerca de 90 m de largura e 1100 m de comprimento, conta com várias faixas e largos passeios decorados com jardins e calçada à portuguesa. A avenida da Liberdade e a praça dos Restauradores têm a sua origem no boulevard chamado Passeio Público, iniciado em 1764, e criado pelo arquiteto Reinaldo Manuel. Inicialmente murada, a encosta foi alvo de grandes alterações nas décadas de 1830 e 1840 pelo arquiteto Malaquias Ferreira Leal, que introduziu um novo arranjo de jardins e fontes, com quedas de água e estátuas alegóricas que representam o rio Tejo e o rio Douro. Depois do Terramoto de 1755, o Marquês de Pombal mandou construir o Passeio Público na área atualmente ocupada pela parte inferior da Avenida da Liberdade e Praça dos Restauradores. Embora se denominasse de Passeio Público, inicialmente era rodeado por muros e portões por onde só passavam os membros da alta sociedade. Porém, em 1821, o rei D. João VI ordenou que os muros fossem derrubados para que toda a gente, rica ou pobre, pudesse circular pelo Passeio. Pombal teve o cuidado de aproveitar pequenos riachos que por ali passavam e, em vez de os drenar/desviar, integrou-os na ornamentação do passeio. Porém, com o passar do tempo, os mesmos foram secando naturalmente e/ou foram drenados para permitir as construções que hoje aí se encontram. A avenida atualmente existente foi construída entre 1879/1882 no estilo dos Campos Elísios em Paris. A grande avenida arborizada tornou-se num centro de cortejos, festividades e manifestações. A avenida ainda conserva a sua elegância, com fontes e esplanadas magníficas sob as árvores. Majestosa, com 90 m de largura e pavimentos decorados com padrões abstratos, está agora dividida por dez faixas de trânsito que ligam a Praça dos Restauradores, a sul, à Praça do Marquês de Pombal, a norte. Algumas das mansões originais foram preservadas, incluindo o neoclássico Teatro Tivoli, com um quiosque da década de 1920 no exterior. No entanto, muitas das fachadas no estilo arte nova deram lugar a edifícios ocupados por escritórios, hotéis ou complexos comerciais.",
+					"Imagem": "https://gd-lisboa.sfo2.cdn.digitaloceanspaces.com/2019/10/liberdade1.jpg"
+				},
+				{
+					"Nome": "Torre de Belém",
+					"Localidade": "Belém, Lisboa",
+					"Historia": "Construída estrategicamente na margem norte do rio Tejo entre 1514 e 1520, sob orientação de Francisco de Arruda, a Torre de Belém é uma das jóias da arquitetura do reinado de D. Manuel I. O monumento faz uma síntese entre a torre de menagem de tradição medieval e o baluarte, mais largo, com a sua casamata onde se dispunham os primeiros dispositivos aptos para resistir ao fogo de artilharia. Ao longo do tempo a Torre de Belém foi perdendo a sua função de defesa da barra do Tejo e, a partir da ocupação filipina, os antigos paióis deram lugar a masmorras. Nos quatro pisos da torre, mantêm-se a Sala do Governador, a Sala dos Reis, a Sala de Audiências e, finalmente, a Capela com as suas características abóbadas quinhentistas. ",
+					"Imagem": "https://lisboasecreta.co/wp-content/uploads/2019/06/61670665_1413836595423678_8193944851585270995_n.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Plano Restaurante",
+					"Morada": "Rua da Bela Vista à Graça 126, 1170-055 Lisboa",
+					"Classificacao": 5.0,
+					"Imagem": "https://nit.pt/wp-content/uploads/2019/08/2c174ac505e001c49c8b69f545628a91-754x394.jpg"
+				},
+				{
+					"Nome": "É Um Restaurante",
+					"Morada": "R. São José 56, 1150-321 Lisboa",
+					"Classificacao": 4.9,
+					"Imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/11/155128762019101020191010VisaoIstoeumRestaurante009-1024x712.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Avenida Park",
+					"Morada": "Av. Sidónio Pais 6, 1050-214 Lisboa",
+					"Preco": "39€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/4a/79/7c/avenida-park-hotel.jpg"
+				},
+				{
+					"Nome": "VIP Grand Lisboa Hotel & Spa",
+					"Morada": "Avenida 5 de Outubro 197, 1050-054 Lisboa",
+					"Preco": "85€",
+					"Classificacao": 5,
+					"Imagem": "https://content.r9cdn.net/rimg/kimg/76/08/6d0c804a-15037df260b.jpg?crop=true&width=500&height=350"
 				}
 			]
 		},
@@ -189,25 +352,39 @@
 			"Nome": "Loures",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Quinta do Conventinho",
+					"Localidade": "Quinta do Conventinho, N8, km 4.3, 2670-492 Loures",
+					"Historia": "Edifício construído em 1573-75, nele se instalou o 13º convento dos Franciscanos Arrábidos, chamado do Espírito Santo, sob o patrocínio de um Luís de Castro do Rio, fidalgo de Frielas. Em 1646 o convento recebe de uma Maria de Castro e de seu marido Francisco Cirne da Silva 30 mil réis (juro que estes tinham na Alfândega de Lisboa). Esta maquia será investida pelo convento em profundas obras de remodelação, havendo então sido quase totalmente reedificado. Em 1834, com a extinção das ordens religiosas, o convento e seus bens foram nacionalizados. Em 22 de Setembro o convento foi adquirido ao Estado por uma Theresa Bernardo de Jesus pela quantia de 621 mil réis, para logo em 18 de Agosto de 1838 ser vendido a um José Silveira por um conto e 100 mil réis. Em 1853 Luisa Maria da Costa Cabral torna-se proprietária da Quinta. Em 1925 José Bandeira adquiriu a propriedade, para logo em 1926 ser adquirida por um Alemão, joseph gellweiler. O último proprietário privado do convento foi um Manuel Dias das Neves, que o comprou em 22 de Janeiro de 1980. O convento foi adquirido em 1988 pela Câmara Municipal de Loures, aí se instalando o Museu Municipal em 26 de Julho de 1998.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Museu_Municipal_de_Loures.jpg"
+				},
+				{
+					"Nome": "Parque Municipal de Loures",
+					"Localidade": "Av. Maj. Rosa Bastos 17, 2670-459 Loures",
+					"Historia": "O Parque Municipal do Cabeço de Montachique constitui-se como um equipamento florestal de recreio, com 32 hectares, vocacionado para o convívio e o desporto da população em geral. Situa-se na área norte do concelho de Loures, em zona rural, onde dominam áreas florestais com frondosos sobreirais e grandes manchas de carvalho português aos quais se associam os matos característicos da região. O Parque dista cerca de 10 km da cidade de Lisboa. O parque possui área para acampamentos ocasionais e balneários públicos e é dotado de parque de estacionamento para os utentes. Possui também estruturas patrimoniais de relevo como sejam um fortim integrante das Linhas de Torres, um antigo forno de cal e uma mina de água férrea.",
+					"Imagem": "https://www.cm-loures.pt/media/foto/Foto20180516135230429.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Divina Pizza",
+					"Morada": "Avenida Diogo Cão, nº24, Lj 1, 2670-384 Loures/Infantado",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/2f/25/08/photo2jpg.jpg"
+				},
+				{
+					"Nome": "O Alcorraz",
+					"Morada": "R. Francisco Canas, 23, bloco 2, fracção V, 2660-500 Loures",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/33/6f/05/mesa-posta-contamos-consigo.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "VIP Executive Santa Iria Hotel",
+					"Morada": "Estr. Nacional 10 nº 1260, 2694-001 Santa Iria de Azoia",
+					"Preco": "49€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/70/13/f1/exterior.jpg"
 				}
 			]
 		},
@@ -215,25 +392,46 @@
 			"Nome": "Lourinhã",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu da Lourinhã",
+					"Localidade": "R. João Luís de Moura 95, 2530-158 Lourinhã",
+					"Historia": "O Museu da Lourinhã localiza-se no centro da vila da Lourinhã, em Portugal. Foi fundado em 1984 pelo Grupo de Etnologia e Arqueologia da Lourinhã, este museu possui das maiores coleções ibéricas de fósseis de dinossauros do Jurássico Superior e uma das mais importantes a nível mundial. O museu é gerido por um conjunto de cidadãos, sobretudo da Lourinhã. A atual presidente é Lubélia Gonçalves. Um dos principais fundadores foi Horácio Mateus, pai do paleontólogo Octávio Mateus.",
+					"Imagem": "https://nit.pt/wp-content/uploads/2018/02/26c97d3044cbcd60669f4027d2d5f182-754x394.jpg"
+				},
+				{
+					"Nome": "Dino Parque Lourinhã",
+					"Localidade": "Rua Vale dos Dinossauros 25, 2530-059 Lourinhã",
+					"Historia": "Embarque numa viagem no tempo com mais de 300 milhões de anos. Venha descobrir os segredos do passado no Museu e divertir-se com a sua familia à descoberta dos 180 modelos de dinossauros em tamanho real ou praticar atividades como um verdadeiro paleontólogo.",
+					"Imagem": "https://i1.wp.com/www.osmeustrilhos.pt/wp-content/uploads/2018/02/Dino-Parque-Lourinha.OsMeusTrilhos-43.jpg?resize=940%2C580&ssl=1"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Avenida Café Cervejaria",
+					"Morada": "Alameda Nuno de Brion 11, 2530-119 Lourinhã",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/9a/43/a3/photo0jpg.jpg"
+				},
+				{
+					"Nome": "Yukimura Sushi Bar",
+					"Morada": "Av. António José de Almeida 15, 2530-113 Lourinhã",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/61/60/9c/yukimura-sushi-bar.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Figueiredo's",
+					"Morada": "Marcos da Silva, Largo Mte. Anacleto Marques da Silva, 2530-124 Lourinhã",
+					"Preco": "65€",
+					"Classificacao": 2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/70/96/c6/hotel-figueiredo-s.jpg"
+				},
+				{
+					"Nome": "HI Hostel Areia Branca - Pousada de Juventude",
+					"Morada": "Praia da Areia Branca - Largo João Soldado, 2530-217 Lourinhã",
+					"Preco": "44€",
+					"Classificacao": 3,
+					"Imagem": "https://pousadasjuventude.pt/media/44992/areiabranca1.jpg"
 				}
 			]
 		},
@@ -241,25 +439,52 @@
 			"Nome": "Mafra",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Palácio Nacional de Mafra",
+					"Localidade": "Terreiro D. João V, Mafra",
+					"Historia": "Mandado construir por D. João V para cumprir um voto de sucessão, o Palácio Nacional de Mafra é o mais importante monumento do barroco em Portugal. Em pedra lioz da região, ocupa 38.000 m, com 1.200 divisões, 4.700 portas e janelas e 156 escadas, magnificência apenas tornada possível pelo afluxo de ouro do Brasil. Para a Real Obra encomendou o Rei esculturas e pinturas a Mestres Italianos e Portugueses e, na Flandres, dois carrilhões com 92 sinos – os maiores do tempo. Integra ainda um conjunto de seis órgãos históricos na Basílica, uma importante biblioteca do séc. XVIII, com c. de 38.000 volumes e um Núcleo Conventual, com um hospital da época. Não sendo residência habitual da Família Real, o Paço de Mafra foi sempre muito visitado pelos reis, para assistirem a festas religiosas ou caçar na Tapada.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Panorama_Pal%C3%A1cio_Nacional_de_Mafra_Terreiro_D._Joao_V._Foto_2016_Wolfgang_Pehlemann_DSC00846.jpg/1000px-Panorama_Pal%C3%A1cio_Nacional_de_Mafra_Terreiro_D._Joao_V._Foto_2016_Wolfgang_Pehlemann_DSC00846.jpg"
+				},
+				{
+					"Nome": "Jardim do Cerco",
+					"Localidade": "Largo Gen. Conde de São Januário, Mafra",
+					"Historia": "O Jardim do Cerco é uma obra iluminada, mantida com detalhe e minúcia para a população e visitantes. Espelhos de água, caminhos largos, árvores frondosas e uma nora centenária ainda em funcionamento são alguns dos atrativos deste jardim inspirado em Versalhes. O bosque e os jardins estendem-se por oito hectares, com ofertas de recantos, sombras, cascatas ou até mesmo uma horta peculiar: a Horta dos Frades, onde estão à vista as plantas utilizadas nos produtos medicinais (farmácia), aquando da sua construção, ordenada por D. João V. No Jardim do Cerco existe um espaço denominado Horto das Aromáticas, que apresenta cerca de 39 espécies de plantas com utilização para fins medicinais e condimentares. Para saber mais, consulte a ficha respetiva de cada planta.",
+					"Imagem": "https://www.rhlt.pt/wp-content/uploads/2017/10/Jardim_do_Cerco.jpg"
+				},
+				{
+					"Nome": "Tapada Nacional de Mafra",
+					"Localidade": "Portão do Codeçal, 2640-602 Mafra",
+					"Historia": "Com 1187 ha de área, rodeada por um muro de 21 km de extensão, a Tapada de Mafra possui grande diversidade de espécies animais e vegetais, sendo uma área de acesso regulado (pago). A área está dividida em três desde 1828, estando a primeira de 360 hectares sob administração militar. A Tapada de Mafra foi criada em 1747, no reinado de D. João V na sequência da construção do Palácio Nacional de Mafra, que lhe é contíguo. Conhecida então como Tapada Real de Mafra, a sua criação teve como objectivo a existência de uma zona de lazer real vocacionada para a caça para entertenimento da família real e da nobreza.",
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N4.ACT1172d.jpg?itok=S03Fn-1X"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Adega do Convento",
+					"Morada": "R. Moreira 11, 2640-507 Mafra",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.adegadoconvento.pt/uploads/1/1/1/5/11156675/3796103_orig.jpg"
+				},
+				{
+					"Nome": "João da Vila Velha",
+					"Morada": "R. Pedro Julião Papa João XXI 4, 2640-518 Mafra",
+					"Classificacao": 4.3,
+					"Imagem": "https://clubedaspipas.pt/image/catalog/Parcerias/Jo%C3%A3o%20da%20Vila%20Velha/Jo%C3%A3o-Vila-Velha-Interior2.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Mafra Hotel",
+					"Morada": "Av. 25 de Abril 23, 2640-456 Mafra",
+					"Preco": "78€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/190/190467986.jpg"
+				},
+				{
+					"Nome": "Mafra Guest House",
+					"Morada": "Av. Primeiro de Maio 49 1o C, 2640-456 Mafra",
+					"Preco": "65€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/214/214281056.jpg"
 				}
 			]
 		},
@@ -267,25 +492,46 @@
 			"Nome": "Odivelas",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Mosteiro de São Dinis e São Bernardo de Odivelas",
+					"Localidade": "Largo Dom Dinis, 2675-368 Odivelas",
+					"Historia": "Fundado por El-Rei D. Dinis, em finais do séc. XIII, (1295), na sua Quinta de Vale de Flores, em Odivelas, foi construído entre 1295 e 1305. Várias hipóteses são apontadas para a sua edificação. Uma das razões apontadas encontra eco na lenda que narra o ataque de um urso, quando o monarca caçava perto de Beja. Em ação de graças por ter sobrevivido, terá prometido construir uma capela no Convento de São Francisco, em Beja e, depois, a edificação de um mosteiro cisterciense. O Mosteiro sofreu alterações significativas nos reinados de D. João IV (1604-1656) e D. João V (1706-1750), mas foi a reconstrução efetuada após o terramoto de 1755 que altera profundamente a traça primitiva do edifício, com a introdução do estilo neoclássico, quer na igreja, quer nos lanços do Claustro Novo. No interior destacam-se os túmulos góticos: o de D. Dinis (primeiro exemplo português que introduz a monumentalidade na tumulária portuguesa. Data do séc. XIV e é um dos monumentos fúnebres mais belo do gótico português), e outro atribuído a um seu descendente. O Mosteiro tem ainda dois claustros, o Principal (ou Claustro Novo, designação obtida após o terramoto de 1755), localizado entre a igreja e o refeitório, é constituído por duas naves de estilo neoclássico, posteriores ao terramoto de 1755. Nas naves meridional e ocidental, podemos ainda observar as ogivas sob uma cobertura reconstituída, denunciando a construção primitiva de estilo gótico. Percorre a galeria todo um silhar de azulejos policromadas do séc. XVII. O Claustro da Moura, reconstruido nos finais do séc. XVII, é assim designado por ter ao centro uma fonte do séc. XVIII, encimada por uma figura de mulher com roupas mouriscas e turbante na cabeça que foi mandada edificar pela abadessa D. Luísa de Moura. Na galeria térrea, de arcos abatidos chanfrados, observam-se alguns capitéis góticos. A galeria superior, quinhentista, ocupa três lanços de claustro. A nordeste do claustro localizava-se a casa real de D. Dinis, que desmoronou em 1922. Em 1888 o Mosteiro encerra definitivamente na sequência de um conjunto de legislação que põe fim às Ordens Religiosas. No ano de 1902, o Infante D. Afonso, irmão do Rei D. Carlos, funda o Instituto de Odivelas.",
+					"Imagem": "https://www.cm-odivelas.pt/thumbs/cmodivelas/uploads/content_image/image/1446/mosteiro__16__1_1024_2500.jpg"
+				},
+				{
+					"Nome": "Padrão do Senhor Roubado",
+					"Localidade": "Odivelas, Lisboa",
+					"Historia": "A sua construção deveu-se a um roubo efetuado na igreja de Odivelas, em 1671, alegadamente pelo jovem António Ferreira, que aí roubou do altar-mor e de outros altares desta igreja, as contas do rosário de N. Sra. do Rosário, as vestes do Menino Jesus e da Senhora do Egipto, os Vasos Sagrados, entre outros, escondendo-os numa mata de caniços onde está hoje o Senhor Roubado. Numa época de extrema religiosidade, a dimensão deste caso foi tal que, quando chegada a notícia à capital, foram enviadas missivas a todo o reino, e afixados éditos prometendo recompensa em dinheiro e um emprego na justiça ou na fazenda, a quem denunciasse o autor do crime; a corte pôs luto e foram feitas procissões nas ruas. No local, numa oliveira, foi colocado um padrão de cruz, em madeira, que, mais tarde, o religioso António dos Santos transformou no padrão do Senhor Roubado, construído com pedra cedida pela pedreira da Paradela, e que o próprio realizou, pagando o restante trabalho com esmolas. O Monumento ao Senhor Roubado é composto por um recinto, em forma de trapézio isósceles, com uma superfície de dez metros de comprido por oito de largura, e o arranjo arquitetónico apresenta-se a modo de templo descoberto. É uma espécie de altar ou oratório, constituído por um alpendre assente em quatro colunas toscanas e fechado por parede na parte posterior. No interior encontra-se o padrão que rememora o roubo sacrílego. Existe ainda no recinto um púlpito, conferindo-lhe a feição de lugar consagrado ao culto divino. Na face ocidental, um paredão inteiramente forrado de azulejos monocromáticos; nas partes inferior e superior, doze quadros ou painéis historiados, cada um composto por 72 azulejos, com legenda explicativa sobre as cenas do roubo.",
+					"Imagem": "https://www.cm-odivelas.pt/thumbs/cmodivelas/uploads/content_image/image/5495/senhor_roubado_poster_1_1024_2500.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Paullu´s",
+					"Morada": "Av. Amália Rodrigues 21A, 2675-432 Odivelas",
+					"Classificacao": 4.5,
+					"Imagem": "https://b.zmtcdn.com/data/pictures/chains/5/8208725/a86c6a3fb1bc29d90c056487995d9173.jpg"
+				},
+				{
+					"Nome": "Dote Odivelas",
+					"Morada": "R. Pulido Valente 6, 2675-672 Odivelas",
+					"Classificacao": 4.2,
+					"Imagem": "https://www.dote.pt/wp-content/uploads/2017/05/odivelas-11-1024x681.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Zabava Hostel",
+					"Morada": "R. Cmte. Sacadura Cabral N. 55B, 2620-289 Odivelas",
+					"Preco": "26€",
+					"Classificacao": 2,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/133/133014823.jpg"
+				},
+				{
+					"Nome": "D&N House",
+					"Morada": "Rua do Senhor Roubado, 9 Cave, 2675-533 Odivelas",
+					"Preco": "18€",
+					"Classificacao": 2,
+					"Imagem": "https://thumbnails.trvl-media.com/7soS3rNlqPTE3farj-B177Bmpz8=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/47000000/46170000/46168500/46168492/c94f823f_z.jpg"
 				}
 			]
 		},
@@ -293,25 +539,45 @@
 			"Nome": "Oeiras",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Centro Cultural Palácio do Egipto",
+					"Localidade": "R. Álvaro António dos Santos 10, 2780-228 Oeiras",
+					"Historia": "​Localizado no centro histórico da vila de Oeiras, a nascente da Igreja Matriz, a sua construção remonta ao séc. XVIII, tendo sido, o edifício mais importante e nobre, até à edificação do Palácio do Marquês. Foi mandado construir pela família Rebello de Andrade e estava, então, integrado na Quinta de Recreio Nossa Senhora do Egipto. Nos finais do séc XIX, pertencia ao Dr. Zeferino Pinto Coelho, cujos herdeiros, nos anos 20 do século passado, venderam o edificado e a quinta ao Sr. Álvaro António dos Santos. Por decisão dos herdeiros de Álvaro António dos Santos, em 1980, o Palácio foi vendido à CMO, fazendo desde então parte do espólio e património municipal. Em 2005 a Autarquia, chamou a si a responsabilidade da sua reabilitação, tendo-se aí instalado em 2009, o atual Centro Cultural Palácio do Egipto, que integra uma sala de exposições temporárias, uma livraria / loja municipal e três espaços de restauração. Dar continuidade à concretização e implementação de políticas culturais que permitam contribuir para a oferta de programações expositivas de inegável qualidade, na senda do que vem já acontecendo no Centro de Arte Manuel de Brito e na Livraria Galeria Municipal Verney / Colecção Neves e Sousa.",
+					"Imagem": "https://newinoeiras.nit.pt/wp-content/uploads/2019/08/974bbad2f316c2a20c143db3ea3a9720-754x424.jpg"
+				},
+				{
+					"Nome": "Palácio do Marquês de Pombal",
+					"Localidade": "Oeiras, Lisboa",
+					"Historia": "O grande e notável edifício foi iniciado pelo irmão do marquês Francisco Xavier de Mendonça Furtado, conforme se lê numa numa inscrição sobre a entrada lateral da residência. De facto os dois irmãos do marquês - Francisco Xavier de Mendonça e Paulo de Carvalho e Mendonça, o primeiro Ministro e Secretário de Estado, o segundo prelado e também detentor de vários cargos e títulos importantes - empregaram os seus rendimentos a beneficiar a Quinta de Oeiras, que viera à posse de Sebastião José por intermédio da sua primeira mulher, D.Teresa de Noronha, como sucessora nos vínculos de seu tio Paulo de Carvalho e Ataíde, arcipreste da Santa Igreja Patriarcal, falecido em 1737. Assim se explica outra inscrição em dependência do palácio junto da estrada e a que se encontra no muro da chamada Quinta de Cima, na qual se fala em Paulo de Carvalho e Mendonça. A antiga quinta foi formada através da incorporação de vários casais e quintas junto à Ribeira da Laje, beneficiando dos seus terrenos férteis. No seu traçado inicial, a quinta caracterizava-se por um geometrismo rigoroso, de modo a articular as vertentes recreativa (jardins e mata) e lucrativa (a propriedade rural). Na Quinta de Cima, localizava-se a Casa da Pesca e a Cascata do Taveira (ou dos Gigantes). Nesta propriedade fazia-se a produção dos bichos-da-seda. A terceira quinta designava-se de “Quinta do Marco”, restando na actualidade apenas um edifício. Era constituída por terrenos de lavoura com vinhas, olivais, e árvores de fruto. Na 2ª metade do século XX, a propriedade foi vendida e fraccionada, tendo a Quinta de Baixo sido adquirida pela Fundação Calouste Gulbenkian e a Quinta de Cima sido comprada pelo Estado e dado lugar à Estação Agronómica Nacional. O palácio situa-se naquilo que era antes a imensa quinta senhorial. Além do palácio, permanecem no espaço os magníficos jardins, de inspirações fantasiosas, que somente poderiam provir de um génio como Carvalho e Melo.",
+					"Imagem": "https://www.cm-oeiras.pt/pt/PublishingImages/CM150431.JPG?Width=1920&Height=700"
+				},
+				{
+					"Nome": "Aquário Vasco da Gama",
+					"Localidade": "Estação Agronómica 23, Oeiras",
+					"Historia": "O projeto do Aquário Vasco da Gama foi concebido no contexto das comemorações do 'IV centenário da partida de Vasco da Gama, para a descoberta do Caminho Marítimo para a Índia', com o apoio de Carlos I de Portugal, pioneiro da Oceanografia no país. O terreno no qual foi construído, foi cedido pelo Ministério das Obras Públicas e os trabalhos. Ficou sob a responsabilidade da Comissão Executiva do Quarto Centenário do Descobrimento do Caminho Marítimo para a Índia e tiveram a orientação do cientista Albert Girard. Foi inaugurado a 20 de Maio de 1898, na presença do soberano. Estavam expostas, além das espécies que passaria a exibir normalmente, as coleções zoológicas reunidas durante as campanhas oceanográficas que o monarca empreendera a bordo do iate real 'D. Amélia'.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aqu_rio_Vasco_da_Gama_%28Portugal%29_%2880884059%29.jpg/1200px-Aqu_rio_Vasco_da_Gama_%28Portugal%29_%2880884059%29.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Caçoila",
+					"Morada": "R. de Oeiras do Piauí Brasil 12, 2780-295 Oeiras",
+					"Classificacao": 4.4,
+					"Imagem": "https://newinoeiras.nit.pt/wp-content/uploads/2018/11/f4f310e717d20338c1c1cee548c3f7ee-754x424.jpg"
+				},
+				{
+					"Nome": "B'EntreVinhos",
+					"Morada": "Porto de Recreio, Oeiras",
+					"Classificacao": 4.6,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/f_auto,q_auto,w_612,h_344/restaurant/3325c2d4-8589-405e-ac77-0601e76bc73b/016e2150-3e7c-4bbd-b150-c5c34a08fb3a.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Real Oeiras",
+					"Morada": "R. Álvaro Rodrigues de Azevedo nº 5, 2770-197 Paço de Arcos",
+					"Preco": "72€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/148/14876793.jpg"
 				}
 			]
 		},
@@ -319,25 +585,58 @@
 			"Nome": "Sintra",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Palácio Nacional de Sintra",
+					"Localidade": "Largo Rainha Dona Amélia, 2710-616 Sintra",
+					"Historia": "A história milenar do Paço da Vila de Sintra começa durante o domínio muçulmano na Península Ibérica. Já referido no século XI, o primitivo palácio mouro - propriedade da Coroa portuguesa a partir da conquista de Lisboa por D. Afonso Henriques (1147), 1º Rei de Portugal - é intervencionado pela primeira vez em 1281, no reinado de D. Dinis. Novos corpos construtivos são acrescentados ao longo do tempo, sob os reinados de D. Dinis, D. João I e D. Manuel I, mantendo a sua silhueta desde meados do século XVI. A disposição dos espaços em altura, adaptando-se ao terreno; a organização intimista dos pátios interiores a céu aberto, onde se ouve a água a correr; as suas janelas com arcos ultrapassados; e os revestimentos azulejares de ricos padrões geométricos, evidenciam a ligação mourisca dos artífices que edificaram e embelezaram o Palácio.",
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N4.MPS1581d.jpg?itok=S2PxxHZs"
+				},
+				{
+					"Nome": "Parque e Palácio de Monserrate",
+					"Localidade": "2710-405 Sintra, Lisboa",
+					"Historia": "Terá existido nestes terrenos uma capela, essa anterior mesmo à reconquista de Sintra por D. Afonso Henriques, e que marcaria a sepultura de um cristão-moçárabe que morrera a combater um rico árabe que comandava a zona. Em 1540 o clérigo Gaspar Preto mandou edificar uma capela dedicada a Nossa Senhora de Monserrate, nesta altura a ermida e os terrenos circundantes pertenciam ao Hospital de Todos-os-Santos de Lisboa. Em 1601 a propriedade é aforada à família Melo e Castro até 1718 quando é finalmente adquirida por D. Caetano de Melo e Castro, comendador de Cristo e Vice-rei da Índia. Sendo a família residente em Goa a propriedade era mantida por caseiros, pelo menos até 1755 quando o violento terramoto deixou as casas inabitáveis. Em 1790 Gerad DeVisme (rico comerciante inglês, representante e associado da firma DeVisme, Purry & Mellish, que conseguira do Marquês de Pombal o monopólio do comércio das madeiras do Brasil) arrenda a quinta a Dona Francisca Xavier Mariana de Faro Melo e Castro, tendo construído o primeiro palácio, em estilo neogótico. Demoliu ainda a capela do século XVI, tendo construído outra que viria a ser aproveitada por Francis Cook para criar uma falsa ruína. Será em 1793 que William Beckford arrenda a propriedade a DeVisme, investindo largamente no palácio mas mais ainda no melhoramento dos jardins. Só em 1856 e após várias décadas de abandono (tendo Beckford deixado Portugal no final do século XVIII) é que a Quinta de Monserrate sairia das mãos da família Melo e Castro, na pessoa de José Maria de Castro, que retornavam de Goa e vendiam a quinta para construir uma residência em Lisboa. Em 1884 é lhe atribuído o título de Baronete em Inglaterra, vivendo Sir Francis Cook até aos 84 anos. Até ao final da sua vida passaria largas temporadas em Sintra, durante os meses de Novembro, a maior parte de Abril, Maio e Junho. Durante o resto do ano a casa ficava entregue a uma família de caseiros que se comprometia a cuidar da residência.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/aea829-crjDwhl5bCAE3UeUNn2TMt-8Yr10jGQEYrNa_Ob7oy7_ZT0huaNoMFNJx9qv7InPsrf5aCOGCiMCaS3N61rOKyBatSmlnLDkH_QmA0_rwVb0Mt7BXS9zdZlE"
+				},
+				{
+					"Nome": "Parque e Palácio Nacional da Pena",
+					"Localidade": "Estrada da Pena, 2710-609 Sintra",
+					"Historia": "O Palácio da Pena ergue-se sobre uma rocha escarpada, que é o segundo ponto mais alto da Serra de Sintra (acima do palácio só se encontra a Cruz Alta, a 528m de altitude). O Palácio localiza-se na zona oriental do Parque da Pena, que é necessário percorrer para se chegar à íngreme rampa que o Barão de Eschwege construiu para se aceder à edificação acastelada. O Palácio propriamente dito é constituído por duas alas: o antigo convento manuelino da Ordem de São Jerónimo e a ala edificada no século XIX por D. Fernando II. Estas alas estão rodeadas por uma terceira estrutura arquitetónica, em que se fantasia um imaginário castelo de caminhos de ronda com merlões e ameias, torres de vigia, um túnel de acesso e até uma ponte levadiça. Em 1838 o rei D. Fernando II adquiriu o antigo convento de monges Jerónimos de Nossa Senhora da Pena, que tinha sido erguido no topo da Serra de Sintra em 1511 pelo rei D. Manuel I e se encontrava devoluto desde 1834 com a extinção das ordens religiosas. O convento compunha-se do claustro e dependências, da capela, sacristia e torre sineira, que constituem hoje o núcleo norte do Palácio da Pena, ou Palácio Velho.",
+					"Imagem": "https://www.parquesdesintra.pt/wp-content/uploads/2013/07/PNP8_Palacio_da_Pena_aerea_credits_PSML-WP_15-7.jpg"
+				},
+				{
+					"Nome": "Castelo de Mouros",
+					"Localidade": "Sintra, Lisboa",
+					"Historia": "O Castelo dos Mouros é um castelo em ruínas compreendido entre as florestas exuberantes da Serra de Sintra e é uma atração turística popular da terra. O Castelo dos Mouros foi construído durante o séc.IX pelos Mouros norte africanos de modo a guardar a cidade de Sintra, mas foi abandonado depois da conquista cristã em Portugal. O castelo foi restaurado no séc. XIX pelo Rei Fernando II, que o transformou numas ruínas românticas e numa das principais caraterísticas dos jardins do Palácio da Pena. O castelo mantém o charme de uma ruína antiga, com uma floresta densa em torno das muralhas antigas que oferecem vistas espetaculares sobre a região de Sintra. O Castelo dos Mouros é uma atração altamente recomendável em Sintra e é bastante diferente dos outros palácios da cidade, ou das casas senhoriais que apresenta. ",
+					"Imagem": "https://www.sintra-portugal.com/Images/400px/castelo-dos-mouros-sintra.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Santo Bife Sintra",
+					"Morada": "R. Consiglieri Pedroso 19, 2710-550 Sintra",
+					"Classificacao": 4.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/e5/67/41/um-santo-bife.jpg"
+				},
+				{
+					"Nome": "A Praça",
+					"Morada": "Rua do Paço 16, 2710-602 Sintra",
+					"Classificacao": 5.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/b7/63/dc/a-praca.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Tivoli Sintra",
+					"Morada": "Praça da República, 2710-616 Sintra",
+					"Preco": "121€",
+					"Classificacao": 4,
+					"Imagem": "https://cdn.quierohotel.com/hotel-tivoli-sintra-PF5823_1.jpg"
+				},
+				{
+					"Nome": "Pestana Sintra Golf",
+					"Morada": "Quinta da Beloura, Rua Mato da Mina, nº19, 2710-692 Sintra",
+					"Preco": "124€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/166/166404732.jpg"
 				}
 			]
 		},
@@ -345,25 +644,30 @@
 			"Nome": "Sobral de Monte Agraço",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Igreja de Nossa Senhora da Vida",
+					"Localidade": "Praça da República 5, 2590-045 Sobral de Monte Agraço",
+					"Historia": "A Igreja Matriz, dedicada a Nossa Senhora da Vida, foi mandada edificar em 1772 para substituir a antiga igreja matriz da vila. A construção desta igreja foi orientada por Reinaldo Manuel dos Santos, o mesmo arquiteto responsável pela reconstrução de Lisboa após o terramoto de 1 de novembro de 1755. Sendo os Condes de Sobral proprietários da igreja, esta foi cedida à paróquia em meados do século XIX. Tal se deveu ao mau estado em que se encontrava a antiga igreja de S. Salvador do Mundo. Posteriormente a igreja foi assaltada e muito danificada já no início do século XX, em 1919, voltando então para a posse dos Condes de Sobral. Quinze anos depois do assalto e destruição que sofreu, e após obras de recuperação, foi reaberta. Na década de 1980 os Condes de Sobral novamente a doaram à paróquia, passando desde então a servir como Igreja Paroquial de Sobral de Monte Agraço.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/XPQesQ5zUlTdvDLZpMNb2C-wx-pI_i7rTM6z2_Q4KrXDYvYhjR9X7iFzIBT8p8qSpob64GYr0jGpgol6O8cRlvsr4AKaIGJbgJ8"
+				},
+				{
+					"Nome": "Centro de Interpretação das Linhas de Torres",
+					"Localidade": "Praça Dr. Eugénio Dias 12, 2590-015 Sobral de Monte Agraço",
+					"Historia": "O Centro de Interpretação das Linhas de Torres (CILT) é um espaço museológico polinucleado que tem como objetivo salvaguardar, estudar e promover o património das Linhas de Torres enquanto sistema de defesa militar que ditou a derradeira retirada do exército napoleónico de Portugal, naquela que ficou conhecida como a 3.ª invasão francesa – um dos episódios mais marcantes da Guerra Peninsular. Com o objetivo de dar a conhecer este período da história portuguesa e europeia, de promover o interesse pela cidadania e pela autodeterminação dos povos, o CILT desenvolve com várias entidades ateliês pedagógicos. Faz, também, acompanhamento de visitas á exposição e ao Circuito do Alqueidão a grupos de crianças e jovens e a grupos de adultos, mediante marcação prévia.",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/rQNCYkvSC9ySw8mvT0VxaBnkUz8Mt066SmK1BBSb-ywPP8Sjh8hLZo9oTgkwT2aiz1Dp4clvhuKP90UaMAJr_UmuyIw2qmDMZy65Fu4Y9n4kBr4"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Restaurante Vilamanjar",
+					"Morada": "Rua Francisco Lázaro Mercado Municipal, Lj 7/8 Sobral De Monte Agraço Lisboa, 2590-081",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/6e/b7/69/vilamanjar.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Churrasqueira do Oeste",
+					"Morada": "R. de Baixo 3, 2590-507 Sobral de Monte Agraço",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/5b/b0/32/churrasqueira-do-oeste.jpg"
 				}
 			]
 		},
@@ -371,25 +675,46 @@
 			"Nome": "Torres Vedras",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castro do Zambujal",
+					"Localidade": "R. da Fonte 33, Torres Vedras",
+					"Historia": "Descoberto nos anos 30, pelo arqueólogo Leonel Trindade, o Castro de Zambujal, no Concelho de Torres Vedras, é um dos principais povoados fortificados da Península Ibérica e um dos maiores do calcolítico, na Europa Ocidental, que terá sido habitado entre o primeiro e terceiro milénio a.C. O povoado está implantada num planalto, sobre a Ribeira de Pedrulhos, um afluente do rio Sizandro, numa zona que era navegável e facilitava o comércio, que parece estar ligado às indústrias de transformação do sílex, fundição de cobre, tecelagem e produção de cerâmica. As informações disponíveis permitem ainda pensar que estes povos criavam, gado ovino e caprino, que não tendo uma grande importância na sua alimentação, seriam mais relevantes na produção de leite e na obtenção de lã. Mas a pesca e recolha de moluscos, já parecem ter um lugar importante na alimentação destes povos. Ao longo dos últimos anos, têm sido realizadas diversas campanhas de escavação, lideradas pelo Instituto Arqueológico Alemão, com equipas formadas por portugueses, belgas, holandeses, espanhóis e alemães.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zambujal-DG-25-8210744.jpg"
+				},
+				{
+					"Nome": "Castelo de Torres Vedras",
+					"Localidade": "Torres Vedras, Lisboa",
+					"Historia": "O castelo de Torres Vedras foi conquistado aos muçulmanos por D. Afonso Henriques, em 1148, que doou esta fortificação a D. Fuas Roupinho, cavaleiro que colaborou nas lutas pela reconquista cristã da península e é protagonista da lenda da Nazaré. Nos reinados de D. Dinis, de D. Fernando e também de D. Manuel I, em 1516, o castelo teve obras de reconstrução e melhoria das defesas, uma preocupação que pode estar ligada ao facto de este castelo ter servido de residência a diversos reis. O terramoto de 1755 causou elevados danos ao castelo, mas só com as invasões francesas, em 1810, o castelo seria reparado e adaptado para o uso de artilharia. Vindo também a intervir nas guerras liberais. Classificado como Imóvel de Interesse Público, tem vindo a beneficiar de obras de restauro, da responsabilidade da Câmara Municipal de Torres Vedras. Esta fortaleza preserva as marcas do estilo gótico e também do manuelino, visível no portão de entrada, que ostenta esferas armilares e a cruz da Ordem de Cristo.",
+					"Imagem": "https://www.guiadacidade.pt/assets/capas_poi/capa_14729.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Páteo do Faustino",
+					"Morada": "R. Maria Pereira, 2560-616 Torres Vedras",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/97/80/b8/pateo-do-faustino-lda.jpg"
+				},
+				{
+					"Nome": "Taberna 22",
+					"Morada": "R. Alm. Gago Coutinho 5, 2560-302 Torres Vedras",
+					"Classificacao": 4.5,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/a1d14369-887e-4e4e-9d7c-1620f130c713/e1468d31-0af5-4e9e-84bb-18be025435fd.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "STAY HOTEL TORRES VEDRAS CENTRO",
+					"Morada": "Praça 25 de Abril 17, 2560-285 Torres Vedras",
+					"Preco": "70€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/f2/6e/39/stay-hotel-torres-vedras.jpg"
+				},
+				{
+					"Nome": "Arcos Hotel",
+					"Morada": "Praceta José Gouveia 1, 2560-648 Torres Vedras",
+					"Preco": "60€",
+					"Classificacao": 3,
+					"Imagem": "https://www.arcoshotel.pt/wp-content/uploads/2017/08/quato-galeria06-780x666.jpg"
 				}
 			]
 		},
@@ -397,25 +722,33 @@
 			"Nome": "Vila Franca de Xira",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Municipal de Vila Franca de Xira",
+					"Localidade": "R. Serpa Pinto n.º 65, 2600-263 Vila Franca de Xira",
+					"Historia": "O Museu Municipal de Vila Franca de Xira insere-se, organicamente, na Divisão de Cultura, Turismo, Património e Museus e visa de uma forma complementar, uma gestão integrada dos recursos patrimoniais concelhios, nas vertentes do património móvel e imóvel. Tendo como área de intervenção o território concelhio, a estrutura da Divisão obedece ao princípio da descentralização e à consequente atuação no território. A estas áreas de ação correspondem em termos funcionais os respetivos serviços – Setor de Património e Setor de Museus.",
+					"Imagem": "https://www.cm-vfxira.pt/thumbs/cmvfxira/uploads/content_image/image/476/N_cleo-sede_do_Museu_Municipal_1_1024_2500.png"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "150 Gramas",
+					"Morada": "R. Serpa Pinto nº92, 2600-262 Vila Franca de Xira",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/3d/6b/f5/caco-de-atum.jpg"
+				},
+				{
+					"Nome": "O Retiro",
+					"Morada": "R. Luís de Camões 14, 2600-181 Vila Franca de Xira",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.cm-vfxira.pt/cmvfxira/uploads/poi/image/77/O_Retiro_1_1280_720.png"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Lezíria Parque Hotel",
+					"Morada": "Av. Barranco de Cegos 22, 2600-214 Vila Franca de Xira",
+					"Preco": "52€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/06/d9/eb/leziria-parque-hotel.jpg"
 				}
 			]
 		}

@@ -1,31 +1,36 @@
 {
 	"Nome": "Guarda",
-	"ASCIIName" : "Guarda",
+	"ASCIIName": "Guarda",
 	"Historia": "Além de ser uma cidade histórica e a mais alta de Portugal, a Guarda foi também pioneira na rádio local, sendo mesmo a Rádio Altitude considerada a primeira rádio local de Portugal. As suas origens prendem-se com a existência de um sanatório dedicado à cura da tuberculose. Toda a região é marcada pelo granito, pelo clima contrastado de montanha e pelo seu ar puro e frio que permite a cura e manufatura de fumeiro e queijaria de altíssima qualidade.",
 	"Cidades": [
 		{
 			"Nome": "Aguiar da Beira",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Pelourinho de Aguiar da Beira",
+					"Localidade": "3570-042 Aguiar da Beira, Guarda",
+					"Historia": "Este Pelourinho, datado do século XVI, é formado por uma coluna de granito assente sobre degraus quadrangulares. Na base da coluna encontra-se uma cabeça em forma de gaiola sustentada por colunelos. Faz parte do trecho de arquitetura medieval constituído pela Torre e Fonte Ameada.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/848126"
+				},
+				{
+					"Nome": "Fonte de Aguiar da Beira",
+					"Localidade": "Av. dos Combatentes do Ultramar 29, 3570-029 Aguiar da Beira",
+					"Historia": "Esta fonte de forma quadrangular cobre um poço e uma fonte de chafurdo. Com a sua cobertura faz um palco sobre a encosta, um espaço com bancos, que possibilita a sua utilização pública.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/811048"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Restaurante Cabicanca",
+					"Morada": "Av. dos Combatentes do Ultramar 66, 3570-040 Aguiar da Beira",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/2b/01/05/restaurante-cabicanca.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Pastor",
+					"Morada": "Av. dos Combatentes do Ultramar 90, Aguiar da Beira",
+					"Classificacao": 4.1,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/752371"
 				}
 			]
 		},
@@ -33,25 +38,39 @@
 			"Nome": "Almeida",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Torre do Relógio de Almeida",
+					"Localidade": "R. de Quebra Costas 12, 6350-234 Almeida",
+					"Historia": "Torre datada de 1830, localizada no antigo Cemitério da Vila, nas imediações do castelo e de uma igreja, entretanto extinta (Igreja de Nossa Senhora das Candeias). O seu formato é quadrangular, possui quatro aberturas sineiras  e encontra-se em bom estado de conservação.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/guarda-almeida/almeida/torre-do-relogio.jpg"
+				},
+				{
+					"Nome": "Ruínas do Castelo de Almeida",
+					"Localidade": "R. do Arco 13, 6350-106 Almeida",
+					"Historia": "O Castelo de Almeida localiza-se na vila, freguesia e concelho de mesmo nome, no distrito da Guarda, em Portugal. Integrante da chamada Linha do Tejo, fronteira do reino de Portugal ao se encerrar o século XIII, tinha como função o povoamento e defesa das terras de Ribacôa. Atualmente os remanescentes do castelo medieval integram as defesas da Praça-forte de Almeida, povoação que goza do estatuto de Aldeia Histórica. À época da Reconquista cristã da Península Ibérica, a povoação e seu castelo foram conquistadas pelas forças do reino de Leão, reconquistadas pelos muçulmanos e, finalmente, pelas forças de Portugal. Integrante do território de Ribacôa, disputado a Leão por D. Dinis (1279-1325), a sua posse definitiva para Portugal foi assegurada pelo Tratado de Alcanices (1297). O soberano, a partir de então, procurou consolidar-lhe as fronteiras, fazendo reedificar o Castelo de Alfaiates, o Castelo de Almeida, o Castelo Bom, o Castelo Melhor, o Castelo Mendo, o Castelo Rodrigo, o Castelo de Pinhel, o Castelo do Sabugal e o Castelo de Vilar Maior. No contexto da Crise de 1383-1385, a vila e o seu castelo foram conquistados pelas forças de D. João I (1383-1433). Mais tarde, sob o reinado de D. Manuel I (1495-1521) a linha de muralhas foi duplicada, estando associado a essas obras o nome de Mateus Fernandes, arquitecto do Mosteiro da Batalha. A povoação e seu castelo encontram-se figurados por Duarte de Armas (Livro das Fortalezas, c. 1509). Era seu alcaide, à época (1496-1512), o marquês de Vila Real.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Forte_Almeida_-_Ru%C3%ADnas_do_Castelo.jpg/440px-Forte_Almeida_-_Ru%C3%ADnas_do_Castelo.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante e Residencial 'A Muralha'",
+					"Morada": "Rua de S. Pedro, 6350-210 Almeida, Guarda",
+					"Classificacao": 4.1,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/752195"
+				},
+				{
+					"Nome": "Snack Bar 1810",
+					"Morada": "R. dos Combatentes Mortos Pela Pátria 15, 6350-114 Almeida",
+					"Classificacao": 4.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/56/cd/91/img-20190713-134027-largejpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Fortaleza de Almeida - (antiga Pousada Senhora das Neves)",
+					"Morada": "6350-112 Almeida, Guarda",
+					"Preco": "25€",
+					"Classificacao": 1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/c0/e3/39/hotel-fortaleza-de-almeida.jpg"
 				}
 			]
 		},
@@ -59,25 +78,39 @@
 			"Nome": "Celorico da Beira",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Solar do Queijo da Serra da Estrela",
+					"Localidade": "Largo de Sta Maria nº5,, Celorico da Beira",
+					"Historia": "Na zona Histórica da vila de Celorico da Beira, perto do castelo e em frente à igreja de Santa Maria, ergue-se a Catedral do Queijo Serra da Estrela – O Solar do Queijo. Este magnifico edifício por si só merece uma visita. Antigos Paços do Concelho, data do séc. XVII, destacando-se na frontaria o brasão real e o brasão de armas da Vila. Albergou em diferentes épocas o tribunal e a cadeia, tendo sido recentemente recuperado e adaptado às funções que hoje desempenha. Aqui, o visitante/turista pode comprar e levar para casa, ou simplesmente degustar, com a garantia de qualidade, o tão afamado queijo – ex – libris desta região, para além de outras deliciosas iguarias da nossa rica gastronomia, de entre elas se destacam: o farinheiro, a morcela, a chouriça, o presunto, o pão de centeio, o mel, as compotas, o vinho.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/86/3c/43/solar-do-queijo.jpg"
+				},
+				{
+					"Nome": "Museu do Agricultor e do Queijo",
+					"Localidade": "6360-356 Celorico da Beira, Guarda",
+					"Historia": "Inaugurado em 2006, está situado num belo edifício recuperado na vila de Celorico, considerada a capital do Queijo da Serra. O museu procura homenagear este produto emblemático da região, e também o pastor/agricultor, em complementaridade com outras iniciativas, como a Rota do Queijo. Prosseguindo o objectivo de manter vivas as tradições e mostrar como trabalhavam as gentes que se dedicavam à produção do queijo, o espaço contempla também um núcleo alusivo ao fabrico artesanal deste afamado produto.",
+					"Imagem": "https://cdn.olhares.pt/client/files/foto/big/843/8434203.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Muralhas de Celorico",
+					"Morada": "350, R. Sacadura Cabral 62, Celorico da Beira",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/43/80/b7/img-20160207-133611-largejpg.jpg"
+				},
+				{
+					"Nome": "Quinta Santo António do Rio",
+					"Morada": "Travessa de Santo António EN16 Placa Parque de Merendas Santo António do Rio, 6360-501 Celorico da Beira",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/4c/b2/64/vista-aerea-quinta-santo.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Quinta dos Cedros",
+					"Morada": "Avenida Dr. Marques Fernandes nº1, 6360-356 Celorico da Beira",
+					"Preco": "55€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/119/119660635.jpg"
 				}
 			]
 		},
@@ -85,51 +118,79 @@
 			"Nome": "Figueira de Castelo Rodrigo",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Castelo Rodrigo",
+					"Localidade": "Largo do Pelourinho 1 6440-031, Figueira de Castelo Rodrigo",
+					"Historia": "O Castelo de Castelo Rodrigo localiza-se na vila e Freguesia de mesmo nome, Concelho de Figueira de Castelo Rodrigo, Distrito da Guarda, em Portugal. Em posição dominante sobre a ribeira de Aguiar, ao sul da planície de Ribacôa, constituía-se em local de passagem para os peregrinos que, da Beira Baixa, se dirigiam a Santiago de Compostela pelo caminho que, na Idade Média, ia da Guarda a Barca d’Alva. Eles encontravam abrigo no vizinho Convento de Santa Maria de Aguiar. Atualmente os muros do castelo envolvem a povoação, integrante do Programa Aldeias Históricas. À época da Reconquista cristã da Península Ibérica, a povoação foi conquistada por Afonso IX de Leão (1188-1230). Este soberano fez erguer o primitivo castelo, que integrava a linha defensiva que então implantou no Ribacôa, juntamente com o Castelo de Alfaiates, o Castelo de Almeida, o Castelo Bom e o Castelo Melhor. Essa defesa deveria estar concluída ou em fase bastante adiantada em 1209, quando foi criado o Concelho Perfeito de Castelo Rodrigo e a povoação recebeu o primeiro foral. A toponímina provém do nome do senhor de seus domínios, o conde Rodrigo Gonçalves Girão, responsável pelo repovoamento e defesa da região à época. Perdida a sua função militar, diante do declínio econômico que se instaurou, a vila de Castelo Rodrigo viu a sede do concelho passar para a vizinha Figueira de Castelo Rodrigo, por Carta Régia de D. Maria II (1826-1828; 1834-1853), em 25 de Junho de 1836. No século XX, foi classificado como Monumento Nacional por Decreto publicado em 4 de Julho de 1922. Parcialmente restaurado na década de 1940, apenas recentemente foi objeto de um programa global de intervenção por parte do poder público.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Castelo_de_Castelo_Rodrigo.jpg"
+				},
+				{
+					"Nome": "Igreja Matriz de Figueira de Castelo Rodrigo",
+					"Localidade": "Largo da Igreja 26-17, 6440-121, 6440-117 Figueira de Castelo Rodrigo",
+					"Historia": "A Igreja Matriz da Figueira de Castelo Rodrigo data do século XVIII apresentando algumas características românicas, com a fachada barroca virada para um amplo adro. O interior do templo, único do género em Portugal, assenta num arco abatido constituído por 26 pedras em forma de S, à excepção da central que se assemelha a um coração.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/guarda-figcrodrigo/figcrodrigo/igreja-matriz.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Saborearia",
+					"Morada": "R. de São Francisco 17, 6440-126 Figueira de Castelo Rodrigo",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/6b/36/78/soborearia.jpg"
+				},
+				{
+					"Nome": "Restaurante Arco-Íris",
+					"Morada": "Av. Sá Carneiro Nº12/14, 6440-102 Figueira de Castelo Rodrigo",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/26/d7/8d/sala-de-refeicoes.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Estalagem Falcão Mendonça",
+					"Morada": "R. Álvaro Castelões 20, 6440-120 Figueira de Castelo Rodrigo",
+					"Preco": "75€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/593/5938171.jpg"
 				}
 			]
 		},
 		{
-			"Nome": "Fornos de Algodres",
+			"Nome": " ",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Serra da Esgalhada",
+					"Localidade": "R. da Mata Mun 1, 6370-141 Fornos de Algodres",
+					"Historia": "Serra muito bonita de Fornos de Algodres.",
+					"Imagem": "https://termasdesaomiguel.com/wp-content/uploads/2019/12/serra-870x500.jpg"
+				},
+				{
+					"Nome": "Calçada Romana de Fornos de Algodres",
+					"Localidade": "R. dos Combatentes do Ultramar Português 2, 6370-173 Fornos de Algodres",
+					"Historia": "O início da conquista da Península Ibérica pelos romanos, no contexto das Guerras Púnicas, deu-se em 218 a.C., com a invasão da cidade de Ampúrias, na actual Catalunha, e só viria a ficar concluída no final do século I a.C. Pelo meio ficaram dois séculos de intensas lutas, das quais se destaca a que opôs os Lusitanos a Romanos, que se terá iniciado em 194 a.C.. A região onde se inscreve o território do actual concelho de Fornos de Algodres era parte integrante do território ocupado por esse conjunto de povos, tendo sido progressivamente romanizada ao longo desses dois séculos, sobretudo no período das guerras civis entre César e Pompeu. Romanizada, a região onde se integra o actual concelho de Fornos de Algodres viria a fazer parte da Civitas de Viseu e atravessada por uma importante estrada que ligaria a área da Guarda à estrada que, vindo de Idanha-a-Velha, seguia até Viseu. Esta estrada terá tido um papel particularmente importante na organização do povoamente rural no território de Fornos durante o período romano, contribuíndo para o estabelecimento de uma série de villae (propriedades rurais) nessa área. A ocupação romana manter-se-ia, na região, até ao início do século V, altura em que Suevos, Vândalos e Alanos se instalam, pondo fim ao domínio romano.",
+					"Imagem": "https://algodres.blogs.sapo.pt/arquivo/Via%20romana-Fornos.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante churrasqueira Zona sul",
+					"Morada": "Rua Zona Sul,Fornos de Algodres, 6370-174 Guarda",
+					"Classificacao": 4.3,
+					"Imagem": "https://10619-2.s.cdn12.com/rests/original/109_393058107.jpg"
+				},
+				{
+					"Nome": "Casa da Praça",
+					"Morada": "6370-123 Fornos de Algodres",
+					"Classificacao": 4.0,
+					"Imagem": "https://img3.idealista.pt/blur/WEB_LISTING/0/id.pro.pt.image.master/3c/61/ec/124574302.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Palace Hotel & Spa - Termas de São Miguel",
+					"Morada": "Serra da Esgalhada, 6370-183 Fornos de Algodres",
+					"Preco": "73€",
+					"Classificacao": 4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/ee/a9/00/palace-hotel-spa-termas.jpg"
 				}
 			]
 		},
@@ -137,25 +198,46 @@
 			"Nome": "Gouveia",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Espaço Arte e Memória",
+					"Localidade": "Av. 25 de Abril 4, 6290-525 Gouveia",
+					"Historia": "O “Espaço Arte e Memória” foi inaugurado em Setembro de 2005. Situado no antigo refeitório do Convento dos Jesuítas, pretende ser um espaço de preservação e divulgação da História e Cultura de Gouveia e salvaguarda da memória coletiva dos gouveenses. Entre o espólio, destacamos um altar do século XVIII, em talha policromada com motivos vegetalistas e um tríptico em que a parte central se encontra delimitada por dois pares de colunas salomónicas. Todo este conjunto é encimado por um remate em arco, na continuidade das colunas laterais. Podemos também apreciar as imagens de S. Pedro e de Nossa Senhora com o Menino ao Colo, em pedra de ancã policromada, datadas do século XV, da autoria de Diogo Pires “O Velho”, que foram localizadas atrás do altar-mor, da Igreja de S. Pedro. É de referir ainda o alabastro de Nottingham do século XIV, representando a Coroação de Nossa Senhora, hoje considerada uma das mais belas esculturas que se produzidas em Inglaterra, em todo o século XIV.",
+					"Imagem": "https://www.cm-gouveia.pt/wp-content/uploads/2019/01/IMG_2198.jpg"
+				},
+				{
+					"Nome": "Praça de São Pedro - Igreja de São Pedro",
+					"Localidade": "Gouveia, Guarda",
+					"Historia": "A Igreja de S. Pedro é a matriz de Gouveia. Trata-se de uma imponente construção datada do século XVII que impressiona, no exterior, pela sua traça arquitectónica e no interior, pela beleza da talha dourada que ostenta.",
+					"Imagem": "https://3.bp.blogspot.com/-2Z2eX_SBNrI/T2E4BuZIe8I/AAAAAAAALG4/_Dgr3X_Hu70/s1600/GOUVEIA+-+Pra%C3%A7a+de+S%C3%A3o+Pedro.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Ferreiro",
+					"Morada": "Avenida Cidade da Covilhã, 6290-332 Gouveia",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/19/3a/8a/4c/photo0jpg.jpg"
+				},
+				{
+					"Nome": "Restaurante Pizzaria Itália",
+					"Morada": "Avenida Emídio Navarro, 6290-322 Gouveia",
+					"Classificacao": 4.5,
+					"Imagem": "https://www.cm-gouveia.pt/wp-content/uploads/2019/01/Pizzaria-Italia-760x510.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "EUROSOL GOUVEIA",
+					"Morada": "Av. 1º de Maio, 6290-541 Gouveia",
+					"Preco": "44€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/196/196210747.jpg"
+				},
+				{
+					"Nome": "Hotel Rural Madre de Água",
+					"Morada": "Quinta Madre de Água, 6290-000 Gouveia",
+					"Preco": "140€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/124/12454404.jpg"
 				}
 			]
 		},
@@ -163,25 +245,46 @@
 			"Nome": "Guarda",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Sé da Guarda",
+					"Localidade": "Praça Luís de Camões, 6300-714 Guarda",
+					"Historia": "A Sé-Catedral da Guarda (Guarda, Portugal) foi erguida no seguimento do pedido de D. Sancho I ao Papa Inocêncio III para transferir a diocese de Egitânia para a nova cidade da Guarda. Da original construção, de estilo românico, nada resta. Foram, no entanto, encontrados alguns vestígios que apontam para um edifício simples. Seria mandada construir por D. Sancho II uma segunda catedral, no local onde se situa a actual Igreja da Misericórdia, concluída no século XIV, mas mais tarde destruída aquando da reforma fernandina das muralhas, por se situar fora delas, por temer a conquista da cidade por Castela, pois podia ser usada para subir à muralha. A construção da actual Sé da Guarda remonta aos finais do século XIV, já no reinado de D. João I — D. Fernando teria falhado na promessa de erguer novo templo —, por iniciativa do bispo Vasco de Lamego, partidário da casa de Avis durante a crise dinástica. As obras arrastaram-se lentamente e só no reinado de D. João III seriam concluídas, já em pleno século XVI, sendo por isso um dos monumentos portugueses dos últimos tempos do gótico, com evidências claras da influência manuelina. A história da catedral teve um período importante na sua conservação, na viragem para o século XIX: em 1898 coube ao arquitecto Rosendo Carvalheira o restauro do edifício, executando aqui um dos mais importantes projectos de restauro revivalista, pelo que é notável o estado de conservação da catedral.",
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/shutterstock_669550153_View%20at%20the%20Cathedral%20of%20Guarda_by%20%20milosk50.jpg?itok=CRjumpZA"
+				},
+				{
+					"Nome": "Judiaria Guarda",
+					"Localidade": "R. do Amparo 3, 6300-035 Guarda",
+					"Historia": "A judiaria da Guarda é um dos recantos mais genuínos da cidade medieval. Considerada a mais antiga da região manteve-se activa até à época da expulsão dos Judeus. Localizado dentro das muralhas da cidade , o antigo bairro judeu existe ainda hoje, perto da Porta D’ El Rei. A comunidade judaica da Guarda foi durante muito tempo uma das mais importantes comunidades judaicas no país, e também uma das mais ancestrais. Há evidências de que remonta ao século 13, quando o rei D. Dinis deu o foro às comunidades judaicas da paróquia de S. Vicente. Uma dessas famílias  estava alojada na sinagoga. O bairro judeu começava perto Porta d’ El Rei, que cobre o adro de S. Vicente, na fronteira com o pano da muralha da cidade e a Rua Direita, que conduzia a essa entrada. Este era o novo bairro judaico , uma continuação do anterior, sendo mencionado na Carta de 1199. A comunidade judaica era muito dinâmica e realizou inúmeros serviços à população, desempenhando as mais variadas profissões: alfaiates , sapateiros, curtidores , ferreiros, tecelões , barbeiros, médicos , cirurgiões, ourives e carpinteiros.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/08/10/43/portao-de-acesso.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Simple.Guarda",
+					"Morada": "R. Dr. Vasco Borges 20, 6300-771 Guarda",
+					"Classificacao": 4.6,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/753073"
+				},
+				{
+					"Nome": "Restaurante DonGarfo",
+					"Morada": "R. do Bairro 25 de Abril 10, 6300-685 Guarda",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/02/aa/2e/dom-garfo.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Santos",
+					"Morada": "R. Ten. Valadim 14, 6300-764 Guarda",
+					"Preco": "50€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/269/26974580.jpg"
+				},
+				{
+					"Nome": "Hotel Lusitânia",
+					"Morada": "R. das Covas Lote 34, 6300-389 Guarda",
+					"Preco": "64€",
+					"Classificacao": 4,
+					"Imagem": "https://thumbnails.trvl-media.com/1xNH8I-ReuqO3d6q13KUK9sF5d8=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/6000000/5570000/5564200/5564133/95c42d89_z.jpg"
 				}
 			]
 		},
@@ -189,25 +292,39 @@
 			"Nome": "Manteigas",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Cruz da Jogadas",
+					"Localidade": "Manteigas, Guarda",
+					"Historia": "A Rota das Faias possibilita a descoberta de algo novo e surpreendente a cada instante, desde a vegetação esplendorosa a paisagens fulgurantes, que juntamente com a agricultura e a pastorícia proporcionam um passeio perfeito para quem deseja conhecer a serra, as suas gentes e costumes.",
+					"Imagem": "https://s2.wklcdn.com/image_51/1547311/43599158/28517306.jpg"
+				},
+				{
+					"Nome": "Poço do Inferno",
+					"Localidade": "Rua 1º de Maio 6260-101, Manteigas",
+					"Historia": "Ao percorrer a Rota do Poço do Inferno verifica-se um dualismo de paisagem, natural e humanizada, marcada pelo diferente tipo de vegetação, com florestas de folhosas e resinosas, onde os sentidos despertam diferentes emoções ao longo do trilho. Devido aos cumes xistosos mais altos, formados pelas rochas corneanas (fenómeno que ocorre quando o magma quente e plástico ascende atravessando as rochas pré-existentes), predominam paisagens íngremes, onde nascem linhas de água como a cascata do Poço do Inferno. Esta cascata natural tem cerca de 10 metros e chega a transformar-se em gelo nos Invernos mais rigorosos. É um monumento geológico de extrema beleza e um dos pontos de maior interesse desta rota, sendo um dos ex-líbris do Concelho de Manteigas e da Serra da Estrela.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/52/6f/e4/img-20180617-171229-largejpg.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante-Pizzaria Alfátima, Manteigas",
+					"Morada": "Rua da Lapa, 6260-014 Manteigas",
+					"Classificacao": 4.0,
+					"Imagem": "https://images.happycow.net/venues/1024/91/85/hcmp91859_291599.jpeg"
+				},
+				{
+					"Nome": "Restaurante O Olival",
+					"Morada": "2, N232, Manteigas, Guarda",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/91/6a/bc/restaurante-o-olival.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Inatel Manteigas",
+					"Morada": "Caldas de Manteigas 17, 6260-012 Manteigas",
+					"Preco": "48€",
+					"Classificacao": 3,
+					"Imagem": "https://hoteis.inatel.pt/Images/Hotels/Health-Wellness/Manteigas/Inatel-Manteigas/Gallery/13.jpg"
 				}
 			]
 		},
@@ -215,25 +332,30 @@
 			"Nome": "Mêda",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Torre do Relógio",
+					"Localidade": "6430-183 Mêda, Guarda",
+					"Historia": "A Torre do Relógio localiza-se no Morro do Castelo da Mêda, na cidade, Freguesia e Concelho de mesmo nome, Distrito da Guarda, em Portugal. Ergue-se no alto de um monte granítico, dominando a cidade. Mêda inscreve-se no Parque Arqueológico do Vale do Côa e na Região de Turismo do Douro Sul. A atual estrutura remontará a uma simples torre de vigia, que terá existido na Idade Média. Mêda recebeu foral de D. Manuel I (1495-1521) em 1 de Junho de 1519. No século XVII ali foi edificada uma capela sob a invocação de Nossa Senhora da Assunção. Posteriormente, no século XIX foi erigida a Torre do Relógio. O conjunto encontra-se em bom estado de conservação, no centro histórico da cidade. No início do século XXI, a vila foi elevada a cidade (9 de Dezembro de 2004).",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Torre_do_Rel%C3%B3gio_Meda.jpg"
+				},
+				{
+					"Nome": "Igreja Matriz de Mêda",
+					"Localidade": "6430-183 Mêda, Guarda",
+					"Historia": "Também conhecida como Igreja de São Bento. Templo românico do século XVI, foi remodelado no século XVIII. No seu interior, planta longitudinal com três naves, uma capela-mor mais estreita e baixa e uma sacristia adossada. Destacam-se retábulos de dourada maneirista, barroca nacional e rococó.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/guarda-meda/meda/igreja-matriz.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Restaurante O Retiro - Meda",
+					"Morada": "Av. Gago Coutinho e Sacadura Cabral, 6430-183 Mêda",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/69/39/2f/espetada-de-polvo-e-camarao.jpg"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "O Mercado",
+					"Morada": "Largo Mercado, 6430-193 Mêda",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/e5/28/58/sala-1.jpg"
 				}
 			]
 		},
@@ -241,25 +363,30 @@
 			"Nome": "Pinhel",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Pinhel",
+					"Localidade": "R. do Castelo 4, 6400-340 Pinhel",
+					"Historia": "O Castelo de Pinhel localiza-se na cidade, freguesia e concelho de mesmo nome, no distrito da Guarda, em Portugal. Fortificação da raia beirã com o reino de Leão em tempos medievais, ergue-se em posição dominante na Serra da Marofa, à margem esquerda do rio Côa. A época da Reconquista cristã da Península Ibérica, com a afirmação da nacionalidade portuguesa, D. Afonso Henriques (1112-1185) procedeu ao repovoamento e reforço das defesas de Pinhel. O seu sucessor, D. Sancho I (1185-1211) deu prosseguimento a essa tarefa, outorgando Carta de Foral a Pinhel (1189 segundo alguns, 1209 segundo outros), de quando datará o início da construção do castelo medieval, concluído sob o reinado de D. Afonso II (1211-1223), que lhe passou novo foral em 1217. Integrante do território de Ribacôa, disputado ao reino de Leão por D. Dinis (1279-1325), a sua posse definitiva para Portugal foi assegurada pelo Tratado de Alcanizes (1297). O soberano, a partir de então, procurou consolidar-lhe as fronteiras, fazendo reedificar o Castelo de Alfaiates, o Castelo de Almeida, o Castelo Bom, o Castelo Melhor, o Castelo Mendo, o Castelo Rodrigo, o Castelo de Pinhel, o Castelo do Sabugal e o Castelo de Vilar Maior. Posteriormente, em 1396 e 1398, quando se repetiram as invasões castelhanas pelas terras da Beira, a região e seu castelo mantiveram-se em alerta. Os anos em estado de beligerância acarretaram o abandono dos campos e consequente crise económica, agravados em meados do século XV pelo assalto e saque da vila e arredores por D. Gonçalo Coutinho, um senhor da terra, por razões do campo da honra. No contexto da Guerra da Restauração, na segunda metade do século XVII, as defesas do castelo foram modernizadas, quando recebeu um reduto defensivo, adaptado aos então modernos tiros da artilharia. Pinhel constituiu-se, à época, no centro da defesa da região, comandando as fortificações da Ribeira de Massueime, o Castelo de Alverca, as defesas da Atalaia, do Bogalhal, de Cidadelhe, de Póvoa de El-Rei, de Castro das Gouveias, além das atalaias do Carvalhal e da Granja. Mais recentemente (Agosto de 1999), foram iniciadas obras de revitalização sob a orientação do IPPAR, tendo-se registrado problemas de infiltrações de águas pluviais nas torres em 2002. Com a solução do problema, o castelo recebeu, em 2005, o primeiro miradouro virtual da Europa, com projeto e implantação a cargo da empresa de tecnologias YDreams, ao custo de 100 mil euros.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Castelo_de_Pinhel.jpg/1200px-Castelo_de_Pinhel.jpg"
+				},
+				{
+					"Nome": "Museu Municipal de Pinhel",
+					"Localidade": "Largo Ministro Duarte Pacheco, Pinhel",
+					"Historia": "O novo Museu Municipal de Pinhel, inaugurado em dezembro de 2015, apresenta o concelho de Pinhel numa linguagem museográfica moderna e atrativa, onde são enfatizados os patrimónios que caracterizam o nosso território desde a época pré-histórica à atualidade.Num percurso evolutivo o visitante fica a conhecer os testemunhos que nos foram legados pelos primeiros homens que por aqui andaram, através da reprodução das pinturas e gravuras rupestres do Vale do Côa, em Cidadelhe, classificadas Património da Humanidade pela UNESCO.",
+					"Imagem": "https://cm-pinhel.pt/wp-content/uploads/2015/01/casa-cultura-pinhel-2.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
+					"Nome": "Restaurante 'O Petisco'",
+					"Morada": "Pinhel, Guarda",
+					"Classificacao": 4.3,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/759306"
+				},
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Entre Portas",
+					"Morada": "Largo Ministro Duarte Pacheco,13, 6400-358 Pinhel",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/58/d4/18/posta-de-ternera-a-la.jpg"
 				}
 			]
 		},
@@ -267,25 +394,39 @@
 			"Nome": "Sabugal",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo do Sabugal",
+					"Localidade": "6320-409 Sabugal, Guarda",
+					"Historia": "O Castelo do Sabugal, também referido como Castelo das Cinco Quinas devido ao formato incomum de sua torre de menagem, localiza-se na freguesia, cidade e concelho do Sabugal, no distrito da Guarda, em Portugal. Em posição dominante sobre a povoação, num pequeno planalto da serra da Malcata, controla a travessia do rio Côa em sua margem direita, donde a sua importância na antiguidade e na época medieval. À época da Reconquista cristã da Península Ibérica, as terras do Sabugal foram inicialmente conquistadas possivelmente por D. Afonso Henriques (1112-1185) em 1160, vindo a ser perdidas logo após para o reino de Leão. Em 1190, Afonso IX de Leão criou o Concelho do Sabugal, tendo a vila sido fundada por volta de 1224, época em que foi principiado um reduto defensivo. Integrante do território de Ribacôa, conquistado a Leão por D. Dinis (1279-1325), recebeu Carta de Foral daquele soberano português em 1296. Entretanto, a sua posse definitiva para Portugal só foi assegurada pelo Tratado de Alcanices em 1297. O soberano, a partir de então, procurou consolidar essas fronteiras, fazendo reedificar o Castelo de Alfaiates, o Castelo de Almeida, o Castelo Bom, o Castelo Melhor, o Castelo Mendo, o Castelo Rodrigo, o Castelo de Pinhel, o Castelo do Sabugal e o Castelo de Vilar Maior. No reinado de D. Manuel I (1495-1521), o Castelo do Sabugal encontra-se figurado por Duarte de Armas (Livro das Fortalezas, c. 1509), tendo recebido obras de beneficiação, concluídas em 1515, conforme inscrição epigráfica sobre o portão principal. Este soberano concedeu o Foral Novo à vila em 1 de Junho de 1515. Entre 1993 e 1994 uma nova campanha de trabalhos de restauração, procurando devolver ao monumento as suas feições originais. Mais recentemente, comprovando-se a existência de fissuras nas paredes e a derrocada parcial de elementos de um dos torreões da barbacã e de algumas ameias (1999), no alvorecer do século XXI, a DGEMN lançou um concurso para o restauro e consolidação das muralhas e torres do castelo, assim como a construção de um anfiteatro ao ar livre e das respectivas instalações de apoio (2001). Os trabalhos desenvolviam-se entre 2003 e 2005, quando se previa a reabertura do monumento ao público.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nt-castelo-sabugal-2.jpg/1200px-Nt-castelo-sabugal-2.jpg"
+				},
+				{
+					"Nome": "Museu do Sabugal",
+					"Localidade": "R. de São Tiago 6320, 6320-409 Sabugal, Guarda",
+					"Historia": "Integrado num edifício datado de 1883, do qual se manteve a imponente fachada, surge em 2003 o Museu do Sabugal. O Museu situa-se numa zona privilegiada da cidade, em local de fácil acesso e a paredes meias com a antiga vila muralhada, vislumbrando-se pelas janelas o castelo de cinco quinas, que se acomoda no horizonte, por cima do casario de pedra. A exposição constitui o meio através do qual a arte adquire visibilidade, ao ponto de ser hoje um elemento fundamental da nossa cultura visual.",
+					"Imagem": "https://www.cm-sabugal.pt/wp-content/uploads/2016/01/cm-sabugal019-500x333.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Robalo",
+					"Morada": "Largo do Cinema Nº 4, 6320-455 Sabugal",
+					"Classificacao": 4.3,
+					"Imagem": "https://www.cm-sabugal.pt/wp-content/uploads/ROBALO-1024x532.jpg"
+				},
+				{
+					"Nome": "Pizzaria Sabugalense",
+					"Morada": "R. Florbela Espanca 2, 6320-373 Sabugal",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.cm-sabugal.pt/wp-content/uploads/sabugalense-1024x768.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hospedaria Robalo",
+					"Morada": "Rua António José d'Almeida nº53, 6320-354 Sabugal",
+					"Preco": "57€",
+					"Classificacao": 3,
+					"Imagem": "https://www.cm-sabugal.pt/wp-content/uploads/hospedaria-robalo-1024x683.jpg"
 				}
 			]
 		},
@@ -293,25 +434,46 @@
 			"Nome": "Seia",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Fonte da Casa das Obras",
+					"Localidade": "Largo António Borges Pires 2, 6270-494 Seia",
+					"Historia": "Fonte de espaldar simples, flanqueado por duplas pilastras toscanas e dividido em dois apainelados recortados. Foi construída no século XVIII, apresentando características de arquitetura pombalina. No espaldar, destaque para o brasão da família.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/811117"
+				},
+				{
+					"Nome": "Parque Natural da Serra da Estrela",
+					"Localidade": "Seia-Covilha, Centro, Seia",
+					"Historia": "O Parque Natural da Serra da Estrela (PNSE) abrange o essencial do maciço da Estrela, estendendo-se por território dos concelhos de Celorico da Beira, Covilhã, Gouveia, Guarda, Manteigas e Seia.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Barragem_pr%C3%B3ximo_%C3%A0_Lagoa_Comprida.jpg/1200px-Barragem_pr%C3%B3ximo_%C3%A0_Lagoa_Comprida.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Borges",
+					"Morada": "Tv. do Funchal 7, 6270-517 Seia",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/04/67/55/6b/joelhinhos-de-porco-pernil.jpg"
+				},
+				{
+					"Nome": "Restaurante São Martinho - Quinta do Crestelo",
+					"Morada": "Quinta do Crestelo, lugar do Crestelo, Seia., 6270-425 Seia",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/b6/99/62/sala-de-inverno.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Eurosol Seia Camelo",
+					"Morada": "Av. Primeiro de Maio 16, 6270-479 Seia",
+					"Preco": "53€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/02/c0/a8/e0/eurosol-seia-camelo.jpg"
+				},
+				{
+					"Nome": "Albergaria Senhora do Espinheiro - Serra da Estrela Seia",
+					"Morada": "Estrada Nacional 339, Sra do Espinheiro, 6270-371 Seia",
+					"Preco": "48€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/613/61373151.jpg"
 				}
 			]
 		},
@@ -319,25 +481,39 @@
 			"Nome": "Trancoso",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Pelourinho de Trancoso",
+					"Localidade": "6420-040 Trancoso, Guarda",
+					"Historia": "O Pelourinho de Trancoso é um Monumento Nacional da freguesia de Santa Maria, distrito da Guarda, Portugal. Foi classificado em 1910. Construído em 1510 após a concessão, por D. Manuel I de novo foral.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pelourinho_de_Trancoso_1.jpg/1200px-Pelourinho_de_Trancoso_1.jpg"
+				},
+				{
+					"Nome": "Castelo de Trancoso",
+					"Localidade": "Trancoso, Guarda",
+					"Historia": "O castelo de Trancoso não tem uma origem bem definida, mas já devia existir quando os muçulmanos ocuparam a península, procedendo ao reforço das suas defesas, que não foram suficientes para se defenderem do rei de Leão, Fernando Magno, que reconquistou o castelo por volta de 1057. D. Afonso Henriques doou Trancoso à Ordem do Templo, por volta de 1173, época em que as defesas da vila conheceram grandes melhorias, acreditando-se que seja deste período a construção da primeira muralha da vila. Foi em Trancoso que D. Dinis se casou com D. Isabel de Aragão, em 1282, sendo também, este rei, responsável pela ampliação da cerca da vila, de que são exemplo as monumentais portas. A crise de sucessão iniciada em 1383, coloca Trancoso na primeira linha das batalhas decisivas contra Castela, cujas tropas foram derrotadas, em 1385, nas imediações de Trancoso. A utilização militar deste castelo ainda se manteve até ao período das invasões francesas, mas depois foi perdendo importância, escapou todavia à falta de visão dos poderes públicos, que durante o século XIX, permitiram as demolição de parte das muralhas da vila e a construção de habitações adoçadas a elas. A estrutura defensiva da Cidade de Trancoso, que restou dessa delapidação, está classificado como Monumento Nacional, a Direcção-Geral dos Edifícios e Monumentos Nacionais, recuperou algumas partes das muralhas que tinham sido destruídas e foram demolidas algumas habitações encostadas às muralhas.",
+					"Imagem": "https://www.mundoportugues.pt/wp-content/uploads/sites/3/2017/10/article_64978.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Retiro do Castiço",
+					"Morada": "Rua de São João Nº24, 6420-080 Trancoso",
+					"Classificacao": 4.5,
+					"Imagem": "https://beira.pt/diretorio/wp-content/uploads/sites/14/2016/08/Retiro-do-Castico-750x400.jpg"
+				},
+				{
+					"Nome": "Restaurante Dom Gabriel",
+					"Morada": "Avenida Eng. Frederico Ulrich 1B, 6420-071 Trancoso",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/19/9e/0e/41/mixed-grill-with-pineapple.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Turismo de Trancoso",
+					"Morada": "Rua Professora Irene Avillez, 6420-227 Trancoso",
+					"Preco": "65€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/121/12113317.jpg"
 				}
 			]
 		},
@@ -345,25 +521,46 @@
 			"Nome": "Vila Nova de Foz Côa",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque Arqueológico do Vale do Côa",
+					"Localidade": "R. do Museu, 5150-610 Vila Nova Foz Côa",
+					"Historia": "Na região nordeste de Portugal, feita de imponentes montanhas, onde no início da primavera florescem amendoeiras e no outono as vinhas se cobrem de folhas cor de fogo, corre para o rio Douro, vindo de sul, um afluente cujo nome se tornou universal: é o Côa, que encerra no seu vasto vale um vigoroso ciclo artístico. Milénio após milénio, as formações rochosas que delimitam o seu leito foram-se convertendo em painéis recobertos de milhares de gravuras legadas pelo impulso criador dos nossos antepassados. Remontando ao Paleolítico Superior inicial, estes \"painéis\" ao ar livre são testemunhos de uma vitalidade e de uma mestria de concepção e traços que trouxeram até nós 25.000 anos de tempo. Esta longa galeria de arte dá-nos registo do período Neolítico e da Idade do Ferro, transpondo depois de um só fôlego dois mil anos de História para firmar na Época Moderna representações religiosas, nomes, datas e até, há poucas dezenas de anos, algumas figuras feitas pelos filhos de um moleiro. Os motivos, na sua quase totalidade gravados, apresentam temáticas, técnicas e convencionalismos comuns às obras coevas da Europa Ocidental que o séc. XIX haveria de descobrir aconchegadas nas grutas franco-cantábricas e a viragem do século viria a apelidar de grande arte. É no séc. XX que a arte do Côa surge das grutas para o ar livre, onde um jogo diário e sazonal de claridade e sombra a expõe e esconde numa fantástica sequência de revelação e ocultamento.",
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N21091.jpg?itok=LOV1UGHd"
+				},
+				{
+					"Nome": "Igreja Matriz de Vila Nova de Foz Côa",
+					"Localidade": "Praça do Município 16, 5150-549 Vila Nova de Foz Côa",
+					"Historia": "A Igreja Matriz de Vila Nova de Foz Côa situa-se no centro da vila e foi incluída na primeira lista de imóveis classificados como monumentos nacionais de 1910. Esta igreja destaca-se pela fachada rasgada por um portal de arco pleno de cinco arquivoltas decorado com motivos manuelinos. É constituída ainda por três naves com quatro tramos e capela-mor, à qual se adossou a sacristia e o cartório.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/4/48/Igreja_de_Foz_Coa_com_vista_lateral.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Aldeia Douro Restaurante",
+					"Morada": "R. Dr. José Augusto Saraiva de Aguilar nº19, 5150-616 Vila Nova de Foz Côa",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/92/4c/1f/aldeia-douro.jpg"
+				},
+				{
+					"Nome": "Restaurante Tá-se bem",
+					"Morada": "Praça da República n 28 1°andar, 5150-677 Vila Nova de Foz Côa",
+					"Classificacao": 4.6,
+					"Imagem": "https://lh3.googleusercontent.com/Zbw8mWRSeP8mVcfLYdVuo4TLqUZpqYcY-sTH8RwADls9rue5PpF_XY7kYSsOvK7gILtxpyLQ=w1080-h608-p-no-v0"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Vale do Côa",
+					"Morada": "Av. Cidade Nova 3, 5150-566 Vila Nova de Foz Côa",
+					"Preco": "65€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/829/82952738.jpg"
+				},
+				{
+					"Nome": "HI Hostel Foz Côa - Pousada de Juventude",
+					"Morada": "Caminho Vicinal Currauteles Nº 5, 5150-636 Vila Nova de Foz Côa",
+					"Preco": "32€",
+					"Classificacao": 3,
+					"Imagem": "https://pousadasjuventude.pt/media/112790/pousada-de-juventude-vila-nova-de-foz-c%C3%B4a-77.jpg"
 				}
 			]
 		}

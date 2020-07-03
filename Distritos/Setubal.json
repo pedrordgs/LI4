@@ -7,25 +7,46 @@
 			"Nome": "Alcácer do Sal",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Alcácer do Sal",
+					"Localidade": "R. do Município 1A, 7580-131 Alcácer do Sal",
+					"Historia": "Desde os primeiros tempos da ocupação a pesca e a exploração do sal trouxeram riqueza à região, apenas superada, em meados do século XIX, pela cultura do arroz. O castelo ergue-se em posição dominante sobre a margem esquerda (Sul) do rio Sado, integrando, atualmente, a Região de Turismo da Costa Azul portuguesa.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2007.03.23.pt.AlcacerdoSal.Castelo.Pousada.jpg/300px-2007.03.23.pt.AlcacerdoSal.Castelo.Pousada.jpg"
+				},
+				{
+					"Nome": "Cripta Arqueológica do Castelo",
+					"Localidade": "R. do Convento de Aracoelli 12, 7580-131 Alcácer do Sal",
+					"Historia": ". Numa atmosfera única é possível ver vestígios de todos os povos que viveram na colina aos pés da qual se ergue a cidade e aí deixaram a sua marca.",
+					"Imagem": "http://www.cm-alcacerdosal.pt/media/images/TV__Record_-_11-05-2015_076.width-500.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Taberna 2 à Esquina",
+					"Morada": "R. Encosta do Castelo, 7580-211 Alcácer do Sal",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/75/7b/fd/taberna-2-a-esquina.jpg"
+				},
+				{
+					"Nome": "O Alpendre",
+					"Morada": "R. Alm. Cândido dos Reis 19, 7580-132 Alcácer do Sal",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/4d/0d/e0/sala-2.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Pousada Castelo Alcácer do Sal",
+					"Morada": "Castelo de Alcácer do Sal, 7580-197 Alcácer do Sal",
+					"Preco": "200€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/745/74523873.jpg"
+				},
+				{
+					"Nome": "Hotel Cegonha",
+					"Morada": "Tv. do Ferrador, 7580-114 Alcácer do Sal",
+					"Preco": "65€",
+					"Classificacao": 2,
+					"Imagem": "https://x.cdrst.com/foto/hotel-sf/2b337/granderesp/hotel-a-cegonha-general-57305e.jpg"
 				}
 			]
 		},
@@ -33,25 +54,46 @@
 			"Nome": "Alcochete",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Praia de Alcochete",
+					"Localidade": "Alcochete",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://nit.pt/wp-content/uploads/2017/06/c4ca4238a0b923820dcc509a6f75849b-39-754x394.jpg"
+				},
+				{
+					"Nome": "Salinas do Samouco",
+					"Localidade": "Complexo das Salinas do Samouco, 2890-532 Alcochete",
+					"Historia": "As suas salinas tornaram-se históricas e representativas de uma vila plantada à beira Tejo, que ainda hoje colhe os frutos que passaram de geração em geração.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/441261/289678.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Marítimo Alcochete",
+					"Morada": "R. Comendador Estevão de Oliveira 21, 2890-044 Alcochete",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/06/fd/28/5-star.jpg"
+				},
+				{
+					"Nome": "Alcochetano",
+					"Morada": "Largo da Misericórdia 8, Alcochete",
+					"Classificacao": 4.4,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/331628/363436.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Praia do Sal Resort",
+					"Morada": "Passeio das Caravelas 88, 2890-166 Alcochete",
+					"Preco": "144€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/254/254867046.jpg"
+				},
+				{
+					"Nome": "Hotel Al Foz",
+					"Morada": "Av. Dom Manuel I, 2890-014 Alcochete",
+					"Preco": "140€",
+					"Classificacao": 3,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/77/73/777368_v2.jpeg"
 				}
 			]
 		},
@@ -59,25 +101,52 @@
 			"Nome": "Almada",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Jardim do Castelo",
+					"Localidade": "R. Henriques Nogueira 4, 2800-120 Almada",
+					"Historia": "O miradouro oferece uma vista privilegiada sobre O rio Tejo e a cidade de Lisboa, que inclui desde a freguesia de Santa Maria de Belém Até à praça do Comércio e assim inclui a Torre de Belém, ponte 25 de Abril, parque Florestal de Monsanto e ponte Vasco da Gama. ",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Miradouro_do_jardim_do_castelo_de_Almada.jpg/250px-Miradouro_do_jardim_do_castelo_de_Almada.jpg"
+				},
+				{
+					"Nome": "Elevador Panorâmico da Boca do Vento",
+					"Localidade": "R. do Ginjal 72, Almada",
+					"Historia": "Da cabina panorâmica do elevador desfruta-se uma das melhores vistas sobre o estuário do Tejo e a cidade de Lisboa.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Elevador_da_Boca_do_Vento.jpg/800px-Elevador_da_Boca_do_Vento.jpg"
+				},
+				{
+					"Nome": "Miradouro de Cristo Rei",
+					"Localidade": "Alto do Pragal, Av. do Cristo Rei, 2800-058 Almada",
+					"Historia": "Monumento indissociável da imagem de Almada, o Cristo Rei oferece às famílias uma dupla experiência. Para além de poder desfrutar de uma vista “de cortar a respiração” sobre Lisboa, proporciona aos visitantes uma “viagem” historico-religiosa.",
+					"Imagem": "https://cdn1.newsplex.pt/fotos/2019/9/15/708067.jpg?type=Artigo"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Atira-te ao Rio",
+					"Morada": "R. do Ginjal 69, 2800-284 Almada",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/02/a2/17/23/filename-atira-te-ao.jpg"
+				},
+				{
+					"Nome": "Meating Steakhouse",
+					"Morada": "R. Cândido dos Reis 72 e 74, 2800-269 Almada",
+					"Classificacao": 4.6,
+					"Imagem": "https://media.timeout.com/images/105250484/image.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Mercure Lisboa Almada Hotel",
+					"Morada": "Rua Abel Salazar, 9 Pragal, 2805-313 Almada",
+					"Preco": "59€",
+					"Classificacao": 4,
+					"Imagem": "https://www.ahstatic.com/photos/a040_ho_00_p_1024x768.jpg"
+				},
+				{
+					"Nome": "HI Hostel Almada - Pousada de Juventude",
+					"Morada": "Quinta do Bucelinho, 2805-358 Almada",
+					"Preco": "32€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/402/40279018.jpg"
 				}
 			]
 		},
@@ -85,25 +154,39 @@
 			"Nome": "Barreiro",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Convento da Verderena",
+					"Localidade": "R. Convento 54, 2830-077 Barreiro",
+					"Historia": "A construção do Mosteiro da Verderena, o décimo sétimo da Província de Santa Maria da Arrábida, teve o seu início formal a 18 de Dezembro de 1591, dia consagrado pela Igreja Católica à expectação do parto de Nossa Senhora e daí a designação do orago: Nossa Senhora da Madre de Deus.",
+					"Imagem": "https://www.cm-barreiro.pt/thumbs/cmbarreiro/uploads/writer_file/image/472/convento_1_750_2500.jpg"
+				},
+				{
+					"Nome": "Parque Catarina Eufémia",
+					"Localidade": "Av. Alfredo da Silva 42, 2830-333 Barreiro",
+					"Historia": "Zona verde, no centro da Cidade, com parque infantil e um pequeno lago rodeado por árvores frondosas. Possui uma Cafetaria com esplanada.",
+					"Imagem": "https://www.cm-barreiro.pt/thumbs/cmbarreiro/uploads/writer_file/image/14080/20181106_092917_1_750_2500.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Hamburgueria Fidalgo",
+					"Morada": "Lg. do Moinho Pequeno 2830, Barreiro",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/6a/3e/cf/hamburguer-vegetariano.jpg"
+				},
+				{
+					"Nome": "Grelhador Mor",
+					"Morada": "R. Camilo Castelo Branco 10,12 e 14, 2830-328 Barreiro",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/c3/b7/06/a-nossa-entrada.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Residencial Principe Guest House",
+					"Morada": "Largo Q.ta Grande 13 1o Esq, 2830-355 Barreiro",
+					"Preco": "45€",
+					"Classificacao":,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/251/251704477.jpg"
 				}
 			]
 		},
@@ -111,25 +194,46 @@
 			"Nome": "Grândola",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Coreto de Grândola",
+					"Localidade": "7570-128 Grândola",
+					"Historia": "O Coreto da Vila de Grândola, construído entre 1927 e 1930 no jardim Dr.º Júlio do Rosário Costa, está a receber obras de restauro. Os trabalhos estão a ser desenvolvidos pelos serviços municipais e incluem a substituição da cobertura, reparação de ferragens danificadas e pintura.",
+					"Imagem": "https://www.cm-grandola.pt/thumbs/cmgrandola/uploads/news/image/1023/resize_coreto___obras_de_requalificacao10_1_1024_2500.JPG"
+				},
+				{
+					"Nome": "Praia do Pego",
+					"Localidade": "Praia do Pego, Grândola",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/large/public/mediateca/Praia%20do%20Pego%2001_Credit%20CM%20Grandola-Tur.%20Alentejo_660x371.jpg?itok=4P6v6oLZ"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Cruzamento",
+					"Morada": "N120, 7570-125 Grândola",
+					"Classificacao": 4.3,
+					"Imagem": "https://i2.wp.com/www.ondevamosjantar.com/wp-content/uploads/2019/08/restaurante-o-cruzamento-cozinha-portuguesa-tradicional-grupos-fora-de-lisboa-grandola.jpg?fit=709%2C295&ssl=1"
+				},
+				{
+					"Nome": "Restaurante Amoreiras",
+					"Morada": "R. 1 de Maio 1, Grândola",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/f5/93/9d/amoreiras.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Sobreiras - Alentejo Country Hotel",
+					"Morada": "Herdade do Vale das Sobreiras, Mosqueirões, 7570-336 Grândola",
+					"Preco": "135€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/145/145954849.jpg"
+				},
+				{
+					"Nome": "Hotel Dom Jorge",
+					"Morada": "Praça D. Jorge 14, 7570-177 Grândola",
+					"Preco": "25€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/712/712335.jpg"
 				}
 			]
 		},
@@ -137,51 +241,66 @@
 			"Nome": "Moita",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Parque Municipal da Moita",
+					"Localidade": "2860-467 Moita",
+					"Historia": "Construído na década de 70, o Parque Municipal da Moita oferece 4000 m2 de área verde, de aspecto naturalista, com lagos, árvores e relvados, oferecendo frescura e sombra aos visitantes. Junto à zona mais elevada, destaca-se um antigo Moinho, cuja estrutura foi aproveitada para instalar um café-esplanada.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/846676"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Mar da Palha",
+					"Morada": "Rua dos Lírios nº 5 A e B, Parque Industrial Quinta Fonte da Prata Sul, 2860-274 Alhos Vedros",
+					"Classificacao": 4.3,
+					"Imagem": "https://b.zmtcdn.com/data/pictures/4/18242664/fe239c23a5ee584b23c1ed17012257cd.jpg?fit=around|750:500&crop=750:500;*,*"
+				},
+				{
+					"Nome": "Kodachi Moita",
+					"Morada": "R. 5 de Outubro Nº27-31, 2860-431 Moita",
+					"Classificacao": 4.3,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/722346f4-04f8-4e36-90be-1097a6160d59/cfb58f77-1950-44de-80e0-6bd609f5c1c3.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Montijo",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Moinho de Maré do Cais de Aldeia Galega / Montijo",
+					"Localidade": "Montijo",
+					"Historia": "Tornou-se propriedade municipal em 1995, tendo a Autarquia assumido a preservação deste ícone da História Local que sintetiza uma relação intensa, de vários séculos, entre a atividade agrícola e o rio.",
+					"Imagem": "https://www.mun-montijo.pt/thumbs/cmmontijo/uploads/image_gallery_item/image/501/dsc_1108_1_1280_720.JPG"
+				},
+				{
+					"Nome": "Museu do Pescador",
+					"Localidade": "114, Largo Conde Ferreira 2, Montijo",
+					"Historia": "Com o objetivo de ser uma entidade viva, ligada à comunidade, o museu do Pescador é um espaço onde a comunidade piscatória se revê, nascendo como um símbolo da sua identidade, da sua cultura e dos seus costumes.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/441079/288279.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Maré Cheia",
+					"Morada": "R. Miguel Pais 69, 2870-356 Montijo",
+					"Classificacao": 4.1,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/408441/177100.jpg"
+				},
+				{
+					"Nome": "O Victor",
+					"Morada": "R. António Semedo N5, 2870-186 Montijo",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/ad/f0/8d/o-victor.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "TRYP Montijo Parque Hotel",
+					"Morada": "Av. João Xxiii 193, 2870-159 Montijo",
+					"Preco": "52€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/143/143883956.jpg"
 				}
 			]
 		},
@@ -189,25 +308,46 @@
 			"Nome": "Palmela",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Moinhos Vivos de Palmela",
+					"Localidade": "Roteiro dos Moinhos, 2950-000 Palmela",
+					"Historia": "O Moinho Vivos de Palmela  pertence a um conjunto de Moinho com quase 250 anos de historia e tradições situados na Serra do Louro inserida no Parque Natural da Arrábida, tem o seu ponto mais elevado no topo do “Trilho da crista do Louro” com 245 metros de altitude. É muito procurada por praticantes de Escalada, Trail, BTT e Montanhismo.",
+					"Imagem": "https://www.turismo.pt/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/m/o/moinhos_de_palmela.jpg"
+				},
+				{
+					"Nome": "Miradouro De Palmela",
+					"Localidade": "Palmela",
+					"Historia": "Nos bancos instalados, podemos nos sentar de frente para zona ribeirinha onde a vista alcança Tróia e a cidade de Setúbal, a observar as cores douradas de um pôr de sol.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/68/a6/59/miradouro-municipal-de.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Dona Isilda",
+					"Morada": "R. da Serrinha, 2950-492 Palmela",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/a8/3b/a5/screenshot-20170228-154945.jpg"
+				},
+				{
+					"Nome": "Pérola da Serra",
+					"Morada": "Rua Dr. Bernardo Teixeira Botelho 46, 2950-298 Palmela",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/769832"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Pousada Castelo de Palmela",
+					"Morada": "Palmela",
+					"Preco": "139€",
+					"Classificacao": 4,
+					"Imagem": "https://pesweb.azureedge.net/spimg/hotelbannerimages/hotel-palmela-summary.jpg?scale=downscaleonly&encoder=freeimage&progressive=true&quality=50&w=1440&h=780&mode=crop&anchor=bottomcenter"
+				},
+				{
+					"Nome": "Amazonia Palmela Apartamentos Turisticos",
+					"Morada": "Estrada Nacional, 379-2 Sítio de Poços – Vale de Touros, 2950-425 Palmela,",
+					"Preco": "81€",
+					"Classificacao": 4,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/12/67/126779_v1.jpeg"
 				}
 			]
 		},
@@ -215,25 +355,53 @@
 			"Nome": "Santiago do Cacém",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Badoca Safari Park",
+					"Localidade": "170, 7501-909 Vila Nova de Stº André",
+					"Historia": "Existe desde 1999. Tem uma área de 90 hectares. O parque permite aos visitantes o contacto directo com a natureza e com a vida animal através das variadas atracções. O Badoca Safari Park tem a vantagem de possuir os animais num regime de semi-liberdade, permitindo por um lado, a garantia de que os visitantes conseguem, de facto ver os animais",
+					"Imagem": "https://www.saudemais.tv/uploads/cache/noticia_0000015294-711x400.jpg"
+				},
+				{
+					"Nome": "Castelo de Santiago do Cacém",
+					"Localidade": "R. Padre António Macedo 62, 7540-194 Santiago do Cacém",
+					"Historia": "O Castelo de Santiago do Cacém, no Alentejo, localiza-se na cidade, freguesia e concelho de mesmo nome, no distrito de Setúbal, em Portugal. Em posição dominante sobre uma modesta colina, vizinha à orla atlântica e ao porto de Sines, controlava a planície vizinha. Atualmente integra a Região de Turismo da Costa Azul. ",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Santiago_Cac%C3%A9m_April_2009-1.jpg/550px-Santiago_Cac%C3%A9m_April_2009-1.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Mercado à Mesa",
+					"Morada": "R. Moçambique 19, Santiago do Cacém",
+					"Classificacao": 4.3,
+					"Imagem": "https://www.casasbrancas.pt/wp-content/uploads/2016/03/20151211_155504-e1458643539255.jpg"
+				},
+				{
+					"Nome": "O Arco",
+					"Morada": "Estr. do Fidalgo 5, Santiago do Cacém",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/5c/39/fb/restaurante-o-arco.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Santiago Hotel Cooking & Nature",
+					"Morada": "R. Cidade de Beja, 7540-163 Santiago do Cacém",
+					"Preco": "230€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/149/149485112.jpg"
+				},
+				{
+					"Nome": "Hotel Vila Park",
+					"Morada": "Av. de Sines, 7501-909 Santiago do Cacém",
+					"Preco": "128€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/731/73192102.jpg"
+				},
+				{
+					"Nome": "Hotel Dom Nuno",
+					"Morada": " Avenida D.Nuno Alvares Pereira, Nº90, 7540-103 Santiago do Cacém",
+					"Preco": "106€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/335/33516708.jpg"
 				}
 			]
 		},
@@ -241,51 +409,79 @@
 			"Nome": "Seixal",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Splash Seixal",
+					"Localidade": "Av. Mud Juvenil 1405, Seixal",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.viagensemiudos.pt/wp-content/uploads/2017/07/splash-seixal1-1280x720.jpg"
+				},
+				{
+					"Nome": "Embarcações tradicionais (Ecomuseu Municipal do Seixal)",
+					"Localidade": "Av. Dom Nuno Álvares Pereira 41, 2840-520 Seixal",
+					"Historia": "Antigas embarcações de tráfego local entre cais e portos do estuário do Tejo, funções que serviram até ao início da década de setenta do século passado, o bote de fragata Baía do Seixal e o varino Amoroso integram hoje o espólio da Câmara Municipal do Seixal como embarcações de recreio.",
+					"Imagem": "https://www.cm-seixal.pt/sites/default/files/styles/780x520/public/3emb.jpg?itok=7CgOdhbK"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Mundet Factory",
+					"Morada": "Praça 1º de Maio, 2840-545 Seixal",
+					"Classificacao": 4.4,
+					"Imagem": "https://media.timeout.com/images/103720901/image.jpg"
+				},
+				{
+					"Nome": "Lisboa à Vista",
+					"Morada": "Cais da Mundet, Baía do, 2840-481 Seixal",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/2d/5c/b6/welcome-a-board.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Sesimbra",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Batnavó",
+					"Localidade": "Porto de abrigo, 2820-309 Sesimbra",
+					"Historia": "Têm uma oferta diversificada de passeios, pesca embarcada e eventos náuticos.",
+					"Imagem": "https://c1.quickcachr.fotos.sapo.pt/i/B0f01f550/19958096_sV84z.jpeg"
+				},
+				{
+					"Nome": "Parque Natural da Arrábida",
+					"Localidade": "Sesimbra",
+					"Historia": "O Parque Natural da Arrábida é uma reserva biogenética situada na península de Setúbal, abrangendo os municípios de Palmela, Setúbal e Sesimbra, com a altitude mais elevada no Pico do Formosinho, com 501 metros de altitude, no distrito de Setúbal, em Portugal. ",
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/1446_065HRPT02_Credit-RR-TdP_660x371.jpg?itok=j40czvsy"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Rodinhas",
+					"Morada": "R. Marques de Pombal 25, 2970-712 Sesimbra",
+					"Classificacao": 4.6,
+					"Imagem": "https://b.zmtcdn.com/data/pictures/2/18227482/7d81f03b0b4913c55e2d39f0eb618860.jpg"
+				},
+				{
+					"Nome": "Casa Mateus",
+					"Morada": "Lg. Anselmo Braamcamp, 4, Largo Anselmo Braancamp 4, 2970-470 Sesimbra",
+					"Classificacao": 4.7,
+					"Imagem": "https://b.zmtcdn.com/data/pictures/6/8214856/125528da18ec7ef0249afef624a1066a.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Sesimbra Hotel & Spa",
+					"Morada": "R. Navegador Rodrigues Soromenho, 2970-773 Sesimbra",
+					"Preco": "160€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/187/187155355.jpg"
+				},
+				{
+					"Nome": "Hotel do Mar",
+					"Morada": "R. Gen. Humberto Delgado, 2970-628 Sesimbra",
+					"Preco": "155€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/656/6567621.jpg"
 				}
 			]
 		},
@@ -293,25 +489,46 @@
 			"Nome": "Setúbal",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Mercado do Livramento",
+					"Localidade": "Av. Luísa Todi 163, Setúbal",
+					"Historia": "Ir ao Mercado do Livramento é uma experiência para os sentidos. Os seis mil metros quadrados de área multiplicam-se em cores, cheiros e sabores diferentes. A entrada é feita pela Avenida Luísa Todi. Lá dentro há uma espécie de microclima ritmado pelos pregões dos vendedores e pelo bate pé dos clientes na calçada.",
+					"Imagem": "https://newinsetubal.nit.pt/wp-content/uploads/2018/07/b052e06a69fa2432a6332241b33e2778-754x424.jpg"
+				},
+				{
+					"Nome": "Casa da Baía Setúbal",
+					"Localidade": "Av. Luísa Todi 468, 2900-456 Setúbal",
+					"Historia": "A Casa da Baía – Centro de Promoção Turística, é um autêntico cartão de visita da região de Setúbal. O espaço, que funciona num edifício do sec XVIII, inclui uma zona de atendimento turístico e uma área vínica, com uma garrafeira em que estão representados todos produtores da região. ",
+					"Imagem": "https://www.mun-setubal.pt/wp-content/uploads/2019/01/Casa_da_Ba%C3%ADa_Fachada_01.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Casa Santiago - Rei do Choco Frito",
+					"Morada": "v. Luísa Todi 92, 2900-450 Setúbal",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/58/cb/11/casa-santiago-o-rei-do.jpg"
+				},
+				{
+					"Nome": "Bombordo",
+					"Morada": "R. Ocidental do Mercado 7, 2900-516 Setúbal",
+					"Classificacao": 3.9,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/443740/357956.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel do Sado Business & Nature",
+					"Morada": "R. Irene Lisboa 1, 2900-028 Setúbal",
+					"Preco": "91€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/183/183265813.jpg"
+				},
+				{
+					"Nome": "Hotel Arangues",
+					"Morada": "Jose Pedro Da Silva 15, 2910-575 Setúbal, Portugal",
+					"Preco": "74€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/210/210432179.jpg"
 				}
 			]
 		},
@@ -319,25 +536,46 @@
 			"Nome": "Sines",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Centro de Artes de Sines",
+					"Localidade": "R. Cândido dos Reis 33, 7520-177 Sines",
+					"Historia": "O Centro de Artes de Sines, inaugurado a 20 de agosto de 2005, é uma moderna infra-estrutura concebida pelo Atelier Aires Mateus & Associados. Está localizada na zona histórica.",
+					"Imagem": "https://www.casasbrancas.pt/wp-content/uploads/bfi_thumb/CentroArtesSines2-m4q4zifnnulpxo8hp4n5d3dc46k8nsi88muzx4thtc.jpg"
+				},
+				{
+					"Nome": "Farol de Sines",
+					"Localidade": "Sines",
+					"Historia": "O farol entrou em funcionamento em abril de 1880, com uma torre de 22 metros de altura e 41 metros de altitude.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Farol_de_Sines.jpg/1200px-Farol_de_Sines.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Castelo",
+					"Morada": "Rua João de Deus 22, 7520-215 Sines",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/08/ad/bd/18/restaurante-o-castelo.jpg"
+				},
+				{
+					"Nome": "Cais da Estação",
+					"Morada": " Av. Gen. Humberto Delgado 16, Sines",
+					"Classificacao": 4.4,
+					"Imagem": "https://static.wixstatic.com/media/acc45f_771cfd8d02bc4bfab98c5a04bc39d7c4~mv2.jpg/v1/fit/w_2500,h_1330,al_c/acc45f_771cfd8d02bc4bfab98c5a04bc39d7c4~mv2.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Veleiro",
+					"Morada": "Rua Sacadura Cabral,19 A, 7520-239 Sines, Portugal",
+					"Preco": "150€",
+					"Classificacao": 2,
+					"Imagem": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/239016315.jpg?k=f56de52e89eec286be0f92407ad96c822964873b2a903580939c5cb0046485be&o="
+				},
+				{
+					"Nome": "Hotel Dom Vasco",
+					"Morada": "Parque 13, 7520-202 Sines, Portugal",
+					"Preco": "200€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/605/60509988.jpg"
 				}
 			]
 		}
