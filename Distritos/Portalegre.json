@@ -7,25 +7,39 @@
 			"Nome": "Alter do Chão",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo do Crato",
+					"Localidade": "Largo do Castelo 1, Crato",
+					"Historia": "O Castelo do Crato, também referido como Castelo da Azinheira, no Alentejo, localiza-se na freguesia de Crato e Mártires, vila e concelho de Crato, distrito de Portalegre, em Portugal.",
+					"Imagem": "https://i.ytimg.com/vi/FTUsGfGT0IA/maxresdefault.jpg"
+				},
+				{
+					"Nome": "Casa da Medusa",
+					"Localidade": " Alter do Chão",
+					"Historia": "Com o objetivo de tornar o espaço mais aprazível para todos os que nos visitam e dar continuidade à valorização da sua enorme importância arqueológica, a Casa da Medusa está a ser alvo de uma ação de manutenção, nomeadamente remoção de elementos vegetais e limpeza de mosaicos. ",
+					"Imagem": "https://www.radiocampanario.com/media/k2/items/cache/f4305e9bc062a06855ab2ffefa5df4db_L.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Páteo Real",
+					"Morada": "Av. Dr. João Pestana 35, 7440-022 Alter do Chão",
+					"Classificacao": 4.0,
+					"Imagem": "https://www.mygon.com/ImageAdapterV2/shop/15532/shopimage_4.jpg?width=760&height=506"
+				},
+				{
+					"Nome": "Restaurante O Eden",
+					"Morada": "R. Dom Nuno Alvares Pereira 58, 7440-014 Alter do Chão",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/f6/a2/b2/varandas-d-alter.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Convento D'Alter",
+					"Morada": "Rua de Santo António nº 23, 7440-059 Alter do Chão, Portugal",
+					"Preco": "90€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/254/254703145.jpg"
 				}
 			]
 		},
@@ -33,51 +47,39 @@
 			"Nome": "Arronches",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Ponte do Crato",
+					"Localidade": " Bairro do Telheiro 32 7340, Arronches",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/administrator/portalegre/c-arronches/arronches/ponte-crato1.jpg"
+				},
+				{
+					"Nome": "Pinturas Rupestres da Lapa dos Gaivões / Vale de Junco",
+					"Localidade": "Esperança",
+					"Historia": "O abrigo rochoso de vale de junco - ou lapa dos gaivões - foi classificado em 1970 como monumento nacional, mercê do conjunto de pinturas rupestres executadas maioritariamente a ocre vermelho nas suas paredes interiores, apesar de alguns autores terem identificado sete série cromáticas, desde o amarelo até ao negro. ... monumento nacional",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/84/48/7a/pinturas-rupestres-de.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "A Estalagem",
+					"Morada": "R. Porta Nova 3 7340, Arronches",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/d5/ba/73/entrada-tipica.jpg"
+				},
+				{
+					"Nome": "A Cabana",
+					"Morada": "R. de Olivença 20A, 7340-019 Arronches",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/13/55/26/photo0jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
-			]
-		},
-		{
-			"Nome": "Avis",
-			"Atracoes": [
-				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
-				}
-			],
-			"Restaurantes": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
-			],
-			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Rural Santo Antonio",
+					"Morada": "7340-041 Arronches",
+					"Preco": "60€",
+					"Classificacao": 3,
+					"Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/20/08/2008087_v4.jpeg"
 				}
 			]
 		},
@@ -85,25 +87,39 @@
 			"Nome": "Campo Maior",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Lagar Museu do Palácio Visconde d' Olivã",
+					"Localidade": "7370-118 Campo Maior",
+					"Historia": "O Lagar-Museu do Palácio Visconde d’Olivã é um espaço totalmente dedicado à olivicultura, uma das atividades agrícolas mais importantes do concelho, onde a componente pedagógica está mais valorizada. A partir da sua unidade central, onde foi recriado um lagar de azeite, pode aceder-se a uma sala multimédia ",
+					"Imagem": "https://lh3.googleusercontent.com/proxy/tXyAzwJrCil_nxGWtjC_a516Vt8kvkkyeNY2mCx1Fbf_Y18x8t6wW0_JkmTFsiI6gS_ZxwnMciW-nMv04Of6lzFeTTqy8A3T6-aybAFaq7C-SuFw"
+				},
+				{
+					"Nome": "Centro Cultural de Campo Maior",
+					"Localidade": "Av. António Sérgio, 7370-090 Campo Maior",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/802116"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Faisao",
+					"Morada": "Largo Dr Regala 15, 7370-044 Campo Maior",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/a2/e4/b2/faisao.jpg"
+				},
+				{
+					"Nome": "Restaurante Trindade",
+					"Morada": "Estr. Militar 30, 7370-052 Campo Maior",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/773266"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Santa Beatriz",
+					"Morada": "Av. dos Combatentes da Grande Guerra, 7370-075 Campo Maior",
+					"Preco": "70€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/157/157483014.jpg"
 				}
 			]
 		},
@@ -111,25 +127,39 @@
 			"Nome": "Castelo de Vide",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Castelo Medieval de Castelo de Vide",
+					"Localidade": "39°25'03. 7°27'28., R. 1 1, Crato",
+					"Historia": "Em posição dominante no alto de uma colina a norte da serra de São Mamede, revestia-se de importância estratégica devido à sua proximidade com a fronteira. Devido ao esplendor da paisagem circundante, a povoação é conhecida localmente como a Sintra do Alentejo.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Castelo_de_Vide_-_Castelo1.jpg/275px-Castelo_de_Vide_-_Castelo1.jpg"
+				},
+				{
+					"Nome": "Fonte Judaica",
+					"Localidade": "Largo do Dr. José Frederico Laranjo 11, 7320-110 Castelo de Vide",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://lh3.googleusercontent.com/proxy/72Yt48trGPd6M7_s51M-fozp0Yd74QrxxJRR-vnU0bZI3Zl6HG4CY7PuH21Kf96ih3ESJtYUAGVgwTe3iHzSe4mePYa2REPJh96sgqSIktF2WwfviMnKgBS2Uqd0v5aMMQ"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Blanc Bleu",
+					"Morada": "7320, Castelo de Vide",
+					"Classificacao": 5.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/e6/18/95/blanc-bleu.jpg"
+				},
+				{
+					"Nome": "Dom Pedro V",
+					"Morada": " Praça D. Pedro V 10, 7320-113 Castelo de Vide",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/40/29/23/photo1jpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Castelo de Vide",
+					"Morada": "Av. da Europa, 7320-202 Castelo de Vide",
+					"Preco": "45€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/639/6395454.jpg"
 				}
 			]
 		},
@@ -137,25 +167,33 @@
 			"Nome": "Crato",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Museu Municipal do Crato",
+					"Localidade": "R. Cavaleiros da Ordem Soberana e Militar de Malta, 7430-130 Crato",
+					"Historia": "Museu instalado numa casa da época barroca, devidamente adaptado e restaurado, com a finalidade de dar a conhecer ao público em geral a história deste município desde os primórdios até meados do século XX.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/359652/6458.jpg"
+				},
+				{
+					"Nome": "Parque Aquatico do Crato",
+					"Localidade": "Crato",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://aportaeajanela.files.wordpress.com/2019/06/piscina-64590861_893283497691590_5861449238738632704_n.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante do Priorado",
+					"Morada": "Parque Aquático Zona Desportiva do, Crato",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/51/d7/39/ta-img-20160731-211513.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Pousada Mosteiro Crato",
+					"Morada": "Mosteiro da Flor da Rosa, 7430-999 Crato",
+					"Preco": "210€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/751/75181354.jpg"
 				}
 			]
 		},
@@ -163,25 +201,46 @@
 			"Nome": "Elvas",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Elvas",
+					"Localidade": "R. da Parada do Castelo 4 8, 7350-082 Elvas",
+					"Historia": "O Castelo de Elvas, no Alentejo, localiza-se na freguesia da Alcáçova, na cidade e concelho de Elvas, distrito de Portalegre, em Portugal. Insere-se num conjunto de fortificações e obras anexas, consideradas Património da Humanidade desde 2012.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Elvas_Castle%2C_Alentejo%2C_Portugal%2C_29_September_2005.jpg"
+				},
+				{
+					"Nome": "Museu Militar de Elvas",
+					"Localidade": "Avenida de São Domingos 13, Elvas",
+					"Historia": "Inaugurado oficialmente em 29 de outubro de 2009, o Museu Militar de Elvas constitui-se como o museu de maior área de implantação de Portugal (150.000m2 de área total) e alberga as coleções militares do Exército",
+					"Imagem": "https://www.cm-elvas.pt/descobrir/wp-content/uploads/sites/16/2018/05/museu-militar-4.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante El Cristo",
+					"Morada": "R. Dr. António Tello Barradas 49, 7350-112 Elvas",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.radiocampanario.com/media/k2/items/cache/2ba54f984ac4fa9e7f381b58becce23f_XL.jpg"
+				},
+				{
+					"Nome": "Adega Regional",
+					"Morada": "R. de João Casqueiro 23, 7350-193 Elvas",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/10/65/2c/20170423-153727-largejpg.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Vila Galé Collection Elvas",
+					"Morada": "Av. 14 de Janeiro 13, 7350-092 Elvas",
+					"Preco": "115€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/206/206741738.jpg"
+				},
+				{
+					"Nome": "SL Hotel Santa Luzia - Elvas",
+					"Morada": "Av. de Badajoz, 7350-097 Elvas",
+					"Preco": "89€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/188/18860701.jpg"
 				}
 			]
 		},
@@ -189,51 +248,60 @@
 			"Nome": "Fronteira",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Centro de Interpretação da Batalha de Atoleiros",
+					"Localidade": "Avenida Heróis dos Atoleiros, Fronteira 7460-101 Portugal",
+					"Historia": "Atoleiros 1384 - Centro de Interpretação da Batalha dos Atoleiros consiste num projeto destinado a apresentar aos visitantes uma reconstituição da batalha histórica travada em 6 de Abril de 1384, a curta distância da vila de Fronteira, recorrendo a meios multimédia.",
+					"Imagem": "https://images.adsttc.com/media/images/52c2/4407/e8e4/4e0b/1d00/00f3/medium_jpg/04807-CIBA-004_(Photo_Fernando_Guerra).jpg?1388463072"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
-				}
+					"Nome": "Segredo D'Alecrim",
+					"Morada": "Largo Mal. Carmona 21, 7460-109 Fronteira",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/62/84/42/segredo-d-alecrim.jpg"
+				},
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Gavião",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Passadiço de Alamal / Ponte de Belver",
+					"Localidade": "Gavião",
+					"Historia": "O percurso tem início na vistosa Praia Fluvial do Alamal e término junto à Ponte de Belver. Ao longo dos cerca de 2 km que separam estes dois pontos",
+					"Imagem": "https://www.vagamundos.pt/wp-content/uploads/2019/06/1-4-3.jpg"
+				},
+				{
+					"Nome": "Museu do Sabão",
+					"Localidade": "R. de São Miguel 22, Belver",
+					"Historia": "De tal modo, que as suas saboarias de Sabão Mole e Sabão de Pedra eram sobejamente conhecidas em todo o reino. A produção de sabão assumiu inegável importância económica e social na vila de Belver. Nesta localidade foi instalada uma Real Fábrica de Sabão, que funcionou em regime de monopólio régio, da qual ainda hoje se encontram vestígios.",
+					"Imagem": "https://portugaldelesales.pt/wp-content/uploads/2016/09/museu-1.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Dente Leve",
+					"Morada": "Bairro Nossa Sra. dos Remédios 9, Gavião",
+					"Classificacao": 4.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/57/2d/f7/photo3jpg.jpg"
+				},
+				{
+					"Nome": "Restaurante O Moinho",
+					"Morada": "R. Dr. Dias Calazans N°36, 6040-115 Gavião",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/78/41/9c/massada-de-tamboril-e.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Alamal River Club",
+					"Morada": "Alamal, 6040-999 Gavião, Portuga",
+					"Preco": "155€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/726/72688614.jpg"
 				}
 			]
 		},
@@ -241,25 +309,46 @@
 			"Nome": "Marvão",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Marvão",
+					"Localidade": "R. do Castelo 7330, Marvão",
+					"Historia": "O castelo inscreve-se no Parque Natural da Serra de São Mamede, na vertente norte da serra, em posição dominante sobre a vila e estratégica sobre a linha da raia, controlando, no passado, a passagem do rio Sever, afluente do rio Tejo.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/CastillodeMarvao.jpg/275px-CastillodeMarvao.jpg"
+				},
+				{
+					"Nome": "Cisterna",
+					"Localidade": "R. do Castelo 18 7330, Marvão",
+					"Historia": "O Castelo de Marvão é constituído por uma imponente muralha, onde se encerra a pitoresca vila típica e monumental, de casco muito antigo, e o castelo propriamente dito, situado no ponto mais alto do esporão rochoso, em permanente vigília sobre um território fronteiriço.",
+					"Imagem": "https://live.staticflickr.com/3942/15611940091_15a42e7ee7_b.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "7 Quintas",
+					"Morada": "N359, Marvão",
+					"Classificacao": 4.5,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/218/218121280.jpg"
+				},
+				{
+					"Nome": "Churrasqueira Sever",
+					"Morada": "R. Nova 24, 7330-347 Portagem",
+					"Classificacao": 4.4,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/791575"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Varanda Do Alentejo",
+					"Morada": "Praça Do Pelourinho N.º 1-A, 7330 - 108 Marvão, Portugal",
+					"Preco": "80€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/256/256342333.jpg"
+				},
+				{
+					"Nome": "Dom Dinis Marvão",
+					"Morada": "Largo de Santa Maria, 7330-121 Marvão, Portugal",
+					"Preco": "90€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/433/43358372.jpg"
 				}
 			]
 		},
@@ -267,25 +356,39 @@
 			"Nome": "Monforte",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Camping Puro Alentejo",
+					"Localidade": "Estrada Municipal 514, troço Barbacena-Monforte, KM 2,590, 7350-431 Barbacena",
+					"Historia": "O Camping Puro Alentejo, um parque de campismo e caravanismo, conta com uma área rural de 5 mil metros quadrados, com um espaço para as caravanas e tendas, encontrando-se localizado junto à Estrada Municipal de Barbacena, na saída em direção à vila de Monforte, a cerca de 2,5 quilómetros da aldeia do concelho de Elvas.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1b/2c/84/13/restaurant.jpg"
+				},
+				{
+					"Nome": "Fonte da Praça da República",
+					"Localidade": "7450-115 Monforte",
+					"Historia": "Fonte circular em local aberto, com escadaria.",
+					"Imagem": "https://www.rotasturisticas.net/imagens/visitar/pt/large/photos1-6642-vila_vicosa_portugal_fonte_da_praca_da_republica_antiga_fonte_do_carrascalem_vila_vicosa.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Tasca Da Calcadinha",
+					"Morada": "7450-108 Monforte",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/c0/3c/94/tasca-da-calcadinha.jpg"
+				},
+				{
+					"Nome": "Taberna Tintos e Petiscos",
+					"Morada": "R. Dr. António Sardinha Nº2, 7450-275 Vaiamonte",
+					"Classificacao": 4.5,
+					"Imagem": "https://c1.quickcachr.fotos.sapo.pt/i/B221809b2/21563204_HbH47.jpeg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Torre de Palma, Wine Hotel",
+					"Morada": "Herdade de Torre de Palma, 7450-250",
+					"Preco": "245€",
+					"Classificacao": 5,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/192/192483270.jpg"
 				}
 			]
 		},
@@ -293,25 +396,39 @@
 			"Nome": "Nisa",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Praça de Touros de Nisa",
+					"Localidade": "R. da Praça de Touros, Nisa",
+					"Historia": "Praça inaugurada em 1928, circular com arena em areia, com sete portas de verga, portadas e trincheira pintadas a vermelho, bancadas em cimento a ocupar oito anéis.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/854867"
+				},
+				{
+					"Nome": "Castelo de Nisa",
+					"Localidade": "Largo Dr. António Granja, 6050-385 Nisa",
+					"Historia": "Nisa sucedeu, em fins do século XIII, a chamada Nisa-a-Velha, a Nordeste da atual, sobre a elevação onde atualmente se ergue a Capela de Nossa Senhora da Graça, e cuja primitiva ocupação humana remonta a povos pré-romanos.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nisa_-_Portugal_%28145069893%29.jpg/275px-Nisa_-_Portugal_%28145069893%29.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "A Taverna da Vila",
+					"Morada": "Largo Dr. António Granja 2, 6050-385 Nisa",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/a3/e9/77/muito-acolhedor.jpg"
+				},
+				{
+					"Nome": "Restaurante 3 Marias",
+					"Morada": "Praça da República 6, 6050-385 Nisa",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/e4/0c/4c/cafe-restaurante-as-tres.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Holiday home R. Cap. Pais de Morais Abre numa nova janela",
+					"Morada": "R. Cap. Pais de Morais 5 , 6050-385 Nisa, Portugal",
+					"Preco": "165€",
+					"Classificacao": 3,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/256/256893491.jpg"
 				}
 			]
 		},
@@ -319,25 +436,33 @@
 			"Nome": "Ponte de Sor",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Cine-teatro de Ponte de Sor",
+					"Localidade": "Ponte de Sor",
+					"Historia": " Obra arquitetónica em estilo Art Déco, implantada na cidade de Ponte de Sor, na Av. Manuel Pires Filipe, junto ao Jardim do Campo da Restauração.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Teatro-Cinema_de_Ponte_de_Sor.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Quadrifonia",
+					"Morada": "Rua Cadeirões, Lt35fracção A, R/c Dtº., Cadeirões-ponte De Sor, Portalegre",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/a5/98/54/restaurante-quadrifonia.jpg"
+				},
+				{
+					"Nome": "Restaurante Olivença",
+					"Morada": "R. Olivença 10 - A, 7400-232 Ponte de Sor",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/73/4e/ee/olivenca.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Ponte de Sor",
+					"Morada": "R. João Pedro de Andrade nº 10, 7400-264 Ponte de Sor",
+					"Preco": "75€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/967/96741547.jpg"
 				}
 			]
 		},
@@ -345,25 +470,46 @@
 			"Nome": "Portalegre",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Municipal De Portalegre",
+					"Localidade": "7300-110 Portalegre",
+					"Historia": "O Museu Municipal de Portalegre foi criado em 1918, dentro do espírito da 1ª República, sendo a sua colecção mais importante a de Arte Sacra.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/0f/e7/ea/museu-municipal-de-portalegre.jpg"
+				},
+				{
+					"Nome": "Sé - Catedral de Portalegre",
+					"Localidade": "7300-110 Portalegre",
+					"Historia": "A Sé de Portalegre localiza-se na freguesia da Sé, cidade e concelho de Portalegre, no distrito de mesmo nome, em Portugal. Foi edificada por iniciativa de João III de Portugal no lugar onde antes se erguera a Igreja de Santa Maria do Castelo.",
+					"Imagem": "https://pt.wikipedia.org/wiki/Ficheiro:S%C3%A9_Catedral_de_Portalegre.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Solar do Forcado",
+					"Morada": "R. Cândido dos Reis 14, 7300-109 Portalegre",
+					"Classificacao": 4.6,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/38fc708b-afdc-489e-ab63-44a5b747fc09/b98ac6c1-90a5-49e6-93df-881f7fc698c4.jpg"
+				},
+				{
+					"Nome": "Sal e Alho",
+					"Morada": "Av. Pio XII 7, 7300-073 Portalegre",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/56/53/af/espaco-interior.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Rossio Hotel",
+					"Morada": "Rua 31 de Janeiro, N.6 , 7300-211 Portalegre, Portugal",
+					"Preco": "70€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max500/189/18912631.jpg"
+				},
+				{
+					"Nome": "Hotel José Régio",
+					"Morada": "Largo António José Lourinho Nº 1-5, 7300-088 Portalegre, Portugal",
+					"Preco": "80€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max500/491/49170961.jpg"
 				}
 			]
 		},
@@ -371,25 +517,39 @@
 			"Nome": "Sousel",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Torre de Camões",
+					"Localidade": "Monte do Álamo, Sousel 7470-200 Portugal",
+					"Historia": "A torre de camões ou do álamo fica situada num ponto estratégico entre avis e estremoz, dois importantes centros militares durante toda a idade média e até ao século xix. o monumento, do qual é possível avistar a torre de menagem do castelo de estremoz e ainda o castelo de evoramonte, seria uma torre atalaia, com finalidade defensiva/militar.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/75/a4/9b/torre-de-camoes.jpg"
+				},
+				{
+					"Nome": "Fornos de Cal",
+					"Localidade": "Sousel",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/85/98/cf/forno-de-cal.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Pinguinhas",
+					"Morada": "R. das Covas 27, 7470-237 Sousel",
+					"Classificacao": 4.3,
+					"Imagem": "https://10619-2.s.cdn12.com/rests/small/w320/h220/317_508685846.jpg"
+				},
+				{
+					"Nome": "Restaurante Kurika",
+					"Morada": "Av. 25 de Abril, 7470-231 Sousel",
+					"Classificacao": 4.3,
+					"Imagem": "https://10619-2.s.cdn12.com/rests/small/w320/h220/106_501973234.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hospedaria da Roda",
+					"Morada": "Avenida Calça e Pina 13, 7470-201 Sousel, Portugal",
+					"Preco": "65€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/215/215334251.jpg"
 				}
 			]
 		}

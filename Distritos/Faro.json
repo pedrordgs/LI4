@@ -297,29 +297,42 @@
 					"Localidade": "Praça da República 65, 8100-562 Loulé",
 					"Historia": "Considerado um dos poetas populares algarvios de maior relevo, famoso pela sua ironia e pela crítica social sempre presente nos seus versos, António Aleixo também é recordado por ter sido simples, humilde e semi-analfabeto, e ainda assim ter deixado como legado uma obra poética singular no panorama literário português da primeira metade do século XX. No emaranhado de uma vida recheada de pobreza, mudanças de emprego, emigração, tragédias familiares e doenças, na sua figura de homem humilde e simples, havia o perfil de uma personalidade rica, vincada e conhecedora das diversas realidades da cultura e sociedade do seu tempo. Do seu percurso de vida fazem parte profissões como tecelão, guarda de polícia e servente de pedreiro, trabalho este que, como emigrante foi exercido em França. De regresso ao seu país natal, restabeleceu-se novamente em Loulé, onde passou a vender cautelas e a cantar as suas produções pelas feiras portuguesas, actividades que se juntaram às suas muitas profissões e que lhe renderia a alcunha de 'poeta-cauteleiro'.",
 					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/EstatuaAntonioAleixo.JPG"
+				},
+				{
+					"Nome": "Casino Vilamoura",
+					"Localidade": "Praça Casino Vilamoura, 8126-908 Quarteira",
+					"Historia": "Considerado um dos poetas populares algarvios de maior relevo, famoso pela sua ironia e pela crítica social sempre presente nos seus versos, António Aleixo também é recordado por ter sido simples, humilde e semi-analfabeto, e ainda assim ter deixado como legado uma obra poética singular no panorama literário português da primeira metade do século XX. No emaranhado de uma vida recheada de pobreza, mudanças de emprego, emigração, tragédias familiares e doenças, na sua figura de homem humilde e simples, havia o perfil de uma personalidade rica, vincada e conhecedora das diversas realidades da cultura e sociedade do seu tempo. Do seu percurso de vida fazem parte profissões como tecelão, guarda de polícia e servente de pedreiro, trabalho este que, como emigrante foi exercido em França. De regresso ao seu país natal, restabeleceu-se novamente em Loulé, onde passou a vender cautelas e a cantar as suas produções pelas feiras portuguesas, actividades que se juntaram às suas muitas profissões e que lhe renderia a alcunha de 'poeta-cauteleiro'.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/ef/86/d5/casino-vilamoura.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "Cafezique",
-					"Morada": "R. das Bicas Velhas 5, 8100-606 Loulé",
-					"Classificacao": 5.0,
-					"Imagem": "https://www.portugalresident.com/wp-content/uploads/2020/01/Cafezique-12-by-Maria-Simiris.jpg"
+					"Nome": "Retinto - Rodízio & Wine, Vilamoura",
+					"Morada": "Rua da botelha, Urb. Delta da Marina, Vilamoura, 8125-448 Quarteira",
+					"Classificacao": 4.6,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/873a7e4c-d8e6-4e33-af07-23da45a3b90b/d56aaf4a-be2e-4cd3-99d9-f70d63c5826c.jpg"
 				},
 				{
-					"Nome": "A Fábrica",
-					"Morada": "Loulé, Faro",
-					"Classificacao": 4.6,
-					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/30/d8/78/eggcelente-doggy-it-s.jpg"
+					"Nome": "Haven restaurante",
+					"Morada": "Marina de Vilamoura 2, 8125-022 Quarteira",
+					"Classificacao": 4.7,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/20/71/f7/haven-restaurante.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "Loulé Jardim Hotel",
-					"Morada": "Praça Manuel de Arriaga, 8100-665 Loulé",
-					"Preco": "125€",
-					"Classificacao": 3,
-					"Imagem": "https://cdn.quierohotel.com/hotel-loule-jardim-PF42578_1.jpg"
+					"Nome": "Hilton Vilamoura As Cascatas Golf Resort & Spa",
+					"Morada": "Rua da Torre de Água, Lote 4.11.1.B, 8125-615",
+					"Preco": "251€",
+					"Classificacao": 5,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/149/149474335.jpg"
+				},
+				{
+					"Nome": "Hotel Vila Galé Marina",
+					"Morada": "Av. da Marina, 8125-406 Quarteira",
+					"Preco": "170€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/325/32508323.jpg"
 				}
 			]
 		},

@@ -7,25 +7,46 @@
 			"Nome": "Abrantes",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Dom Lopo de Almeida",
+					"Localidade": "2200-242 Abrantes",
+					"Historia": "Instalado na Igreja de Santa Maria do Castelo, este museu tem o mais rico e notável núcleo de azulejos sevilhanos de corda-seca do país. Apresenta várias colecções de pintura, paramentaria, etnografia e talha dourada, além dos túmulos lavrados em pedra dos condes de Abrantes, D. Diogo de Almeida, D. Lopo de Almeida",
+					"Imagem": "https://www.castelosdotejo.com/img/tagus/Museu_d._lopo_11.jpg"
+				},
+				{
+					"Nome": "Jardim do Castelo",
+					"Localidade": "R. São Pedro 30, 2200-242 Abrantes",
+					"Historia": "O Jardim do Castelo em Almada refere-se ao jardim criado No espaçO envolvente do castelo de Almada. Consiste num espaçO Público com 2765 m² que inclui um miradouro, um coreto e um restaurante. ",
+					"Imagem": "https://images.france.fr/zeaejvyq9bhj/QhDtizCDmg60wqoemWg8q/5cd036a11d175f797b76799698c2a73d/shutterstock_457999750.jpg?w=1120&h=490&q=70&fl=progressive&fit=fill"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Santa Isabel",
+					"Morada": "R. Santa Isabel 12, 2200-393 Abrantes",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/02/bb/4b/43/restaurante-santa-isabel.jpg"
+				},
+				{
+					"Nome": "O Ramiro",
+					"Morada": "Rua 1º de Maio Nr 5, 2200-783 Abrante",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/8a/36/f0/entrada-da-sala-de-nao.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Luna Hotel Turismo",
+					"Morada": "Largo de Santo António, 2200-349 Abrantes",
+					"Preco": "85€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/155/155918828.jpg"
+				},
+				{
+					"Nome": "Hotel Segredos de Vale Manso",
+					"Morada": "Rua De Vale Manso, Albufeira de Castelo do bode, 2200-601 Abrantes",
+					"Preco": "100€",
+					"Classificacao": 4,
+					"Imagem": "https://www.mybesthotel.eu/pic/_01_5b3fab0bdbb30.jpg"
 				}
 			]
 		},
@@ -33,51 +54,66 @@
 			"Nome": "Alcanena",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Centro Ciência Viva do Alviela - Carsoscópio",
+					"Localidade": "Praia Fluvial dos Olhos d, 2380-450 Louriceira",
+					"Historia": "No interior do edifício encontra-se uma exposição interativa permanente, dividida em três partes: o Geódromo, o Carso e o Quiroptário. O edifício dispõe ainda de auditório, sala de formação, centro de alojamento, receção e loja.",
+					"Imagem": "https://images.circuitoscienciaviva.pt/img/wwwcentros/thumb_800_41_20180716120240_ccv-alviela1.jpg"
+				},
+				{
+					"Nome": "Praia fluvial dos Olhos de Água",
+					"Localidade": "2380-450 Alcanena",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-c/768x250/14/17/71/4c/20180810-133156-2-largejpg.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Alcanena",
+					"Morada": "R. Venâncio da Costa Lima 99, 2950-701 Q.ta do Anjo",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/6b/2a/8b/restaurante-alcanena.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Almeirim",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Parque Zona Norte",
+					"Localidade": "Av. D Joáo I 22, 2080-014 Almeirim",
+					"Historia": "A Zona Norte de Almeirim é uma das mais recentes requalificações urbanas de Almeirim. Toda uma área desaproveitada de pinhal foram completamente transformados numa bela zona verde, com uma grande área de relva, um Complexo de Ténis, Circuito de Manutenção, Skate Park, Mini Golf, um Parque Infantil e um Lago. ",
+					"Imagem": "https://cdn.olhares.pt/client/files/foto/big/515/5154734.jpg"
+				},
+				{
+					"Nome": "Skatepark de Almeirim",
+					"Localidade": "Av. D Joáo I, 2080-014 Almeirim",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.rederegional.com/images/noticias/2019/chamuscaskateparkbairro.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Paulo's - Restaurante Marisqueira em Almeirim (Tradicional Sopa De Pedra)",
+					"Morada": "Largo Praça Touros 11,2080-030 Almeirim, 2080-030",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/9f/ff/2f/arroz-de-marisco-com.jpg"
+				},
+				{
+					"Nome": "O Pinheiro",
+					"Morada": "Largo da Praça de touros, 2080-030 Almeirim",
+					"Classificacao": 4.6,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/436584/263719.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel O Novo Príncipe",
+					"Morada": "R. Timor 1, 2080-130 Almeirim",
+					"Preco": "58€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/02/e3/2d/46/getlstd-property-photo.jpg"
 				}
 			]
 		},
@@ -85,51 +121,72 @@
 			"Nome": "Alpiarça",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Casa dos Patudos",
+					"Localidade": "R. José Relvas, 2090-102 Alpiarça",
+					"Historia": "Nesta casa podemos encontrar obras de arquitetura, pintura, escultura e artes decorativas e suntuárias (azulejaria, porcelana, mobiliário, têxteis e outras) de autores portugueses e de outros países da Europa",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/0/07/Casa_dos_Patudos_3.jpg"
+				},
+				{
+					"Nome": "Parque de Merendas de Alpiarça",
+					"Localidade": "Alpiarça",
+					"Historia": "Espaço vasto, muito sossegado, repleto de arvoredo. Possui iluminação.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/841781"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante da Silva",
+					"Morada": "Rua Luís de Camões 5, 2090-109 Alpiarça",
+					"Classificacao": 4.3,
+					"Imagem": "https://images.impresa.pt/mirante/2017-01-18-P1030390.jpg/original"
+				},
+				{
+					"Nome": "Marisqueira Danidoce",
+					"Morada": "R. Manuel Paciência Gaspar, Alpiarça",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/a6/5e/38/sala-1.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Benavente",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
+					"Nome": "Núcleo Museológico Agrícola",
+					"Localidade": "Largo de Santo André, 2130-033 Benavente",
+					"Historia": "o caráter de museu de território a instalação deste núcleo possibilitou a existência de uma exposição de longa duração que apresenta de forma sistemática o ciclo da produção agrícola.",
 					"Imagem": ""
+				},
+				{
+					"Nome": "Vala Nova",
+					"Localidade": "N118 2130, Benavente",
+					"Historia": "",
+					"Imagem": "https://c8.quickcachr.fotos.sapo.pt/i/B3a132b59/15149387_UBg3v.jpeg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "O Miradouro",
+					"Morada": " R. Vasco da Gama, Benavente",
+					"Classificacao": 4.3,
+					"Imagem": "https://cdn0.casamentos.pt/emp/fotos/1/1/3/5/como-sempre-sonhei.jpg"
+				},
+				{
+					"Nome": "Al'Kawa Sushi Bar Benavente",
+					"Morada": " R. João Maria Da Silva Correia n°8, 2130-187 Benavente",
+					"Classificacao": 4.6,
+					"Imagem": "https://maqet.pt/wp-content/uploads/2019/06/Alkawa-Benavente_0001-940x519.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Benavente Vila Hotel",
+					"Morada": "Praça da República 39/40, 2130-037 Benavente",
+					"Preco": "70€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/516/5160652.jpg"
 				}
 			]
 		},
@@ -137,25 +194,45 @@
 			"Nome": "Cartaxo",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Cruzeiro Manuelino",
+					"Localidade": "Largo de São João Batista 2070, 2070-104 Cartaxo",
+					"Historia": "Após duas deslocações este Cruzeiro, a partir de 1869, foi colocado em definitivo no local em que se situa ao lado da Igreja Matriz.",
+					"Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/santarem-cartaxo/cartaxo/cruzeiro-manuelino-0.jpg"
+				},
+				{
+					"Nome": "Museu Rural e do Vinho Concelho Cartaxo",
+					"Localidade": "Avenida 25 de Abril, Cartaxo",
+					"Historia": "O Museu Rural e do Vinho do Cartaxo abriu as suas portas a 23 de novembro de 1985, com o principal intuito de valorizar e divulgar as tradições associadas ao mundo rural, em particular à cultura da vinha e à produção do vinho.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/326766/265407.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Churrasqueira Ribatejana Cartaxo",
+					"Morada": "R. de São Sebastião 8, 2070-116 Cartaxo",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/16/f8/d7/photo0jpg.jpg"
+				},
+				{
+					"Nome": "A Cernelha",
+					"Morada": " N3, Cartaxo",
+					"Classificacao": 4.3,
+					"Imagem": "https://www.restauranteacernelha.pt/img/1130/316.jpg"
+				},
+				{
+					"Nome": "TAXO - Tradição Apurada",
+					"Morada": "QUINTA DO LETRADO, 2070-218",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/86/15/4a/ta-img-20171215-220909.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Quinta Das Pratas",
+					"Morada": "R. 25 de Abril 19, Vila Chã de Ourique",
+					"Preco": "50€",
+					"Classificacao": 3,
+					"Imagem": "https://webbox.imgix.net/images/xgownfbsuzjxjpcq/a7a99bb0-424c-4e26-bec0-c31ef94583dd.jpg?auto=format,compress&fit=crop&crop=entropy&w=992"
 				}
 			]
 		},
@@ -163,51 +240,72 @@
 			"Nome": "Chamusca",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "BAIRRO - Espaço Lúdico e de Lazer da Chamusca",
+					"Localidade": "Parque municipal em Chamusca",
+					"Historia": "O projeto do novo Espaço Lúdico e de Lazer do Bairro englobou a reinstalação de novos equipamentos no já existente parque infantil, a criação de uma nova zona ajardinada com mobiliário urbano (mesas, bancos e churrasco), a instalação de uma infraestrutura apta para a prática de Outdoor Crossfit, e ainda a construção de um moderno Skate Park, apto para a prática de três modalidades: BMX, patins em linha (InLine) e skate.",
+					"Imagem": "https://eribatejo.pt/wp-content/uploads/2019/02/Inaugura%C3%A7%C3%A3o-Bairro-Espa%C3%A7o-L%C3%BAdico-e-de-Lazer-da-Chamusca_2.jpg"
+				},
+				{
+					"Nome": "Ponte Isidro dos Reis",
+					"Localidade": "Pte. de Chamusca",
+					"Historia": "A Ponte João Joaquim Isidro dos Reis, conhecida popularmente como Ponte da Chamusca, esta localizada sobre o rio Tejo na Estrada Nacional 243, e une a vila de Chamusca com a vila Golegã",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ponte_Isidro_dos_Reis.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante A Taverna do Areal",
+					"Morada": "Estrada 16 de Setembro, 2140-000 Chamusca",
+					"Classificacao": 4.3,
+					"Imagem": "https://siga1.edubox.pt/appmunicipiosimages/61/4687e3ec-8ac6-4c2f-8a54-9332b3e4d134.png"
+				},
+				{
+					"Nome": "Restaurante O Chora",
+					"Morada": "Rua do Vimioso n. 1, 2140-107 Chamusca",
+					"Classificacao": 4.4,
+					"Imagem": "https://siga1.edubox.pt/appmunicipiosimages/61/16ca03eb-9141-4e08-a050-f3d5228b9fd5.png"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Constância",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Pelourinho de Constância",
+					"Localidade": "Praça Alexandre Herculano 18-16, 2250-035 Constância",
+					"Historia": "O Pelourinho de Constância, situado na actual Praça Alexandre Herculano, Constância, foi construído em 1821, em substituição ao que foi destruído durante as invasões francesas.",
+					"Imagem": "https://turismo.mediotejo.pt/images/TURISMO/2000/2100/2120/Pelourinho-de-Constancia.jpg"
+				},
+				{
+					"Nome": "Miradouro Do Zêzere",
+					"Localidade": "2250-020 Constância",
+					"Historia": "Deste miradouro com uma fantástica vista consegue se ver o Rio Zêzere ao longe.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/16/c1/93/f2/miradouro-do-castro.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Pézinhos no Rio",
+					"Morada": "R. do Tejo 2, 2250-035 Constância",
+					"Classificacao": 4.0,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/79/dd/06/esplanada-pezinhos-no.jpg"
+				},
+				{
+					"Nome": "Leopoldina Tavernas",
+					"Morada": "R. Luís de Camões 33, 2250-066 Constância",
+					"Classificacao": 4.2,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/749392"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Quinta de Santa Bárbara",
+					"Morada": "2250-092 Constância",
+					"Preco": "75€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/766/7660780.jpg"
 				}
 			]
 		},
@@ -215,25 +313,46 @@
 			"Nome": "Coruche",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Museu Municipal de Coruche",
+					"Localidade": "R. Julio Maria de Sousa 14, 2100-167 Coruche",
+					"Historia": " Integra a Rede Portuguesa de Museus, tendo um percurso de reconhecido mérito, pelo Instituto dos Museus e da Conservação, pela Associação Portuguesa de Museologia, entre outras.",
+					"Imagem": "https://lifecooler.com/files/registos/imagens/365441/49946.jpg"
+				},
+				{
+					"Nome": "Piscinas Municipais de Coruche",
+					"Localidade": "Coruche",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.cm-coruche.pt/images/stories/FOTOS/DESPORTO/piscinas%20municipais%20exteriores.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Sabores de Coruche",
+					"Morada": "Cruzamento Monte Barca, 2100-051 Coruche - Santarém",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/ae/a1/b3/sabores-de-coruche.jpg"
+				},
+				{
+					"Nome": "O Farnel",
+					"Morada": "R. Vasconcelos Porto 9, 2100-201 Coruche",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/df/7a/b8/sala-o-farnel.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Coruche - Quinta do Lago Verde",
+					"Morada": "Monte dos Arneiros, Estrada da Lamarosa - Stº Antonino, Coruche 2100-042, 7050-484",
+					"Preco": "42€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/137/13767260.jpg"
+				},
+				{
+					"Nome": "Casa do Rio Sorraia",
+					"Morada": "R. Salvaterra de Magos 46, 2100-198 Coruche",
+					"Preco": "55€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/bd/de/d2/casa-do-rio-sorraia.jpg"
 				}
 			]
 		},
@@ -241,25 +360,46 @@
 			"Nome": "Entroncamento",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Museu Nacional Ferroviário",
+					"Localidade": "R. Ferreira de Mesquita 1-A, 2330-152 Entroncamento",
+					"Historia": "O Museu Nacional Ferroviário, próximo de Estação Ferroviária do Entroncamento, foi inaugurado a 18 de maio de 2015. Tem ainda vários núcleos museológicos distribuídos pelo país. ",
+					"Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/comboioreal_020_660x371.jpg?itok=gSNnM89d"
+				},
+				{
+					"Nome": "Parque Verde do Bonito",
+					"Localidade": "Praceta Dom António da Cunha 8, Entroncamento",
+					"Historia": "O Parque Verde do Bonito, é uma área situada no norte do concelho do Entroncamento, na freguesia de Nossa Senhora de Fátima, destinada ao lazer, atividades lúdicas e desportivas.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Parque_Verde_do_Bonito_-_Placard.jpg/500px-Parque_Verde_do_Bonito_-_Placard.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Barbas do Caracol",
+					"Morada": "R. Fernando Pessoa 77, 2330-156 Entroncamento",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0f/04/24/f4/restaurante-o-barbas.jpg"
+				},
+				{
+					"Nome": "Flor de Sal",
+					"Morada": "R. Adelaide Cabete 21, 2330-116 Entroncamento",
+					"Classificacao": 4.7,
+					"Imagem": "https://www.evasoes.pt/files/2018/04/19657413_1580024028682803_7090242697276897365_n-960x640.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Gameiro",
+					"Morada": "R. Abílio César Afonso, 2330-096 Entroncamento",
+					"Preco": "52€",
+					"Classificacao": 3,
+					"Imagem": "https://www.guiadacidade.pt/empresas/fotos/23662_1306598700.jpg"
+				},
+				{
+					"Nome": "Dom João Hotel",
+					"Morada": "Rua Padre Carlos Leonel Dos Santos Lote 6, 2330-026 Entroncamento",
+					"Preco": "65€",
+					"Classificacao": 4,
+					"Imagem": "https://cdn.quierohotel.com/hotel-dom-joao-PF37689_1.jpg"
 				}
 			]
 		},
@@ -267,25 +407,46 @@
 			"Nome": "Ferreira do Zêzere",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Praia fluvial Castanheira",
+					"Localidade": "Albufeira da Barragem de do Bode, Castelo",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://nit.pt/wp-content/uploads/2016/10/b3d0b82f-c17f-4acf-94bf-3f8adfbfa7ac-754x394.jpg"
+				},
+				{
+					"Nome": "Jardim da Praça Dias Ferreira",
+					"Localidade": " Praça Dias Ferreira, 2240-341 Ferreira do Zêzere",
+					"Historia": "",
+					"Imagem": "https://toponimialisboa.files.wordpress.com/2016/01/prac3a7a-josc3a9-fontana2.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Quinta do Adro - Casa dos Grelhados",
+					"Morada": "R. Eng. Adelino Amaro da Costa, 2240-336 Ferreira do Zêzere",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/18/8b/43/09/achiga-o-peixe-do-rio.jpg"
+				},
+				{
+					"Nome": "Churrasqueira Penim",
+					"Morada": "Praça Pedro Ferreira 13, 2240-342 Ferreira do Zêzere",
+					"Classificacao": 3.9,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/1f/f0/02/usem-a-sala-de-dentro.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Casa do Adro Hotel",
+					"Morada": "R. Dr. António Baião N.º 13, 2240-347 Ferreira do Zêzere",
+					"Preco": "72€",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/567/56751130.jpg"
+				},
+				{
+					"Nome": "Estalagem Lago Azul",
+					"Morada": "Ferreira do Zêzere",
+					"Preco": "100€",
+					"Classificacao": 4.5,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/507/50769533.jpg"
 				}
 			]
 		},
@@ -293,25 +454,46 @@
 			"Nome": "Golegã",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Quinta da Cardiga",
+					"Localidade": "Golegã",
+					"Historia": "A Quinta da Cardiga é uma velha quinta apalaçada situada na Golegã. A doação da Quinta da Cardiga à Ordem dos Templários foi efetuada em 1169 por D. Afonso Henriques, para arroteamento e cultivo. Extinta esta Ordem, passou para o domínio da Ordem de Cristo, que aí edificou uma granja de veraneio.",
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/858909"
+				},
+				{
+					"Nome": "Reserva Natural do Paul do Boquilobo",
+					"Localidade": "R. do Carrapital 12, 2150-159 Golegã",
+					"Historia": "A Reserva Natural do Paul do Boquilobo situa-se entre a confluência do rio Almonda e rio Tejo, ao longo da junção dos concelhos de Torres Novas e Golegã na parte sudeste da freguesia da Brogueira. É um local classificado como sítio Ramsar A reserva é uma zona húmida rica devido ao seu valor ornitológico.",
+					"Imagem": "https://images.impresa.pt/mirante/2017-12-23-Paul2.png/16x9/mw-900"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Café Central Golegã, Lda.",
+					"Morada": "Largo da Imac. Conceição 9, 2150-165 Golegã",
+					"Classificacao": 3.9,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/335788/234191.jpg"
+				},
+				{
+					"Nome": "Adega Típica Cú da Mula",
+					"Morada": "R. de Oliveira 50, 2150-167 Golegã",
+					"Classificacao":,
+					"Imagem": "https://fastly.4sqi.net/img/general/200x200/449836_kDxrF1ArdAIApqUcsCh26eHtPhmoVSQlpisvnBjc6io.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Lusitano",
+					"Morada": "Rua Cil Vicente 4, 2150-193 Golegã",
+					"Preco": "88€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/432/43204026.jpg"
+				},
+				{
+					"Nome": "Casa do Largo - Golegã",
+					"Morada": "Largo 5 de Outubro 15, 2150-124 Golegã",
+					"Preco": "64€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/870/87098001.jpg"
 				}
 			]
 		},
@@ -319,51 +501,79 @@
 			"Nome": "Mação",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Praia Fluvial de Ortiga",
+					"Localidade": "Estrada da Barragem nº6, 6120-525 Mação",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.praiafluvial.pt/wp-content/uploads/2016/09/praia-fluvial-ortiga.jpg"
+				},
+				{
+					"Nome": "Pego da Rainha",
+					"Localidade": "Mação",
+					"Historia": "Para chegar até ao Pego da Rainha, tem de caminhar por entre as rochas que ao longo dos tempos foram ganhando a forma de acesso.",
+					"Imagem": "https://www.mediotejo.net/wp-content/uploads/2016/08/20160731_161543___-e1498993875340.jpg31"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante O Godinho",
+					"Morada": "R. da República 12, Mação",
+					"Classificacao": 4.1,
+					"Imagem": "https://www.rotasturisticas.com/imagens/sectores/pt/large/photos1-1139-restaurante_o_godinho_macao.jpg"
+				},
+				{
+					"Nome": "Restaurante O Pescador",
+					"Morada": "N244 408, 6120-724 Mação",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/72/22/1e/restaurante-o-pescador.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Ourém",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Santuário de Fátima",
+					"Localidade": "Fátima",
+					"Historia": "O Santuário de Fátima, formalmente intitulado pela Igreja Católica como Santuário de Nossa Senhora do Rosário de Fátima, é um santuário mariano dedicado a Nossa Senhora de Fátima, localizado no lugar da Cova da Iria, na cidade de Fátima, concelho de Ourém, em Portugal.",
+					"Imagem": "https://turismo.mediotejo.pt/images/TURISMO/2000/2100/2120/Pelourinho-Ourem.jpg"
+				},
+				{
+					"Nome": "Castelo de Ourém",
+					"Localidade": " 2490-481 Ourém",
+					"Historia": "Em posição dominante sobre a vila medieval e a ribeira de Seiça, é considerado um dos mais belos castelos portugueses.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castelo_estatua_ourem.jpg/275px-Castelo_estatua_ourem.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Casa do Castelo Ourém",
+					"Morada": "Largo Santa Teresa de Ourém, 2490-481 Ourém",
+					"Classificacao": 4.6,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/bd/67/f8/casa-do-castelo.jpg"
+				},
+				{
+					"Nome": "Restaurante O Curral",
+					"Morada": "R. da Terra Fria, 2490-093 Ourém",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/9c/f8/19/restaurante-o-curral.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Regina",
+					"Morada": "R. Cónego Manuel Nunes Formigão 12, 2495-417 Fátima",
+					"Preco": "46€",
+					"Classificacao": 4.4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/210/210281728.jpg"
+				},
+				{
+					"Nome": "Essence Inn Marianos Hotel",
+					"Morada": "R. de São Paulo 2, 2495-435 Fátima",
+					"Preco": "36€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/123/123795344.jpg"
 				}
 			]
 		},
@@ -371,25 +581,46 @@
 			"Nome": "Rio Maior",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Salinas de Rio Maior",
+					"Localidade": "Estr. das Salinas, 2040-133 Rio Maior",
+					"Historia": "Rodeadas de vinhas e terras de cultivo são consideradas como uma maravilha da natureza, uma vez que o oceano fica a 30 km. O sal é vestígio da presença do mar em épocas remotas. A água, cerca de sete vezes mais salgada que a água do mar, provém de um poço, após passar por uma jazida de sal-gema.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/0d/57/5f/63/salinas.jpg"
+				},
+				{
+					"Nome": "Gruta das Alcobertas",
+					"Localidade": "Gruta das, Alcobertas",
+					"Historia": "Em 1878 eram já conhecidas sendo até consideradas as mais belas grutas da Europa, no entanto, com o decorrer do tempo estas grutas foram sendo danificadas, chegando a estar encerradas ao público. É de referir o seu interesse arqueológico, tendo sido encontrados restos humanos e de animais, datáveis do Neolítico Final/Calcolítico.",
+					"Imagem": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/07/Gruta-de-Alcobertas.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Churrasqueira Solar do Sal",
+					"Morada": "Estr. das Salinas",
+					"Classificacao": 4.5,
+					"Imagem": "https://www.turismoriomaior.pt/image.php?image=1415632922.jpg"
+				},
+				{
+					"Nome": "Restaurante & Loja Salarium - Rio Maior",
+					"Morada": "39.363892, -8.945795, 2040-133 Rio Maior",
+					"Classificacao": 4.3,
+					"Imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/10/12906637Salarium-4.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
+					"Nome": "Mar de Serra",
+					"Morada": "R. da Boavista 10, 2040-302 Rio Maior",
+					"Preco": "90€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/704/70408756.jpg"
+				},
+				{
+					"Nome": "Rio Maior Hotel",
+					"Morada": "R. Dr. Francisco Barbosa 12, Rio Maior",
 					"Preco": "",
-					"Imagem": ""
+					"Classificacao": 2,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/816107"
 				}
 			]
 		},
@@ -397,51 +628,79 @@
 			"Nome": "Salvaterra de Magos",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Falcoaria Real",
+					"Localidade": "Avenida José Luís Brito Seabra n.3, 2120-051 Salvaterra de Magos",
+					"Historia": "Noutros tempos, eram treinadas para participar em caçadas reais. Hoje, a Falcoaria Real, em Salvaterra de Magos, mostra como vivem, entre o cativeiro e o ar livre, estas aves de rapina",
+					"Imagem": "https://www.mesdaenguia.pt/img/gallery/640x427_52c20691b3312441e1710c94a9aab9a4.jpg"
+				},
+				{
+					"Nome": "Bico da Goiva",
+					"Localidade": "Salvaterra de Magos",
+					"Historia": "o local está excelente para fazer um piquenique. A churrasqueira encontra-se dentro da casa que também foi recuperada. Para já não tem nenhuma grade, por isso previna-se e leve uma. O sítio tem muita areia á volta, (mas não dá para tomar banho no Rio Tejo) e 4 mesas para comer completamente novas, também tem uma figueira e bastante sombra. Também é um óptimo local para pescar",
+					"Imagem": "https://1.bp.blogspot.com/-JaOx5radoDw/VZ7Uno8pZmI/AAAAAAAALg8/sN6Hoqp24s8/s1600/bicodagoiva%2B%25286%2529.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Quinta do Parque Real",
+					"Morada": "Estrada Nacional 118, Km 51, Vale Queimado, 2120-114 Salvaterra de Magos",
+					"Classificacao": 4.2,
+					"Imagem": "https://images.impresa.pt/mirante/2018-01-03-ECO---QUINTA-PARQUE-REAL---4-JAN-2018.jpg/original"
+				},
+				{
+					"Nome": "Cabana dos Parodiantes",
+					"Morada": "Av. Dr. Roberto Ferreira Fonseca 30, 2120-095 Salvaterra de Magos",
+					"Classificacao": 4.2,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/1c/2e/2b/cabana-dos-parodiantes.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Santarém",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
+					"Nome": "Torre das Cabaças",
+					"Localidade": " R. Eng. Zeferino Sarmento 5, 2000-121 Santarém",
+					"Historia": "A Torre das Cabaças, também conhecida simplesmente como Torre do Relógio, localiza-se na freguesia de Marvila, cidade de Santarém, Concelho e Distrito de Santarém, em Portugal. A atual torre-relógio remonta ao reinado de D. Manuel I, sendo datada de meados do século XV. ",
+					"Imagem": "https://www.cm-santarem.pt/media/k2/items/cache/83a2ea62e0f4cfa71f77de7659289685_XL.jpg?t=1500625943"
+				},
+				{
+					"Nome": "Parque Aquático Santarém",
+					"Localidade": " R. Prof. Américo Marinho 2, Santarém",
 					"Historia": "",
-					"Imagem": ""
+					"Imagem": "https://www.rederegional.com/images/noticias/gerais/complexo_aquatico_str.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Taberna do Quinzena",
+					"Morada": "R. Pedro de Santarém nº 93 95, 2000-223 Santarém",
+					"Classificacao": 4.5,
+					"Imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/10/festa-ribatejana-no-restaurante-taberna-do-quinzena-em-santarem-2.JPG"
+				},
+				{
+					"Nome": "A Grelha",
+					"Morada": "Rua Ateneu Comercial, Lt. 1, R/C.Esqº, Santarem, Santarém",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/c0/2d/9b/sala.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Santarém Hotel",
+					"Morada": "Av. Me. Andaluz, 2000-210 Santarém",
+					"Preco": "88€",
+					"Classificacao": 4.1,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f6/62/c0/alcado-sul.jpg"
+				},
+				{
+					"Nome": "Hotel Umu",
+					"Morada": "Av. Bernardo Santareno 38, 2005-177 Santarém",
+					"Preco": "62€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/171/171151789.jpg"
 				}
 			]
 		},
@@ -449,51 +708,73 @@
 			"Nome": "Sardoal",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Moinhos de Entrevinhas",
+					"Localidade": "Sardoal",
+					"Historia": "Num dos moinhos existe um pequeno espaço temático com artefactos originais oferecidos pela família do último moleiro que ali laborou até ao verão de 1956, Tiago dos Santos Baptista.",
+					"Imagem": "https://turismo.mediotejo.pt/images/TURISMO/2000/2100/2120/Sardoal-Moinhos-de-Entrevinhas.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Quatro Talhas (sardoal)",
+					"Morada": "Praça da República 1, 2230-139 Sardoal",
+					"Classificacao": 4.3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/44/06/21/quatro-talhas.jpg"
+				},
+				{
+					"Nome": "Restaurante Dom Vinho",
+					"Morada": "Ribeiro Barato, 2230-146 Sardoal",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/22/f5/49/dom-vinho-restaurante.jpg"
 				}
 			],
 			"Hoteis": [
-				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
-				}
 			]
 		},
 		{
 			"Nome": "Tomar",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Aqueduto do Convento de Cristo - Troço Pegões Altos",
+					"Localidade": "Aqueduto do Convento de Cristo, Vale dos Pegões, 2305-203 Tomar",
+					"Historia": "O Aqueduto dos Pegões, foi construído com a finalidade de abastecer de água o Convento de Cristo em Tomar, e tem cerca 6 km de extensão. A sua construção foi iniciada em 1593, no reinado de Filipe I de Portugal, sob a direcção de Filipe Terzio, e foi concluída em 1614 por Pedro Fernando de Torres.",
+					"Imagem": "https://upload.wikimedia.org/wikipedia/commons/4/49/Tomar_December_2008-4.jpg"
+				},
+				{
+					"Nome": "Museu dos Fósforos - Aquiles da Mota Lima",
+					"Localidade": "Av. Gen. Bernardo Faria, Tomar",
+					"Historia": "O Museu dos Fósforos representa a maior coleção filuminística da Europa, coleção essa iniciada em 1953 pelas mãos de Aquiles de Mota Lima, reconhecido cidadão Tomarense, que se destacou em atividades culturais de grande mérito.",
+					"Imagem": "https://images.turismoenportugal.org/Museu-dos-Fosforos-Tomar.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Taverna Antiqua",
+					"Morada": "Praça da República 23, 2300-556 Tomar",
+					"Classificacao": 4.6,
+					"Imagem": "https://lifecooler.com/files/registos/imagens/435630/288286.jpg"
+				},
+				{
+					"Nome": "O Tabuleiro",
+					"Morada": "R. Serpa Pinto, Tomar",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/15/46/d1/o-tabuleiro.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel dos Templários",
+					"Morada": "Largo Cândido dos Reis 1, 2300-326 Tomar",
+					"Preco": "120€",
+					"Classificacao": 4,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/206/206068025.jpg"
+				},
+				{
+					"Nome": "Thomar Boutique Hotel",
+					"Morada": "R. Santa Iria 14, 2300-474 Tomar",
+					"Preco": "70",
+					"Classificacao": 4,
+					"Imagem": "https://r-cf.bstatic.com/images/hotel/max1280x900/158/158884370.jpg"
 				}
 			]
 		},
@@ -501,25 +782,46 @@
 			"Nome": "Torres Novas",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Castelo de Torres Novas",
+					"Localidade": "2350-758 Torres Novas",
+					"Historia": "O Castelo de Torres Novas localiza-se na freguesia de Santa Maria, concelho de Torres Novas, no distrito de Santarém, em Portugal. Em posição dominante sobre a vila, à margem do rio Almonda, integrante da chamada Linha do Tejo, o antigo castelo medieval permanece como ex-libris da povoação.",
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/d8/8e/33/castelo-de-torres-novas.jpg"
+				},
+				{
+					"Nome": "Grutas de Lapas",
+					"Localidade": "Largo das Catacumbas, 2350-126 Lapas",
+					"Historia": "s Grutas de Lapas encontram-se na povoação de Lapas, a cerca de 2 km da cidade de Torres Novas. São um belo labirinto de galerias subterrâneas, onde em tempos funcionou o Museu de Pré-história de Torres Novas. Aqui nasceram lendas e contos que ainda hoje fantasiam a povoação.",
+					"Imagem": "https://www.mediotejo.net/wp-content/uploads/2016/04/IMG_6133.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Restaurante Papa-Figos",
+					"Morada": "R. de São José 21, 2350-525 Torres Novas",
+					"Classificacao": 4.6,
+					"Imagem": "https://res.cloudinary.com/tf-lab/image/upload/w_656,h_368,c_fill,g_auto:subject,q_auto,f_auto/restaurant/e8effd0a-c1c3-4e77-a492-f124bc8820e8/02e06150-a5cf-4302-86ef-bfb687a4f04a.jpg"
+				},
+				{
+					"Nome": "De'Gustar Restaurante Mixology Cocktail Bar",
+					"Morada": "Av. Andrade Corvo 2350, Torres Novas",
+					"Classificacao": 4.4,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/03/e0/b1/top.jpg"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Hotel Torres Novas",
+					"Morada": "Praça 5 de Outubro Nº 5, 2350-418 Torres Novas",
+					"Preco": "72€",
+					"Classificacao": 3,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/15/45/03/25/fachada-hotel.jpg"
+				},
+				{
+					"Nome": "Hotel dos Cavaleiros",
+					"Morada": "Praça 5 de Outubro, 2350-418 Torres Novas",
+					"Preco": "45€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/361/36106016.jpg"
 				}
 			]
 		},
@@ -527,25 +829,33 @@
 			"Nome": "Vila Nova da Barquinha",
 			"Atracoes": [
 				{
-					"Nome": "",
-					"Localidade": "",
-					"Historia": "",
-					"Imagem": ""
+					"Nome": "Barquinha Parque",
+					"Localidade": "2260-445 Vila Nova da Barquinha",
+					"Historia": "Pela 1ª vez em Portugal existe um parque de escultura onde estão juntos os nomes mais representativos da escultura contemporânea portuguesa.",
+					"Imagem": "https://pumpkin.pt/wp-content/uploads/2017/09/barquinha-parque.jpg"
 				}
 			],
 			"Restaurantes": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Imagem": ""
+					"Nome": "Recanto da Barquinha",
+					"Morada": "Largo de Luís de Camões, 2260-444 Vila Nova da Barquinha",
+					"Classificacao": 4.5,
+					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/93/09/1a/img-20200111-200231-largejpg.jpg"
+				},
+				{
+					"Nome": "Restaurante Ribeirinho",
+					"Morada": "R. de Pedro Álvares Cabral 2, 2260-411 Vila Nova da Barquinha",
+					"Classificacao": 4.3,
+					"Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/861726"
 				}
 			],
 			"Hoteis": [
 				{
-					"Nome": "",
-					"Morada": "",
-					"Preco": "",
-					"Imagem": ""
+					"Nome": "Barquinha Riverhouse",
+					"Morada": "Largo do Primeiro de Dezembro 9, 2260-403 Vila Nova da Barquinha",
+					"Preco": "60€",
+					"Classificacao": 3,
+					"Imagem": "https://q-cf.bstatic.com/images/hotel/max500/670/67080480.jpg"
 				}
 			]
 		}
