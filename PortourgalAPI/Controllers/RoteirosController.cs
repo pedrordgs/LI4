@@ -61,7 +61,7 @@ namespace PortourgalAPI.Controllers
         public ActionResult<Roteiro> Post(Roteiro rot)
         {
             _roteiroService.Create(rot);
-            return CreatedAtRoute("GetRoteiro", new { nome = rot.Nome }, rot);
+            return CreatedAtRoute("GetRoteiro", new { id = rot.Id }, rot);
         }
 
         // PUT: api/Roteiros/5
