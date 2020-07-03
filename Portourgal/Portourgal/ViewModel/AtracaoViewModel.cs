@@ -1,9 +1,11 @@
-﻿using Portourgal.InteractionsAPI;
+﻿using Newtonsoft.Json.Linq;
+using Portourgal.InteractionsAPI;
 using Portourgal.Model;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using System.Net.Http;
 using System.Runtime.CompilerServices;
 using System.Text;
 using Xamarin.Forms;
@@ -23,19 +25,28 @@ namespace Portourgal.ViewModel
 
     public class AtracaoViewModel : INotifyPropertyChanged
     {
-        public AtracaoViewModel(Atracao atracao, string distrito, string distritoASCII)
+        public AtracaoViewModel(string atracao, string distrito, string distritoASCII)
         {
-            Nome = atracao.Nome;
-            Localidade = atracao.Localidade;
-            Historia = atracao.Historia;
-            Imagem = atracao.Imagem;
+            bool found = false;
+            Distrito d = DistritoInteraction.GetDistrito(distritoASCII).Result;
+            for (int i = 0; !found && i < d.Cidades.Count; i++)
+            {
+                for (int j = 0; !found && j < d.Cidades[i].Atracoes.Count; j++)
+                {
+                        Atracao = d.Cidades[i].Atracoes[j];
+                        found = true;
+                }
+            }
+            Nome = Atracao.Nome;
+            Localidade = Atracao.Localidade;
+            Historia = Atracao.Historia;
+            Imagem = Atracao.Imagem;
             Distrito = distrito;
             DistritoASCII = distritoASCII;
-            Atracao = atracao;
             Avaliacao c = null;
-            if (atracao.Classificacao != null)
+            if (Atracao.Classificacao != null)
             {
-                c = atracao.Classificacao.FirstOrDefault(x => x.Email.Equals(UserInteraction.user.Email));
+                c = Atracao.Classificacao.FirstOrDefault(x => x.Email.Equals(UserInteraction.user.Email));
             }
             List<Estrela> aux = new List<Estrela>();
             if (c != null)
@@ -56,14 +67,26 @@ namespace Portourgal.ViewModel
                 }
             }
             Estrelas = aux;
-            if (atracao.Classificacao != null)
+            if (Atracao.Classificacao != null)
             {
-                List<int> l = atracao.Classificacao.Select(x => x.Classificacao).ToList();
+                List<int> l = Atracao.Classificacao.Select(x => x.Classificacao).ToList();
                 Classificacao = l.Count > 0 ? l.Average() : 0.0;
             }
             else Classificacao = 0.0;
             ComandoEstrela = new Command(EstrelaClassificacao);
-            Visitado = UserInteraction.user.Historico.Where(x => string.Equals(x.Distrito,distrito) && string.Equals(x.Atracao,atracao.Nome) && string.Equals(x.Imagem,atracao.Imagem)).ToList().Count > 0;
+            Visitado = UserInteraction.user.Historico.Where(x => string.Equals(x.Distrito, distrito) && string.Equals(x.Atracao, Atracao.Nome) && string.Equals(x.Imagem, Atracao.Imagem)).ToList().Count > 0;
+
+            HttpClient client = new HttpClient();
+            string request = "http://api.openweathermap.org/data/2.5/weather?q=" + distrito + ",PT&lang=pt&units=metric&appid=1decd1e1c8bd4de66f557d9924560d6a";
+            HttpResponseMessage response = client.GetAsync(request).Result;
+            if (response.IsSuccessStatusCode)
+            {
+                String json = response.Content.ReadAsStringAsync().Result;
+                dynamic data = JObject.Parse(json);
+                WeatherDesc = Convert.ToString(data["weather"][0]["description"]);
+                WeatherIcon = "http://openweathermap.org/img/wn/" + Convert.ToString(data["weather"][0]["icon"]) + ".png";
+                Temp = Convert.ToString(data["main"]["temp"]) + " °C";
+            }
         }
 
         public void EstrelaClassificacao(object o)
@@ -183,5 +206,8 @@ namespace Portourgal.ViewModel
         }
         public Atracao Atracao { get; set; }
         public Command ComandoEstrela { get;}
+        public string Temp { get; set; }
+        public string WeatherDesc { get; set; }
+        public string WeatherIcon { get; set; }
     }
 }

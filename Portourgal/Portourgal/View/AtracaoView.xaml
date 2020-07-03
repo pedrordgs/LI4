@@ -32,6 +32,13 @@
                 </StackLayout>
                 <Label Text="{Binding Classificacao}"  VerticalOptions="Center"/>
             </StackLayout>
+            <StackLayout Margin="10">
+                <Label Text="{Binding WeatherDesc}" />
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="{Binding WeatherIcon}" />
+                    <Label Text="{Binding Temp}" />
+                </StackLayout>
+            </StackLayout>
         </StackLayout>
     </ScrollView>
 </ContentPage>

@@ -14,7 +14,7 @@ namespace Portourgal.View
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AtracaoView : ContentPage
     {
-        public AtracaoView(Atracao atracao, string distrito, string distritoASCII)
+        public AtracaoView(string atracao, string distrito, string distritoASCII)
         {
             InitializeComponent();
             BindingContext = new AtracaoViewModel(atracao, distrito, distritoASCII);
