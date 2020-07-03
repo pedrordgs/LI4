@@ -15,7 +15,6 @@ namespace Portourgal.View
     {
         public RoteirosView()
         {
-            BindingContext = new RoteirosViewModel();
             InitializeComponent();
         }
     }

@@ -15,6 +15,8 @@ namespace Portourgal.ViewModel
         {
             Distritos = DistritoInteraction.GetDistritos().Result;
             ComandoDistrito = new Command(SelecionarDistrito);
+            Roteiros = RoteiroInteraction.GetRoteiros().Result;
+            ComandoRoteiro = new Command(SelecionarRoteiro);
         }
 
         void SelecionarDistrito(object d)
@@ -24,7 +26,16 @@ namespace Portourgal.ViewModel
             App.Current.MainPage.Navigation.PushAsync(new DistritosInfView(dist.ASCIIName));
         }
 
+        void SelecionarRoteiro(object d)
+        {
+            string roteiro = ((string)d);
+            Roteiro rot = Roteiros.Find(x => string.Equals(x.Nome, roteiro));
+            App.Current.MainPage.Navigation.PushAsync(new MainRoteirosPage(rot));
+        }
+
         public List<Distrito> Distritos { get; set; }
+        public List<Roteiro> Roteiros { get; set; }
         public Command ComandoDistrito { get; }
+        public Command ComandoRoteiro { get; }
     }
 }

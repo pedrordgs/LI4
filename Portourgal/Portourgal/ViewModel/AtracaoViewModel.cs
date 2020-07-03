@@ -33,8 +33,11 @@ namespace Portourgal.ViewModel
             {
                 for (int j = 0; !found && j < d.Cidades[i].Atracoes.Count; j++)
                 {
+                    if (d.Cidades[i].Atracoes[j].Nome == atracao)
+                    {
                         Atracao = d.Cidades[i].Atracoes[j];
                         found = true;
+                    }
                 }
             }
             Nome = Atracao.Nome;

@@ -6,15 +6,21 @@
              mc:Ignorable="d"
              x:Class="Portourgal.View.RoteirosView">
     <ContentPage.Content>
-        <StackLayout Margin="15">
-            <BoxView BackgroundColor="Aqua" WidthRequest="10" HeightRequest="300" />
-            <Label Text="Percurso:" TextColor="Black" FontSize="20" HorizontalOptions="Start" VerticalOptions="Center"/>
-            <StackLayout BindableLayout.ItemsSource="{Binding Cidades}" HorizontalOptions="Start">
-                <Label Text="{Binding .}" TextColor="Black" FontSize="16" HorizontalOptions="Start"/>
+        <ScrollView>
+            <StackLayout Margin="15">
+                <Image Source="{Binding ImagemPercurso}" WidthRequest="10" HeightRequest="300" />
+                <Label Text="Percurso:" TextColor="Black" FontSize="16" HorizontalOptions="Start" VerticalOptions="Center"/>
+                <StackLayout BindableLayout.ItemsSource="{Binding Cidades}" HorizontalOptions="Start">
+                    <BindableLayout.ItemTemplate>
+                        <DataTemplate>
+                            <Label Text="{Binding .}" TextColor="Black" FontSize="12" HorizontalOptions="Start"/>
+                        </DataTemplate>
+                    </BindableLayout.ItemTemplate>
+                </StackLayout>
+                <BoxView BackgroundColor="Transparent" HeightRequest="20"/>
+                <Label Text="Descrição" TextColor="Black" FontSize="16" HorizontalOptions="Start" VerticalOptions="Center"/>
+                <Label Text="{Binding Descricao}" TextColor="Black" FontSize="12" HorizontalOptions="Start" VerticalOptions="Center"/>
             </StackLayout>
-            <BoxView BackgroundColor="Transparent" HeightRequest="20"/>
-            <Label Text="Descrição" TextColor="Black" FontSize="20" HorizontalOptions="Start" VerticalOptions="Center"/>
-            <Label Text="{Binding Descricao}" TextColor="Black" FontSize="16" HorizontalOptions="Start" VerticalOptions="Center"/>
-        </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

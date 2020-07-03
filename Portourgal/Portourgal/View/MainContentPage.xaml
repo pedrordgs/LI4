@@ -40,10 +40,22 @@
             </CarouselView>
 
             <Label Text="Roteiros" TextColor="Black" FontSize="20" FontAttributes="Bold" Margin="10,20"/>
-            <CarouselView x:Name="MainCarouselViewA" HeightRequest="300">
+            <CarouselView x:Name="MainCarouselViewA" HeightRequest="300" PeekAreaInsets="30" HorizontalOptions="CenterAndExpand" ItemsSource="{Binding Roteiros}">
+                <CarouselView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Horizontal"  ItemSpacing="20" />
+                </CarouselView.ItemsLayout>
                 <CarouselView.ItemTemplate>
                     <DataTemplate>
-                        <Image Source="{Binding Nome}" HorizontalOptions="Center"/>
+                        <Frame CornerRadius="20" Padding="0" IsClippedToBounds="True" HorizontalOptions="Center">
+                            <Grid>
+                                <ImageButton Source="{Binding ImagemRoteiro}" HorizontalOptions="Center" Aspect="AspectFill" 
+                                             Command="{Binding Source={RelativeSource AncestorType={x:Type localvm:MainContentPageViewModel}}, Path=ComandoRoteiro}"  
+                                             CommandParameter="{Binding Nome}"/>
+                                <StackLayout BackgroundColor="#E2E2E2" TranslationY="270" Opacity="0.8" Padding="10,5,10,5" MinimumWidthRequest="100" >
+                                    <Label Text="{Binding Nome}" TextColor="Black" HorizontalOptions="Center" VerticalOptions="End"/>
+                                </StackLayout>
+                            </Grid>
+                        </Frame>
                     </DataTemplate>
                 </CarouselView.ItemTemplate>
             </CarouselView>

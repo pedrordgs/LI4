@@ -6,23 +6,59 @@
              mc:Ignorable="d"
              x:Class="Portourgal.View.DetalhesRoteirosView">
     <ContentPage.Content>
-        <StackLayout Margin="15">
-            <Label Text="Cidade"/>
-            <Label Text="Sugestões"/>
-            <Label Text="O que visitar"/>
-            <!-- grid com 2 colunas / stack layout horizontal-->
-            <Grid Margin="10">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="50*" />
-                    <ColumnDefinition Width="50*" />
-                </Grid.ColumnDefinitions>
-                <BoxView Grid.Column="0" BackgroundColor="Aqua"/>
-                <BoxView Grid.Column="1" BackgroundColor="Red"/>
-            </Grid>
-            <Label Text="Onde Comer"/>
-            <!-- grid com 2 colunas / stack layout horizontal-->
-            <Label Text="Onde dormir"/>
-            <!-- grid com 2 colunas / stack layout horizontal-->
+        <ScrollView>
+        <StackLayout BindableLayout.ItemsSource="{Binding Detalhes}" Margin="15">
+            <BindableLayout.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Label Text="{Binding Cidade} - {Binding Distritro}"/>
+                        <Label Text="Sugestões"/>
+                        <Label Text="O que visitar"/>
+                        <!-- grid com 2 colunas / stack layout horizontal-->
+                        <StackLayout Orientation="Horizontal" Spacing="20" BindableLayout.ItemsSource="{Binding Atracoes}">
+                            <BindableLayout.ItemTemplate>
+                                    <DataTemplate>
+                                        <Frame CornerRadius="20" Padding="0" WidthRequest="200" HeightRequest="200" IsClippedToBounds="True" HorizontalOptions="Center">
+                                            <!--<StackLayout>-->
+                                                <Image Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" />
+                                                <!--<Label Text="{Binding Nome}" TextColor="Black" HorizontalOptions="Center" VerticalOptions="End"/>-->
+                                            <!--</StackLayout>-->
+                                        </Frame>
+                                    </DataTemplate>
+                            </BindableLayout.ItemTemplate>
+                        </StackLayout>
+                        <Label Text="Onde Comer"/>
+                            <StackLayout Orientation="Horizontal" Spacing="20" BindableLayout.ItemsSource="{Binding Restaurantes}">
+                            <BindableLayout.ItemTemplate>
+                                    <DataTemplate>
+                                        <Frame CornerRadius="20" Padding="0" WidthRequest="200" HeightRequest="200" IsClippedToBounds="True" HorizontalOptions="Center">
+                                            <!--<StackLayout>-->
+                                            <Image Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" />
+                                            <!--<Label Text="{Binding Nome}" TextColor="Black" HorizontalOptions="Center" VerticalOptions="End"/>-->
+                                            <!--</StackLayout>-->
+                                        </Frame>
+                                    </DataTemplate>
+                            </BindableLayout.ItemTemplate>
+                        </StackLayout>
+                        <!-- grid com 2 colunas / stack layout horizontal-->
+                        <Label Text="Onde dormir"/>
+                        <StackLayout Orientation="Horizontal" BindableLayout.ItemsSource="{Binding Hoteis}">
+                            <BindableLayout.ItemTemplate>
+                                    <DataTemplate>
+                                        <Frame CornerRadius="20" Padding="0" WidthRequest="200" HeightRequest="200" IsClippedToBounds="True" HorizontalOptions="Center">
+                                            <!--<StackLayout>-->
+                                            <Image Source="{Binding Imagem}" HorizontalOptions="Center" Aspect="AspectFill" />
+                                            <!--<Label Text="{Binding Nome}" TextColor="Black" HorizontalOptions="Center" VerticalOptions="End"/>-->
+                                            <!--</StackLayout>-->
+                                        </Frame>
+                                    </DataTemplate>
+                            </BindableLayout.ItemTemplate>
+                        </StackLayout>
+                        <!-- grid com 2 colunas / stack layout horizontal-->
+                    </StackLayout>
+                </DataTemplate>
+            </BindableLayout.ItemTemplate>
         </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
