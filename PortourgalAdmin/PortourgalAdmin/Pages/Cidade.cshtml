@@ -1,0 +1,34 @@
+﻿@page
+@model PortourgalAdmin.Pages.CidadeModel
+@{
+    ViewData["Title"] = "Cidade";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Distrito</h1>
+</div>
+
+<div>
+    <p><h6>Nome </h6>@Model.Cidade.Nome</p>
+    <p><h6>Atrações </h6></p>
+    <ul>
+        @foreach (var at in Model.Cidade.Atracoes)
+        {
+            <li><a asp-page="/Atracao" asp-route-ascii="@Model.Distrito.ASCIIName" asp-route-cid="@Model.Cidade.Nome" asp-route-nome="@at.Nome">@at.Nome</a></li>
+        }
+    </ul>
+    <p><h6>Restaurantes </h6></p>
+    <ul>
+        @foreach (var rt in Model.Cidade.Restaurantes)
+        {
+            <li><a asp-page="/Restaurante" asp-route-ascii="@Model.Distrito.ASCIIName" asp-route-cid="@Model.Cidade.Nome" asp-route-nome="@rt.Nome">@rt.Nome</a></li>
+        }
+    </ul>
+    <p><h6>Hotéis </h6></p>
+    <ul>
+        @foreach (var ht in Model.Cidade.Hoteis)
+        {
+            <li><a asp-page="/Hotel" asp-route-ascii="@Model.Distrito.ASCIIName" asp-route-cid="@Model.Cidade.Nome" asp-route-nome="@ht.Nome">@ht.Nome</a></li>
+        }
+    </ul>
+</div>

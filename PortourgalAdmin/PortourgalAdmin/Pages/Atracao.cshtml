@@ -1,0 +1,31 @@
+﻿@page
+@model PortourgalAdmin.Pages.AtracaoModel
+@{
+    ViewData["Title"] = "Atração";
+}
+
+<style>
+    img.perc {
+        height: 50%;
+        width: 50%;
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Atração</h1>
+</div>
+
+<div>
+    <p><h6>Nome </h6>@Model.Atracao.Nome</p>
+    <p><h6>Localidade </h6>@Model.Atracao.Localidade</p>
+    <p><h6>História </h6>@Model.Atracao.Historia</p>
+    <img class="perc" src=@Model.Atracao.Imagem>
+    <h6>Classificação </h6>
+    <ul>
+        @if (Model.Atracao.Classificacao != null)
+            foreach (var aval in Model.Atracao.Classificacao)
+            {
+                <li>@aval.Classificacao, @aval.Email </li>
+            }
+    </ul>
+</div>

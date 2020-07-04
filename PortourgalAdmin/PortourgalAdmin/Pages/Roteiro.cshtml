@@ -1,0 +1,25 @@
+﻿@page
+@model PortourgalAdmin.Pages.RoteiroModel
+@{
+    ViewData["Title"] = "Roteiro";
+}
+
+    <style>
+        img.perc {
+            height: 50%;
+            width: 50%;
+        }
+    </style>
+
+<div class="text-center">
+    <h1 class="display-4">Roteiro</h1>
+</div>
+
+<div>
+    <p><h6>Nome </h6>@Model.Roteiro.Nome</p>
+    <p><h6>ASCII </h6>@Model.Roteiro.ASCII</p>
+    <p><h6>Descrição </h6>@Model.Roteiro.Descricao</p>
+    <p><h6>Distância: </h6>@Model.Roteiro.Dist km</p>
+    <img class="perc" src=@Model.Roteiro.ImagemPercurso/>
+    <img class="perc" src=@Model.Roteiro.ImagemRoteiro/>
+</div>
