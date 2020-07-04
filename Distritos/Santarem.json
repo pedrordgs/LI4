@@ -1,6 +1,7 @@
 {
 	"Nome": "Santarém",
 	"ASCIIName": "Santarem",
+	"Pontos": 2,
 	"Historia": "O concelho de Santarém situa-se na margem direita do Tejo. Santarém chegou a ter acesso direto ao mar através da navegabilidade do Tejo. Localizada sobre uma elevação, a sua situação geográfica e confere-lhe pontos de vista, para Norte e Nascente, de inegável beleza.",
 	"Cidades": [
 		{
@@ -859,5 +860,5 @@
 			]
 		}
 	],
-	"Imagem":"https://farm2.staticflickr.com/1537/26144418626_8b509e0d3c_o.jpg"
+	"Imagem": "https://farm2.staticflickr.com/1537/26144418626_8b509e0d3c_o.jpg"
 }

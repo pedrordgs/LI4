@@ -1,6 +1,7 @@
 {
 	"Nome": "Viseu",
-	"ASCIIName" : "Viseu",
+	"ASCIIName": "Viseu",
+	"Pontos": 2,
 	"Historia": "Localiza-se no Centro de Portugal e, ao longo dos séculos, desempenhou sempre um papel preponderante na história do país. A cidade está repleta de igrejas, museus, monumentos e parques que merecem a sua visita. Além disso, possui um centro histórico muito bem conservado, do qual o Rossio é um dos seus principais pontos de interesse.",
 	"Cidades": [
 		{
@@ -891,5 +892,5 @@
 		}
 
 	],
-	"Imagem":"https://www.ucp.pt/sites/default/files/styles/prose_large/public/2018-07/viseu_2.jpg?itok=FACCkbqb"
+	"Imagem": "https://www.ucp.pt/sites/default/files/styles/prose_large/public/2018-07/viseu_2.jpg?itok=FACCkbqb"
 }

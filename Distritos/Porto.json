@@ -1,6 +1,7 @@
 {
 	"Nome": "Porto",
-	"ASCIIName" : "Porto",
+	"ASCIIName": "Porto",
+	"Pontos": 1,
 	"Historia": "É uma cidade costeira no noroeste de Portugal conhecida pelas pontes imponentes e pela produção de vinho do Porto. É a segunda cidade e o quarto município mais populoso de Portugal. É a cidade que deu o nome a Portugal – desde muito cedo (c. 200 a.C.), quando se designava de Portus Cale, vindo mais tarde a tornar-se a capital do Condado Portucalense, de onde se formou Portugal.",
 	"Cidades": [
 		{
@@ -171,7 +172,7 @@
 					"Morada": "R. 25 de Abril 336-386, 4420-356 Gondoma",
 					"Classificacao": 4.8,
 					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0b/b1/f0/b1/interior-do-restaurante.jpg"
-				},
+				}
 			],
 			"Hoteis": [
 				{
@@ -821,5 +822,5 @@
 			]
 		}
 	],
-	"Imagem":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/26/18/porto-main.jpg?w968h681"
+	"Imagem": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/26/18/porto-main.jpg?w968h681"
 }
