@@ -6,6 +6,7 @@
              xmlns:local="clr-namespace:Portourgal.View"
              xmlns:localvm="clr-namespace:Portourgal.ViewModel"
              mc:Ignorable="d"
+             Title="Atração"
              x:Class="Portourgal.View.AtracaoView">
     <ContentPage.Resources>
         <ResourceDictionary>
@@ -15,8 +16,14 @@
     <ScrollView>
         <StackLayout Margin="2">
             <Label Text="{Binding Nome}" FontSize="25" FontAttributes="Bold" VerticalOptions="Center" Margin="30,20,0,10"/>
-            <Label Text="{Binding Historia}" FontSize="10" TextColor="Black" VerticalOptions="Center" Margin="10,0,0,0"/>
-            <Label Text="{Binding Localidade}" FontSize="10" TextColor="Black" VerticalOptions="Center" Margin="10,0,0,0"/>
+            <StackLayout Orientation="Horizontal" Margin="10,0,10,0">
+                <Label Text="Descrição:" MinimumWidthRequest="50" FontSize="10" TextColor="Black" VerticalOptions="Start" />
+                <Label Text="{Binding Historia}" FontSize="10" VerticalOptions="Start"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="10,0,10,0">
+                <Label Text="Localidade:" FontSize="10" TextColor="Black" VerticalOptions="Center"  />
+                <Label Text="{Binding Localidade}" FontSize="10" VerticalOptions="Center" />
+            </StackLayout>
             <Image Source="{Binding Imagem}" VerticalOptions="Center" HorizontalOptions="Center" Margin="30,30,30,30"/>
             <StackLayout Orientation="Horizontal" Margin="10,0,0,0">
                 <Label Text="Visitado?" />

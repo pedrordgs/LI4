@@ -36,8 +36,10 @@ namespace Portourgal.InteractionsAPI
                 {
                     String json = await response.Content.ReadAsStringAsync();
                     Utilizador u = JsonConvert.DeserializeObject<Utilizador>(json);
-                    //user = u;
-                    if (u != null && u.Password == password && email == u.Email) { user = u; return true; }
+                    byte[] data = System.Text.Encoding.ASCII.GetBytes(password);
+                    data = new System.Security.Cryptography.SHA256Managed().ComputeHash(data);
+                    String hashpwd = System.Text.Encoding.ASCII.GetString(data);
+                    if (u != null && u.Password == hashpwd && email == u.Email) { user = u; return true; }
                     else return false;
                 }
             }
@@ -85,6 +87,22 @@ namespace Portourgal.InteractionsAPI
                 {
                     String json = await response.Content.ReadAsStringAsync();
                     List<Utilizador> u = JsonConvert.DeserializeObject<List<Utilizador>>(json);
+                    return u;
+                }
+            }
+            return null;
+        }
+
+        public static async Task<Utilizador> GetUtilizador(string email)
+        {
+            if (Connectivity.NetworkAccess != NetworkAccess.None)
+            {
+                HttpClient client = new HttpClient();
+                HttpResponseMessage response = await client.GetAsync("https://portourgalapi2020.azurewebsites.net/api/users/email/"+email).ConfigureAwait(false);
+                if (response.IsSuccessStatusCode)
+                {
+                    String json = await response.Content.ReadAsStringAsync();
+                    Utilizador u = JsonConvert.DeserializeObject<Utilizador>(json);
                     return u;
                 }
             }

@@ -1,5 +1,6 @@
 ﻿using Portourgal.InteractionsAPI;
 using Portourgal.Model;
+using Portourgal.View;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +10,7 @@ using Xamarin.Forms;
 
 namespace Portourgal.ViewModel
 {
-    class ScoreBoardViewModel : INotifyPropertyChanged
+    class ScoreBoardViewModel
     {
         public ScoreBoardViewModel()
         {
@@ -20,18 +21,21 @@ namespace Portourgal.ViewModel
                 ImagemPrimeiro = users[0].Imagem;
                 NomePrimeiro = users[0].Nome;
                 PontosPrimeiro = users[0].Pontos + " pontos";
+                EmailPrimeiro = users[0].Email;
             }
             if (users.Count > 1)
             {
                 ImagemSegundo = users[1].Imagem;
                 NomeSegundo = users[1].Nome;
                 PontosSegundo = users[1].Pontos + " pontos";
+                EmailSegundo = users[1].Email;
             }
             if (users.Count > 2)
             {
                 ImagemTerceiro = users[2].Imagem;
                 NomeTerceiro = users[2].Nome;
                 PontosTerceiro = users[2].Pontos + " pontos";
+                EmailTerceiro = users[2].Email;
             }
             ImagemUser = UserInteraction.user.Imagem;
             NomeUser = UserInteraction.user.Nome;
@@ -44,196 +48,31 @@ namespace Portourgal.ViewModel
                     break;
                 }
             }
-            RefreshCommand = new Command(Refresh);
+            ComandoPerfil = new Command(VerPerfil);
         }
 
-        public event PropertyChangedEventHandler PropertyChanged;
-
-        protected virtual void OnPropertyChanged(string propertyName)
+        void VerPerfil(object obj)
         {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+            string email = (string)obj;
+            App.Current.MainPage.Navigation.PushAsync(new OtherPerfil(email));
         }
 
-        void Refresh()
-        {
-            List<Utilizador> users = UserInteraction.getUtilizadores().Result;
-            users = users.OrderByDescending(x => x.Pontos).ToList<Utilizador>();
-            if (users.Count > 0)
-            {
-                ImagemPrimeiro = users[0].Imagem;
-                NomePrimeiro = users[0].Nome;
-                PontosPrimeiro = users[0].Pontos + " pontos";
-            }
-            if (users.Count > 1)
-            {
-                ImagemSegundo = users[1].Imagem;
-                NomeSegundo = users[1].Nome;
-                PontosSegundo = users[1].Pontos + " pontos";
-            }
-            if (users.Count > 2)
-            {
-                ImagemTerceiro = users[2].Imagem;
-                NomeTerceiro = users[2].Nome;
-                PontosTerceiro = users[2].Pontos + " pontos";
-            }
-            ImagemUser = UserInteraction.user.Imagem;
-            NomeUser = UserInteraction.user.Nome;
-            PontosUser = UserInteraction.user.Pontos + " pontos";
-            for (int i = 0; i < users.Count; i++)
-            {
-                if (string.Equals(users[i].Email, UserInteraction.user.Email))
-                {
-                    LugarUser = i + 1;
-                    break;
-                }
-            }
-            IsRefreshing = false;
-        }
-
-        public string ImagemPrimeiro 
-        {
-            get { return imagemPrimeiro; }
-            set 
-            {
-                imagemPrimeiro = value;
-                OnPropertyChanged(nameof(ImagemPrimeiro));
-            }
-        }
-        public string NomePrimeiro
-        {
-            get { return nomePrimeiro; }
-            set
-            {
-                nomePrimeiro = value;
-                OnPropertyChanged(nameof(NomePrimeiro));
-            }
-        }
-        public string PontosPrimeiro
-        {
-            get { return pontosPrimeiro; }
-            set
-            {
-                pontosPrimeiro = value;
-                OnPropertyChanged(nameof(PontosPrimeiro));
-            }
-        }
-        public string ImagemSegundo
-        {
-            get { return imagemSegundo; }
-            set
-            {
-                imagemSegundo = value;
-                OnPropertyChanged(nameof(ImagemSegundo));
-            }
-        }
-        public string NomeSegundo
-        {
-            get { return nomeSegundo; }
-            set
-            {
-                nomeSegundo = value;
-                OnPropertyChanged(nameof(NomeSegundo));
-            }
-        }
-        public string PontosSegundo
-        {
-            get { return pontosSegundo; }
-            set
-            {
-                pontosSegundo = value;
-                OnPropertyChanged(nameof(PontosSegundo));
-            }
-        }
-        public string ImagemTerceiro
-        {
-            get { return imagemTerceiro; }
-            set
-            {
-                imagemTerceiro = value;
-                OnPropertyChanged(nameof(ImagemTerceiro));
-            }
-        }
-        public string NomeTerceiro
-        {
-            get { return nomeTerceiro; }
-            set
-            {
-                nomeTerceiro = value;
-                OnPropertyChanged(nameof(NomeTerceiro));
-            }
-        }
-        public string PontosTerceiro
-        {
-            get { return pontosTerceiro; }
-            set
-            {
-                pontosTerceiro = value;
-                OnPropertyChanged(nameof(PontosTerceiro));
-            }
-        }
-        public string ImagemUser
-        {
-            get { return imagemUser; }
-            set
-            {
-                imagemUser = value;
-                OnPropertyChanged(nameof(ImagemUser));
-            }
-        }
-        public string NomeUser
-        {
-            get { return nomeUser; }
-            set
-            {
-                nomeUser = value;
-                OnPropertyChanged(nameof(NomeUser));
-            }
-        }
-        public string PontosUser
-        {
-            get { return pontosUser; }
-            set
-            {
-                pontosUser = value;
-                OnPropertyChanged(nameof(PontosUser));
-            }
-        }
-        public int LugarUser
-        {
-            get { return lugarUser; }
-            set
-            {
-                lugarUser = value;
-                OnPropertyChanged(nameof(LugarUser));
-            }
-        }
-        public string imagemPrimeiro { get; set; }
-        public string nomePrimeiro { get; set; }
-        public string pontosPrimeiro { get; set; }
-        public string imagemSegundo { get; set; }
-        public string nomeSegundo { get; set; }
-        public string pontosSegundo { get; set; }
-        public string imagemTerceiro { get; set; }
-        public string nomeTerceiro { get; set; }
-        public string pontosTerceiro { get; set; }
-        public string imagemUser { get; set; }
-        public string nomeUser { get; set; }
-        public string pontosUser { get; set; }
-        public int lugarUser { get; set; }
-
-        public Command RefreshCommand { protected set; get; }
-        public bool isRefreshing = false;
-        public bool IsRefreshing
-        {
-            get
-            {
-                return isRefreshing;
-            }
-            set
-            {
-                isRefreshing = value;
-                OnPropertyChanged(nameof(IsRefreshing));
-            }
-        }
+        public string ImagemPrimeiro { get; set; }
+        public string NomePrimeiro{ get; set; }
+        public string PontosPrimeiro { get; set; }
+        public string EmailPrimeiro { get; set; }
+        public string ImagemSegundo { get; set; }
+        public string NomeSegundo { get; set; }
+        public string PontosSegundo { get; set; }
+        public string EmailSegundo { get; set; }
+        public string ImagemTerceiro { get; set; }
+        public string NomeTerceiro { get; set; }
+        public string PontosTerceiro { get; set; }
+        public string EmailTerceiro { get; set; }
+        public string ImagemUser { get; set; }
+        public string NomeUser { get; set; }
+        public string PontosUser { get; set; }
+        public int LugarUser { get; set; }
+        public Command ComandoPerfil { get; set; }
     }
 }

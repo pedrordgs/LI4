@@ -6,6 +6,7 @@
              xmlns:local="clr-namespace:Portourgal.View"
              xmlns:localvm="clr-namespace:Portourgal.ViewModel" 
              mc:Ignorable="d"
+             Title="Distrito"
              x:Class="Portourgal.View.DistritosInfView">
     <ContentPage.Resources>
         <ResourceDictionary>

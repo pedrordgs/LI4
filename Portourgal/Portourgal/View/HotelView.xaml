@@ -4,12 +4,24 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
+             Title="Hotel"
              x:Class="Portourgal.View.HotelView">
     <ScrollView>
         <StackLayout Margin="2">
             <Label Text="{Binding Nome}" FontSize="25" FontAttributes="Bold" VerticalOptions="Center" Margin="30,20,0,10"/>
-            <Label Text="{Binding Morada}" FontSize="10" TextColor="Black" VerticalOptions="Center" Margin="10,0,0,0"/>
-            <Label Text="{Binding Classificacao}" FontSize="10" TextColor="Black" VerticalOptions="Center" Margin="10,0,0,0"/>
+            <StackLayout Orientation="Horizontal" Margin="10,0,10,0">
+                <Label Text="Morada:" FontSize="10" TextColor="Black" VerticalOptions="Center"/>
+                <Label Text="{Binding Morada}" FontSize="10" VerticalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <StackLayout Orientation="Horizontal" Margin="10" BindableLayout.ItemsSource="{Binding Classificacao}">
+                    <BindableLayout.ItemTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding .}" HeightRequest="20" WidthRequest="20"  />
+                        </DataTemplate>
+                    </BindableLayout.ItemTemplate>
+                </StackLayout>
+            </StackLayout>
             <Image Source="{Binding Imagem}" VerticalOptions="Center" HorizontalOptions="Center" Margin="30,30,30,30"/>
         </StackLayout>
     </ScrollView>

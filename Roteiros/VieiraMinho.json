@@ -1,0 +1,21 @@
+{
+    "Percurso": [
+        "Vieira do Minho",
+        "Guilhofrei",
+        "Rossas",
+        "Agra",
+        "Vilar Chão",
+        "Serradela",
+        "Vilar da Veiga",
+        "Gerês",
+        "Vilarinho das Furnas",
+        "São Bento",
+        "Rio Caldo"
+    ],
+    "Descricao": "Este percurso tem como ponto de referência Vieira do Minho, uma vila antiga e rica em tradições, protegida pela Serra da Cabreira. Depois, o itinerário vai-se desenvolvendo pela zona leste do Parque Nacional da Peneda-Gerês, onde ainda se podem encontrar alguns dos mais belos cenários naturais do país e encantadoras aldeias históricas. Aqui, vale a pena deixar o tempo correr...",
+    "ImagemRoteiro": "https://mundodeviagens.com/wp-content/uploads/2019/05/visitar-vieira-do-minho.jpg",
+    "ImagemPercurso": "https://i.ibb.co/9n9KKPR/vieiraminho.png",
+    "Nome": "Vieira do Minho",
+    "ASCII": "VieiraMinho",
+    "Dist": 150
+}

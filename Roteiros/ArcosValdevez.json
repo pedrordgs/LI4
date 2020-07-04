@@ -1,0 +1,20 @@
+{
+    "Percurso": [
+        "Arcos de Valdevez",
+        "Giela",
+        "Grade",
+        "Monte Gião",
+        "Soajo",
+        "Rouças",
+        "São Bento do Cando",
+        "Peneda",
+        "Lindoso",
+        "Ponte da Barca"
+    ],
+    "Descricao": "Este percurso, mais afastado do litoral, tem início na vila de Arcos de Valdevez, onde se destacam vários pontos de interesse, entre monumentos, zonas de lazer e pequenos espaços pitorescos. Ao longo do itinerário, que se vai desenrolando para leste pela Serra do Soajo e Parque Nacional da Peneda-Gerês, a oferta não é inferior: zonas de interesse histórico alternam com paisagens deslumbrantes e recantos onde apetece parar para usufruir de algum tempo de descontração. No final da viagem, regressa-se à bela Valdevez!",
+    "ImagemRoteiro": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/90/87/908767_v2.jpeg",
+    "ImagemPercurso": "https://i.ibb.co/jyds21w/arcos.png",
+    "Nome": "Arcos de Valdevez",
+    "ASCII": "ArcosValdevez",
+    "Dist": 150
+}

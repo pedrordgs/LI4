@@ -11,6 +11,7 @@ namespace Portourgal.Model
         public string ImagemRoteiro { get; set; }
         public string ImagemPercurso { get; set; }
         public string Nome { get; set; }
+        public string ASCII { get; set; }
         public int Dist { get; set; }
     }
 }
