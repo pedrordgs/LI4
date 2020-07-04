@@ -1,0 +1,23 @@
+﻿@page
+@model PortourgalAdmin.Pages.HotelModel
+@{
+    ViewData["Title"] = "Hotel";
+}
+
+<style>
+    img.perc {
+        height: 50%;
+        width: 50%;
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Hotel</h1>
+</div>
+
+<div>
+    <p><h6>Nome </h6>@Model.Hotel.Nome</p>
+    <p><h6>Morada </h6>@Model.Hotel.Morada</p>
+    <p><h6>Classificação </h6>@Model.Hotel.Classificacao</p>
+    <img class="perc" src=@Model.Hotel.Imagem>
+</div>

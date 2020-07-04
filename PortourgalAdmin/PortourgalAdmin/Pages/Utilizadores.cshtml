@@ -1,0 +1,16 @@
+﻿@page
+@model PortourgalAdmin.Pages.UtilizadoresModel
+@{
+    ViewData["Title"] = "Utilizadores";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Utilizadores</h1>
+</div>
+
+<ul>
+    @foreach (var item in Model.Utilizadores)
+    {
+    <li><a asp-page="/Utilizador" asp-route-email="@item.Email">@item.Email</a></li>
+    }
+</ul>

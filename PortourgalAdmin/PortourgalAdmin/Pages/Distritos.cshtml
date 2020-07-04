@@ -1,0 +1,16 @@
+﻿@page
+@model PortourgalAdmin.Pages.DistritosModel
+@{
+    ViewData["Title"] = "Distritos";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Distritos</h1>
+</div>
+
+<ul>
+    @foreach (var item in Model.Distritos)
+     {
+        <li><a asp-page="/Distrito" asp-route-ascii="@item.ASCIIName">@item.Nome</a></li>
+     }
+</ul>

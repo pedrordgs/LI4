@@ -1,0 +1,16 @@
+﻿@page
+@model PortourgalAdmin.Pages.RoteirosModel
+@{
+    ViewData["Title"] = "Roteiros";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Roteiros</h1>
+</div>
+
+<ul>
+    @foreach (var item in Model.Roteiros)
+    {
+        <li><a asp-page="/Roteiro" asp-route-ascii="@item.Nome">@item.Nome</a></li>
+    }
+</ul>
