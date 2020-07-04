@@ -1,0 +1,20 @@
+{
+    "Percurso": [
+        "Viana do Castelo",
+        "Montedor",
+        "Afife",
+        "Vila Praia de Âncora",
+        "Moledo",
+        "Caminha",
+        "Vilar de Mouros",
+        "Arga de Cima",
+        "Orbacem",
+        "Perre"
+    ],
+    "Descricao": "O traçado deste percurso começa e acaba em Viana do Castelo, sem dúvida uma das mais belas cidades portuguesas. Após um passeio exploratório pela cidade, aconselha-se uma subida ao Monte de Santa Luzia, que lhe dará uma perspectiva panorâmica de toda a região. Depois, seguindo a linha costeira a norte de Viana, terá ao seu dispor algumas praias agradáveis, onde, dependendo da ocasião escolhida e da disposição do momento poderá estender a toalha ou, simplesmente, fazer um pequeno (mas revitalizante) passeio à beira mar. Mais para o interior, encontrará algumas aldeias e vilas integradas numa paisagem bastante atrativa, que causa uma sensação de bem estar e convida, inevitavelmente ao descanso... Boas curvas!",
+    "ImagemRoteiro": "https://ncultura.pt/wp-content/uploads/2020/02/vianay.jpg",
+    "ImagemPercurso": "https://i.ibb.co/kHcZDxt/unknown.png",
+    "Nome": "Viana do Castelo",
+    "ASCII": "VianaCastelo",
+    "Dist": 145
+}
