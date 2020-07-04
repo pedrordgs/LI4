@@ -1,0 +1,17 @@
+{
+  "Percurso": [
+    "Porto",
+    "Barragem de Crestuma",
+    "Canedo",
+    "Caldas de São Jorge",
+    "Santa Maria da Feira",
+    "Vila Nova de Gaia",
+    "Porto"
+  ],
+  "Descricao": "Este percurso leva-o primeiro, a conhecer a zona ribeirinha do Porto, uma cidade de que se aprende a gostar aos poucos e onde até a eventual indiferença inicial pode dar lugar a uma paixão incontornável. Daí pode continuar pela marginal do Douro até à Barragem de Crestuma e passar para a outra margem, seguindo um trajeto típico destas paragens que o levará por povoações como Canedo ou Caldas de São Jorge. Pode também dirigir-se a terras mais longínquas rumando diretamente a Santa Maria da Feira. Mais tarde, após reviver o passado no castelo desta cidade, sonhar com o futuro no Visionarium e maravilhar-se com a Natureza no belíssimo Parque Biológico de Vila Nova de Gaia, será tempo de regressar ao Porto, onde, consoante o apelo e a oferta do momento, poderá terminar o percurso no enorme espaço verde do relaxante Parque da Cidade, na empolgante animação noturna da Baixa ou saboreando as eclécticas sonoridades da Casa da Música. Não se esqueça da típica Francesinha!",
+  "ImagemRoteiro": "https://images.prismic.io/indiecampers-demo/4950de512b6b8c10beb238d5287312703cd5e18b_greater-porto.jpg?auto=compress,format&q=10",
+  "ImagemPercurso": "https://i.ibb.co/MNHYJXL/image.png",
+  "Nome": "Porto",
+  "ASCII": "Porto",
+  "Dist": 86
+}
