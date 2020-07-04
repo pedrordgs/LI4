@@ -10,8 +10,8 @@ namespace Portourgal.ViewModel
         public RestauranteViewModel(Restaurante restaurante)
         {
             Nome = restaurante.Nome;
-            Morada = restaurante.Nome;
-            Classificacao = restaurante.Classificacao + " estrelas";
+            Morada = restaurante.Morada;
+            Classificacao = restaurante.Classificacao.ToString();
             Imagem = restaurante.Imagem;
         }
 

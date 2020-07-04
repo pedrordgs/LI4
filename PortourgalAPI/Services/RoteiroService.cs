@@ -26,7 +26,7 @@ namespace PortourgalAPI.Services
            _roteiros.Find<Roteiro>(rot => rot.Id == id).FirstOrDefault();
 
         public Roteiro GetByNome(string nome) =>
-            _roteiros.Find<Roteiro>(rot => rot.Nome == nome).FirstOrDefault();
+            _roteiros.Find<Roteiro>(rot => rot.ASCII == nome).FirstOrDefault();
 
         public Roteiro Create(Roteiro rot)
         {
@@ -38,7 +38,7 @@ namespace PortourgalAPI.Services
             _roteiros.ReplaceOne(rot => rot.Id == id, rotIn);
 
         public void UpdateByNome(string nome, Roteiro rotIn) =>
-            _roteiros.ReplaceOne(rot => rot.Nome == nome, rotIn);
+            _roteiros.ReplaceOne(rot => rot.ASCII == nome, rotIn);
 
         public void Remove(Roteiro rotIn) =>
             _roteiros.DeleteOne(rot => rot.Id == rotIn.Id);
@@ -47,7 +47,7 @@ namespace PortourgalAPI.Services
             _roteiros.DeleteOne(rot => rot.Id == id);
 
         public void RemoveByNome(string nome) =>
-            _roteiros.DeleteOne(rot => rot.Nome == nome);
+            _roteiros.DeleteOne(rot => rot.ASCII == nome);
 
     }
 }

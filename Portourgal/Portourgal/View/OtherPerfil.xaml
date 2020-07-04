@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:Portourgal.View"
              mc:Ignorable="d"
              Title="Perfil"
-             x:Class="Portourgal.View.Perfil">
+             x:Class="Portourgal.View.OtherPerfil">
     <ContentPage.Resources>
         <ResourceDictionary>
             <local:ByteArrayToImageSourceConverter x:Key="ByteArrayToImage" />
@@ -36,12 +36,8 @@
                 <Label Text="{Binding Localidade}" TextColor="Gray" FontSize="12" HorizontalOptions="Start" VerticalOptions="Center"/>
                 <Label Text="{Binding TextoPontos}" TextColor="Gray" FontSize="12" HorizontalOptions="Start" VerticalOptions="Center"/>
             </StackLayout>
-            <StackLayout Grid.Column="2" Orientation="Horizontal" Spacing="10" HorizontalOptions="End">
-                <ImageButton Source="build.png" BackgroundColor="Transparent" Command="{Binding ComandoEditarPerfil}"  HeightRequest="20" HorizontalOptions="Center" VerticalOptions="Center"/>
-                <ImageButton Source="logout.png" BackgroundColor="Transparent" Command="{Binding ComandoLogout}" HeightRequest="15" HorizontalOptions="Center" VerticalOptions="Center"/>
-            </StackLayout>
         </Grid>
-        <RefreshView Grid.Row="2" IsRefreshing="{Binding IsRefreshing}"   x:Name="rv"
+        <RefreshView Grid.Row="2" IsRefreshing="{Binding IsRefreshing}" x:Name="rv"
          Command="{Binding RefreshCommand}">
             <ScrollView Margin="20,20" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
                 <StackLayout Spacing="20" BindableLayout.ItemsSource="{Binding Historico}">
@@ -59,5 +55,4 @@
             </ScrollView>
         </RefreshView>
     </Grid>
-    
 </ContentPage>

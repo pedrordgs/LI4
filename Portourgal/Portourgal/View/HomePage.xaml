@@ -15,7 +15,7 @@
     <views:Perfil Title="Perfil" IconImageSource="profile.png"/>
 
     <views:MainContentPage Title="Distritos" IconImageSource="district.png" />
-    
+
     <views:ScoreBoardView Title="Leaderboard" IconImageSource="leaderboard.png" />
 
 </TabbedPage>

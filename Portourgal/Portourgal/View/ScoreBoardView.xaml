@@ -24,7 +24,7 @@
         </Grid.ColumnDefinitions>
         <Image Grid.Row="0" Grid.ColumnSpan="3" Source="leader.png" Aspect="AspectFill"/>
         <Frame Grid.Row="1" Grid.Column="0" HasShadow="False" BackgroundColor="Transparent">
-            <Image Source="{Binding ImagemPrimeiro,Converter={StaticResource ByteArrayToImage}}"
+            <ImageButton  Source="{Binding ImagemPrimeiro,Converter={StaticResource ByteArrayToImage}}" BackgroundColor="Transparent" Command="{Binding ComandoPerfil}" CommandParameter="{Binding EmailPrimeiro}"
                    Aspect="AspectFit" />
         </Frame>
         <Frame Grid.Row="1" Grid.Column="1" VerticalOptions="Center" HasShadow="False" BackgroundColor="Transparent">
@@ -39,7 +39,7 @@
         </Frame>
         <BoxView Color="#C65F4A" Grid.Row="1" Grid.ColumnSpan="3" HeightRequest="0.5" VerticalOptions="End"/>
         <Frame Grid.Row="2" Grid.Column="0" HasShadow="False" BackgroundColor="Transparent">
-            <Image Source="{Binding ImagemSegundo,Converter={StaticResource ByteArrayToImage}}"
+            <ImageButton Source="{Binding ImagemSegundo,Converter={StaticResource ByteArrayToImage}}" BackgroundColor="Transparent" Command="{Binding ComandoPerfil}" CommandParameter="{Binding EmailSegundo}"
                    Aspect="AspectFit" />
         </Frame>
         <Frame Grid.Row="2" Grid.Column="1" VerticalOptions="Center" HasShadow="False" BackgroundColor="Transparent">
@@ -54,7 +54,7 @@
         </Frame>
         <BoxView Color="#C65F4A" Grid.Row="2" Grid.ColumnSpan="3" HeightRequest="0.5" VerticalOptions="End" />
         <Frame Grid.Row="3" Grid.Column="0" HasShadow="False" BackgroundColor="Transparent" >
-            <Image Source="{Binding ImagemTerceiro,Converter={StaticResource ByteArrayToImage}}" Aspect="AspectFit" />
+            <ImageButton Source="{Binding ImagemTerceiro,Converter={StaticResource ByteArrayToImage}}" BackgroundColor="Transparent" Command="{Binding ComandoPerfil}" CommandParameter="{Binding EmailTerceiro}" Aspect="AspectFit" />
         </Frame>
         <Frame Grid.Row="3" Grid.Column="1" VerticalOptions="Center" HasShadow="False" BackgroundColor="Transparent">
             <StackLayout>

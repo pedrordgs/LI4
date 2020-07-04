@@ -41,7 +41,7 @@ namespace PortourgalAPI.Controllers
             return rot;
         }
 
-        // GET: api/Roteiros/nome/Viana do Castelo
+        // GET: api/Roteiros/nome/VianaCastelo
         [HttpGet("nome/{nome}")]
         public ActionResult<Roteiro> GetByNome(string nome)
         {
@@ -80,7 +80,7 @@ namespace PortourgalAPI.Controllers
             return NoContent();
         }
 
-        // PUT: api/Roteiros/nome/Viana do Castelo
+        // PUT: api/Roteiros/nome/VianaCastelo
         [HttpPut("nome/{nome}")]
         public IActionResult PutByNome(string nome, Roteiro rotIn)
         {
@@ -116,7 +116,7 @@ namespace PortourgalAPI.Controllers
         }
 
 
-        // DELETE: api/Roteiros/nome/Viana do Castelo
+        // DELETE: api/Roteiros/nome/VianaCastelo
         [HttpDelete("nome/{nome}")]
         public IActionResult DeleteByEmail(string nome)
         {
