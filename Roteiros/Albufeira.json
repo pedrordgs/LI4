@@ -1,0 +1,22 @@
+{
+  "Percurso": [
+    "Albufeira",
+    "Paderne",
+    "Alte",
+    "Torre",
+    "Rocha da Pena",
+    "Salir",
+    "Fonte de Benémola",
+    "Querença",
+    "Loulé",
+    "São Lourenço",
+    "Vilamoura",
+    "Albufeira"
+  ],
+  "Descricao": "A zona de Albufeira é uma das mais turísticas do Algarve - Todos os anos, as suas praias e as dos arredores são invadidas por hordas de turistas nacionais e estrangeiros. No entanto, o percurso que lhe propomos afasta-se dessa abordagem mais tradicional, com o intuito de lhe mostrar alguns recantos naturais, ainda escondidos e alguns locais de interesse histórico que, acreditamos, vale a pena conhecer.",
+  "ImagemRoteiro": "https://d1oe1fd4hqfth9.cloudfront.net/wp-content/uploads/albufeira2.jpg",
+  "ImagemPercurso": "https://i.ibb.co/Wggc1jf/image.png",
+  "Nome": "Albufeira",
+  "ASCII": "Albufeira",
+  "Dist": 92
+}
