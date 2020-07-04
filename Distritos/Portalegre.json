@@ -1,6 +1,7 @@
 {
 	"Nome": "Portalegre",
-	"ASCIIName" : "Portalegre",
+	"ASCIIName": "Portalegre",
+	"Pontos": 3,
 	"Historia": "Embora a paisagem dos municípios a norte de Portalegre ainda seja tipicamente alentejana, com zonas relativamente planas alternando com colinas na maior parte dos casos relativamente baixas, Portalegre é frequentemente descrita como uma zona de transição entre o Alentejo mais seco e plano, e as Beiras, mais húmidas e montanhosas.",
 	"Cidades": [
 		{
@@ -260,7 +261,7 @@
 					"Morada": "Largo Mal. Carmona 21, 7460-109 Fronteira",
 					"Classificacao": 4.5,
 					"Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/62/84/42/segredo-d-alecrim.jpg"
-				},
+				}
 			],
 			"Hoteis": [
 			]
@@ -554,5 +555,5 @@
 			]
 		}
 	],
-	"Imagem":"https://i.pinimg.com/originals/b8/c8/a3/b8c8a37dcfe1431c452f15815f3b0817.jpg"
+	"Imagem": "https://i.pinimg.com/originals/b8/c8/a3/b8c8a37dcfe1431c452f15815f3b0817.jpg"
 }

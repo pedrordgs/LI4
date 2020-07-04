@@ -1,6 +1,7 @@
 {
 	"Nome": "Viana Castelo",
 	"ASCIIName": "VianaCastelo",
+	"Pontos": 1,
 	"Historia": "Viana do Castelo é a cidade atlântica mais ao Norte de Portugal, situando-se a cerca de 25 minutos do aeroporto internacional do Porto. A presença do rio, do monte e do mar, conferem à cidade dotes paisagísticos de excelência que encantam os sentidos, proporcionam um clima psicológico de descompressão e são propícios à ocupação sadia e aprazível dos tempos livres.",
 	"Cidades": [
 		{
@@ -85,8 +86,8 @@
 					"Nome": "Design&Wine Hotel",
 					"Morada": "Praça do Conselheiro Silva Torres 8, 4910-122 Caminha",
 					"Preco": "120€",
-				 	"Classificacao": 4,
-				 	"Imagem": "https://nit.pt/wp-content/uploads/2016/10/52757861-77d8-4856-be3b-23a7540a5245-754x394.jpg"
+					"Classificacao": 4,
+					"Imagem": "https://nit.pt/wp-content/uploads/2016/10/52757861-77d8-4856-be3b-23a7540a5245-754x394.jpg"
 				},
 				{
 					"Nome": "Prazer da Natureza Resort & SPA",

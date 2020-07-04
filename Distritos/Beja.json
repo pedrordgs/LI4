@@ -1,620 +1,621 @@
 {
-    "Nome": "Beja",
-    "ASCIIName" : "Beja",
-    "Historia": "É uma cidade portuguesa pertencente à região do Alentejo e sub-região do Baixo Alentejo. Crê-se que a cidade foi fundada cerca de 400 anos a.C., pelos celtas.Conta a lenda que quando a cidade de Beja era uma pequena localidade de cabanas rodeada de um compacto matagal, uma serpente assassina era o maior problema da população. A solução para este dilema passou por assassinar a serpente, feito alcançado deixando um touro envenenado na floresta onde habitava a serpente. É devido a esta lenda que existe um touro representado no brasão da cidade.",
-    "Cidades": [
+  "Nome": "Beja",
+  "ASCIIName": "Beja",
+  "Pontos": 2,
+  "Historia": "É uma cidade portuguesa pertencente à região do Alentejo e sub-região do Baixo Alentejo. Crê-se que a cidade foi fundada cerca de 400 anos a.C., pelos celtas.Conta a lenda que quando a cidade de Beja era uma pequena localidade de cabanas rodeada de um compacto matagal, uma serpente assassina era o maior problema da população. A solução para este dilema passou por assassinar a serpente, feito alcançado deixando um touro envenenado na floresta onde habitava a serpente. É devido a esta lenda que existe um touro representado no brasão da cidade.",
+  "Cidades": [
+    {
+      "Nome": "Aljustrel",
+      "Atracoes": [
         {
-            "Nome": "Aljustrel",
-            "Atracoes": [
-                {
-                    "Nome": "Jardim 25 de Abril",
-                    "Localidade": "R. da Quadra 32, 7600-068 Aljustrel",
-                    "Historia": "O Jardim 25 de Abril dispõe de parque infantil, canteiros floridos e frondosa e variada vegetação. É um local agradável e refrescante para gozar momentos de lazer.",
-                    "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/826049"
-                },
-                {
-                    "Nome": "Museu Municipal de Arqueologia de Aljustrel",
-                    "Localidade": "Rua de São João de Deus 19, 7600-116 Aljustrel",
-                    "Historia": "O Museu Municipal de Aljustrel, depositário de grande parte do espólio arqueológico e etnográfico recolhido no concelho, convida-o a realizar uma viagem no tempo, através dos artefactos utilizados pelos diversos povos que aqui se estabeleceram, desde os períodos mais remotos até à atualidade, cruzando as suas gentes e as suas culturas e de que resultou a realidade que hoje é Aljustrel.",
-                    "Imagem": "https://www.vozdaplanicie.pt/images/180520171652-547-MuseudaRuralidade.jpg"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Fio d'Azeite",
-                    "Morada": "R. Catarina Eufémia 5 099, 7600-099 Aljustrel",
-                    "Classificacao": 4.6,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/05/57/9b/restaurante-fio-d-azeite.jpg"
-                },
-                {
-                    "Nome": "O Cabecinha",
-                    "Morada": "Avenida Antero Quental 22, 7600-013 Aljustrel",
-                    "Classificacao": 4.3,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/bd/09/f6/vongole-alla-spagnola.jpg"
-                },
-                {
-                    "Nome": "Mirante",
-                    "Morada": "Urbanização praça de touros, 7600-098 Aljustrel",
-                    "Classificacao": 3.7,
-                    "Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/770495"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Hotel Villa Aljustrel",
-                    "Morada": "R. Catarina Eufémia nº5, 7600-099 Aljustrel",
-                    "Preco": "85€",
-                    "Classificacao": 3,
-                    "Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/destaque%20aljustrel1.jpg?itok=UkknNfHc"
-                }
-            ]
+          "Nome": "Jardim 25 de Abril",
+          "Localidade": "R. da Quadra 32, 7600-068 Aljustrel",
+          "Historia": "O Jardim 25 de Abril dispõe de parque infantil, canteiros floridos e frondosa e variada vegetação. É um local agradável e refrescante para gozar momentos de lazer.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/826049"
         },
         {
-            "Nome": "Almodôvar",
-            "Atracoes": [
-                {
-                    "Nome": "Convento de Nossa Senhora da Conceição",
-                    "Localidade": "Rua do Convento 25, 7700-058 Almodôvar",
-                    "Historia": "Foi fundado por Pedro Cardoso Machado, 3.º neto de Gonçalo Eanes, e dele recebendo avultados donativos para ali se instalar a sua irmã, já freira professa da Ordem de Santa Clara, no Mosteiro da Luz, na então vila da Praia. Recebeu alvará concedido pelo Papa Paulo V através de Bula de 5 de agosto de 1606.",
-                    "Imagem": "https://www.visitarportugal.pt/images/fotos/administrator/beja/c-almodovar/almodovar/convento-n-sra-conceicao-4.jpg+"
-                },
-                {
-                    "Nome": "Homenagem ao Mineiro, escultura de Aureliano de Aguiar",
-                    "Localidade": "N267 7700, Almodôvar",
-                    "Historia": "Foi fundado por Pedro Cardoso Machado, 3.º neto de Gonçalo Eanes, e dele recebendo avultados donativos para ali se instalar a sua irmã, já freira professa da Ordem de Santa Clara, no Mosteiro da Luz, na então vila da Praia. Recebeu alvará concedido pelo Papa Paulo V através de Bula de 5 de agosto de 1606.",
-                    "Imagem": "https://www.sulinformacao.pt/wp-content/uploads/2018/11/rotunda-mineiros-almod%C3%B4var-2-e1543596175388.jpg"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "O Moinho",
-                    "Morada": "46, R. do Arco de Baúlhe 36",
-                    "Classificacao": 4.0,
-                    "Imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/10/13295415Restaurante-O-Moinho-40.JPG"
-                },
-                {
-                    "Nome": "Pizzaria 'O Forno'",
-                    "Morada": "R. 17 de Abril 2, 7700-050 Almodôvar",
-                    "Classificacao": 4.5,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/09/fe/e0/photo0jpg.jpg"
-                },
-                {
-                    "Nome": "Pizzaria Ricordi",
-                    "Morada": "Rua do Convento 9, 7700-058 Almodôvar",
-                    "Classificacao": 4.5,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/53/c2/94/pizzaria-ricordi.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Hotel Serafim",
-                    "Morada": "Rua do Afonso 9, 7700-053 Almodôvar",
-                    "Preco": "45",
-                    "Classificacao": 2,
-                    "Imagem": "https://pix10.agoda.net/hotelImages/467/467586/467586_13091211570015088119.jpg?s=1024x768"
-                },
-                {
-                    "Nome": "Monte Gois Country House & Spa",
-                    "Morada": "Monte Gois 212, Almodôvar",
-                    "Preco": "105",
-                    "Classificacao": 5,
-                    "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/218/218438468.jpg"
-                }
-            ]
-        },
-        {
-            "Nome": "Alvito",
-            "Atracoes": [
-                {
-                    "Nome": "Moinho de Bagaço",
-                    "Localidade": "Largo Gen. Humberto Delgado 4, 7920-027 Alvito",
-                    "Historia": "Mós de Granito, parte de equipamento usado até aos anos 70 do Séc.XX para esmagar o bagaço de azeitona nos lagares de azeite (Alvito, Portugal).",
-                    "Imagem": "https://www.vozdaplanicie.pt/images/h_040420141920-612-moinhosdevento.jpg"
-                },
-                {
-                    "Nome": "Ermida de São Sebastião",
-                    "Localidade": "R. dos Aviadores 1, 7920-052 Alvito",
-                    "Historia": "Foi mandada edificar em 1892 por Francisco Maria Brum junto da sua residência, sob a invocação de São Sebastião. Possui ainda imagens de Nossa Senhora das Necessidades, do Espírito Santo, de Santo António, de São José e de São Francisco de Assis.",
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/75/a3/7c/ermida-de-sao-sebastiao.jpg"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Café Restaurante - O Francês",
-                    "Morada": "Av. dos Bombeiros Voluntários 30, 7920-011 Alvito",
-                    "Classificacao": 4.1,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/42/3b/5a/o-frances.jpg"
-                },
-                {
-                    "Nome": "Restaurante da pousada de Alvito",
-                    "Morada": "Largo do Castelo 3, 7920-054 Alvito",
-                    "Classificacao": 4.1,
-                    "Imagem": "https://lifecooler.com/files/registos/imagens/332061/70967.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Horta Da Vila",
-                    "Morada": "Alvito",
-                    "Preco": "80",
-                    "Classificacao": 4,
-                    "Imagem": "https://www.mybesthotel.eu/pic/_10_557d99abb8a7f.jpg"
-                },
-                {
-                    "Nome": "Pousada do Castelo de Alvito",
-                    "Morada": "Castelo de Alvito, 7920-999 Alvito",
-                    "Preco": "85",
-                    "Classificacao": 4,
-                    "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/146/146155090.jpg"
-                }
-            ]
-        },
-        {
-            "Nome": "Barrancos",
-            "Atracoes": [
-                {
-                    "Nome": "Jardim do Miradouro de Barrancos",
-                    "Localidade": "Rua 1 de Dezembro 33, 7230-042 Barrancos",
-                    "Historia": "Jardim decorado com pequenos lagos, palmeiras e cabanas de madeira. Possui ainda um parque infantil com chão almofadado. Encontra-se localizado junto a um miradouro de onde se vislumbra paisagens em redor de Barrancos.",
-                    "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/828146"
-                },
-                {
-                    "Nome": "Jardim das Bicas",
-                    "Localidade": "R. das Bicas 18, 7230-023 Barrancos",
-                    "Historia": "Jardim no centro de Barrancos, com árvores de grande porte e caminhos pedonais serpenteando a área verde.",
-                    "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/827104"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Restaurante A Esquina",
-                    "Morada": "Rua das Fontaínhas 2, 7230-018 Barrancos",
-                    "Classificacao": 4.9,
-                    "Imagem": "https://lifecooler.com/files/registos/imagens/382273/307362.jpg"
-                },
-                {
-                    "Nome": "Restaurante Miradouro",
-                    "Morada": "Rua 1 de Dezembro 34, 7230-042 Barrancos",
-                    "Classificacao": 4.7,
-                    "Imagem": "https://4.bp.blogspot.com/-pL0lPNsQ-QM/VvQt9e4VHzI/AAAAAAABuSo/UqBTtWB2v48I0YsiXbNwiMryZpoR5LslA/s1600/Miradouro%2B2.jpg"
-                },
-                {
-                    "Nome": "A Forja",
-                    "Morada": "Rua Dr. Higino de Sousa 7 9, 7230-013 Barrancos",
-                    "Classificacao": 5.0,
-                    "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/749206"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Parque de Natureza de Noudar",
-                    "Morada": "Estrada Municipal 1023, 7230-057 Barrancos",
-                    "Preco": "",
-                    "Classificacao": 4,
-                    "Imagem": "https://lh3.googleusercontent.com/proxy/S4X8AgmpwP3m4mXhhJz7_Tl6bqMuGpOYv1eOpckWe3TsLCnk2WZ12eraJt9yNtJ8-SHkhVbp7n2WpElntDmV0poC6UopjPskh_TBRshQqT7AUSypJpFHbUrjYJK7AhJInA"
-                }
-            ]
-        },
-        {
-            "Nome": "Beja",
-            "Atracoes": [
-                {
-                    "Nome": "Castelo de Beja",
-                    "Localidade": "R. Dom Dinis 3, 7800-266 Beja",
-                    "Historia": "Embora a primitiva ocupação humana do seu sítio remonte à pré-história e esteja mencionada nos escritos de Ptolomeu e de Políbio, em meados do século II a.C., a sua fortificação data da Invasão romana da Península Ibérica, possivelmente devido à importância adquirida no cenário regional. Foi este o local escolhido por Júlio César para formalizar a paz com os Lusitanos (49), após o que passou a se denominar Pax Julia, vindo a sediar uma das três jurisdições romanas da Lusitânia. Acredita-se que os muros de defesa romanos remontem a algum momento entre o século III e o século IV. À época da Reconquista cristã da Península Ibérica, foi inicialmente conquistada pelas forças de D. Afonso Henriques (1112-1185) em 1159, para ser abandonada quatro meses mais tarde. Foi reconquistada de surpresa, por uma expedição de populares idos de Santarém, em princípio de Dezembro de 1162.",
-                    "Imagem": "https://cm-beja.pt/util/imgLoader2.ashx?img=/upload_files/client_id_1/website_id_1/Beja/IMG_7997.jpg"
-                },
-                {
-                    "Nome": "Monumento ao Prisioneiro Político Desconhecido",
-                    "Localidade": "R. Dom Nuno Alvares Pereira 5, 7800-054 Beja",
-                    "Historia": "Foi projetada em 1953 para o Concurso Internacional de Escultura promovido pelo Institute of Contemporary Arts, Londres, O Prisioneiro Político Desconhecido, onde foi premiada. A maqueta levada a concurso integrou, depois, a mostra de artistas premiados nesse certame na Tate Gallery, Londres. Foi apresentada também na II Bienal de S. Paulo, Brasil (representação portuguesa). Em 1958 a escultura foi novamente exposta, no Pavilhão de Portugal da Exposição Universal de Bruxelas (Exposition Universelle de Bruxelles). Foi então selecionada pelo júri de admissão para integrar a exposição 50 Ans d'Art Moderne (Bruxelas, 1958); organizada no âmbito da Exposição Universal de Bruxelas, essa mostra apresentou uma panorâmica da arte internacional nas primeiras cinco décadas do século XX através de obras dos seus mais destacados representantes (a imagem a preto e branco que ilustra este artigo foi publicada no catálogo dessa exposição).",
-                    "Imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b7/Jorge_Vieira_Monumento_ao_prisioneiro_pol%C3%ADtico_desconhecido_1953.jpg/220px-Jorge_Vieira_Monumento_ao_prisioneiro_pol%C3%ADtico_desconhecido_1953.jpg"
-                },
-                {
-                    "Nome": "Igreja da Misericórdia de Beja",
-                    "Localidade": "Praça da República 41, 7800-396 Beja",
-                    "Historia": "A Igreja da Misericórdia de Beja apresenta-se como um emblemático e belo exemplar da arquitectura de transição entre o Renascimento e o Maneirismo em Portugal, pleno do entendimento das fontes tratadísticas e das formas eruditas da lição maneirista italiana, originado na traça de um dos mais notáveis arquitectos do terceiro quartel do século XVI.",
-                    "Imagem": "https://cm-beja.pt/util/imgLoader2.ashx?img=/upload_files/client_id_1/website_id_1/Beja/IMG_597111.JPG"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Adega Típica 25 de Abril",
-                    "Morada": "R. da Moeda 23, 7800-464 Beja",
-                    "Classificacao": 4.4,
-                    "Imagem": "https://lifecooler.com/files/registos/imagens/393985/103384.jpg"
-                },
-                {
-                    "Nome": "Os Infantes Restaurante",
-                    "Morada": "R. dos Infantes 16, 7800-495 Beja",
-                    "Classificacao": 4.6,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/da/77/d1/sala-com-aboboda.jpg"
-                },
-                {
-                    "Nome": "Restaurante Dom Dinis",
-                    "Morada": "R. Dom Dinis 11, 7800-305 Beja",
-                    "Classificacao": 4.5,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3c/fa/0e/restaurante-dom-dinis.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Hotel Melius",
-                    "Morada": "Av. Fialho de Almeida, 7800-395 Beja",
-                    "Preco": "65",
-                    "Classificacao": 3,
-                    "Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/39/66/39665_v3.jpeg"
-                },
-                {
-                    "Nome": "BejaParque Hotel",
-                    "Morada": "R. Francisco Miguel Duarte 1, 7800-510 Beja",
-                    "Preco": "74",
-                    "Classificacao": 4,
-                    "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/118/118764422.jpg"
-                }
-            ]
-        },
-        {
-            "Nome": "Cuba",
-            "Atracoes": [
-                {
-                    "Nome": "Casa-Museu Quinta da Esperança",
-                    "Localidade": "Rua da Quinta da Esperança, 7940-256 Cuba",
-                    "Historia": "A Quinta da Esperança situa-se em Cuba, Distrito de Beja, Baixo Alentejo, Portugal. É uma casa senhorial datada do final do Século XVI. Há registos de sua existência já em meados de 1595. Com quatro pisos e mais de 200 divisões, foi erguida pela família Sebolinhos de Barahona, influente família da região que transformou toda a área a seu redor num dos maiores campos de cultivo de trigo de Portugal, criando o Morgado da Esperança a partir de 1750. O imóvel, por ser uma habitação da nobreza, teve o privilégio de hospedar três elementos da Família Real Portuguesa: a Rainha D. Maria II, o Rei D. Pedro V e o Rei D. Luís, aquando das suas deslocações à cidade de Beja, além também de ter recebido em suas dependências outras realezas de outras terras. Em exposição no momento, 25 salas, incluindo a belíssima Capela entre outras curiosidades do edifício.",
-                    "Imagem": "https://bolimg.blob.core.windows.net/producao/imagens/entidades/aderentes/ent5784.jpg?v=7"
-                },
-                {
-                    "Nome": "eco Palacete Borralho Relógio",
-                    "Localidade": "Rua Dr. João de Almeida Tojeiro 6, 7940-122 Cuba",
-                    "Historia": "Alvo de requalificações nos anos de 2014 e 2015, o ecoPalacete Borralho Relógio remonta ao século XIX, contando mais de 140 anos de história. Hoje, partilha com os visitantes um pouco da história da vila, bem como da 'família que durante 6 gerações procurou preservar um património que é de todos'.",
-                    "Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/eco%20Palacete%20PBR%204-660x371.jpg?itok=a8F7NRna"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Adega da Casa de Monte Pedral",
-                    "Morada": "Rua da Fonte dos Leões, 7940-014 Cuba",
-                    "Classificacao": 4.5,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/82/b4/e6/restaurante-alentejano.jpg"
-                },
-                {
-                    "Nome": "Restaurante Taberna da Arrufa",
-                    "Morada": "Trecho das Francas n3, 7940-178 Cuba",
-                    "Classificacao": 4.4,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/e6/e0/9c/adega-do-arrufa.jpg"
-                },
-                {
-                    "Nome": "Restaurante O Lucas",
-                    "Morada": "R. Visc. da Esperança 65A, 7940-191 Cuba",
-                    "Classificacao": 4.1,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/a9/b6/f8/sala-de-refeicoes.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Herdade Do Gizo",
-                    "Morada": "Estrada Nacional, 7940-017 Cuba",
-                    "Preco": "220",
-                    "Classificacao": 4,
-                    "Imagem": "https://pix10.agoda.net/property/11742147/0/34170c8184cd24e21cf94ffca11eb21f.jpg?s=1024x768"
-                }
-            ]
-        },
-        {
-            "Nome": "Ferreira do Alentejo",
-            "Atracoes": [
-                {
-                    "Nome": "Museu Municipal de Ferreira do Alentejo",
-                    "Localidade": "R. do Conselheiro Júlio de Vilhena 5, 7900-599 Ferreira do Alentejo",
-                    "Historia": "O Museu Municipal de Ferreira do Alentejo foi criado em dezembro de 1996, quando o Município criou o Serviço Histórico Museológico, tendo sido inaugurado apenas a 22 de outubro de 2004. O Museu ocupa a grande maioria da Casa Agrícola Jorge Ribeiro de Sousa, propriedade do herdeiro dos Condes de Avilez e Boa Vista e da Morgada da Apariça. Desconhece-se a data exata de construção do edifício, no entanto, algumas das suas características arquitetónicas datam da segunda metade do século XIX.",
-                    "Imagem": "https://www.e-cultura.pt/images/user/image14829343888412.jpg"
-                },
-                {
-                    "Nome": "Capela do Calvário",
-                    "Localidade": "7900-556 Ferreira do Alentejo",
-                    "Historia": "Este templo foi construído no Século XVII.",
-                    "Imagem": "https://ferreiradoalentejo.pt/wp-content/uploads/2017/04/rascunho-automatico-76.jpg"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Sabores com Memória",
-                    "Morada": "Rua Dr. António José de Almeida 41, 7900-583 Ferreira do Alentejo",
-                    "Classificacao": 4.1,
-                    "Imagem": "https://ferreiradoalentejo.pt/wp-content/uploads/2017/04/sabores2.jpg"
-                },
-                {
-                    "Nome": "Restaurante O Baguinho",
-                    "Morada": "Av. Gen. Humberto Delgado 96, 7900-110 Ferreira do Alentejo",
-                    "Classificacao": 4.1,
-                    "Imagem": "https://ferreiradoalentejo.pt/wp-content/uploads/2017/04/qqqqqa.jpg"
-                },
-                {
-                    "Nome": "Restaurante O Portão",
-                    "Morada": "R. Movimento das Forças Armadas 12, 7900-619 Ferreira do Alentejo",
-                    "Classificacao": 4.4,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/16/3d/8f/69/sala.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Hotel O Gato",
-                    "Morada": "Estrada Nacional Nº 2, 7900-371",
-                    "Preco": "61",
-                    "Classificacao": 3,
-                    "Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/12/79/127915_v10.jpeg"
-                },
-                {
-                    "Nome": "Pátio das Andorinhas",
-                    "Morada": "R. 25 de Abril 5, 7900-574 Ferreira do Alentejo",
-                    "Preco": "45",
-                    "Classificacao": 3,
-                    "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/106/106130017.jpg"
-                }
-            ]
-        },
-        {
-            "Nome": "Mértola",
-            "Atracoes": [
-                {
-                    "Nome": "Miradouro do Castelo de Mértola",
-                    "Localidade": "R. da Igreja, 7750-338 Mértola",
-                    "Historia": "A indicação mais comum é a de atribuir a Torre do Relógio aos finais do século XVI e princípios do XVII. Situada na proximidade do rio Guadiana, a torre integra-se na estrutura das muralhas que delimitam a cidade. Acredita-se que esta edificação se proponha para uma das duas ou até mesmo para as duas funcionalidades como o fornecimento de água e o controle da zona portuária.",
-                    "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/833835"
-                },
-                {
-                    "Nome": "Torre do Relógio de Mértola",
-                    "Localidade": "R. Dom Sancho II 15, 7750-350 Mértola",
-                    "Historia": "Este templo foi construído no Século XVII.",
-                    "Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/beja-mertola/mertola/torre-do-relogio.jpg"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Espaço Casa Amarela",
-                    "Morada": "Vivenda Casa Amarela, Estrada dos Celeiros 25-26, Sitio, 77750-301 Mértola",
-                    "Classificacao": 4.4,
-                    "Imagem": "https://lifecooler.com/files/registos/imagens/451479/358940.jpg"
-                },
-                {
-                    "Nome": "Restaurante Tamuje",
-                    "Morada": "Rua Dr. Serrão Martins 36, 7750-355 Mértola",
-                    "Classificacao": 4.4,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/e4/ee/03/casadepasto-cafetaria.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Hotel Museu",
-                    "Morada": "R. Dr. Afonso Costa 112, 7750-352 Mértola",
-                    "Preco": "50",
-                    "Classificacao": 3,
-                    "Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/490/49093751.jpg"
-                },
-                {
-                    "Nome": "BEIRA RIO",
-                    "Morada": "R. Dr. Afonso Costa Nº 108, 7750-352 Mértola",
-                    "Preco": "36",
-                    "Classificacao": 3,
-                    "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/236/236294519.jpg"
-                }
-            ]
-        },
-        {
-            "Nome": "Moura",
-            "Atracoes": [
-                {
-                    "Nome": "Castelo de Moura",
-                    "Localidade": "Calçada do Castelo, 7860-009 Moura",
-                    "Historia": "Acredita-se que a primitiva ocupação humana deste sítio remonte a um castro da Idade do Ferro, sucessivamente ocupado pelos Romanos, pelos Visigodos e pelos Muçulmanos, quando alcançou expressão regional como capital da província de Al-Manijah, conforme os diversos testemunhos arqueológicos atualmente recolhidos ao Museu Municipal de Moura. A construção da fortificação Muçulmana, em taipa, datará dos meados do século XI ao início do século XII, da qual nos chegaram alguns vestígios, como a chamada Torre da Salúquia. À época da Reconquista cristã da Península Ibérica, a povoação foi inicialmente conquistada, em 1166, pelos irmãos Pedro e Álvaro Rodrigues e perdida quase de seguida. Foi, ainda em 1166, conquistada por Geraldo Sem Pavor, tendo depois disso, e até ao reinado de D. Dinis, sido perdida e reconquistada mais quatro vezes. Na segunda metade do século XIV, sob o reinado de D. Fernando (1367-1383), iniciou-se uma segunda cerca amuralhada, envolvendo os novos limites da povoação, aumentados. Quando de seu falecimento, abrindo-se a crise de 1383-1385, a vila e seu castelo tomaram partido por D. Beatriz e João I de Castela até à época da batalha de Aljubarrota.",
-                    "Imagem": "https://images.turismoenportugal.org/Castelo-de-Moura.jpg"
-                },
-                {
-                    "Nome": "Torre do Relógio de Moura",
-                    "Localidade": "Praça Sacadura Cabra 2, 7860-184 Moura",
-                    "Historia": "A Torre do Relógio compreende duas obras distintas: a base, de inícios do século XVI; e a parte superior, de finais do século XIX/ inícios do século XX.",
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/88/ec/63/torre-do-relogio-moura.jpg"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Restaurante O Molho",
-                    "Morada": "R. Nova do Carmo 17, Moura",
-                    "Classificacao": 4.7,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/41/49/53/restaurante-o-molho.jpg"
-                },
-                {
-                    "Nome": "Restaurante O Celeiro",
-                    "Morada": "Rua Henrique jose pinto, 7860-355 Moura",
-                    "Classificacao": 4.5,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/1e/83/52/o-celeiro.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Hotel de Moura",
-                    "Morada": "Praça Gago Coutinho nº1, 7860-010 Moura",
-                    "Preco": "47",
-                    "Classificacao": 3,
-                    "Imagem": "https://hoteldemoura.com/downloads/SEO/1/imagem1.jpg"
-                },
-                {
-                    "Nome": "Hotel Santa Comba",
-                    "Morada": "Praça Sacadura Cabral 34, 7860-208 Moura",
-                    "Preco": "44",
-                    "Classificacao": 2,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/97/65/6c/frente-do-hotel.jpg"
-                }
-            ]
-        },
-        {
-            "Nome": "Odemira",
-            "Atracoes": [
-                {
-                    "Nome": "Cerro do Peguinho",
-                    "Localidade": "7630-174 Odemira",
-                    "Historia": "O miradouro do Cerro do Peguinho localiza-se num planalto no centro da vila de Odemira, junto à biblioteca municipal, onde existiu o antigo castelo de Odemira. Este local está recheado de história, pois no Cerro do Peguinho há vestígios do antigo castelo de Odemira, que entretanto deu lugar ao jardim e a um anfiteatro localizado junto ao edifício da biblioteca. É neste local que se realizam algumas atividades culturais, como é o exemplo do Festival de Folclore, todos os anos no dia 25 de abril.",
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/89/3f/79/cerro-do-peguinho-odemira.jpg"
-                },
-                {
-                    "Nome": "Rota Vicentina",
-                    "Localidade": "Passeio Quinta da Estrela, 3, 7630-130 Odemira",
-                    "História": "A Rota Vicentina distingue-se de tantas rotas pelo mundo fora, pelo facto de ser uma Associação Privada assente numa rede de dezenas – na verdade, mais de duas centenas! – de empresas locais. Estas empresas acreditam nos princípios de sustentabilidade que o projecto tem para a região e o seu investimento reparte-se entre o seu próprio negócio e o trabalho conjunto que a Rota Vicentina representa.",
-                    "Imagem": "https://www.visitportugal.com/sites/www.visitportugal.com/files/mediateca/RotaVicentina_2630-660x371_03_0.jpg"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Restaurante Fonte Férrea",
-                    "Morada": "7630-174 Odemira",
-                    "Classificacao": 4.4,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/a9/bd/8a/bar-restaurante-fonte.jpg"
-                },
-                {
-                    "Nome": "Cantinho Alentejano",
-                    "Morada": "R. Coron'el Galhardo 13, 7630-174 Odemira",
-                    "Classificacao": 4.6,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/4a/2f/44/o-cantinho-alentejano.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "WOW Alentejo",
-                    "Morada": "Tv. J. M. Mascarenhas Serrão 1, 7630-174 Odemira",
-                    "Preco": "55",
-                    "Classificacao": 3,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/27/27/81/wow-alentejo.jpg"
-                }
-            ]
-        },
-        {
-            "Nome": "Ourique",
-            "Atracoes": [
-                {
-                    "Nome": "Igreja Matriz de Ourique",
-                    "Localidade": "R. António Vitorino de Matos 1, 7670-363 Ourique",
-                    "Historia": "Construída no séc. XVI, com profundas alterações no séc. XIX, esta igreja apresenta uma planta longitudinal composta por nave e por capela-mor, a que se adossa, do lado esquerdo, a sacristia, dependências de apoio, baptistério e dois pequenos campanários. Possui nave coberta por laje em três planos. À direita de quem entra pia de água benta de cantaria; imediatamente a seguir à entrada, lápide sepulcral com uma inscrição muito delida.",
-                    "Imagem": "https://www.rotasturisticas.com/imagens/fotos/pt/large/fotos_22042_ourique_igreja_matriz_de_ourique.jpg"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Restaurante Monte Velho",
-                    "Morada": "R. Batalha de Ourique 33, 7670-261 Ourique",
-                    "Classificacao": 4.3,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/67/ff/88/best-restaurant-in-alentejo.jpg"
-                },
-                {
-                    "Nome": "Churrasqueira os salgados",
-                    "Morada": "R. Ten. Pereira 29, 7670-274 Ourique",
-                    "Classificacao": 4.4,
-                    "Imagem": "https://10619-2.s.cdn12.com/rests/small/w166/h136/341_502624913.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Hotel Romba",
-                    "Morada": "Cerca de S. Lourenço - Estrada de Garvão - Ourique, 7670-253 Ourique",
-                    "Preco": "37",
-                    "Classificacao": 2,
-                    "Imagem": "https://www.letsbookhotel.com/img/max300/278/27852519.jpg"
-                },
-                {
-                    "Nome": "Prazeres Do Alentejo",
-                    "Morada": "Av. 25 de Abril nº 24, 7670-250 Ourique",
-                    "Preco": "54",
-                    "Classificacao": 3,
-                    "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/158/158695165.jpg"
-                }
-            ]
-        },
-        {
-            "Nome": "Serpa",
-            "Atracoes": [
-                {
-                    "Nome": "Museu Etnográfico de Serpa",
-                    "Localidade": "7830-328 Serpa",
-                    "Historia": "O Museu Etnográfico de Serpa, inaugurado em 1987, encontra-se instalado no edifício do antigo mercado municipal, construção de finais do século XIX, que foi objecto de recuperação e remodelação pelo atelier do arquitecto A. Saldanha.",
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/0c/32/29/museu-etnografico-de.jpg"
-                },
-                {
-                    "Nome": "Museu do Relógio",
-                    "Localidade": "R. do Assento 35, 7830-338 Serpa",
-                    "Historia": "Encontra-se sedeado em Serpa, no edifício do Convento do Mosteirinho do século XVI, em pleno centro histórico da cidade. Em Évora estende-se a colecção no “Museu do Relógio – Polo de Évora”, localizado no nobre Palácio Barrocal (junto à famosa Praça do Giraldo), onde expõe mais de 500 peças da sua colecção total.",
-                    "Imagem": "https://www.guiadacidade.pt/bpt/destup/large/50b26a1911938sala4jpg.jpg"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "O Alentejano",
-                    "Morada": "Praça da República 15, 7830-389 Serpa",
-                    "Classificacao": 4.4,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/2a/53/ef/o-alentejano.jpg"
-                },
-                {
-                    "Nome": "Café Engrola",
-                    "Morada": "R. Nova da Porta Nova 11, 7830-426 Serpa",
-                    "Classificacao": 4.6,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/28/cf/50/pequeno-restaurante-familiar.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Casa de Serpa - Turismo Rural",
-                    "Morada": "Largo do Salvador 28, 7830-330 Serpa",
-                    "Preco": "45",
-                    "Classificacao": 3,
-                    "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/623/62357923.jpg"
-                },
-                {
-                    "Nome": "Hotel Pulo do Lobo",
-                    "Morada": "Estr. de São Bráz 9, 7830-324 Serpa",
-                    "Preco": "33",
-                    "Classificacao": 2,
-                    "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/191/19191072.jpg"
-                }
-            ]
-        },
-        {
-            "Nome": "Vidigueira",
-            "Atracoes": [
-                {
-                    "Nome": "Museu Municipal de Vidigueira",
-                    "Localidade": "R. Dr. Carlos César Sotto Mayor Figueira 1, Vidigueira",
-                    "Historia": "O Museu Municipal da Vidigueira localiza-se na Praça Vasco da Gama na Vidigueira e encontra-se instalado no antigo edifício antes ocupado pela Escola Primária Vasco da Gama, que foi remodelado e adaptado a espaço museológico. O espaço organiza-se em dois grandes núcleos temáticos de leitura independente, entrando em linha de conta o aproveitamento museológico do próprio edifício, cuja memória, enquanto Escola Primária, merece ser preservada. No primeiro núcleo é retratada a história no concelho, desde a inauguração do edifício da Escola, em 1884, até ao final da sua utilização como estabelecimento de ensino em 1991. O segundo núcleo dá-nos uma visão do quadro económico das décadas de 30 e seguintes, através dos ofícios, comércio, agricultura e pequena indústria do concelho.",
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/89/30/3b/museu-municipal-da-vidigueira.jpg"
-                },
-                {
-                    "Nome": "Praça Vasco Da Gama",
-                    "Localidade": "R. Dr. Carlos César Sotto Mayor Figueira 1, Vidigueira",
-                    "Historia": "O Museu Municipal da Vidigueira localiza-se na Praça Vasco da Gama na Vidigueira e encontra-se instalado no antigo edifício antes ocupado pela Escola Primária Vasco da Gama, que foi remodelado e adaptado a espaço museológico.",
-                    "Imagem": "https://lh3.googleusercontent.com/proxy/jVk1UWJozNF0OXpMCeDpRXqo7UhffJ3I8fKJiv8qS0LZxHyqVXU1Xv6VZ4szeOrjZfhpDd6ohg6jqw_aN_YuprIcmMgBHaGD3tzEpOUu167ParmP0OPZxa2-V-nMMDyp4qN-x_7sJA"
-                }
-            ],
-            "Restaurantes": [
-                {
-                    "Nome": "Restaurante 'A Cascata'",
-                    "Morada": "Largo da Cascata 6, Vidigueira",
-                    "Classificacao": 4.0,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/22/3e/81/photo0jpg.jpg"
-                },
-                {
-                    "Nome": "Taberna Tia Jacinta",
-                    "Morada": "Largo Frei Antonio das Chagas 71, 7960-220 Vidigueira",
-                    "Classificacao": 4.4,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/53/15/30/20191218-121648-largejpg.jpg"
-                }
-            ],
-            "Hoteis": [
-                {
-                    "Nome": "Hotel Santa Clara",
-                    "Morada": "Rua do Matadouro 1, 7960-258 Vidigueira",
-                    "Preco": "58",
-                    "Classificacao": 2,
-                    "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/a5/f1/b8/residencial-santa-clara.jpg"
-                }
-            ]
+          "Nome": "Museu Municipal de Arqueologia de Aljustrel",
+          "Localidade": "Rua de São João de Deus 19, 7600-116 Aljustrel",
+          "Historia": "O Museu Municipal de Aljustrel, depositário de grande parte do espólio arqueológico e etnográfico recolhido no concelho, convida-o a realizar uma viagem no tempo, através dos artefactos utilizados pelos diversos povos que aqui se estabeleceram, desde os períodos mais remotos até à atualidade, cruzando as suas gentes e as suas culturas e de que resultou a realidade que hoje é Aljustrel.",
+          "Imagem": "https://www.vozdaplanicie.pt/images/180520171652-547-MuseudaRuralidade.jpg"
         }
-    ],
-    "Imagem": "https://www.travel-in-portugal.com/sites/default/files/photos/beja.jpg"
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Fio d'Azeite",
+          "Morada": "R. Catarina Eufémia 5 099, 7600-099 Aljustrel",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/11/05/57/9b/restaurante-fio-d-azeite.jpg"
+        },
+        {
+          "Nome": "O Cabecinha",
+          "Morada": "Avenida Antero Quental 22, 7600-013 Aljustrel",
+          "Classificacao": 4.3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/bd/09/f6/vongole-alla-spagnola.jpg"
+        },
+        {
+          "Nome": "Mirante",
+          "Morada": "Urbanização praça de touros, 7600-098 Aljustrel",
+          "Classificacao": 3.7,
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/x280/resize/770495"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Villa Aljustrel",
+          "Morada": "R. Catarina Eufémia nº5, 7600-099 Aljustrel",
+          "Preco": "85€",
+          "Classificacao": 3,
+          "Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/destaque%20aljustrel1.jpg?itok=UkknNfHc"
+        }
+      ]
+    },
+    {
+      "Nome": "Almodôvar",
+      "Atracoes": [
+        {
+          "Nome": "Convento de Nossa Senhora da Conceição",
+          "Localidade": "Rua do Convento 25, 7700-058 Almodôvar",
+          "Historia": "Foi fundado por Pedro Cardoso Machado, 3.º neto de Gonçalo Eanes, e dele recebendo avultados donativos para ali se instalar a sua irmã, já freira professa da Ordem de Santa Clara, no Mosteiro da Luz, na então vila da Praia. Recebeu alvará concedido pelo Papa Paulo V através de Bula de 5 de agosto de 1606.",
+          "Imagem": "https://www.visitarportugal.pt/images/fotos/administrator/beja/c-almodovar/almodovar/convento-n-sra-conceicao-4.jpg+"
+        },
+        {
+          "Nome": "Homenagem ao Mineiro, escultura de Aureliano de Aguiar",
+          "Localidade": "N267 7700, Almodôvar",
+          "Historia": "Foi fundado por Pedro Cardoso Machado, 3.º neto de Gonçalo Eanes, e dele recebendo avultados donativos para ali se instalar a sua irmã, já freira professa da Ordem de Santa Clara, no Mosteiro da Luz, na então vila da Praia. Recebeu alvará concedido pelo Papa Paulo V através de Bula de 5 de agosto de 1606.",
+          "Imagem": "https://www.sulinformacao.pt/wp-content/uploads/2018/11/rotunda-mineiros-almod%C3%B4var-2-e1543596175388.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "O Moinho",
+          "Morada": "46, R. do Arco de Baúlhe 36",
+          "Classificacao": 4.0,
+          "Imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/10/13295415Restaurante-O-Moinho-40.JPG"
+        },
+        {
+          "Nome": "Pizzaria 'O Forno'",
+          "Morada": "R. 17 de Abril 2, 7700-050 Almodôvar",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/09/fe/e0/photo0jpg.jpg"
+        },
+        {
+          "Nome": "Pizzaria Ricordi",
+          "Morada": "Rua do Convento 9, 7700-058 Almodôvar",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/17/53/c2/94/pizzaria-ricordi.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Serafim",
+          "Morada": "Rua do Afonso 9, 7700-053 Almodôvar",
+          "Preco": "45",
+          "Classificacao": 2,
+          "Imagem": "https://pix10.agoda.net/hotelImages/467/467586/467586_13091211570015088119.jpg?s=1024x768"
+        },
+        {
+          "Nome": "Monte Gois Country House & Spa",
+          "Morada": "Monte Gois 212, Almodôvar",
+          "Preco": "105",
+          "Classificacao": 5,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/218/218438468.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Alvito",
+      "Atracoes": [
+        {
+          "Nome": "Moinho de Bagaço",
+          "Localidade": "Largo Gen. Humberto Delgado 4, 7920-027 Alvito",
+          "Historia": "Mós de Granito, parte de equipamento usado até aos anos 70 do Séc.XX para esmagar o bagaço de azeitona nos lagares de azeite (Alvito, Portugal).",
+          "Imagem": "https://www.vozdaplanicie.pt/images/h_040420141920-612-moinhosdevento.jpg"
+        },
+        {
+          "Nome": "Ermida de São Sebastião",
+          "Localidade": "R. dos Aviadores 1, 7920-052 Alvito",
+          "Historia": "Foi mandada edificar em 1892 por Francisco Maria Brum junto da sua residência, sob a invocação de São Sebastião. Possui ainda imagens de Nossa Senhora das Necessidades, do Espírito Santo, de Santo António, de São José e de São Francisco de Assis.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/75/a3/7c/ermida-de-sao-sebastiao.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Café Restaurante - O Francês",
+          "Morada": "Av. dos Bombeiros Voluntários 30, 7920-011 Alvito",
+          "Classificacao": 4.1,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/42/3b/5a/o-frances.jpg"
+        },
+        {
+          "Nome": "Restaurante da pousada de Alvito",
+          "Morada": "Largo do Castelo 3, 7920-054 Alvito",
+          "Classificacao": 4.1,
+          "Imagem": "https://lifecooler.com/files/registos/imagens/332061/70967.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Horta Da Vila",
+          "Morada": "Alvito",
+          "Preco": "80",
+          "Classificacao": 4,
+          "Imagem": "https://www.mybesthotel.eu/pic/_10_557d99abb8a7f.jpg"
+        },
+        {
+          "Nome": "Pousada do Castelo de Alvito",
+          "Morada": "Castelo de Alvito, 7920-999 Alvito",
+          "Preco": "85",
+          "Classificacao": 4,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/146/146155090.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Barrancos",
+      "Atracoes": [
+        {
+          "Nome": "Jardim do Miradouro de Barrancos",
+          "Localidade": "Rua 1 de Dezembro 33, 7230-042 Barrancos",
+          "Historia": "Jardim decorado com pequenos lagos, palmeiras e cabanas de madeira. Possui ainda um parque infantil com chão almofadado. Encontra-se localizado junto a um miradouro de onde se vislumbra paisagens em redor de Barrancos.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/828146"
+        },
+        {
+          "Nome": "Jardim das Bicas",
+          "Localidade": "R. das Bicas 18, 7230-023 Barrancos",
+          "Historia": "Jardim no centro de Barrancos, com árvores de grande porte e caminhos pedonais serpenteando a área verde.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/827104"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante A Esquina",
+          "Morada": "Rua das Fontaínhas 2, 7230-018 Barrancos",
+          "Classificacao": 4.9,
+          "Imagem": "https://lifecooler.com/files/registos/imagens/382273/307362.jpg"
+        },
+        {
+          "Nome": "Restaurante Miradouro",
+          "Morada": "Rua 1 de Dezembro 34, 7230-042 Barrancos",
+          "Classificacao": 4.7,
+          "Imagem": "https://4.bp.blogspot.com/-pL0lPNsQ-QM/VvQt9e4VHzI/AAAAAAABuSo/UqBTtWB2v48I0YsiXbNwiMryZpoR5LslA/s1600/Miradouro%2B2.jpg"
+        },
+        {
+          "Nome": "A Forja",
+          "Morada": "Rua Dr. Higino de Sousa 7 9, 7230-013 Barrancos",
+          "Classificacao": 5.0,
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/749206"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Parque de Natureza de Noudar",
+          "Morada": "Estrada Municipal 1023, 7230-057 Barrancos",
+          "Preco": "",
+          "Classificacao": 4,
+          "Imagem": "https://lh3.googleusercontent.com/proxy/S4X8AgmpwP3m4mXhhJz7_Tl6bqMuGpOYv1eOpckWe3TsLCnk2WZ12eraJt9yNtJ8-SHkhVbp7n2WpElntDmV0poC6UopjPskh_TBRshQqT7AUSypJpFHbUrjYJK7AhJInA"
+        }
+      ]
+    },
+    {
+      "Nome": "Beja",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Beja",
+          "Localidade": "R. Dom Dinis 3, 7800-266 Beja",
+          "Historia": "Embora a primitiva ocupação humana do seu sítio remonte à pré-história e esteja mencionada nos escritos de Ptolomeu e de Políbio, em meados do século II a.C., a sua fortificação data da Invasão romana da Península Ibérica, possivelmente devido à importância adquirida no cenário regional. Foi este o local escolhido por Júlio César para formalizar a paz com os Lusitanos (49), após o que passou a se denominar Pax Julia, vindo a sediar uma das três jurisdições romanas da Lusitânia. Acredita-se que os muros de defesa romanos remontem a algum momento entre o século III e o século IV. À época da Reconquista cristã da Península Ibérica, foi inicialmente conquistada pelas forças de D. Afonso Henriques (1112-1185) em 1159, para ser abandonada quatro meses mais tarde. Foi reconquistada de surpresa, por uma expedição de populares idos de Santarém, em princípio de Dezembro de 1162.",
+          "Imagem": "https://cm-beja.pt/util/imgLoader2.ashx?img=/upload_files/client_id_1/website_id_1/Beja/IMG_7997.jpg"
+        },
+        {
+          "Nome": "Monumento ao Prisioneiro Político Desconhecido",
+          "Localidade": "R. Dom Nuno Alvares Pereira 5, 7800-054 Beja",
+          "Historia": "Foi projetada em 1953 para o Concurso Internacional de Escultura promovido pelo Institute of Contemporary Arts, Londres, O Prisioneiro Político Desconhecido, onde foi premiada. A maqueta levada a concurso integrou, depois, a mostra de artistas premiados nesse certame na Tate Gallery, Londres. Foi apresentada também na II Bienal de S. Paulo, Brasil (representação portuguesa). Em 1958 a escultura foi novamente exposta, no Pavilhão de Portugal da Exposição Universal de Bruxelas (Exposition Universelle de Bruxelles). Foi então selecionada pelo júri de admissão para integrar a exposição 50 Ans d'Art Moderne (Bruxelas, 1958); organizada no âmbito da Exposição Universal de Bruxelas, essa mostra apresentou uma panorâmica da arte internacional nas primeiras cinco décadas do século XX através de obras dos seus mais destacados representantes (a imagem a preto e branco que ilustra este artigo foi publicada no catálogo dessa exposição).",
+          "Imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b7/Jorge_Vieira_Monumento_ao_prisioneiro_pol%C3%ADtico_desconhecido_1953.jpg/220px-Jorge_Vieira_Monumento_ao_prisioneiro_pol%C3%ADtico_desconhecido_1953.jpg"
+        },
+        {
+          "Nome": "Igreja da Misericórdia de Beja",
+          "Localidade": "Praça da República 41, 7800-396 Beja",
+          "Historia": "A Igreja da Misericórdia de Beja apresenta-se como um emblemático e belo exemplar da arquitectura de transição entre o Renascimento e o Maneirismo em Portugal, pleno do entendimento das fontes tratadísticas e das formas eruditas da lição maneirista italiana, originado na traça de um dos mais notáveis arquitectos do terceiro quartel do século XVI.",
+          "Imagem": "https://cm-beja.pt/util/imgLoader2.ashx?img=/upload_files/client_id_1/website_id_1/Beja/IMG_597111.JPG"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Adega Típica 25 de Abril",
+          "Morada": "R. da Moeda 23, 7800-464 Beja",
+          "Classificacao": 4.4,
+          "Imagem": "https://lifecooler.com/files/registos/imagens/393985/103384.jpg"
+        },
+        {
+          "Nome": "Os Infantes Restaurante",
+          "Morada": "R. dos Infantes 16, 7800-495 Beja",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/da/77/d1/sala-com-aboboda.jpg"
+        },
+        {
+          "Nome": "Restaurante Dom Dinis",
+          "Morada": "R. Dom Dinis 11, 7800-305 Beja",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3c/fa/0e/restaurante-dom-dinis.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Melius",
+          "Morada": "Av. Fialho de Almeida, 7800-395 Beja",
+          "Preco": "65",
+          "Classificacao": 3,
+          "Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/39/66/39665_v3.jpeg"
+        },
+        {
+          "Nome": "BejaParque Hotel",
+          "Morada": "R. Francisco Miguel Duarte 1, 7800-510 Beja",
+          "Preco": "74",
+          "Classificacao": 4,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/118/118764422.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Cuba",
+      "Atracoes": [
+        {
+          "Nome": "Casa-Museu Quinta da Esperança",
+          "Localidade": "Rua da Quinta da Esperança, 7940-256 Cuba",
+          "Historia": "A Quinta da Esperança situa-se em Cuba, Distrito de Beja, Baixo Alentejo, Portugal. É uma casa senhorial datada do final do Século XVI. Há registos de sua existência já em meados de 1595. Com quatro pisos e mais de 200 divisões, foi erguida pela família Sebolinhos de Barahona, influente família da região que transformou toda a área a seu redor num dos maiores campos de cultivo de trigo de Portugal, criando o Morgado da Esperança a partir de 1750. O imóvel, por ser uma habitação da nobreza, teve o privilégio de hospedar três elementos da Família Real Portuguesa: a Rainha D. Maria II, o Rei D. Pedro V e o Rei D. Luís, aquando das suas deslocações à cidade de Beja, além também de ter recebido em suas dependências outras realezas de outras terras. Em exposição no momento, 25 salas, incluindo a belíssima Capela entre outras curiosidades do edifício.",
+          "Imagem": "https://bolimg.blob.core.windows.net/producao/imagens/entidades/aderentes/ent5784.jpg?v=7"
+        },
+        {
+          "Nome": "eco Palacete Borralho Relógio",
+          "Localidade": "Rua Dr. João de Almeida Tojeiro 6, 7940-122 Cuba",
+          "Historia": "Alvo de requalificações nos anos de 2014 e 2015, o ecoPalacete Borralho Relógio remonta ao século XIX, contando mais de 140 anos de história. Hoje, partilha com os visitantes um pouco da história da vila, bem como da 'família que durante 6 gerações procurou preservar um património que é de todos'.",
+          "Imagem": "https://www.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/eco%20Palacete%20PBR%204-660x371.jpg?itok=a8F7NRna"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Adega da Casa de Monte Pedral",
+          "Morada": "Rua da Fonte dos Leões, 7940-014 Cuba",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/06/82/b4/e6/restaurante-alentejano.jpg"
+        },
+        {
+          "Nome": "Restaurante Taberna da Arrufa",
+          "Morada": "Trecho das Francas n3, 7940-178 Cuba",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/05/e6/e0/9c/adega-do-arrufa.jpg"
+        },
+        {
+          "Nome": "Restaurante O Lucas",
+          "Morada": "R. Visc. da Esperança 65A, 7940-191 Cuba",
+          "Classificacao": 4.1,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/13/a9/b6/f8/sala-de-refeicoes.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Herdade Do Gizo",
+          "Morada": "Estrada Nacional, 7940-017 Cuba",
+          "Preco": "220",
+          "Classificacao": 4,
+          "Imagem": "https://pix10.agoda.net/property/11742147/0/34170c8184cd24e21cf94ffca11eb21f.jpg?s=1024x768"
+        }
+      ]
+    },
+    {
+      "Nome": "Ferreira do Alentejo",
+      "Atracoes": [
+        {
+          "Nome": "Museu Municipal de Ferreira do Alentejo",
+          "Localidade": "R. do Conselheiro Júlio de Vilhena 5, 7900-599 Ferreira do Alentejo",
+          "Historia": "O Museu Municipal de Ferreira do Alentejo foi criado em dezembro de 1996, quando o Município criou o Serviço Histórico Museológico, tendo sido inaugurado apenas a 22 de outubro de 2004. O Museu ocupa a grande maioria da Casa Agrícola Jorge Ribeiro de Sousa, propriedade do herdeiro dos Condes de Avilez e Boa Vista e da Morgada da Apariça. Desconhece-se a data exata de construção do edifício, no entanto, algumas das suas características arquitetónicas datam da segunda metade do século XIX.",
+          "Imagem": "https://www.e-cultura.pt/images/user/image14829343888412.jpg"
+        },
+        {
+          "Nome": "Capela do Calvário",
+          "Localidade": "7900-556 Ferreira do Alentejo",
+          "Historia": "Este templo foi construído no Século XVII.",
+          "Imagem": "https://ferreiradoalentejo.pt/wp-content/uploads/2017/04/rascunho-automatico-76.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Sabores com Memória",
+          "Morada": "Rua Dr. António José de Almeida 41, 7900-583 Ferreira do Alentejo",
+          "Classificacao": 4.1,
+          "Imagem": "https://ferreiradoalentejo.pt/wp-content/uploads/2017/04/sabores2.jpg"
+        },
+        {
+          "Nome": "Restaurante O Baguinho",
+          "Morada": "Av. Gen. Humberto Delgado 96, 7900-110 Ferreira do Alentejo",
+          "Classificacao": 4.1,
+          "Imagem": "https://ferreiradoalentejo.pt/wp-content/uploads/2017/04/qqqqqa.jpg"
+        },
+        {
+          "Nome": "Restaurante O Portão",
+          "Morada": "R. Movimento das Forças Armadas 12, 7900-619 Ferreira do Alentejo",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/16/3d/8f/69/sala.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel O Gato",
+          "Morada": "Estrada Nacional Nº 2, 7900-371",
+          "Preco": "61",
+          "Classificacao": 3,
+          "Imagem": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/12/79/127915_v10.jpeg"
+        },
+        {
+          "Nome": "Pátio das Andorinhas",
+          "Morada": "R. 25 de Abril 5, 7900-574 Ferreira do Alentejo",
+          "Preco": "45",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/106/106130017.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Mértola",
+      "Atracoes": [
+        {
+          "Nome": "Miradouro do Castelo de Mértola",
+          "Localidade": "R. da Igreja, 7750-338 Mértola",
+          "Historia": "A indicação mais comum é a de atribuir a Torre do Relógio aos finais do século XVI e princípios do XVII. Situada na proximidade do rio Guadiana, a torre integra-se na estrutura das muralhas que delimitam a cidade. Acredita-se que esta edificação se proponha para uma das duas ou até mesmo para as duas funcionalidades como o fornecimento de água e o controle da zona portuária.",
+          "Imagem": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/833835"
+        },
+        {
+          "Nome": "Torre do Relógio de Mértola",
+          "Localidade": "R. Dom Sancho II 15, 7750-350 Mértola",
+          "Historia": "Este templo foi construído no Século XVII.",
+          "Imagem": "https://www.visitarportugal.pt/images/fotos/pedro_castro/beja-mertola/mertola/torre-do-relogio.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Espaço Casa Amarela",
+          "Morada": "Vivenda Casa Amarela, Estrada dos Celeiros 25-26, Sitio, 77750-301 Mértola",
+          "Classificacao": 4.4,
+          "Imagem": "https://lifecooler.com/files/registos/imagens/451479/358940.jpg"
+        },
+        {
+          "Nome": "Restaurante Tamuje",
+          "Morada": "Rua Dr. Serrão Martins 36, 7750-355 Mértola",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/e4/ee/03/casadepasto-cafetaria.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Museu",
+          "Morada": "R. Dr. Afonso Costa 112, 7750-352 Mértola",
+          "Preco": "50",
+          "Classificacao": 3,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1280x900/490/49093751.jpg"
+        },
+        {
+          "Nome": "BEIRA RIO",
+          "Morada": "R. Dr. Afonso Costa Nº 108, 7750-352 Mértola",
+          "Preco": "36",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/236/236294519.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Moura",
+      "Atracoes": [
+        {
+          "Nome": "Castelo de Moura",
+          "Localidade": "Calçada do Castelo, 7860-009 Moura",
+          "Historia": "Acredita-se que a primitiva ocupação humana deste sítio remonte a um castro da Idade do Ferro, sucessivamente ocupado pelos Romanos, pelos Visigodos e pelos Muçulmanos, quando alcançou expressão regional como capital da província de Al-Manijah, conforme os diversos testemunhos arqueológicos atualmente recolhidos ao Museu Municipal de Moura. A construção da fortificação Muçulmana, em taipa, datará dos meados do século XI ao início do século XII, da qual nos chegaram alguns vestígios, como a chamada Torre da Salúquia. À época da Reconquista cristã da Península Ibérica, a povoação foi inicialmente conquistada, em 1166, pelos irmãos Pedro e Álvaro Rodrigues e perdida quase de seguida. Foi, ainda em 1166, conquistada por Geraldo Sem Pavor, tendo depois disso, e até ao reinado de D. Dinis, sido perdida e reconquistada mais quatro vezes. Na segunda metade do século XIV, sob o reinado de D. Fernando (1367-1383), iniciou-se uma segunda cerca amuralhada, envolvendo os novos limites da povoação, aumentados. Quando de seu falecimento, abrindo-se a crise de 1383-1385, a vila e seu castelo tomaram partido por D. Beatriz e João I de Castela até à época da batalha de Aljubarrota.",
+          "Imagem": "https://images.turismoenportugal.org/Castelo-de-Moura.jpg"
+        },
+        {
+          "Nome": "Torre do Relógio de Moura",
+          "Localidade": "Praça Sacadura Cabra 2, 7860-184 Moura",
+          "Historia": "A Torre do Relógio compreende duas obras distintas: a base, de inícios do século XVI; e a parte superior, de finais do século XIX/ inícios do século XX.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/88/ec/63/torre-do-relogio-moura.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante O Molho",
+          "Morada": "R. Nova do Carmo 17, Moura",
+          "Classificacao": 4.7,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0d/41/49/53/restaurante-o-molho.jpg"
+        },
+        {
+          "Nome": "Restaurante O Celeiro",
+          "Morada": "Rua Henrique jose pinto, 7860-355 Moura",
+          "Classificacao": 4.5,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/1e/83/52/o-celeiro.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel de Moura",
+          "Morada": "Praça Gago Coutinho nº1, 7860-010 Moura",
+          "Preco": "47",
+          "Classificacao": 3,
+          "Imagem": "https://hoteldemoura.com/downloads/SEO/1/imagem1.jpg"
+        },
+        {
+          "Nome": "Hotel Santa Comba",
+          "Morada": "Praça Sacadura Cabral 34, 7860-208 Moura",
+          "Preco": "44",
+          "Classificacao": 2,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/97/65/6c/frente-do-hotel.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Odemira",
+      "Atracoes": [
+        {
+          "Nome": "Cerro do Peguinho",
+          "Localidade": "7630-174 Odemira",
+          "Historia": "O miradouro do Cerro do Peguinho localiza-se num planalto no centro da vila de Odemira, junto à biblioteca municipal, onde existiu o antigo castelo de Odemira. Este local está recheado de história, pois no Cerro do Peguinho há vestígios do antigo castelo de Odemira, que entretanto deu lugar ao jardim e a um anfiteatro localizado junto ao edifício da biblioteca. É neste local que se realizam algumas atividades culturais, como é o exemplo do Festival de Folclore, todos os anos no dia 25 de abril.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/89/3f/79/cerro-do-peguinho-odemira.jpg"
+        },
+        {
+          "Nome": "Rota Vicentina",
+          "Localidade": "Passeio Quinta da Estrela, 3, 7630-130 Odemira",
+          "História": "A Rota Vicentina distingue-se de tantas rotas pelo mundo fora, pelo facto de ser uma Associação Privada assente numa rede de dezenas – na verdade, mais de duas centenas! – de empresas locais. Estas empresas acreditam nos princípios de sustentabilidade que o projecto tem para a região e o seu investimento reparte-se entre o seu próprio negócio e o trabalho conjunto que a Rota Vicentina representa.",
+          "Imagem": "https://www.visitportugal.com/sites/www.visitportugal.com/files/mediateca/RotaVicentina_2630-660x371_03_0.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante Fonte Férrea",
+          "Morada": "7630-174 Odemira",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0e/a9/bd/8a/bar-restaurante-fonte.jpg"
+        },
+        {
+          "Nome": "Cantinho Alentejano",
+          "Morada": "R. Coron'el Galhardo 13, 7630-174 Odemira",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0c/4a/2f/44/o-cantinho-alentejano.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "WOW Alentejo",
+          "Morada": "Tv. J. M. Mascarenhas Serrão 1, 7630-174 Odemira",
+          "Preco": "55",
+          "Classificacao": 3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/27/27/81/wow-alentejo.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Ourique",
+      "Atracoes": [
+        {
+          "Nome": "Igreja Matriz de Ourique",
+          "Localidade": "R. António Vitorino de Matos 1, 7670-363 Ourique",
+          "Historia": "Construída no séc. XVI, com profundas alterações no séc. XIX, esta igreja apresenta uma planta longitudinal composta por nave e por capela-mor, a que se adossa, do lado esquerdo, a sacristia, dependências de apoio, baptistério e dois pequenos campanários. Possui nave coberta por laje em três planos. À direita de quem entra pia de água benta de cantaria; imediatamente a seguir à entrada, lápide sepulcral com uma inscrição muito delida.",
+          "Imagem": "https://www.rotasturisticas.com/imagens/fotos/pt/large/fotos_22042_ourique_igreja_matriz_de_ourique.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante Monte Velho",
+          "Morada": "R. Batalha de Ourique 33, 7670-261 Ourique",
+          "Classificacao": 4.3,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/07/67/ff/88/best-restaurant-in-alentejo.jpg"
+        },
+        {
+          "Nome": "Churrasqueira os salgados",
+          "Morada": "R. Ten. Pereira 29, 7670-274 Ourique",
+          "Classificacao": 4.4,
+          "Imagem": "https://10619-2.s.cdn12.com/rests/small/w166/h136/341_502624913.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Romba",
+          "Morada": "Cerca de S. Lourenço - Estrada de Garvão - Ourique, 7670-253 Ourique",
+          "Preco": "37",
+          "Classificacao": 2,
+          "Imagem": "https://www.letsbookhotel.com/img/max300/278/27852519.jpg"
+        },
+        {
+          "Nome": "Prazeres Do Alentejo",
+          "Morada": "Av. 25 de Abril nº 24, 7670-250 Ourique",
+          "Preco": "54",
+          "Classificacao": 3,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/158/158695165.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Serpa",
+      "Atracoes": [
+        {
+          "Nome": "Museu Etnográfico de Serpa",
+          "Localidade": "7830-328 Serpa",
+          "Historia": "O Museu Etnográfico de Serpa, inaugurado em 1987, encontra-se instalado no edifício do antigo mercado municipal, construção de finais do século XIX, que foi objecto de recuperação e remodelação pelo atelier do arquitecto A. Saldanha.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/0c/32/29/museu-etnografico-de.jpg"
+        },
+        {
+          "Nome": "Museu do Relógio",
+          "Localidade": "R. do Assento 35, 7830-338 Serpa",
+          "Historia": "Encontra-se sedeado em Serpa, no edifício do Convento do Mosteirinho do século XVI, em pleno centro histórico da cidade. Em Évora estende-se a colecção no “Museu do Relógio – Polo de Évora”, localizado no nobre Palácio Barrocal (junto à famosa Praça do Giraldo), onde expõe mais de 500 peças da sua colecção total.",
+          "Imagem": "https://www.guiadacidade.pt/bpt/destup/large/50b26a1911938sala4jpg.jpg"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "O Alentejano",
+          "Morada": "Praça da República 15, 7830-389 Serpa",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/03/2a/53/ef/o-alentejano.jpg"
+        },
+        {
+          "Nome": "Café Engrola",
+          "Morada": "R. Nova da Porta Nova 11, 7830-426 Serpa",
+          "Classificacao": 4.6,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/10/28/cf/50/pequeno-restaurante-familiar.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Casa de Serpa - Turismo Rural",
+          "Morada": "Largo do Salvador 28, 7830-330 Serpa",
+          "Preco": "45",
+          "Classificacao": 3,
+          "Imagem": "https://r-cf.bstatic.com/images/hotel/max1024x768/623/62357923.jpg"
+        },
+        {
+          "Nome": "Hotel Pulo do Lobo",
+          "Morada": "Estr. de São Bráz 9, 7830-324 Serpa",
+          "Preco": "33",
+          "Classificacao": 2,
+          "Imagem": "https://q-cf.bstatic.com/images/hotel/max1024x768/191/19191072.jpg"
+        }
+      ]
+    },
+    {
+      "Nome": "Vidigueira",
+      "Atracoes": [
+        {
+          "Nome": "Museu Municipal de Vidigueira",
+          "Localidade": "R. Dr. Carlos César Sotto Mayor Figueira 1, Vidigueira",
+          "Historia": "O Museu Municipal da Vidigueira localiza-se na Praça Vasco da Gama na Vidigueira e encontra-se instalado no antigo edifício antes ocupado pela Escola Primária Vasco da Gama, que foi remodelado e adaptado a espaço museológico. O espaço organiza-se em dois grandes núcleos temáticos de leitura independente, entrando em linha de conta o aproveitamento museológico do próprio edifício, cuja memória, enquanto Escola Primária, merece ser preservada. No primeiro núcleo é retratada a história no concelho, desde a inauguração do edifício da Escola, em 1884, até ao final da sua utilização como estabelecimento de ensino em 1991. O segundo núcleo dá-nos uma visão do quadro económico das décadas de 30 e seguintes, através dos ofícios, comércio, agricultura e pequena indústria do concelho.",
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/12/89/30/3b/museu-municipal-da-vidigueira.jpg"
+        },
+        {
+          "Nome": "Praça Vasco Da Gama",
+          "Localidade": "R. Dr. Carlos César Sotto Mayor Figueira 1, Vidigueira",
+          "Historia": "O Museu Municipal da Vidigueira localiza-se na Praça Vasco da Gama na Vidigueira e encontra-se instalado no antigo edifício antes ocupado pela Escola Primária Vasco da Gama, que foi remodelado e adaptado a espaço museológico.",
+          "Imagem": "https://lh3.googleusercontent.com/proxy/jVk1UWJozNF0OXpMCeDpRXqo7UhffJ3I8fKJiv8qS0LZxHyqVXU1Xv6VZ4szeOrjZfhpDd6ohg6jqw_aN_YuprIcmMgBHaGD3tzEpOUu167ParmP0OPZxa2-V-nMMDyp4qN-x_7sJA"
+        }
+      ],
+      "Restaurantes": [
+        {
+          "Nome": "Restaurante 'A Cascata'",
+          "Morada": "Largo da Cascata 6, Vidigueira",
+          "Classificacao": 4.0,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/0a/22/3e/81/photo0jpg.jpg"
+        },
+        {
+          "Nome": "Taberna Tia Jacinta",
+          "Morada": "Largo Frei Antonio das Chagas 71, 7960-220 Vidigueira",
+          "Classificacao": 4.4,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/1a/53/15/30/20191218-121648-largejpg.jpg"
+        }
+      ],
+      "Hoteis": [
+        {
+          "Nome": "Hotel Santa Clara",
+          "Morada": "Rua do Matadouro 1, 7960-258 Vidigueira",
+          "Preco": "58",
+          "Classificacao": 2,
+          "Imagem": "https://media-cdn.tripadvisor.com/media/photo-s/09/a5/f1/b8/residencial-santa-clara.jpg"
+        }
+      ]
+    }
+  ],
+  "Imagem": "https://www.travel-in-portugal.com/sites/default/files/photos/beja.jpg"
 }
