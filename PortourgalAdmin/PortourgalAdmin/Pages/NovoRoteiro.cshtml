@@ -1,0 +1,27 @@
+﻿@page
+@model PortourgalAdmin.Pages.NovoRoteiroModel
+@{
+    ViewData["Title"] = "Novo Roteiro";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Novo Roteiro</h1>
+</div>
+
+<form method="post">
+    <h6>Nome</h6>
+    <input type="text" name="nome">
+    <h6>ASCII</h6>
+    <input type="text" name="ascii">
+    <h6>Dist</h6>
+    <input type="number" name="dist">
+    <h6>Percurso</h6>
+    <input type="text" name="percurso">
+    <h6>Descricao</h6>
+    <input type="text" name="desc">
+    <h6>ImagemRoteiro</h6>
+    <input type="text" name="imagemroteiro">
+    <h6>ImagemPercurso</h6>
+    <input type="text" name="imagempercurso">
+    <p><input type="submit"></p>
+</form>

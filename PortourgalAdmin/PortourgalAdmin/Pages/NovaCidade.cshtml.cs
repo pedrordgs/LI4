@@ -11,27 +11,29 @@ using PortourgalAdmin.Model;
 
 namespace PortourgalAdmin.Pages
 {
-    public class CidadeModel : PageModel
+    public class NovaCidadeModel : PageModel
     {
-        public void OnGet(string nome, string dascii)
+        public void OnGet(string asciiname)
         {
-            Distrito = GetDistrito(dascii).Result;
-            Cidade = Distrito.Cidades.FirstOrDefault(x => x.Nome == nome);
+            ASCII = asciiname;
         }
 
-        public IActionResult OnPostDelete(string asciiname, string nome)
+        public ActionResult OnPost(string ascii)
         {
-            Distrito d = GetDistrito(asciiname).Result;
-            DeleteCidade(d,nome);
-            return new RedirectToPageResult("/Distrito", new { ascii = asciiname });
+            Distrito d = GetDistrito(ascii).Result;
+            if (String.IsNullOrEmpty(Request.Form["nome"])) return new RedirectToPageResult("/Distrito", new { ascii = d.ASCIIName });
+            string nome = Request.Form["nome"];
+            Cidade c = new Cidade(nome, new List<Atracao>(), new List<Restaurante>(), new List<Hotel>());
+            AddCidade(d,c);
+            return new RedirectToPageResult("/Distrito",new { ascii = d.ASCIIName });
         }
 
-        public async void DeleteCidade(Distrito d, string nome)
+        public async void AddCidade(Distrito d, Cidade c)
         {
-            d.Cidades.RemoveAll(c => c.Nome == nome);
+            d.Cidades.Add(c);
             HttpClient client = new HttpClient();
             StringContent content = new StringContent(JsonConvert.SerializeObject(d), Encoding.UTF8, "application/json");
-            HttpResponseMessage response = await client.PutAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/nome/" + d.ASCIIName, content);
+            HttpResponseMessage response = await client.PutAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/nome/"+d.ASCIIName, content);
         }
 
         public async Task<Distrito> GetDistrito(string ascii)
@@ -47,7 +49,6 @@ namespace PortourgalAdmin.Pages
             else return null;
         }
 
-        public Cidade Cidade { get; set; }
-        public Distrito Distrito { get; set; }
+        public string ASCII { get; set; }
     }
 }

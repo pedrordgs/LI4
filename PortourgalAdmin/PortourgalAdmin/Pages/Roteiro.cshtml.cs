@@ -17,6 +17,12 @@ namespace PortourgalAdmin.Pages
             Roteiro = GetRoteiro(ascii).Result;
         }
 
+        public IActionResult OnPostDelete(string ascii)
+        {
+            DeleteRoteiro(ascii);
+            return new RedirectToPageResult("/Roteiros");
+        }
+
         public async Task<Roteiro> GetRoteiro(string ascii)
         {
             HttpClient client = new HttpClient();
@@ -28,6 +34,12 @@ namespace PortourgalAdmin.Pages
                 return r;
             }
             else return null;
+        }
+
+        public async void DeleteRoteiro(string asciiname)
+        {
+            HttpClient client = new HttpClient();
+            HttpResponseMessage response = await client.DeleteAsync("https://portourgalapi2020.azurewebsites.net/api/roteiros/nome/" + asciiname).ConfigureAwait(false);
         }
 
         public Roteiro Roteiro { get; set; }

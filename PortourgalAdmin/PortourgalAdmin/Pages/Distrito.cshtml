@@ -28,6 +28,7 @@
             <li><a asp-page="/Cidade" asp-route-dascii="@Model.Distrito.ASCIIName" asp-route-nome="@cid.Nome">@cid.Nome</a></li>
         }
     </ul>
+    <p><a asp-page="/NovaCidade" asp-route-asciiname="@Model.Distrito.ASCIIName">Criar nova Cidade</a></p>
     <form method="POST">
         <button type="submit" asp-page-handler="Delete"
                 asp-route-asciiname="@Model.Distrito.ASCIIName">
