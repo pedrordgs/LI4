@@ -11,32 +11,37 @@ using PortourgalAdmin.Model;
 
 namespace PortourgalAdmin.Pages
 {
-    public class HotelModel : PageModel
+    public class NovoHotelModel : PageModel
     {
-        public void OnGet(string nome, string cid, string ascii)
+        public void OnGet(string dascii, string cid)
+        {
+            DASCII = dascii;
+            Cid = cid;
+        }
+
+        public ActionResult OnPost(string ascii, string cid)
+        {
+            if (String.IsNullOrEmpty(Request.Form["nome"]) || String.IsNullOrEmpty(Request.Form["morada"]) || String.IsNullOrEmpty(Request.Form["classificacao"]) || String.IsNullOrEmpty(Request.Form["imagem"]))
+                return new RedirectToPageResult("/Cidade", new { nome = cid, dascii = ascii });
+            string nome = Request.Form["nome"];
+            string morada = Request.Form["morada"];
+            double classificacao = double.Parse(Request.Form["classificacao"]);
+            string imagem = Request.Form["imagem"];
+            Hotel h = new Hotel(nome, morada, classificacao, imagem);
+            AddHotel(ascii, cid, h);
+            return new RedirectToPageResult("/Cidade", new { nome = cid, dascii = ascii });
+        }
+
+        public async void AddHotel(string ascii, string cid, Hotel h)
         {
             Distrito d = GetDistrito(ascii).Result;
-            Ascii = ascii;
-            Cid = cid;
-            Hotel = d.Cidades.FirstOrDefault(x => x.Nome == cid).Hoteis.FirstOrDefault(h => h.Nome == nome);
-        }
-
-        public IActionResult OnPostDelete(string asciiname, string cid, string nome)
-        {
-            Distrito d = GetDistrito(asciiname).Result;
-            DeleteHotel(d, cid, nome);
-            return new RedirectToPageResult("/Cidade", new { dascii = asciiname, nome = cid });
-        }
-
-        public async void DeleteHotel(Distrito d, string cid, string nome)
-        {
             Cidade c = d.Cidades.FirstOrDefault(x => x.Nome == cid);
-            c.Hoteis.RemoveAll(a => a.Nome == nome);
+            c.Hoteis.Add(h);
             d.Cidades.RemoveAll(x => x.Nome == cid);
             d.Cidades.Add(c);
             HttpClient client = new HttpClient();
             StringContent content = new StringContent(JsonConvert.SerializeObject(d), Encoding.UTF8, "application/json");
-            HttpResponseMessage response = await client.PutAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/nome/" + d.ASCIIName, content);
+            HttpResponseMessage response = await client.PutAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/nome/" + ascii, content);
         }
 
         public async Task<Distrito> GetDistrito(string ascii)
@@ -52,8 +57,7 @@ namespace PortourgalAdmin.Pages
             else return null;
         }
 
-        public Hotel Hotel { get; set; }
-        public string Ascii { get; set; }
+        public string DASCII { get; set; }
         public string Cid { get; set; }
     }
 }

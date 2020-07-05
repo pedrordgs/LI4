@@ -3,8 +3,17 @@
 @{
     ViewData["Title"] = "Home page";
 }
+@{
+    Layout = null;
+}
 
 <div class="text-center">
-    <h1 class="display-4">Home Page</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Portourgal</h1>
+    <form method="post">
+        <h6>Email</h6>
+        <input type="text" name="email">
+        <h6>Password</h6>
+        <input type="password" name="pwd">
+        <p><input type="submit"></p>
+    </form>
 </div>

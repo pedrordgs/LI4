@@ -1,0 +1,21 @@
+﻿@page
+@model PortourgalAdmin.Pages.NovaAtracaoModel
+@{
+    ViewData["Title"] = "Nova Atração";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Nova Atração</h1>
+</div>
+
+<form method="post">
+    <h6>Nome</h6>
+    <input type="text" name="nome">
+    <h6>Localidade</h6>
+    <input type="text" name="localidade">
+    <h6>História</h6>
+    <input type="text" name="historia">
+    <h6>Imagem</h6>
+    <input type="text" name="imagem">
+    <p><input asp-route-ascii="@Model.DASCII" asp-route-cid="@Model.Cid" type="submit"></p>
+</form>

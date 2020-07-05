@@ -23,6 +23,12 @@
         <p><h6>Classificação </h6>@Model.Hotel.Classificacao</p>
         <img class="perc" src=@Model.Hotel.Imagem>
     </div>
+    <form method="POST">
+        <button type="submit" asp-page-handler="Delete"
+                asp-route-asciiname="@Model.Ascii" asp-route-cid="@Model.Cid" asp-route-nome="@Model.Hotel.Nome">
+            Eliminar restaurante
+        </button>
+    </form>
 }
 else
 {

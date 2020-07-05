@@ -32,6 +32,12 @@
                 }
         </ul>
     </div>
+    <form method="POST">
+        <button type="submit" asp-page-handler="Delete"
+                asp-route-asciiname="@Model.Ascii" asp-route-cid="@Model.Cid" asp-route-nome="@Model.Atracao.Nome">
+            Eliminar Atração
+        </button>
+    </form>
 }
 else
 {
