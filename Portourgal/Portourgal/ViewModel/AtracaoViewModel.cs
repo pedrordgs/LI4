@@ -41,6 +41,7 @@ namespace Portourgal.ViewModel
                 }
             }
             Nome = Atracao.Nome;
+            Pontos = d.Pontos;
             Localidade = Atracao.Localidade;
             Historia = Atracao.Historia;
             Imagem = Atracao.Imagem;
@@ -158,7 +159,7 @@ namespace Portourgal.ViewModel
             Publicacao p = new Publicacao(distrito, atracao, imagem);
             if (UserInteraction.user.Historico.Where(x => string.Equals(x.Distrito, distrito) && string.Equals(x.Atracao, atracao) && string.Equals(x.Imagem, imagem)).ToList().Count > 0) return;
             UserInteraction.user.Historico.Insert(0, p);
-            UserInteraction.user.Pontos++;
+            UserInteraction.user.Pontos += Pontos;
             UserInteraction.updateUser();
         }
 
@@ -167,7 +168,7 @@ namespace Portourgal.ViewModel
             Publicacao p = new Publicacao(distrito, atracao, imagem);
             if (!(UserInteraction.user.Historico.Where(x => string.Equals(x.Distrito, distrito) && string.Equals(x.Atracao, atracao) && string.Equals(x.Imagem, imagem)).ToList().Count > 0)) return;
             UserInteraction.user.Historico.RemoveAll(x => string.Equals(x.Distrito, distrito) && string.Equals(x.Atracao, atracao) && string.Equals(x.Imagem, imagem));
-            UserInteraction.user.Pontos--;
+            UserInteraction.user.Pontos -= Pontos;
             UserInteraction.updateUser();
         }
 
@@ -184,6 +185,7 @@ namespace Portourgal.ViewModel
         public string Imagem { get; set; }
         public string Distrito { get; set; }
         public string DistritoASCII { get; set; }
+        public int Pontos { get; set; }
         public List<Estrela> estrelas { get; set; }
         public List<Estrela> Estrelas
         {

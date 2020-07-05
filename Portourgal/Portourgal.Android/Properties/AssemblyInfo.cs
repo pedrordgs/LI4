@@ -15,7 +15,11 @@ using Android.App;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
-[assembly: Application(Icon = "@drawable/appicon")]
+#if DEBUG
+[assembly: Application(Debuggable = true, Icon = "@mipmap/icon")]
+#else
+[assembly: Application(Debuggable=false, Icon = "@mipmap/icon")]
+#endif
 
 // Version information for an assembly consists of the following four values:
 //
