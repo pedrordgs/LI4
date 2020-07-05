@@ -87,9 +87,9 @@ namespace Portourgal.ViewModel
             {
                 String json = response.Content.ReadAsStringAsync().Result;
                 dynamic data = JObject.Parse(json);
-                WeatherDesc = Convert.ToString(data["weather"][0]["description"]);
-                WeatherIcon = "http://openweathermap.org/img/wn/" + Convert.ToString(data["weather"][0]["icon"]) + ".png";
-                Temp = Convert.ToString(data["main"]["temp"]) + " °C";
+                WeatherDesc = (data["weather"][0]["description"]).ToString();
+                WeatherIcon = "http://openweathermap.org/img/wn/" + (data["weather"][0]["icon"]).ToString() + ".png";
+                Temp = (data["main"]["temp"]).ToString() + " °C";
             }
         }
 

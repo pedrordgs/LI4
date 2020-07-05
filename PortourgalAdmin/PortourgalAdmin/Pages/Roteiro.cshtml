@@ -26,9 +26,22 @@
     <p><h6>ASCII </h6>@Model.Roteiro.ASCII</p>
     <p><h6>Descrição </h6>@Model.Roteiro.Descricao</p>
     <p><h6>Distância: </h6>@Model.Roteiro.Dist km</p>
-    <img class="perc" src=@Model.Roteiro.ImagemPercurso/>
-    <img class="perc2" src=@Model.Roteiro.ImagemRoteiro/>
+    <h6>Percurso: </h6>
+    <ul>
+        @foreach (var cid in Model.Roteiro.Percurso)
+        {
+            <li>@cid</li>
+        }
+    </ul>
+    <img class="perc" src=@Model.Roteiro.ImagemPercurso />
+    <img class="perc2" src=@Model.Roteiro.ImagemRoteiro />
 </div>
+<form method="POST">
+    <button type="submit" asp-page-handler="Delete"
+            asp-route-ascii="@Model.Roteiro.ASCII">
+        Eliminar Roteiro
+    </button>
+</form>
 }
 else
 {

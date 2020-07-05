@@ -34,6 +34,12 @@
             }
         </ul>
     </div>
+    <form method="POST">
+        <button type="submit" asp-page-handler="Delete"
+                asp-route-asciiname="@Model.Distrito.ASCIIName" asp-route-nome="@Model.Cidade.Nome">
+            Eliminar Cidade
+        </button>
+    </form>
 }
 else
 {
