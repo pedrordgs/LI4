@@ -1,0 +1,52 @@
+A nossa RestAPI oferece os seguintes endpoints:
+
+\begin{itemize}
+    \item /api
+    \begin{itemize}
+        \item /distritos
+        \begin{itemize}
+            \item /nome
+                \begin{itemize}
+                    \item \textbf{GET} /:nomeASCII $\rightarrow$ Devolve o distrito com nomeASCII (representa o nome sem quaisquer caracter especial);
+                    \item \textbf{PUT} /:nomeASCII $\rightarrow$ Atualiza o distrito com nomeASCII. Necessita dos dados do novo distrito;
+                    \item \textbf{DELETE} /:nomeASCII $\rightarrow$ Elimina o distrito com nomeASCII.
+                \end{itemize}
+            \item \textbf{GET} / $\rightarrow$ Devolve todos os distritos presentes na base de dados;
+            \item \textbf{GET} /:id $\rightarrow$ Devolve o distrito com id enviado como parametro;
+            \item \textbf{POST} / $\rightarrow$ Insere um distrito na base de dados;
+            \item \textbf{PUT} /:id $\rightarrow$ Atualiza um distrito consoante o seu id;
+            \item \textbf{DELETE} / $\rightarrow$ Elimina um distrito da base de dados. Necessita dos dados do distrito a eliminar;
+            \item \textbf{DELETE} /:id $\rightarrow$ Elimina um distrito da base de dados consoante o seu id.
+        \end{itemize}
+        \item /users
+        \begin{itemize}
+            \item /email
+                \begin{itemize}
+                    \item \textbf{GET} /:email $\rightarrow$ Devolve o utilizador com email enviado como parametro;
+                    \item \textbf{PUT} /:email $\rightarrow$ Atualiza o utilizador consoante o seu email;
+                    \item \textbf{DELETE} /:email $\rightarrow$ Elimina o utilizador consoante o seu email.
+                \end{itemize}
+            \item \textbf{GET} / $\rightarrow$ Devolve todos os utilizadores presentes na base de dados;
+            \item \textbf{GET} /:id $\rightarrow$ Devolve o utilizador consoante o seu id;
+            \item \textbf{POST} / $\rightarrow$ Insere um utilizador na base de dados;
+            \item \textbf{PUT} /:id $\rightarrow$ Atualiza um utilizador consoante o seu id;
+            \item \textbf{DELETE} / $\rightarrow$ Elimina um utilizador da base de dados;
+            \item \textbf{DELETE} /:id $\rightarrow$ Elimina o utilizador da base de dados consoante o seu id.
+        \end{itemize}
+        \item /roteiros
+        \begin{itemize}
+            \item /nome
+                \begin{itemize}
+                    \item \textbf{GET} /:nomeASCII $\rightarrow$ Devolve o roteiro consoante o seu nomeASCII;
+                    \item \textbf{PUT} /:nomeASCII $\rightarrow$ Atualiza o roteiro consoante o seu nomeASCII;
+                    \item \textbf{DELETE} /:nomeASCII $\rightarrow$ Elimina o roteiro consoante o seu nomeASCII.
+                \end{itemize}
+            \item \textbf{GET} / $\rightarrow$ Devolve todos os roteiros presentes na base de dados;
+            \item \textbf{GET} /:id $\rightarrow$ Devolve um roteiro consoante o id do mesmo;
+            \item \textbf{POST} / $\rightarrow$ Insere um roteiro na base de dados;
+            \item \textbf{PUT} /:id $\rightarrow$ Atualiza um roteiro consoante o seu id;
+            \item \textbf{DELETE} / $\rightarrow$ Elimina um roteiro da base de dados;
+            \item \textbf{DELETE} /:id $\rightarrow$ Elimina um roteiro consoante o seu id.
+        \end{itemize}
+    \end{itemize}
+\end{itemize}

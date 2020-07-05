@@ -1,0 +1,7 @@
+Para isso foi utilizada uma hash, que, antes de enviar um HTTP POST request para criar o utilizador, é aplicada essa hash à password do cliente.
+
+Posto isto, o campo \texttt{Password} no cliente, leva já a password escondida por uma hash, aumento assim a segurança no enviado da password para a API. No final, é guardada a password escondida na base de dados.
+
+Quando o utilizador pretende autenticar-se, a aplicação envia um HTTP GET request para a API a pedir as informações do utilizador com o email indicado pelo cliente, aplica a função de hash à password enviada pelo cliente e compara com o campo \texttt{Password} guardado na base de dados, caso sejam iguais, o cliente fica autenticado.
+
+Este mecanismo aumenta a segurança porque, tal como indicado anteriormente, não há qualquer envio de dados em que o campo \texttt{Password} esteja em \textit{plain text}. É importante também reforçar que estas funções de hash não contêm inversa, logo são irreversíveis, sendo impossível obter a password a partir da hash da mesma.

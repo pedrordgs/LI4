@@ -1,0 +1,39 @@
+\textbf{Descrição:} Consiste no ato de editar credenciais de um User.
+
+\textbf{Pré-condição:} O utilizador está autenticado.
+
+\textbf{Pós-condição:} O utilizador tem lhe associado novas credenciais.
+
+\textbf{Fluxo Normal:}
+
+1. Utilizador escolhe editar o perfil.
+
+2. Utilizador insere novas credenciais que pretende mudar.
+
+3. Sistema verifica se User mudou email.
+
+4. Sistema verifica se já existe email.
+
+5. Sistema atualiza com as novas credenciais.
+
+
+\textbf{Fluxo Alternativo: [Email já existe]} (passo 4)
+
+4.1 Sistema informa que já existe o email inserido.
+
+4.2 Volta passo 2.
+
+
+\subsection{Visualizar Rota}
+
+\textbf{Descrição:} Consiste no ato do User visualizar uma Rota do Sistema.
+
+\textbf{Pré-condição:} O utilizador está autenticado.
+
+\textbf{Pós-condição:} Sistema mostra rota procurada. 
+
+\textbf{Fluxo Normal:}
+
+1. Utilizador procura Rota que pretende visualizar.
+
+2. Sistema mostra Rota.

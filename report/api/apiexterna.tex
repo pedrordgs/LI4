@@ -1,0 +1,10 @@
+Tal como previsto na idealização do projeto, foi utilizada uma API externa que fornece dados sobre a meteorologia em tempo real. Esta API foi utilizada para apresentar ao cliente o estado do tempo, bem como a temperatura, nas atrações de um determinado distrito.
+
+A API escolhida foi \textbf{Open Weather Map API}, que mantém a sua documentação em \url{http://openweathermap.org/current}.
+
+Na aplicação desenvolvida fora utilizada duas chamada à API externa:
+
+\begin{enumerate}
+    \item \textbf{weather?q=[Distrito],PT\&lang=pt\&units=metric\&appid=[API Key]} - Retorna todo o tipo de informações acerca da meteorologia no local. Os campos utilizados foram a decrição, a temperatura, e o código do icon;
+    \item \textbf{/img/wn/[Código Icon].png} - Devolve a imagem representativa do código de icon devolvido pela chamada anterior.
+\end{enumerate}

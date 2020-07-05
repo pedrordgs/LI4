@@ -1,0 +1,37 @@
+\begin{itemize}
+    \item \texttt{string Nome} $\rightarrow$ Identifica o distrito pelo seu nome próprio, é necessário para apresentar o distrito na aplicação;
+    \item \texttt{string ASCIIName} $\rightarrow$ Corresponde ao nome do distrito sem quaisquer caracter especial, tais como espaços, acentos e "ç". Importante para ser possível fazer chamadas à API devido aos pedidos HTTP;
+    \item \texttt{int Pontos} $\rightarrow$ Número de pontos que o utilizador obtém sempre que visitar uma atração deste distrito;
+    \item \texttt{string História} $\rightarrow$ Uma breve descrição sobre o distrito em si;
+    \item \texttt{Lista de Cidades} $\rightarrow$ Lista com todas as cidades deste distrito. Estas cidades são objetos que guardam informações sobre as mesmas:
+    \begin{itemize}
+        \item \texttt{string Nome} $\rightarrow$ Identifica a cidade pelo seu nome próprio;
+        \item \texttt{Lista de Atrações} $\rightarrow$ Indica todas as atrações da cidade:
+        \begin{itemize}
+            \item \texttt{string Nome} $\rightarrow$ Identifica a atração pelo seu nome próprio;
+            \item \texttt{string Localidade} $\rightarrow$ Indica a local onde a atração está presente;
+            \item \texttt{string História} $\rightarrow$ Breve descrição do local;
+            \item \texttt{string Imagem} $\rightarrow$ URL representativo da imagem;
+            \item \texttt{Lista Classificações} $\rightarrow$ Lista com todas as classificações feitas a esta atração:
+            \begin{itemize}
+            \item \texttt{string Email} $\rightarrow$ Email do utilizador que realizou a classificação;
+            \item \texttt{string Classificação} $\rightarrow$ Número representativo da classificação feita pelo utilizador.
+        \end{itemize}
+        \end{itemize}
+        \item \texttt{Lista de Restaurantes} $\rightarrow$ Indica todas os restaurantes da cidade:
+        \begin{itemize}
+            \item \texttt{string Nome} $\rightarrow$ Identifica o restaurante pelo seu nome próprio;
+            \item \texttt{string Morada} $\rightarrow$ Tal como o nome indica, representa a morada do mesmo;
+            \item \texttt{double Classificação} $\rightarrow$ Classificação do restaurante;
+            \item \texttt{string Imagem} $\rightarrow$ URL representativo da imagem do restaurante.
+        \end{itemize}
+        \item \texttt{Lista de Hotéis} $\rightarrow$ Indica todas as hotéis da cidade:
+        \begin{itemize}
+            \item \texttt{string Nome} $\rightarrow$ Identifica o hotel pelo seu nome próprio;
+            \item \texttt{string Morada} $\rightarrow$ Tal como o nome indica, representa a morada do mesmo;
+            \item \texttt{int Classificação} $\rightarrow$ Classificação do restaurante;
+            \item \texttt{string Imagem} $\rightarrow$ URL representativo da imagem do restaurante.
+        \end{itemize}
+    \end{itemize}
+    \item \texttt{string Imagem} $\rightarrow$ URL da imagem para ser apresentada mais tarde
+\end{itemize}

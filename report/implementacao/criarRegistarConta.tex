@@ -1,0 +1,33 @@
+\textbf{Descrição:}  Consiste no ato de criar conta, em que o utilizador insere os seus dados para criar a conta associada a ele.
+
+\textbf{Pré-condição:} A aplicação está a funcionar.
+
+\textbf{Pós-condição:} O Sistema regista o novo User.
+
+
+\textbf{Fluxo Normal:}
+
+1. Utilizador insere as suas credencias.
+
+2. Sistema verifica se os campos estão vazios.
+
+3. Sistema verifica se já existe email.
+
+4. Sistema atualiza e regista novo utilizador.
+
+\textbf{Fluxo Alternativo: [Campos vazios]} (passo 2)
+
+2.1 Sistema informa que os campos estão vazios.
+
+2.2 Utilizador insere dados nos campos vazios.
+
+2.3 Volta passo 2.
+
+
+\textbf{Fluxo Alternativo: [Email já existe]} (passo 3)
+
+3.1 Sistema informa que já existe o email inserido.
+
+3.2 Utilizador insere novo email.
+
+3.3 Volta passo 3.
