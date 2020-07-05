@@ -6,8 +6,12 @@
 
     <style>
         img.perc {
-            height: 50%;
-            width: 50%;
+            height: 30%;
+            width: 30%;
+        }
+        img.perc2 {
+            height: 30%;
+            width: 30%;
         }
     </style>
 
@@ -15,11 +19,20 @@
     <h1 class="display-4">Roteiro</h1>
 </div>
 
+@if (Model.Roteiro != null)
+{
 <div>
     <p><h6>Nome </h6>@Model.Roteiro.Nome</p>
     <p><h6>ASCII </h6>@Model.Roteiro.ASCII</p>
     <p><h6>Descrição </h6>@Model.Roteiro.Descricao</p>
     <p><h6>Distância: </h6>@Model.Roteiro.Dist km</p>
     <img class="perc" src=@Model.Roteiro.ImagemPercurso/>
-    <img class="perc" src=@Model.Roteiro.ImagemRoteiro/>
+    <img class="perc2" src=@Model.Roteiro.ImagemRoteiro/>
 </div>
+}
+else
+{
+<div class="text-center">
+    <h1 class="display-4">Erro Inesperado</h1>
+</div>
+}

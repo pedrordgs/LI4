@@ -4,35 +4,45 @@
     ViewData["Title"] = "Utilizador";
 }
 
-    <style>
-        img.perc {
-            height: 20%;
-            width: 20%;
-        }
-    </style>
+<style>
+    img.perc {
+        height: 20%;
+        width: 20%;
+    }
+</style>
 
 <div class="text-center">
     <h1 class="display-4">Utilizador</h1>
 </div>
 
-<div>
-    <p><h6>Nome </h6>@Model.Utilizador.Nome</p>
-    <p><h6>Email </h6>@Model.Utilizador.Email</p>
-    <img class="perc" src="data:image/jpeg;base64,@Model.Utilizador.Imagem" />
-    <p><h6>Distrito </h6>@Model.Utilizador.Distrito</p>
-    <p><h6>Cidade </h6>@Model.Utilizador.Cidade</p>
-    <p><h6>Pontos </h6>@Model.Utilizador.Pontos</p>
-    <p><h6>Histórico </h6></p>
-    <ul>
-        @foreach (var pub in Model.Utilizador.Historico)
-        {
-            <li>@pub.Atracao, @pub.Distrito</li>
-        }
-    </ul>
-    <form method="POST">
-        <button type="submit" asp-page-handler="Delete"
-                asp-route-email="@Model.Utilizador.Email">
-            Eliminar Utilizador
-        </button>
-    </form>
-</div>
+
+@if (Model.Utilizador != null)
+{
+    <div>
+        <p><h6>Nome </h6>@Model.Utilizador.Nome</p>
+        <p><h6>Email </h6>@Model.Utilizador.Email</p>
+        <img class="perc" src="data:image/jpeg;base64,@Model.Utilizador.Imagem" />
+        <p><h6>Distrito </h6>@Model.Utilizador.Distrito</p>
+        <p><h6>Cidade </h6>@Model.Utilizador.Cidade</p>
+        <p><h6>Pontos </h6>@Model.Utilizador.Pontos</p>
+        <p><h6>Histórico </h6></p>
+        <ul>
+            @foreach (var pub in Model.Utilizador.Historico)
+            {
+                <li>@pub.Atracao, @pub.Distrito</li>
+            }
+        </ul>
+        <form method="POST">
+            <button type="submit" asp-page-handler="Delete"
+                    asp-route-email="@Model.Utilizador.Email">
+                Eliminar Utilizador
+            </button>
+        </form>
+    </div>
+}
+else
+{
+    <div class="text-center">
+        <h1 class="display-4">Erro Inesperado</h1>
+    </div>
+}
