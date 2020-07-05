@@ -26,6 +26,7 @@ namespace Portourgal.Model
 
         public string Nome { get; set; }
         public string ASCIIName { get; set; }
+        public int Pontos { get; set; }
         public string Historia { get; set; }
         public List<Cidade> Cidades { get; set; }
         public string Imagem { get; set; }
