@@ -114,7 +114,7 @@ namespace PortourgalAPI.Controllers
         [HttpDelete("nome/{Nome}")]
         public IActionResult DeleteByNome(string nome)
         {
-            var distrito = _distritoService.Get(nome);
+            var distrito = _distritoService.GetByNome(nome);
 
             if (distrito == null)
             {

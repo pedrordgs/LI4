@@ -17,6 +17,12 @@ namespace PortourgalAdmin.Pages
             Distrito = GetDistrito(ascii).Result;
         }
 
+        public IActionResult OnPostDelete(string asciiname)
+        {
+            DeleteDistrito(asciiname);
+            return new RedirectToPageResult("/Distritos");
+        }
+
         public async Task<Distrito> GetDistrito(string ascii)
         {
             HttpClient client = new HttpClient();
@@ -28,6 +34,11 @@ namespace PortourgalAdmin.Pages
                 return d;
             }
             else return null;
+        }
+        public async void DeleteDistrito(string asciiname)
+        {
+            HttpClient client = new HttpClient();
+            HttpResponseMessage response = await client.DeleteAsync("https://portourgalapi2020.azurewebsites.net/api/distritos/nome/" + asciiname).ConfigureAwait(false);
         }
 
         public Distrito Distrito { get; set; }

@@ -1,0 +1,23 @@
+﻿@page
+@model PortourgalAdmin.Pages.NovoDistritoModel
+@{
+    ViewData["Title"] = "Novo Distrito";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Novo Distrito</h1>
+</div>
+
+<form method="post">
+    <h6>Nome</h6>
+    <input type="text" name="nome">
+    <h6>ASCII</h6>
+    <input type="text" name="asciiname">
+    <h6>Pontos</h6>
+    <input type="number" name="pontos">
+    <h6>História</h6>
+    <input type="text" name="historia">
+    <h6>Imagem</h6>
+    <input type="text" name="imagem">
+    <p><input type="submit"></p>
+</form>

@@ -3,19 +3,22 @@
 @{
     ViewData["Title"] = "Distrito";
 }
-    <style>
-        img.perc {
-            height: 50%;
-            width: 50%;
-        }
-    </style>
+<style>
+    img.perc {
+        height: 50%;
+        width: 50%;
+    }
+</style>
 <div class="text-center">
     <h1 class="display-4">Distrito</h1>
 </div>
 
+@if (Model.Distrito != null)
+{
 <div>
     <p><h6>Nome </h6>@Model.Distrito.Nome</p>
     <p><h6>ASCII </h6>@Model.Distrito.ASCIIName</p>
+    <p><h6>Pontos </h6>@Model.Distrito.Pontos</p>
     <p><h6>História </h6>@Model.Distrito.Historia</p>
     <img class="perc" src=@Model.Distrito.Imagem />
     <p><h6>Cidades </h6></p>
@@ -25,4 +28,17 @@
             <li><a asp-page="/Cidade" asp-route-dascii="@Model.Distrito.ASCIIName" asp-route-nome="@cid.Nome">@cid.Nome</a></li>
         }
     </ul>
+    <form method="POST">
+        <button type="submit" asp-page-handler="Delete"
+                asp-route-asciiname="@Model.Distrito.ASCIIName">
+            Eliminar Distrito
+        </button>
+    </form>
 </div>
+}
+else
+{
+    <div class="text-center">
+        <h1 class="display-4">Erro Inesperado</h1>
+    </div>
+}

@@ -11,6 +11,6 @@
 <ul>
     @foreach (var item in Model.Roteiros)
     {
-        <li><a asp-page="/Roteiro" asp-route-ascii="@item.Nome">@item.Nome</a></li>
+        <li><a asp-page="/Roteiro" asp-route-ascii="@item.ASCII">@item.Nome</a></li>
     }
 </ul>
