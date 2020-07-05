@@ -1,0 +1,21 @@
+﻿@page
+@model PortourgalAdmin.Pages.NovoRestauranteModel
+@{
+    ViewData["Title"] = "Novo Restaurante";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Nova Restaurante</h1>
+</div>
+
+<form method="post">
+    <h6>Nome</h6>
+    <input type="text" name="nome">
+    <h6>Morada</h6>
+    <input type="text" name="morada">
+    <h6>Classificação</h6>
+    <input type="number" name="classificacao">
+    <h6>Imagem</h6>
+    <input type="text" name="imagem">
+    <p><input asp-route-ascii="@Model.DASCII" asp-route-cid="@Model.Cid" type="submit"></p>
+</form>
